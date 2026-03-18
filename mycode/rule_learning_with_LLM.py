@@ -5,6 +5,7 @@ import numpy as np
 from collections import Counter
 
 
+
 class Rule_Learner(object):
     def __init__(self, edges, id2relation, inv_relation_id, dataset):
         """
