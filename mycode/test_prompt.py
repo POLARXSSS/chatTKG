@@ -5,7 +5,9 @@ import re
 from tqdm import tqdm
 from functools import partial
 import random
+from llms import llm_client
 
+RDict_PATH = "data/icews14/relation2id.json"
 
 # 模拟缺失的依赖模块（避免运行报错）
 class Dataset:
@@ -15,26 +17,37 @@ class Dataset:
     def get_relation_dict(self):
         # 模拟返回关系字典（从TXT中提取的关系名）
         class RDict:
-            def __init__(self):
-                self.rel2idx = {
-                    "Abduct,_hijack,_or_take_hostage": 0,
-                    "Use_unconventional_violence": 1,
-                    "_Physically_assault": 2,
-                    "Accuse": 3,
-                    "_Accuse": 4,
-                    "Make_statement": 5,
-                    "Conduct_suicide,_car,_or_other_non-military_bombing": 6,
-                    "Criticize_or_denounce": 7,
-                    "Use_conventional_military_force": 8,
-                    "_Make_an_appeal_or_request": 9,
-                    "Make_optimistic_comment": 10,
-                    "_Receive_deployment_of_peacekeepers": 11,
-                    "_Provide_military_protection_or_peacekeeping": 12,
-                    "_Return,_release_person(s)": 13,
-                    "Return,_release_person(s)": 14,
-                    "Engage_in_symbolic_act": 15,
-                    "Express_intent_to_cooperate": 16
-                }
+            # def __init__(self):
+            #     self.rel2idx = {
+            #         "Abduct,_hijack,_or_take_hostage": 0,
+            #         "Use_unconventional_violence": 1,
+            #         "_Physically_assault": 2,
+            #         "Accuse": 3,
+            #         "_Accuse": 4,
+            #         "Make_statement": 5,
+            #         "Conduct_suicide,_car,_or_other_non-military_bombing": 6,
+            #         "Criticize_or_denounce": 7,
+            #         "Use_conventional_military_force": 8,
+            #         "_Make_an_appeal_or_request": 9,
+            #         "Make_optimistic_comment": 10,
+            #         "_Receive_deployment_of_peacekeepers": 11,
+            #         "_Provide_military_protection_or_peacekeeping": 12,
+            #         "_Return,_release_person(s)": 13,
+            #         "Return,_release_person(s)": 14,
+            #         "Engage_in_symbolic_act": 15,
+            #         "Express_intent_to_cooperate": 16
+            #     }
+            def __init__(self, json_path=RDict_PATH):
+                # 核心逻辑：打开并加载 json 文件
+                try:
+                    with open(json_path, 'r', encoding='utf-8') as f:
+                        self.rel2idx = json.load(f)
+                except FileNotFoundError:
+                    print(f"错误：未找到文件 {json_path}")
+                    self.rel2idx = {}
+                except json.JSONDecodeError:
+                    print(f"错误：{json_path} 文件格式非有效 JSON")
+                    self.rel2idx = {}
 
         return RDict()
 
@@ -140,41 +153,49 @@ def print_prompt(prompt, head, sample_idx):
     print(prompt)
     print("\n\n")
 
-
 def generate_rule(row, candidate_rels, rule_path, model, args):
     head = row["head"]
     paths = row["paths"]
     print(f"Processing head relation: {head} (共{len(paths)}条规则)")
 
-    # Raise an error if k=0 for zero-shot setting
-    if args.k == 0 and args.is_zero:
-        raise NotImplementedError(
-            f"""Cannot implement for zero-shot(f=0) and generate zero(k=0) rules."""
-        )
+    # 当 k=0 时跳过生成，直接输出信息并返回
+    if args.k == 0:
+        print(f"参数 k=0，跳过关系 {head} 的规则生成阶段。")
+        return
+
     # Build prompt excluding rules
-    instruction, context, predict = build_prompt(
-        head, candidate_rels, args.is_zero, args.k
-    )
+    if len(paths) >= 50:
+        instruction, context, predict = build_prompt(
+            head, candidate_rels, args.is_zero, args.k
+        )
+    else:
+        instruction, context, predict = build_prompt(
+            head, candidate_rels, args.is_zero, 0
+        )
     current_prompt = instruction + context + predict
 
     if args.is_zero:  # For zero-shot setting
-        print_prompt(current_prompt, head, "zero-shot")
+        final_prompt = current_prompt
+        print_prompt(final_prompt, head, "zero-shot")
+
     else:  # For few-shot setting
         path_content_list = modify_path_format(paths, head)
         file_name = head.replace("/", "-")
 
-        for i in range(args.l):
-            # 随机采样f个少样本示例
-            few_shot_samples = random.sample(
-                path_content_list, min(args.f, len(path_content_list))
-            )
-            # 检查提示词长度
-            few_shot_paths = check_prompt_length(
-                instruction + context + predict, few_shot_samples, model
-            )
+        few_shot_paths = check_prompt_length(
+            instruction + context + predict, path_content_list
+        )
 
-            prompt = instruction + context + few_shot_paths + predict  # Prompt
-            print_prompt(prompt, head, i + 1)
+        final_prompt = instruction + context + few_shot_paths + predict  # Prompt
+        print_prompt(final_prompt, head, "all-data")
+
+    rules = llm_client.generate_sentens(final_prompt)
+    with open(os.path.join(rule_path, f"{head}.txt"), "w", encoding="utf-8") as f:
+        f.write(rules + "\n")
+        f.close()
+
+
+
 
 
 def main(args, LLM):
@@ -183,7 +204,7 @@ def main(args, LLM):
     sampled_path_dir = os.path.join(args.sampled_paths, args.dataset)
 
     # 加载TXT格式的规则文件（核心修改：读取txt而非jsonl）
-    sampled_path_file = os.path.join(sampled_path_dir, "120326150307_r[1,2,3]_n200_exp_s12_rules.txt")  # 改为你的TXT文件名
+    sampled_path_file = os.path.join(sampled_path_dir, "180326191704_r[1,2,3]_n200_exp_s8_rules.txt")  # 改为你的TXT文件名
     sampled_path = read_paths(sampled_path_file)
 
     # 获取数据集所有关系
@@ -204,14 +225,19 @@ def main(args, LLM):
     print("Prepare to print prompt content...")
 
     # 处理每条规则头
+    prompts = []
     for row in tqdm(sampled_path, total=len(sampled_path)):
-        generate_rule(
+        prompt = generate_rule(
             row,
             candidate_rels=candidate_rels,
             rule_path=rule_path,
             model=model,
             args=args,
         )
+        prompts.append(prompt)
+
+
+
 
 
 if __name__ == "__main__":
@@ -222,7 +248,7 @@ if __name__ == "__main__":
     parser.add_argument("--rule_path", type=str, default="gen_rules", help="path to rule file")
     parser.add_argument("--model_name", type=str, default="gpt-3.5-turbo", help="model name")
     parser.add_argument("--is_zero", action="store_true", help="Enable zero-shot mode")
-    parser.add_argument("-k", type=int, default=5, help="Number of generated rules")
+    parser.add_argument("-k", type=int, default=50, help="Number of generated rules")
     parser.add_argument("-f", type=int, default=3, help="Few-shot sample number")
     parser.add_argument("-n", type=int, default=5, help="multi thread number")
     parser.add_argument("-l", type=int, default=2, help="sample times")
