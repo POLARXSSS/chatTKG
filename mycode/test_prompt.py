@@ -221,8 +221,9 @@ def main(args, LLM):
     if not os.path.exists(rule_path):
         os.makedirs(rule_path)
 
-    model = None
+    model = LLM(args)
     print("Prepare to print prompt content...")
+    model.
 
     # 处理每条规则头
     prompts = []

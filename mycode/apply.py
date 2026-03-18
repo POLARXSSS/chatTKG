@@ -19,13 +19,20 @@ print(f"JOBLIB_TEMP_FOLDER = {os.environ.get('JOBLIB_TEMP_FOLDER', 'NOT SET')}")
 print(f"TEMP = {os.environ.get('TEMP')}")
 print(f"TMP = {os.environ.get('TMP')}")
 parser = argparse.ArgumentParser()
-parser.add_argument("--dataset", "-d", default="", type=str)
-parser.add_argument("--test_data", default="test", type=str)
-parser.add_argument("--rules", "-r", default="", type=str)
-parser.add_argument("--rule_lengths", "-l", default=1, type=int, nargs="+")
-parser.add_argument("--window", "-w", default=-1, type=int)
-parser.add_argument("--top_k", default=20, type=int)
-parser.add_argument("--num_processes", "-p", default=1, type=int)
+parser.add_argument("--dataset", "-d", default="", type=str,
+                    help="数据集名称，用于定位数据文件路径")
+parser.add_argument("--test_data", default="test", type=str,
+                    help="使用的数据类型，可选test/valid，对应测试集/验证集")
+parser.add_argument("--rules", "-r", default="", type=str,
+                    help="预训练规则文件的路径/名称")
+parser.add_argument("--rule_lengths", "-l", default=1, type=int, nargs="+",
+                    help="规则长度过滤条件，可以传入多个值，如 -l 2 3")
+parser.add_argument("--window", "-w", default=-1, type=int,
+                    help="时间窗口大小，-1表示使用全部历史数据")
+parser.add_argument("--top_k", default=20, type=int,
+                    help="每个查询返回的候选答案数量上限")
+parser.add_argument("--num_processes", "-p", default=1, type=int,
+                    help="并行处理的进程数")
 parsed = vars(parser.parse_args())
 
 dataset = parsed["dataset"]
@@ -34,39 +41,54 @@ window = parsed["window"]
 top_k = parsed["top_k"]
 num_processes = parsed["num_processes"]
 rule_lengths = parsed["rule_lengths"]
+# 确保rule_lengths始终是列表类型（处理单个整数输入的情况）
 rule_lengths = [rule_lengths] if (type(rule_lengths) == int) else rule_lengths
 
 dataset_dir = "../data/" + dataset + "/"
 dir_path = "../output/" + dataset + "/"
 data = Grapher(dataset_dir)
+# 选择测试集或验证集作为待处理的查询数据
 test_data = data.test_idx if (parsed["test_data"] == "test") else data.valid_idx
+# 从JSON文件加载预学习的规则字典
 rules_dict = json.load(open(dir_path + rules_file))
+# 将规则字典的键转换为整数类型（JSON读取的键默认是字符串）
 rules_dict = {int(k): v for k, v in rules_dict.items()}
 print("Rules statistics:")
+# ===================== 规则预处理 =====================
+# 打印原始规则的统计信息（数量、长度分布等）
 rules_statistics(rules_dict)
+# 规则剪枝：过滤掉置信度低、支持度不足、长度不符合要求的规则
 rules_dict = ra.filter_rules(
     rules_dict, min_conf=0.01, min_body_supp=2, rule_lengths=rule_lengths
 )
 print("Rules statistics after pruning:")
 rules_statistics(rules_dict)
+# 从训练数据中提取并存储边信息，用于后续规则匹配
 learn_edges = store_edges(data.train_idx)
+
+# ===================== 评分函数和参数配置 =====================
+# 选择评分函数（score_12为自定义的评分算法
 
 score_func = score_12
 # It is possible to specify a list of list of arguments for tuning
+# 评分函数的超参数列表（用于调优，这里是示例值）
+# 格式为列表的列表，支持多组参数并行测试
 args = [[0.1, 0.5]]
 
 
 def apply_rules(i, num_queries):
     """
-    Apply rules (multiprocessing possible).
+    对指定批次的测试查询应用规则，生成候选答案（支持多进程并行）
 
     Parameters:
-        i (int): process number
-        num_queries (int): minimum number of queries for each process
+        i (int): 当前进程编号，用于分配数据批次
+        num_queries (int): 每个进程处理的查询数量（基准值）
 
     Returns:
-        all_candidates (list): answer candidates with corresponding confidence scores
-        no_cands_counter (int): number of queries with no answer candidates
+        all_candidates (list): 每个查询的候选答案字典列表（对应不同参数组合）
+                              结构: [参数组合1的候选字典, 参数组合2的候选字典, ...]
+                              候选字典结构: {查询索引: {候选答案: 分数, ...}, ...}
+        no_cands_counter (int): 没有找到候选答案的查询数量
     """
 
     print("Start process", i, "...")
