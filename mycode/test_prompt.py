@@ -68,19 +68,23 @@ def check_prompt_length(base_prompt, samples):
     return "\n".join(samples)
 
 
+# 做sample，对于数据量>10的,依照置信度sample一半，向上取整
 def read_paths(path):
     """
-    读取TXT格式的规则文件，提取规则头和规则体
+    读取TXT格式的规则文件，提取规则头和规则体，并按置信度抽样
     输入：TXT文件路径
     输出：[{"head": 规则头关系名, "paths": [规则字符串1, 规则字符串2...]}]
+    抽样规则：
+    - 数据量>10的组：按置信度加权抽样，数量为一半（向上取整），置信度越高被抽中概率越大
+    - 数据量<=10的组：不抽样，保留全部
     """
     results = []
-    # 用于存储提取的规则（按规则头分组）
+    # 用于存储提取的规则（按规则头分组），每个元素是 {"confidence": 置信度, "rule": 规则字符串}
     rule_dict = {}
 
-    # 正则表达式：匹配 "规则头 ← 规则体" 部分
-    # 匹配逻辑：忽略开头的数字列，提取 <- 前后的内容
-    rule_pattern = re.compile(r'\d+\.?\d*\s+\d+\s+\d+\s+(.*? <- .*)')
+    # 正则表达式：匹配 "置信度 数字 数字 规则头 ← 规则体" 部分
+    # group(1) = 置信度（如1.000000），group(2) = 规则部分（如Accede_to_demands... <- ...）
+    rule_pattern = re.compile(r'(\d+\.?\d*)\s+\d+\s+\d+\s+(.*? <- .*)')
 
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
@@ -88,26 +92,70 @@ def read_paths(path):
             if not line:  # 跳过空行
                 continue
 
-            # 提取规则部分（忽略开头的数字）
+            # 提取置信度和规则部分
             match = rule_pattern.match(line)
             if match:
-                full_rule = match.group(1).strip()
-                # 拆分规则头和规则体（按 <- 分割）
-                head_part, body_part = full_rule.split(" <- ")
+                # 1. 提取并转换置信度（字符串转浮点数）
+                confidence = float(match.group(1).strip())
+                # 2. 提取完整规则字符串
+                full_rule = match.group(2).strip()
 
-                # 提取规则头的关系名（去掉括号和参数，如 Abduct,_hijack,_or_take_hostage(X0,X1,T3) → 关系名）
+                # 拆分规则头和规则体，提取规则头关系名
+                head_part, body_part = full_rule.split(" <- ")
                 head_rel = re.match(r'^([^(]+)', head_part).group(1).strip()
 
-                # 按规则头分组存储完整规则字符串
+                # 按规则头分组存储（包含置信度和规则字符串）
                 if head_rel not in rule_dict:
                     rule_dict[head_rel] = []
-                rule_dict[head_rel].append(full_rule)
+                rule_dict[head_rel].append({
+                    "confidence": confidence,
+                    "rule": full_rule
+                })
 
-    # 转换为原代码需要的格式：[{"head": 关系名, "paths": [规则字符串列表]}]
+    # 按规则头处理抽样逻辑
     for head_rel, rules in rule_dict.items():
+        n = len(rules)
+        if n > 10:
+            # 计算抽样数量：一半，向上取整（如11→6，12→6，13→7）
+            sample_size = math.ceil(n / 2)
+            # 提取所有规则的置信度作为抽样权重
+            weights = [r["confidence"] for r in rules]
+
+            # 加权无放回抽样（解决random.choices有放回的问题）
+            sampled_rules = []
+            remaining_rules = rules.copy()
+            remaining_weights = weights.copy()
+
+            for _ in range(sample_size):
+                total_weight = sum(remaining_weights)
+                if total_weight == 0:
+                    # 极端情况：所有权重为0，随机选
+                    selected_idx = random.randint(0, len(remaining_rules) - 1)
+                else:
+                    # 按权重累积值选择
+                    rand_val = random.uniform(0, total_weight)
+                    cumulative = 0
+                    selected_idx = 0
+                    for i, w in enumerate(remaining_weights):
+                        cumulative += w
+                        if cumulative >= rand_val:
+                            selected_idx = i
+                            break
+                # 添加选中的规则并移除（避免重复抽样）
+                sampled_rules.append(remaining_rules[selected_idx])
+                del remaining_rules[selected_idx]
+                del remaining_weights[selected_idx]
+
+            # 提取抽样后的规则字符串
+            rule_strings = [r["rule"] for r in sampled_rules]
+        else:
+            # 数量<=10，不抽样，保留全部规则字符串
+            rule_strings = [r["rule"] for r in rules]
+
+        # 转换为指定输出格式
         results.append({
             "head": head_rel,
-            "paths": rules  # 这里paths存储的是完整规则字符串，而非原有的|分隔路径
+            "paths": rule_strings
         })
 
     return results
@@ -214,7 +262,8 @@ def main(args, LLM):
     sampled_path_dir = os.path.join(args.sampled_paths, args.dataset)
 
     # 加载TXT格式的规则文件（核心修改：读取txt而非jsonl）
-    sampled_path_file = os.path.join(sampled_path_dir, "190326001638_r[1,2,3]_n200_exp_s8_rules.txt")  # 改为你的TXT文件名
+    # sampled_path_file = os.path.join(sampled_path_dir, "190326001638_r[1,2,3]_n200_exp_s8_rules.txt")  # 改为你的TXT文件名
+    sampled_path_file = os.path.join(sampled_path_dir, "demo.txt")  # 改为你的TXT文件名
     sampled_path = read_paths(sampled_path_file)
 
     # 获取数据集所有关系
