@@ -39,7 +39,7 @@ def filter_rules(rules_dict, min_conf, min_body_supp, rule_lengths):
 def get_window_edges(all_data, test_query_ts, learn_edges, window=-1):
     """
     Get the edges in the data (for rule application) that occur in the specified time window.
-    If window is 0, all edges before the test query timestamp are included.
+    If window is 0, all edges before the test query timestamp are included.之前的所有边
     If window is -1, the edges on which the rules are learned are used.
     If window is an integer n > 0, all edges within n timestamps before the test query
     timestamp are included.
@@ -54,17 +54,28 @@ def get_window_edges(all_data, test_query_ts, learn_edges, window=-1):
         window_edges (dict): edges in the window for rule application
     """
 
+    # 1. 情况1：window > 0 → 有限时间窗口（最近window个时间步）
     if window > 0:
+        # 生成掩码：筛选出 时间戳 < t_q 且 时间戳 ≥ t_q - window 的边
+        # * 是numpy的按位与，确保两个条件同时满足
         mask = (all_data[:, 3] < test_query_ts) * (
-            all_data[:, 3] >= test_query_ts - window
+                all_data[:, 3] >= test_query_ts - window
         )
+        # 根据掩码筛选边，并调用store_edges转换为规则匹配需要的dict格式
         window_edges = store_edges(all_data[mask])
+
+    # 2. 情况2：window = 0 → 无限时间窗口（t_q之前的所有边）
     elif window == 0:
+        # 生成掩码：仅筛选时间戳 < t_q 的边（不限制最早时间）
         mask = all_data[:, 3] < test_query_ts
         window_edges = store_edges(all_data[mask])
+
+    # 3. 情况3：window = -1 → 使用规则学习阶段的边（训练集）
     elif window == -1:
+        # 直接复用learn_edges，无需重新筛选（避免重复计算）
         window_edges = learn_edges
 
+    # 返回筛选后的窗口内边集合（dict格式，供后续规则匹配使用）
     return window_edges
 
 

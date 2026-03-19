@@ -18,26 +18,7 @@ class Dataset:
     def get_relation_dict(self):
         # 模拟返回关系字典（从TXT中提取的关系名）
         class RDict:
-            # def __init__(self):
-            #     self.rel2idx = {
-            #         "Abduct,_hijack,_or_take_hostage": 0,
-            #         "Use_unconventional_violence": 1,
-            #         "_Physically_assault": 2,
-            #         "Accuse": 3,
-            #         "_Accuse": 4,
-            #         "Make_statement": 5,
-            #         "Conduct_suicide,_car,_or_other_non-military_bombing": 6,
-            #         "Criticize_or_denounce": 7,
-            #         "Use_conventional_military_force": 8,
-            #         "_Make_an_appeal_or_request": 9,
-            #         "Make_optimistic_comment": 10,
-            #         "_Receive_deployment_of_peacekeepers": 11,
-            #         "_Provide_military_protection_or_peacekeeping": 12,
-            #         "_Return,_release_person(s)": 13,
-            #         "Return,_release_person(s)": 14,
-            #         "Engage_in_symbolic_act": 15,
-            #         "Express_intent_to_cooperate": 16
-            #     }
+
             def __init__(self, json_path=RDict_PATH):
                 # 核心逻辑：打开并加载 json 文件
                 try:
@@ -128,9 +109,9 @@ def build_prompt(head, candidate_rels, is_zero, k):
     else:  # Few-shot
         context = "Samples:\n"
         if k != 0:
-            predict = f'\n\nBased on the above rules, please generate {k} rules that are most important to the rule head: "{head}". Return the rules only without any explanations.'
+            predict = f'\n\nBased on the above rules, please generate {k} rules that are most important to the rule head: "{head}".Please generate the rules based on semantic logic and temporal logic. Return the rules only without any explanations.'
         else:
-            predict = f'\n\nBased on the above rules, please generate as many of the most important rules for the rule head: "{head}" as possible. Return the rules only without any explanations.'
+            predict = f'\n\nBased on the above rules, please generate as many of the most important rules for the rule head: "{head}" as possible. Please generate the rules based on semantic logic and temporal.Return the rules only without any explanations.'
     predict += "\nPlease only select predicates form: {}. Return the rules only without any explanations.".format(
         candidate_rels
     )
