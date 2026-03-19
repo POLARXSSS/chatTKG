@@ -6,6 +6,7 @@ from tqdm import tqdm
 from functools import partial
 import random
 from llms import llm_client
+from multiprocessing.pool import ThreadPool
 
 RDict_PATH = "data/icews14/relation2id.json"
 
@@ -62,7 +63,7 @@ def get_registed_model(model_name):
     return MockLLM
 
 
-def check_prompt_length(base_prompt, samples, model):
+def check_prompt_length(base_prompt, samples):
     """模拟检查prompt长度，直接返回拼接的样本"""
     return "\n".join(samples)
 
@@ -155,6 +156,15 @@ def print_prompt(prompt, head, sample_idx):
 
 def generate_rule(row, candidate_rels, rule_path, model, args):
     head = row["head"]
+    # 核心逻辑：拼接文件路径并检查文件是否存在
+    # 处理 head 中可能包含的特殊字符（如 /），避免路径错误
+    safe_head = head.replace("/", "-")
+    txt_file_path = os.path.join(rule_path, f"{safe_head}.txt")
+
+    # 判断文件是否存在，若存在则直接返回
+    if os.path.exists(txt_file_path):
+        print(f"已检测到 {safe_head}.txt 文件存在，跳过当前 head 的规则生成。")
+        return
     paths = row["paths"]
     print(f"Processing head relation: {head} (共{len(paths)}条规则)")
 
@@ -189,7 +199,7 @@ def generate_rule(row, candidate_rels, rule_path, model, args):
         final_prompt = instruction + context + few_shot_paths + predict  # Prompt
         print_prompt(final_prompt, head, "all-data")
 
-    rules = llm_client.generate_sentens(final_prompt)
+    rules = LLM.generate_sentence(final_prompt)
     with open(os.path.join(rule_path, f"{head}.txt"), "w", encoding="utf-8") as f:
         f.write(rules + "\n")
         f.close()
@@ -204,7 +214,7 @@ def main(args, LLM):
     sampled_path_dir = os.path.join(args.sampled_paths, args.dataset)
 
     # 加载TXT格式的规则文件（核心修改：读取txt而非jsonl）
-    sampled_path_file = os.path.join(sampled_path_dir, "180326191704_r[1,2,3]_n200_exp_s8_rules.txt")  # 改为你的TXT文件名
+    sampled_path_file = os.path.join(sampled_path_dir, "190326001638_r[1,2,3]_n200_exp_s8_rules.txt")  # 改为你的TXT文件名
     sampled_path = read_paths(sampled_path_file)
 
     # 获取数据集所有关系
@@ -221,21 +231,35 @@ def main(args, LLM):
     if not os.path.exists(rule_path):
         os.makedirs(rule_path)
 
-    model = LLM(args)
+    model = LLM
     print("Prepare to print prompt content...")
-    model.
+
 
     # 处理每条规则头
-    prompts = []
-    for row in tqdm(sampled_path, total=len(sampled_path)):
-        prompt = generate_rule(
-            row,
-            candidate_rels=candidate_rels,
-            rule_path=rule_path,
-            model=model,
-            args=args,
-        )
-        prompts.append(prompt)
+
+    # for row in tqdm(sampled_path, total=len(sampled_path)):
+    #     generate_rule(
+    #         row,
+    #         candidate_rels=candidate_rels,
+    #         rule_path=rule_path,
+    #         model=model,
+    #         args=args,
+    #     )
+    with ThreadPool(args.n) as p:
+        for _ in tqdm(
+            p.imap_unordered(
+                partial(
+                    generate_rule,
+                    candidate_rels=candidate_rels,
+                    rule_path=rule_path,
+                    model=model,
+                    args=args,
+                ),
+                sampled_path,
+            ),
+            total=len(sampled_path),
+        ):
+            pass
 
 
 
@@ -257,8 +281,9 @@ if __name__ == "__main__":
     parser.add_argument("--dry_run", action="store_true", help="dry run")
 
     args, _ = parser.parse_known_args()
-    LLM = get_registed_model(args.model_name)
-    LLM.add_args(parser)
+    # LLM = get_registed_model(args.model_name)
+    LLM = llm_client.LLMClient()
+    # LLM.add_args(parser)
     args = parser.parse_args()
 
     main(args, LLM)
