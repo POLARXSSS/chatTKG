@@ -1,0 +1,20 @@
+Engage_in_mass_killings <-- Use_chemical,_biological,_or_radiological_weapons
+Engage_in_mass_killings <-- Threaten, Use_conventional_military_force
+Engage_in_mass_killings <-- Accuse_of_war_crimes, Use_conventional_military_force
+Engage_in_mass_killings <-- Coerce, Use_conventional_military_force
+Engage_in_mass_killings <-- Demand_change_in_leadership, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Violate_ceasefire, Use_conventional_military_force
+Engage_in_mass_killings <-- Engage_in_violent_protest_for_rights, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Use_unconventional_violence, Threaten_with_military_force
+Engage_in_mass_killings <-- Demonstrate_military_or_police_power, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Carry_out_suicide_bombing, Conduct_suicide,_car,_or_other_non-military_bombing
+Engage_in_mass_killings <-- Detonate_nuclear_weapons
+Engage_in_mass_killings <-- Occupy_territory, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Torture, Kill_by_physical_assault
+Engage_in_mass_killings <-- Threaten_with_military_force, Refuse_to_de-escalate_military_engagement
+Engage_in_mass_killings <-- Engage_in_mass_expulsion, Kill_by_physical_assault
+Engage_in_mass_killings <-- Carry_out_car_bombing, Carry_out_roadside_bombing
+Engage_in_mass_killings <-- fight_with_artillery_and_tanks, fight_with_small_arms_and_light_weapons
+Engage_in_mass_killings <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Use_conventional_military_force, Mobilize_or_increase_armed_forces
+Engage_in_mass_killings <-- Abduct,_hijack,_or_take_hostage, Kill_by_physical_assault

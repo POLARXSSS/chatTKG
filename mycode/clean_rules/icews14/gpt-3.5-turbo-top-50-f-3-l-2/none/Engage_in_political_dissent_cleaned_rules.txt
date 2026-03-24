@@ -1,0 +1,28 @@
+Engage_in_political_dissent <-- Bring_lawsuit_against
+Engage_in_political_dissent <-- Express_intent_to_institute_political_reform
+Engage_in_political_dissent <-- Demonstrate_for_leadership_change
+Engage_in_political_dissent <-- Rally_opposition_against
+Engage_in_political_dissent <-- Appeal_for_rights
+Engage_in_political_dissent <-- Demand_political_reform
+Engage_in_political_dissent <-- Demonstrate_for_policy_change
+Engage_in_political_dissent <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Demonstrate_or_rally
+Engage_in_political_dissent <-- Defy_norms,_law
+Engage_in_political_dissent <-- Appeal_for_policy_change
+Engage_in_political_dissent <-- Express_intent_to_change_policy
+Engage_in_political_dissent <-- Conduct_hunger_strike
+Engage_in_political_dissent <-- Demonstrate_or_rally
+Engage_in_political_dissent <-- Conduct_strike_or_boycott
+Engage_in_political_dissent <-- Use_tactics_of_violent_repression, Rally_opposition_against
+Engage_in_political_dissent <-- Appeal_for_change_in_leadership
+Engage_in_political_dissent <-- Demand_change_in_leadership
+Engage_in_political_dissent <-- Criticize_or_denounce
+Engage_in_political_dissent <-- Engage_in_violent_protest_for_rights
+Engage_in_political_dissent <-- Refuse_to_yield, Make_pessimistic_comment
+Engage_in_political_dissent <-- Threaten_with_political_dissent,_protest
+Engage_in_political_dissent <-- Protest_violently,_riot
+Engage_in_political_dissent <-- Complain_officially
+Engage_in_political_dissent <-- Express_intent_to_change_leadership
+Engage_in_political_dissent <-- Impose_restrictions_on_political_freedoms, Defy_norms,_law
+Engage_in_political_dissent <-- Demand_policy_change
+Engage_in_political_dissent <-- Appeal_for_political_reform
+Engage_in_political_dissent <-- Demand_rights

@@ -1,0 +1,25 @@
+Engage_in_judicial_cooperation <-- Sign_formal_agreement
+Engage_in_judicial_cooperation <-- Expel_or_deport_individuals
+Engage_in_judicial_cooperation <-- Investigate
+Engage_in_judicial_cooperation <-- Express_intent_to_engage_in_material_cooperation
+Engage_in_judicial_cooperation <-- Investigate_war_crimes
+Engage_in_judicial_cooperation <-- Meet_at_a_'third'_location
+Engage_in_judicial_cooperation <-- Share_intelligence_or_information
+Engage_in_judicial_cooperation <-- Investigate_human_rights_abuses
+Engage_in_judicial_cooperation <-- Return,_release_person(s)
+Engage_in_judicial_cooperation <-- Appeal_for_judicial_cooperation
+Engage_in_judicial_cooperation <-- Express_accord
+Engage_in_judicial_cooperation <-- Discuss_by_telephone
+Engage_in_judicial_cooperation <-- Express_intent_to_cooperate_on_judicial_matters
+Engage_in_judicial_cooperation <-- Host_a_visit, Make_a_visit
+Engage_in_judicial_cooperation <-- Investigate_crime,_corruption
+Engage_in_judicial_cooperation <-- Complain_officially
+Engage_in_judicial_cooperation <-- Cooperate_economically
+Engage_in_judicial_cooperation <-- Demand_judicial_cooperation
+Engage_in_judicial_cooperation <-- Consult
+Engage_in_judicial_cooperation <-- Engage_in_diplomatic_cooperation, Sign_formal_agreement
+Engage_in_judicial_cooperation <-- Provide_humanitarian_aid
+Engage_in_judicial_cooperation <-- Arrest,_detain,_or_charge_with_legal_action
+Engage_in_judicial_cooperation <-- Engage_in_negotiation
+Engage_in_judicial_cooperation <-- Appeal_for_judicial_cooperation, Express_intent_to_cooperate_on_judicial_matters
+Engage_in_judicial_cooperation <-- Mediate

@@ -1,0 +1,30 @@
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Engage_in_political_dissent, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Make_statement, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Reduce_relations, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Threaten_non-force, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Meet_at_a_'third'_location, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Rally_opposition_against, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Rally_support_on_behalf_of, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Complain_officially, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Criticize_or_denounce, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Impose_administrative_sanctions, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Give_ultimatum, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Reduce_or_break_diplomatic_relations, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Protest_violently,_riot, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Engage_in_negotiation, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Expel_or_deport_individuals, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Reject_request_for_change_in_leadership, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Use_conventional_military_force, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Threaten_with_military_force, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Conduct_strike_or_boycott, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Obstruct_passage_to_demand_leadership_change
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Threaten_with_political_dissent,_protest, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Consult, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Threaten_with_sanctions,_boycott,_embargo, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Defend_verbally, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Appeal_to_others_to_meet_or_negotiate, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Accuse_of_crime,_corruption, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_change_leadership <-- Make_an_appeal_or_request, Demand_change_in_leadership

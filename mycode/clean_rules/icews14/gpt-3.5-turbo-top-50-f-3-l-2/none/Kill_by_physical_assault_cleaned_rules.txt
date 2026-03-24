@@ -1,0 +1,33 @@
+Kill_by_physical_assault <-- Reduce_or_break_diplomatic_relations, Use_conventional_military_force
+Kill_by_physical_assault <-- Conduct_suicide,_car,_or_other_non-military_bombing, Use_unconventional_violence
+Kill_by_physical_assault <-- Arrest,_detain,_or_charge_with_legal_action, Use_tactics_of_violent_repression
+Kill_by_physical_assault <-- Demand_change_in_leadership, Use_conventional_military_force
+Kill_by_physical_assault <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Use_conventional_military_force
+Kill_by_physical_assault <-- Reject_plan,_agreement_to_settle_dispute, Use_conventional_military_force
+Kill_by_physical_assault <-- Use_as_human_shield, Use_conventional_military_force
+Kill_by_physical_assault <-- Accuse, Use_unconventional_violence
+Kill_by_physical_assault <-- Threaten, Use_unconventional_violence
+Kill_by_physical_assault <-- Seize_or_damage_property, Use_tactics_of_violent_repression
+Kill_by_physical_assault <-- Make_an_appeal_or_request, Use_conventional_military_force
+Kill_by_physical_assault <-- Engage_in_mass_killings, Use_unconventional_violence
+Kill_by_physical_assault <-- Physically_assault
+Kill_by_physical_assault <-- Expel_or_withdraw_peacekeepers, Use_conventional_military_force
+Kill_by_physical_assault <-- Abduct,_hijack,_or_take_hostage, Use_unconventional_violence
+Kill_by_physical_assault <-- Impose_restrictions_on_political_freedoms, Use_tactics_of_violent_repression
+Kill_by_physical_assault <-- Abduct,_hijack,_or_take_hostage, Provide_humanitarian_aid
+Kill_by_physical_assault <-- Use_conventional_military_force, fight_with_small_arms_and_light_weapons
+Kill_by_physical_assault <-- Kill_by_physical_assault, Abduct,_hijack,_or_take_hostage
+Kill_by_physical_assault <-- Attempt_to_assassinate, Use_unconventional_violence
+Kill_by_physical_assault <-- Refuse_to_yield, Use_conventional_military_force
+Kill_by_physical_assault <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+Kill_by_physical_assault <-- Torture, Use_tactics_of_violent_repression
+Kill_by_physical_assault <-- Conduct_strike_or_boycott, Use_tactics_of_violent_repression
+Kill_by_physical_assault <-- Impose_embargo,_boycott,_or_sanctions, Use_conventional_military_force
+Kill_by_physical_assault <-- Mobilize_or_increase_police_power, Use_tactics_of_violent_repression
+Kill_by_physical_assault <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Kill_by_physical_assault <-- Give_ultimatum, Use_unconventional_violence
+Kill_by_physical_assault <-- Violate_ceasefire, Use_conventional_military_force
+Kill_by_physical_assault <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Use_unconventional_violence
+Kill_by_physical_assault <-- Kill_by_physical_assault
+Kill_by_physical_assault <-- Use_unconventional_violence
+Kill_by_physical_assault <-- Protest_violently,_riot, Use_tactics_of_violent_repression

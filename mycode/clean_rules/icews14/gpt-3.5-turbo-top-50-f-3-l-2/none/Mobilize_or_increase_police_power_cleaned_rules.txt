@@ -1,0 +1,40 @@
+Mobilize_or_increase_police_power <-- Abduct,_hijack,_or_take_hostage
+Mobilize_or_increase_police_power <-- Coerce
+Mobilize_or_increase_police_power <-- Impose_state_of_emergency_or_martial_law
+Mobilize_or_increase_police_power <-- Complain_officially
+Mobilize_or_increase_police_power <-- Make_statement, Threaten_with_military_force
+Mobilize_or_increase_police_power <-- Make_statement, Arrest,_detain,_or_charge_with_legal_action
+Mobilize_or_increase_police_power <-- Impose_administrative_sanctions
+Mobilize_or_increase_police_power <-- Use_tactics_of_violent_repression
+Mobilize_or_increase_police_power <-- Provide_military_protection_or_peacekeeping
+Mobilize_or_increase_police_power <-- Use_conventional_military_force
+Mobilize_or_increase_police_power <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+Mobilize_or_increase_police_power <-- Threaten_with_sanctions,_boycott,_embargo
+Mobilize_or_increase_police_power <-- Carry_out_suicide_bombing
+Mobilize_or_increase_police_power <-- Demonstrate_or_rally
+Mobilize_or_increase_police_power <-- Investigate_human_rights_abuses
+Mobilize_or_increase_police_power <-- Demand_rights
+Mobilize_or_increase_police_power <-- Impose_administrative_sanctions, Demand_easing_of_administrative_sanctions
+Mobilize_or_increase_police_power <-- Mobilize_or_increase_armed_forces
+Mobilize_or_increase_police_power <-- Arrest,_detain,_or_charge_with_legal_action
+Mobilize_or_increase_police_power <-- Protest_violently,_riot
+Mobilize_or_increase_police_power <-- Demand_policy_change
+Mobilize_or_increase_police_power <-- Reject_plan,_agreement_to_settle_dispute
+Mobilize_or_increase_police_power <-- Use_conventional_military_force, Protest_violently,_riot
+Mobilize_or_increase_police_power <-- Engage_in_mass_killings
+Mobilize_or_increase_police_power <-- Torture
+Mobilize_or_increase_police_power <-- Attempt_to_assassinate
+Mobilize_or_increase_police_power <-- Kill_by_physical_assault
+Mobilize_or_increase_police_power <-- Engage_in_political_dissent
+Mobilize_or_increase_police_power <-- Physically_assault
+Mobilize_or_increase_police_power <-- Accuse_of_human_rights_abuses
+Mobilize_or_increase_police_power <-- Defy_norms,_law
+Mobilize_or_increase_police_power <-- Seize_or_damage_property
+Mobilize_or_increase_police_power <-- Use_unconventional_violence, Arrest,_detain,_or_charge_with_legal_action
+Mobilize_or_increase_police_power <-- Destroy_property
+Mobilize_or_increase_police_power <-- Express_intent_to_yield
+Mobilize_or_increase_police_power <-- Threaten_with_repression
+Mobilize_or_increase_police_power <-- Occupy_territory
+Mobilize_or_increase_police_power <-- Investigate_crime,_corruption
+Mobilize_or_increase_police_power <-- Express_intent_to_provide_military_aid, Mobilize_or_increase_armed_forces
+Mobilize_or_increase_police_power <-- Conduct_strike_or_boycott

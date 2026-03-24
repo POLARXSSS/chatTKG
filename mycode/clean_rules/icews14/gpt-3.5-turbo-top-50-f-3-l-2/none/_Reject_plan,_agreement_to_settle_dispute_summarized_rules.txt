@@ -1,0 +1,50 @@
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Coerce(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Halt_mediation(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Demonstrate_military_or_police_power(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Veto(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Accuse_of_human_rights_abuses(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X2,T2) <- Mediate(X1,X0,T0), Reject(X0,X2,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Demand_change_in_leadership(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Kill_by_physical_assault(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T2) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), Reject(X1,X0,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T2) <- Consult(X0,X1,T0), Accuse(X1,X0,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Deny_responsibility(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Reduce_or_stop_economic_assistance(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T2) <- Make_statement(X0,X1,T0), Threaten(X1,X0,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Threaten_with_military_force(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Decline_comment(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Refuse_to_ease_administrative_sanctions(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Halt_negotiations(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Destroy_property(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Impose_restrictions_on_political_freedoms(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T2) <- Demand(X0,X1,T0), Refuse_to_release_persons_or_property(X1,X0,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X2,T2) <- Provide_military_aid(X1,X0,T0), Use_conventional_military_force(X0,X2,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Accuse_of_aggression(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Reduce_or_break_diplomatic_relations(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Accuse(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Refuse_to_de-escalate_military_engagement(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X2,T2) <- Appeal_to_others_to_settle_dispute(X0,X1,T0), Reject(X1,X2,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Demand_rights(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Torture(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Refuse_to_yield(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Use_tactics_of_violent_repression(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Reject(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Ban_political_parties_or_politicians(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Criticize_or_denounce(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Physically_assault(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Threaten_with_sanctions,_boycott,_embargo(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T2) <- Engage_in_negotiation(X0,X1,T0), Violate_ceasefire(X1,X0,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Accuse_of_war_crimes(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X2,T2) <- Host_a_visit(X1,X0,T0), Threaten(X0,X2,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X2,T2) <- Share_intelligence_or_information(X1,X0,T0), Arrest,_detain,_or_charge_with_legal_action(X0,X2,T1).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Expel_or_withdraw_peacekeepers(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Obstruct_passage,_block(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Demand_policy_change(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Seize_or_damage_property(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Threaten(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Impose_state_of_emergency_or_martial_law(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Protest_violently,_riot(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Occupy_territory(X0,X1,T0).
+_Reject_plan,_agreement_to_settle_dispute(X0,X1,T1) <- Mobilize_or_increase_armed_forces(X0,X1,T0).

@@ -1,0 +1,15 @@
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Carry_out_roadside_bombing, Carry_out_suicide_bombing, Destroy_property
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Investigate_human_rights_abuses, Criticize_or_denounce, Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Engage_in_violent_protest_for_rights, Use_tactics_of_violent_repression, Carry_out_roadside_bombing
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Demand_economic_aid, Reject_request_for_military_aid, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Kill_by_physical_assault, Use_tactics_of_violent_repression, Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Cooperate_militarily, Reduce_or_stop_military_assistance, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Reduce_or_break_diplomatic_relations, Express_intent_to_cooperate_militarily, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Conduct_suicide,_car,_or_other_non-military_bombing, Increase_military_alert_status, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Express_intent_to_change_leadership, Ban_political_parties_or_politicians, Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Seize_or_damage_property, Confiscate_property, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Demand_change_in_leadership, Reject_proposal_to_meet,_discuss,_or_negotiate, Give_ultimatum
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Abduct,_hijack,_or_take_hostage, Refuse_to_yield, Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Violate_ceasefire, Declare_truce,_ceasefire, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Carry_out_car_bombing <-- Threaten, Mobilize_or_increase_armed_forces, Use_unconventional_violence

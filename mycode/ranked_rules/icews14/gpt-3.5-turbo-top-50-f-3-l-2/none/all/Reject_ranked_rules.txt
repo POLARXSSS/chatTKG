@@ -1,0 +1,80 @@
+14	0.014830508474576272	0.1917808219178082	0.6666666666666666	Reject <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Reject <-- Demand_change_in_institutions,_regime
+3	0.0031779661016949155	1.5	3.0	Reject <-- Demand_policy_change
+2	0.00211864406779661	0.4	0.4	Reject <-- Demand_mediation
+12	0.012711864406779662	0.5217391304347826	1.3333333333333333	Reject <-- Obstruct_passage,_block
+212	0.2245762711864407	0.5011820330969267	1.0392156862745099	Reject <-- Threaten
+0.0	0.0	0.0	0.0	Reject <-- Express_intent_to_cooperate, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Reject <-- Mediate, Halt_mediation
+0.0	0.0	0.0	0.0	Reject <-- Carry_out_car_bombing
+28	0.029661016949152543	0.23728813559322035	0.4	Reject <-- Expel_or_deport_individuals
+1	0.001059322033898305	0.1111111111111111	0.25	Reject <-- Attempt_to_assassinate
+3	0.0031779661016949155	0.42857142857142855	0.6	Reject <-- Demand_settling_of_dispute
+4	0.00423728813559322	0.5	1.0	Reject <-- Demand_that_target_yields
+339	0.3591101694915254	0.23331039229181005	0.5415335463258786	Reject <-- Accuse
+319	0.3379237288135593	0.3467391304347826	0.7994987468671679	Reject <-- Demand
+0.0	0.0	0.0	0.0	Reject <-- Assassinate
+7	0.007415254237288136	1.1666666666666667	1.75	Reject <-- Ban_political_parties_or_politicians
+72	0.07627118644067797	0.06936416184971098	0.1875	Reject <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+16	0.01694915254237288	0.18181818181818182	0.36363636363636365	Reject <-- Grant_diplomatic_recognition, Reduce_relations
+0.0	0.0	0.0	0.0	Reject <-- Demand_rights
+6	0.006355932203389831	0.23076923076923078	0.8571428571428571	Reject <-- Torture
+161	0.1705508474576271	0.12327718223583461	0.3226452905811623	Reject <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Reject <-- Sign_formal_agreement, Violate_ceasefire
+31	0.03283898305084746	0.4626865671641791	0.7209302325581395	Reject <-- Impose_embargo,_boycott,_or_sanctions
+18	0.019067796610169493	0.0636042402826855	0.2727272727272727	Reject <-- Abduct,_hijack,_or_take_hostage
+368	0.3898305084745763	0.1936842105263158	0.43757431629013077	Reject <-- Criticize_or_denounce
+7	0.007415254237288136	0.5	1.0	Reject <-- Demand_material_cooperation
+0.0	0.0	0.0	0.0	Reject <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Reject <-- Provide_aid, Reduce_or_stop_humanitarian_assistance
+14	0.014830508474576272	0.21875	0.45161290322580644	Reject <-- Demand_change_in_leadership
+96	0.1016949152542373	0.1369472182596291	0.46153846153846156	Reject <-- Make_an_appeal_or_request, Refuse_to_yield
+1	0.001059322033898305	0.25	1.0	Reject <-- Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Reject <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Reject <-- Host_a_visit, Expel_or_deport_individuals
+182	0.19279661016949154	0.04181985294117647	0.1133956386292835	Reject <-- Consult, Reject
+45	0.04766949152542373	0.8823529411764706	1.5517241379310345	Reject <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Reject <-- Kill_by_physical_assault
+5	0.005296610169491525	0.5555555555555556	0.7142857142857143	Reject <-- Engage_in_diplomatic_cooperation, Reject_military_cooperation
+4	0.00423728813559322	0.5714285714285714	1.0	Reject <-- Demand_release_of_persons_or_property
+1	0.001059322033898305	0.02702702702702703	0.25	Reject <-- Carry_out_suicide_bombing
+97	0.1027542372881356	0.697841726618705	1.5901639344262295	Reject <-- Impose_administrative_sanctions
+81	0.0858050847457627	0.10074626865671642	0.413265306122449	Reject <-- Use_conventional_military_force
+81	0.0858050847457627	0.10074626865671642	0.413265306122449	Reject <-- Use_conventional_military_force
+45	0.04766949152542373	0.045090180360721446	0.18218623481781376	Reject <-- Use_unconventional_violence
+339	0.3591101694915254	0.23331039229181005	0.5415335463258786	Reject <-- Accuse
+30	0.03177966101694915	0.2542372881355932	0.8823529411764706	Reject <-- Occupy_territory
+8	0.00847457627118644	0.0975609756097561	0.18604651162790697	Reject <-- Provide_aid, Provide_aid
+2	0.00211864406779661	0.4	0.6666666666666666	Reject <-- Destroy_property
+0.0	0.0	0.0	0.0	Reject <-- Engage_in_mass_killings
+224	0.23728813559322035	0.010176267490459748	0.03138573630376909	Reject <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+24	0.025423728813559324	0.05466970387243736	0.1218274111675127	Reject <-- Provide_aid, Demand
+212	0.2245762711864407	0.5011820330969267	1.0392156862745099	Reject <-- Threaten
+125	0.13241525423728814	0.00952453520268211	0.017665347654041832	Reject <-- Host_a_visit, Host_a_visit
+161	0.1705508474576271	0.12327718223583461	0.3226452905811623	Reject <-- Arrest,_detain,_or_charge_with_legal_action
+15	0.015889830508474576	0.1595744680851064	0.6	Reject <-- Confiscate_property
+364	0.3855932203389831	0.013388259526261586	0.04852039456145028	Reject <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+1	0.001059322033898305	0.07692307692307693	0.08333333333333333	Reject <-- Appeal_for_material_cooperation, Reduce_relations
+342	0.3622881355932203	0.016040523427606587	0.06863335340156532	Reject <-- Make_statement, Criticize_or_denounce
+62	0.06567796610169492	0.07496977025392987	0.14418604651162792	Reject <-- Threaten, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reject <-- Kill_by_physical_assault
+97	0.1027542372881356	0.697841726618705	1.5901639344262295	Reject <-- Impose_administrative_sanctions
+75	0.07944915254237288	1.1538461538461537	2.027027027027027	Reject <-- Accuse_of_crime,_corruption
+147	0.15572033898305085	0.04563800062092518	0.1038135593220339	Reject <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+117	0.1239406779661017	1.2717391304347827	2.207547169811321	Reject <-- Complain_officially
+297	0.3146186440677966	0.0049474438206926425	0.021244635193133046	Reject <-- Make_statement, Make_statement
+0.0	0.0	0.0	0.0	Reject <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Reject <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Reject <-- Accuse, Accuse_of_war_crimes
+14	0.014830508474576272	0.23728813559322035	0.7	Reject <-- Make_an_appeal_or_request, Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Reject <-- Express_intent_to_cooperate_economically, Reject_economic_cooperation
+52	0.05508474576271186	0.1440443213296399	0.2810810810810811	Reject <-- Make_pessimistic_comment, Deny_responsibility
+72	0.07627118644067797	0.06936416184971098	0.1875	Reject <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+6	0.006355932203389831	0.23076923076923078	0.8571428571428571	Reject <-- Torture
+158	0.1673728813559322	0.010046416989889999	0.021886687906912314	Reject <-- Host_a_visit, Make_statement
+80	0.0847457627118644	0.1008827238335435	0.19801980198019803	Reject <-- Make_optimistic_comment, Threaten
+23	0.024364406779661018	1.4375	4.6	Reject <-- Impose_blockade,_restrict_movement
+179	0.1896186440677966	0.07100357001190004	0.16854990583804144	Reject <-- Demand, Demand
+331	0.350635593220339	0.02970208183776023	0.08528729708837929	Reject <-- Criticize_or_denounce, Criticize_or_denounce
+14	0.014830508474576272	0.21875	0.45161290322580644	Reject <-- Demand_change_in_leadership
+28	0.029661016949152543	0.23728813559322035	0.4	Reject <-- Expel_or_deport_individuals

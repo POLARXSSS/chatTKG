@@ -1,0 +1,37 @@
+1	0.012658227848101266	0.002890173410404624	0.14285714285714285	Accuse_of_crime,_corruption <-- Confiscate_property, Use_unconventional_violence
+79	1.0	1.2153846153846153	1.2153846153846153	Accuse_of_crime,_corruption <-- Accuse_of_crime,_corruption
+10	0.12658227848101267	0.019417475728155338	0.23255813953488372	Accuse_of_crime,_corruption <-- Investigate
+7	0.08860759493670886	0.0625	0.4117647058823529	Accuse_of_crime,_corruption <-- Ease_administrative_sanctions
+2	0.02531645569620253	0.0392156862745098	0.4	Accuse_of_crime,_corruption <-- Express_intent_to_release_persons_or_property
+9	0.11392405063291139	0.04522613065326633	0.2727272727272727	Accuse_of_crime,_corruption <-- Reject, Accuse_of_crime,_corruption
+9	0.11392405063291139	0.006891271056661562	0.23076923076923078	Accuse_of_crime,_corruption <-- Arrest,_detain,_or_charge_with_legal_action
+13	0.16455696202531644	0.0028831226436016855	0.13978494623655913	Accuse_of_crime,_corruption <-- Make_statement, Return,_release_person(s)
+3	0.0379746835443038	0.046875	0.13043478260869565	Accuse_of_crime,_corruption <-- Demand_change_in_leadership
+15	0.189873417721519	0.016304347826086956	0.12195121951219512	Accuse_of_crime,_corruption <-- Demand
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Seize_or_damage_property, Confiscate_property
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Demand_economic_aid, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Engage_in_judicial_cooperation, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Violate_ceasefire, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Provide_economic_aid, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Use_tactics_of_violent_repression, Torture
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Carry_out_car_bombing, Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Receive_deployment_of_peacekeepers, Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+7	0.08860759493670886	0.03932584269662921	0.23333333333333334	Accuse_of_crime,_corruption <-- Reduce_relations
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Demand_change_in_leadership, Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Accuse_of_war_crimes, Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Ban_political_parties_or_politicians, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Accuse_of_espionage,_treason, Arrest,_detain,_or_charge_with_legal_action
+4	0.05063291139240506	0.06451612903225806	0.5	Accuse_of_crime,_corruption <-- Investigate, Confiscate_property
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Coerce, Threaten_with_repression
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Demonstrate_or_rally, Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Grant_diplomatic_recognition, Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Conduct_strike_or_boycott, Obstruct_passage,_block
+8	0.10126582278481013	0.015968063872255488	0.06837606837606838	Accuse_of_crime,_corruption <-- Complain_officially, Make_statement
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Attempt_to_assassinate, Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Use_conventional_military_force, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Threaten_with_sanctions,_boycott,_embargo, Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Accuse_of_human_rights_abuses, Arrest,_detain,_or_charge_with_legal_action
+2	0.02531645569620253	0.006134969325153374	1.0	Accuse_of_crime,_corruption <-- Engage_in_negotiation, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Accuse_of_crime,_corruption <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation

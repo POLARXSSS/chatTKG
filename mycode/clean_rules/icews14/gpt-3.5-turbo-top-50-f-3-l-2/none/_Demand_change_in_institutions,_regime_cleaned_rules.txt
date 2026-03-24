@@ -1,0 +1,20 @@
+Demand_change_in_institutions,_regime <-- Appeal_for_change_in_institutions,_regime
+Demand_change_in_institutions,_regime <-- Express_intent_to_institute_political_reform, Sign_formal_agreement
+Demand_change_in_institutions,_regime <-- Engage_in_mass_killings, Demand_release_of_persons_or_property
+Demand_change_in_institutions,_regime <-- Protest_violently,_riot, Accuse_of_human_rights_abuses
+Demand_change_in_institutions,_regime <-- Threaten_with_sanctions,_boycott,_embargo, Reject_economic_cooperation
+Demand_change_in_institutions,_regime <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Demand_meeting,_negotiation
+Demand_change_in_institutions,_regime <-- Host_a_visit, Meet_at_a_'third'_location
+Demand_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime
+Demand_change_in_institutions,_regime <-- Mobilize_or_increase_armed_forces, Threaten_with_military_force
+Demand_change_in_institutions,_regime <-- Arrest,_detain,_or_charge_with_legal_action, Demand_release_of_persons_or_property
+Demand_change_in_institutions,_regime <-- Demonstrate_for_leadership_change, Consult
+Demand_change_in_institutions,_regime <-- Express_intent_to_change_institutions,_regime, Engage_in_negotiation
+Demand_change_in_institutions,_regime <-- Ban_political_parties_or_politicians, Demand_political_reform
+Demand_change_in_institutions,_regime <-- Impose_state_of_emergency_or_martial_law, Demand_easing_of_administrative_sanctions
+Demand_change_in_institutions,_regime <-- Reduce_relations, Demand_material_cooperation
+Demand_change_in_institutions,_regime <-- Use_conventional_military_force, fight_with_small_arms_and_light_weapons
+Demand_change_in_institutions,_regime <-- Carry_out_car_bombing, Kill_by_physical_assault
+Demand_change_in_institutions,_regime <-- Conduct_strike_or_boycott, Make_statement
+Demand_change_in_institutions,_regime <-- Defy_norms,_law, Criticize_or_denounce
+Demand_change_in_institutions,_regime <-- Mediate, Express_intent_to_accept_mediation

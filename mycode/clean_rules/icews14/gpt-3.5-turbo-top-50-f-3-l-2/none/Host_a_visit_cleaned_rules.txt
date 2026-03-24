@@ -1,0 +1,45 @@
+Host_a_visit <-- Express_intent_to_change_policy
+Host_a_visit <-- Express_intent_to_yield
+Host_a_visit <-- Criticize_or_denounce, Apologize
+Host_a_visit <-- Make_a_visit, Host_a_visit
+Host_a_visit <-- Ease_economic_sanctions,_boycott,_embargo, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Host_a_visit <-- Mediate, Meet_at_a_'third'_location
+Host_a_visit <-- Retreat_or_surrender_militarily, Express_intent_to_yield
+Host_a_visit <-- Use_unconventional_violence, Appeal_for_de-escalation_of_military_engagement
+Host_a_visit <-- Express_intent_to_provide_military_aid, Receive_inspectors
+Host_a_visit <-- Cooperate_militarily, Cooperate_economically
+Host_a_visit <-- Express_intent_to_settle_dispute
+Host_a_visit <-- Express_intent_to_meet_or_negotiate
+Host_a_visit <-- Discuss_by_telephone, Express_intent_to_meet_or_negotiate
+Host_a_visit <-- Halt_mediation, Express_intent_to_accept_mediation
+Host_a_visit <-- Appeal_for_de-escalation_of_military_engagement, Yield
+Host_a_visit <-- Provide_aid, Make_an_appeal_or_request
+Host_a_visit <-- Host_a_visit, Make_a_visit
+Host_a_visit <-- Sign_formal_agreement, Sign_formal_agreement
+Host_a_visit <-- Accuse, Defend_verbally
+Host_a_visit <-- Express_intent_to_change_leadership
+Host_a_visit <-- Praise_or_endorse, Praise_or_endorse
+Host_a_visit <-- Express_intent_to_cooperate
+Host_a_visit <-- Express_intent_to_cooperate_economically
+Host_a_visit <-- Provide_economic_aid, Provide_military_aid
+Host_a_visit <-- Express_intent_to_cooperate_militarily
+Host_a_visit <-- Provide_humanitarian_aid, Appeal_for_humanitarian_aid
+Host_a_visit <-- Engage_in_diplomatic_cooperation, Engage_in_diplomatic_cooperation
+Host_a_visit <-- Express_intent_to_change_institutions,_regime
+Host_a_visit <-- Express_intent_to_engage_in_material_cooperation, Consult
+Host_a_visit <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+Host_a_visit <-- Appeal_to_others_to_meet_or_negotiate
+Host_a_visit <-- Host_a_visit, Express_intent_to_meet_or_negotiate
+Host_a_visit <-- Provide_military_aid, Appeal_for_military_aid
+Host_a_visit <-- Threaten_with_military_force, Express_intent_to_de-escalate_military_engagement
+Host_a_visit <-- Declare_truce,_ceasefire, Express_intent_to_settle_dispute
+Host_a_visit <-- Grant_asylum, Grant_diplomatic_recognition
+Host_a_visit <-- Host_a_visit, Consult
+Host_a_visit <-- Arrest,_detain,_or_charge_with_legal_action, Appeal_for_release_of_persons_or_property
+Host_a_visit <-- Consult, Consult
+Host_a_visit <-- Make_an_appeal_or_request
+Host_a_visit <-- Express_intent_to_institute_political_reform
+Host_a_visit <-- Demand_meeting,_negotiation
+Host_a_visit <-- Grant_asylum, Appeal_for_release_of_persons_or_property
+Host_a_visit <-- Grant_diplomatic_recognition, Express_intent_to_cooperate
+Host_a_visit <-- Share_intelligence_or_information, Engage_in_judicial_cooperation

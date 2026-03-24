@@ -1,0 +1,20 @@
+Make_a_visit <-- Declare_truce,_ceasefire, Demobilize_armed_forces
+Make_a_visit <-- Consult, Sign_formal_agreement
+Make_a_visit <-- Host_a_visit, Express_intent_to_meet_or_negotiate
+Make_a_visit <-- Consult
+Make_a_visit <-- Sign_formal_agreement
+Make_a_visit <-- Mediate, Express_intent_to_accept_mediation
+Make_a_visit <-- Engage_in_diplomatic_cooperation
+Make_a_visit <-- Apologize
+Make_a_visit <-- Provide_aid, Express_intent_to_provide_economic_aid
+Make_a_visit <-- Express_intent_to_cooperate
+Make_a_visit <-- Demand_meeting,_negotiation
+Make_a_visit <-- Make_a_visit, Host_a_visit
+Make_a_visit <-- Express_intent_to_meet_or_negotiate
+Make_a_visit <-- Apologize, Praise_or_endorse
+Make_a_visit <-- Praise_or_endorse
+Make_a_visit <-- Yield, Ease_administrative_sanctions
+Make_a_visit <-- Host_a_visit
+Make_a_visit <-- Ease_economic_sanctions,_boycott,_embargo, Appeal_for_economic_cooperation
+Make_a_visit <-- Make_a_visit
+Make_a_visit <-- Express_intent_to_cooperate, Express_intent_to_cooperate

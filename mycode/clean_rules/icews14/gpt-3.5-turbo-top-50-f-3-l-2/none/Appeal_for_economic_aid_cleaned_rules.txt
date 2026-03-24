@@ -1,0 +1,12 @@
+Appeal_for_economic_aid <-- Threaten
+Appeal_for_economic_aid <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_economic_aid <-- Criticize_or_denounce, Make_statement
+Appeal_for_economic_aid <-- Reject
+Appeal_for_economic_aid <-- Appeal_for_economic_aid
+Appeal_for_economic_aid <-- Criticize_or_denounce, Demonstrate_or_rally
+Appeal_for_economic_aid <-- Demand
+Appeal_for_economic_aid <-- Engage_in_symbolic_act, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Demand, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Threaten_non-force
+Appeal_for_economic_aid <-- Express_intent_to_cooperate, Make_statement

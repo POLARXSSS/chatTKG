@@ -1,0 +1,126 @@
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Engage_in_material_cooperation
+12	0.4	0.004564473183720046	0.1348314606741573	Appeal_for_military_aid <-- Praise_or_endorse
+1	0.03333333333333333	0.02040816326530612	0.5	Appeal_for_military_aid <-- Conduct_suicide,_car,_or_other_non-military_bombing
+8	0.26666666666666666	0.018912529550827423	0.20512820512820512	Appeal_for_military_aid <-- Threaten
+30	1.0	1.5	1.5	Appeal_for_military_aid <-- Appeal_for_military_aid
+2	0.06666666666666667	0.0064516129032258064	0.3333333333333333	Appeal_for_military_aid <-- Meet_at_a_'third'_location
+2	0.06666666666666667	0.007905138339920948	0.04	Appeal_for_military_aid <-- Appeal_for_aid, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_release_persons_or_property
+2	0.06666666666666667	0.01904761904761905	0.25	Appeal_for_military_aid <-- Express_intent_to_cooperate, Accede_to_demands_for_change_in_leadership
+20	0.6666666666666666	0.006224712107065048	0.08264462809917356	Appeal_for_military_aid <-- Make_an_appeal_or_request
+8	0.26666666666666666	0.10810810810810811	1.3333333333333333	Appeal_for_military_aid <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Appeal_for_military_protection_or_peacekeeping, Receive_deployment_of_peacekeepers
+1	0.03333333333333333	0.043478260869565216	0.3333333333333333	Appeal_for_military_aid <-- Obstruct_passage,_block
+16	0.5333333333333333	0.0025583626479053407	0.04833836858006042	Appeal_for_military_aid <-- Demand, Make_statement
+7	0.23333333333333334	0.2413793103448276	2.3333333333333335	Appeal_for_military_aid <-- Accede_to_demands_for_change_in_leadership
+10	0.3333333333333333	0.024330900243309004	0.2564102564102564	Appeal_for_military_aid <-- Make_pessimistic_comment
+1	0.03333333333333333	0.0023923444976076554	0.05263157894736842	Appeal_for_military_aid <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Obstruct_passage,_block, Reduce_relations
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_accept_mediation, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Demand_material_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Use_chemical,_biological,_or_radiological_weapons
+1	0.03333333333333333	0.02	0.2	Appeal_for_military_aid <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_release_persons_or_property, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Demand_change_in_leadership
+1	0.03333333333333333	0.002066115702479339	0.07692307692307693	Appeal_for_military_aid <-- Engage_in_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_material_aid, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_change_leadership, Express_intent_to_provide_military_aid
+1	0.03333333333333333	0.03571428571428571	0.25	Appeal_for_military_aid <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_institute_political_reform, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_cooperate_economically, Express_intent_to_cooperate_militarily
+7	0.23333333333333334	0.21875	2.3333333333333335	Appeal_for_military_aid <-- Appeal_to_others_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_engage_in_material_cooperation, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Demand_change_in_leadership, Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate_on_judicial_matters
+8	0.26666666666666666	0.06779661016949153	2.6666666666666665	Appeal_for_military_aid <-- Occupy_territory
+8	0.26666666666666666	0.0449438202247191	0.5714285714285714	Appeal_for_military_aid <-- Reduce_relations
+3	0.1	0.0008797653958944282	0.02040816326530612	Appeal_for_military_aid <-- Praise_or_endorse, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+8	0.26666666666666666	0.10810810810810811	1.3333333333333333	Appeal_for_military_aid <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_engage_in_material_cooperation
+10	0.3333333333333333	0.0001396277524120694	0.007122507122507123	Appeal_for_military_aid <-- Make_statement, Consult
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Torture
+1	0.03333333333333333	0.014925373134328358	0.5	Appeal_for_military_aid <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Use_conventional_military_force, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_humanitarian_aid, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_ease_administrative_sanctions, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Investigate_war_crimes
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_change_policy, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Accuse
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate_militarily
+2	0.06666666666666667	0.017543859649122806	0.6666666666666666	Appeal_for_military_aid <-- Make_statement, Demand_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_economic_aid, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_institute_political_reform
+8	0.26666666666666666	0.061068702290076333	0.3333333333333333	Appeal_for_military_aid <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_provide_military_aid
+1	0.03333333333333333	0.125	1.0	Appeal_for_military_aid <-- Appeal_for_humanitarian_aid
+7	0.23333333333333334	0.6363636363636364	3.5	Appeal_for_military_aid <-- Appeal_for_material_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_cooperate_militarily
+9	0.3	0.002849905003166561	0.13636363636363635	Appeal_for_military_aid <-- Express_intent_to_cooperate, Engage_in_negotiation
+10	0.3333333333333333	0.003738317757009346	0.10526315789473684	Appeal_for_military_aid <-- Abduct,_hijack,_or_take_hostage, Make_an_appeal_or_request
+12	0.4	0.004564473183720046	0.1348314606741573	Appeal_for_military_aid <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_change_policy
+9	0.3	0.018711018711018712	0.20930232558139536	Appeal_for_military_aid <-- Protest_violently,_riot, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_military_aid
+1	0.03333333333333333	0.0009182736455463728	0.041666666666666664	Appeal_for_military_aid <-- Express_intent_to_meet_or_negotiate, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Destroy_property
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_change_institutions,_regime, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_de-escalate_military_engagement
+10	0.3333333333333333	0.19607843137254902	1.1111111111111112	Appeal_for_military_aid <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_yield, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_mediate, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Reject_request_for_military_aid
+10	0.3333333333333333	0.01483679525222552	0.12345679012345678	Appeal_for_military_aid <-- Bring_lawsuit_against, Accuse
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Impose_blockade,_restrict_movement, Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Reduce_relations, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Confiscate_property
+9	0.3	0.009018036072144289	0.11392405063291139	Appeal_for_military_aid <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_cooperate_on_intelligence, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_change_leadership
+8	0.26666666666666666	0.47058823529411764	2.6666666666666665	Appeal_for_military_aid <-- Appeal_for_economic_aid
+1	0.03333333333333333	0.003663003663003663	0.16666666666666666	Appeal_for_military_aid <-- Express_intent_to_cooperate, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Express_intent_to_settle_dispute, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Appeal_for_military_aid <-- Demobilize_armed_forces, Use_unconventional_violence

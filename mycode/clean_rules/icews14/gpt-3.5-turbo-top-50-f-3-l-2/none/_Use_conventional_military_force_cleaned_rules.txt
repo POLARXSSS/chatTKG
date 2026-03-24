@@ -1,0 +1,35 @@
+Use_conventional_military_force <-- Confiscate_property
+Use_conventional_military_force <-- Seize_or_damage_property
+Use_conventional_military_force <-- Threaten_with_military_force, Use_conventional_military_force
+Use_conventional_military_force <-- Abduct,_hijack,_or_take_hostage
+Use_conventional_military_force <-- fight_with_small_arms_and_light_weapons
+Use_conventional_military_force <-- Arrest,_detain,_or_charge_with_legal_action, Arrest,_detain,_or_charge_with_legal_action
+Use_conventional_military_force <-- Use_unconventional_violence
+Use_conventional_military_force <-- fight_with_artillery_and_tanks
+Use_conventional_military_force <-- Make_statement, Criticize_or_denounce
+Use_conventional_military_force <-- Use_tactics_of_violent_repression
+Use_conventional_military_force <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+Use_conventional_military_force <-- Protest_violently,_riot
+Use_conventional_military_force <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Use_conventional_military_force <-- Increase_military_alert_status
+Use_conventional_military_force <-- Sign_formal_agreement, Violate_ceasefire
+Use_conventional_military_force <-- Reduce_relations
+Use_conventional_military_force <-- Appeal_for_intelligence, Share_intelligence_or_information
+Use_conventional_military_force <-- Threaten, Use_conventional_military_force
+Use_conventional_military_force <-- Demand, Reject
+Use_conventional_military_force <-- Kill_by_physical_assault
+Use_conventional_military_force <-- Arrest,_detain,_or_charge_with_legal_action, Sign_formal_agreement
+Use_conventional_military_force <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+Use_conventional_military_force <-- Use_unconventional_violence, Provide_humanitarian_aid
+Use_conventional_military_force <-- Express_intent_to_meet_or_negotiate, Criticize_or_denounce
+Use_conventional_military_force <-- Demonstrate_or_rally
+Use_conventional_military_force <-- Impose_administrative_sanctions
+Use_conventional_military_force <-- Provide_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+Use_conventional_military_force <-- Physically_assault
+Use_conventional_military_force <-- Threaten_with_military_force
+Use_conventional_military_force <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+Use_conventional_military_force <-- Express_intent_to_cooperate, Engage_in_negotiation
+Use_conventional_military_force <-- Carry_out_suicide_bombing
+Use_conventional_military_force <-- Assassinate
+Use_conventional_military_force <-- Occupy_territory
+Use_conventional_military_force <-- Arrest,_detain,_or_charge_with_legal_action

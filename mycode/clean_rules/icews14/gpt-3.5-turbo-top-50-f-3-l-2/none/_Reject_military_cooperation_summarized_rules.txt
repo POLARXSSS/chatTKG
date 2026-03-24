@@ -1,0 +1,30 @@
+_Reject_military_cooperation(X0,X1,T2) <- Threaten_with_military_force(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Arrest,_detain,_or_charge_with_legal_action(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Expel_or_deport_individuals(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T3) <- Make_an_appeal_or_request(X0,X1,T0), Halt_negotiations(X1,X0,T1), Make_statement(X2,X1,T2).
+_Reject_military_cooperation(X0,X1,T2) <- Engage_in_violent_protest_for_rights(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T3) <- Accuse(X0,X1,T0), Make_statement(X1,X0,T1), Make_pessimistic_comment(X2,X1,T2).
+_Reject_military_cooperation(X0,X1,T3) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Halt_negotiations(X1,X0,T1), Make_statement(X2,X1,T2).
+_Reject_military_cooperation(X0,X1,T3) <- Sign_formal_agreement(X0,X1,T0), Violate_ceasefire(X1,X0,T1), Make_statement(X2,X1,T2).
+_Reject_military_cooperation(X0,X1,T3) <- Consult(X0,X1,T0), Halt_mediation(X1,X0,T1), Make_statement(X2,X1,T2).
+_Reject_military_cooperation(X0,X1,T3) <- Make_a_visit(X0,X1,T0), Host_a_visit(X1,X0,T1), Reject(X2,X1,T2).
+_Reject_military_cooperation(X0,X1,T2) <- Reduce_or_break_diplomatic_relations(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Impose_administrative_sanctions(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Carry_out_suicide_bombing(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Demand_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T0), Refuse_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Assassinate(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Detonate_nuclear_weapons(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Attempt_to_assassinate(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Employ_aerial_weapons(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T1) <- Reject_request_for_military_aid(X0,X1,T0).
+_Reject_military_cooperation(X0,X1,T2) <- Criticize_or_denounce(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Demand_military_aid(X0,X1,T0), Reduce_or_stop_military_assistance(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Carry_out_car_bombing(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Kill_by_physical_assault(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Use_conventional_military_force(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Threaten_with_sanctions,_boycott,_embargo(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T2) <- Express_intent_to_provide_military_aid(X0,X1,T0), Refuse_to_release_persons_or_property(X1,X0,T1).
+_Reject_military_cooperation(X0,X1,T1) <- Reject_military_cooperation(X0,X1,T0).

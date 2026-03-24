@@ -1,0 +1,15 @@
+0.0	0.0	0.0	0.0	Appeal_for_change_in_leadership <-- fight_with_small_arms_and_light_weapons
+1	0.016129032258064516	0.005780346820809248	0.05	Appeal_for_change_in_leadership <-- Deny_responsibility
+2	0.03225806451612903	0.007633587786259542	0.11764705882352941	Appeal_for_change_in_leadership <-- Return,_release_person(s)
+17	0.27419354838709675	0.008947368421052631	0.06995884773662552	Appeal_for_change_in_leadership <-- Criticize_or_denounce
+4	0.06451612903225806	0.010362694300518135	0.07017543859649122	Appeal_for_change_in_leadership <-- Demonstrate_or_rally, Reject
+12	0.1935483870967742	0.013043478260869565	0.11009174311926606	Appeal_for_change_in_leadership <-- Demand
+5	0.08064516129032258	0.016835016835016835	0.09615384615384616	Appeal_for_change_in_leadership <-- Demonstrate_or_rally
+2	0.03225806451612903	0.0030211480362537764	0.02631578947368421	Appeal_for_change_in_leadership <-- Engage_in_diplomatic_cooperation
+5	0.08064516129032258	0.001145737855178735	0.018796992481203006	Appeal_for_change_in_leadership <-- Praise_or_endorse, Demand
+2	0.03225806451612903	0.031746031746031744	0.4	Appeal_for_change_in_leadership <-- Arrest,_detain,_or_charge_with_legal_action, Appeal_to_yield
+13	0.20967741935483872	0.008947006194081212	0.06735751295336788	Appeal_for_change_in_leadership <-- Accuse
+25	0.4032258064516129	0.00778089013383131	0.07507507507507508	Appeal_for_change_in_leadership <-- Make_an_appeal_or_request
+3	0.04838709677419355	0.037037037037037035	0.3	Appeal_for_change_in_leadership <-- Sexually_assault
+0.0	0.0	0.0	0.0	Appeal_for_change_in_leadership <-- Demand_material_cooperation
+62	1.0	1.1071428571428572	1.1071428571428572	Appeal_for_change_in_leadership <-- Appeal_for_change_in_leadership

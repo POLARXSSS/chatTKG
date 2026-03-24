@@ -1,0 +1,22 @@
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Demand_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Demonstrate_or_rally, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Mobilize_or_increase_armed_forces, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Sign_formal_agreement, Reject_plan,_agreement_to_settle_dispute
+1	1.0	8.393486654356219e-05	0.012195121951219513	Appeal_for_military_protection_or_peacekeeping <-- Accuse, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Refuse_to_yield, Demand_that_target_yields
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Mediate, Halt_mediation
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Express_intent_to_cooperate_militarily, Reduce_relations
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Carry_out_car_bombing, Appeal_for_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Arrest,_detain,_or_charge_with_legal_action, Appeal_for_rights
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Demobilize_armed_forces, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Impose_embargo,_boycott,_or_sanctions, Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Threaten_with_military_force, Reduce_relations
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Use_conventional_military_force, Appeal_for_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Increase_military_alert_status, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Violate_ceasefire, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Threaten_with_sanctions,_boycott,_embargo, Demand_economic_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Protest_violently,_riot, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Abduct,_hijack,_or_take_hostage, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Reduce_relations, Demand_economic_aid
+0.0	0.0	0.0	0.0	Appeal_for_military_protection_or_peacekeeping <-- Engage_in_mass_killings, Appeal_for_humanitarian_aid

@@ -1,0 +1,6 @@
+Retreat_or_surrender_militarily <-- Sign_formal_agreement, Retreat_or_surrender_militarily
+Retreat_or_surrender_militarily <-- Occupy_territory
+Retreat_or_surrender_militarily <-- Use_unconventional_violence
+Retreat_or_surrender_militarily <-- Express_intent_to_yield
+Retreat_or_surrender_militarily <-- Demobilize_armed_forces, Retreat_or_surrender_militarily
+Retreat_or_surrender_militarily <-- Yield

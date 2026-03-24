@@ -1,0 +1,5 @@
+Assassinate <-- Kill_by_physical_assault
+Assassinate <-- Threaten_with_military_force, Use_conventional_military_force
+Assassinate <-- Use_unconventional_violence
+Assassinate <-- Attempt_to_assassinate
+Assassinate <-- Use_conventional_military_force

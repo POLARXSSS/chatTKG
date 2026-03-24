@@ -1,0 +1,107 @@
+Refuse_to_yield <-- Threaten, Defy_norms,_law
+Refuse_to_yield <-- Refuse_to_yield
+Refuse_to_yield <-- Threaten, Deny_responsibility
+Refuse_to_yield <-- Appeal_to_engage_in_or_accept_mediation, Threaten
+Refuse_to_yield <-- Seize_or_damage_property, Threaten
+Refuse_to_yield <-- Threaten, Impose_restrictions_on_political_freedoms
+Refuse_to_yield <-- Confiscate_property, Threaten
+Refuse_to_yield <-- Deny_responsibility, Threaten
+Refuse_to_yield <-- Demand, fight_with_small_arms_and_light_weapons
+Refuse_to_yield <-- Threaten, Reject_proposal_to_meet,_discuss,_or_negotiate
+Refuse_to_yield <-- Make_statement, Threaten
+Refuse_to_yield <-- Confiscate_property
+Refuse_to_yield <-- Criticize_or_denounce
+Refuse_to_yield <-- Threaten, Make_pessimistic_comment
+Refuse_to_yield <-- Destroy_property, Threaten
+Refuse_to_yield <-- Use_unconventional_violence, Threaten
+Refuse_to_yield <-- Coerce
+Refuse_to_yield <-- Physically_assault
+Refuse_to_yield <-- Decline_comment, Threaten
+Refuse_to_yield <-- Deny_responsibility
+Refuse_to_yield <-- Obstruct_passage,_block, Threaten
+Refuse_to_yield <-- Threaten, Use_tactics_of_violent_repression
+Refuse_to_yield <-- Make_optimistic_comment, Threaten
+Refuse_to_yield <-- Reject_plan,_agreement_to_settle_dispute
+Refuse_to_yield <-- Yield, Refuse_to_yield
+Refuse_to_yield <-- Threaten, Demand_change_in_leadership
+Refuse_to_yield <-- Make_an_appeal_or_request, Threaten
+Refuse_to_yield <-- Seize_or_damage_property
+Refuse_to_yield <-- Kill_by_physical_assault, Threaten
+Refuse_to_yield <-- Threaten, Halt_mediation
+Refuse_to_yield <-- Use_tactics_of_violent_repression, Threaten
+Refuse_to_yield <-- Complain_officially
+Refuse_to_yield <-- Threaten, Complain_officially
+Refuse_to_yield <-- Complain_officially, Threaten
+Refuse_to_yield <-- Veto
+Refuse_to_yield <-- Threaten, Mobilize_or_increase_armed_forces
+Refuse_to_yield <-- Expel_or_deport_individuals
+Refuse_to_yield <-- Threaten, Use_conventional_military_force
+Refuse_to_yield <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Refuse_to_yield <-- Threaten, Kill_by_physical_assault
+Refuse_to_yield <-- Veto, Threaten
+Refuse_to_yield <-- Reduce_or_break_diplomatic_relations
+Refuse_to_yield <-- Refuse_to_release_persons_or_property
+Refuse_to_yield <-- Threaten, Use_unconventional_violence
+Refuse_to_yield <-- Make_pessimistic_comment
+Refuse_to_yield <-- Declare_truce,_ceasefire, Threaten
+Refuse_to_yield <-- Defy_norms,_law
+Refuse_to_yield <-- Halt_negotiations
+Refuse_to_yield <-- Give_ultimatum
+Refuse_to_yield <-- Threaten, Criticize_or_denounce
+Refuse_to_yield <-- Provide_humanitarian_aid, Threaten
+Refuse_to_yield <-- Threaten, Destroy_property
+Refuse_to_yield <-- Threaten, Decline_comment
+Refuse_to_yield <-- Impose_restrictions_on_political_freedoms
+Refuse_to_yield <-- Threaten, Seize_or_damage_property
+Refuse_to_yield <-- Reduce_relations, Threaten
+Refuse_to_yield <-- Threaten, Arrest,_detain,_or_charge_with_legal_action
+Refuse_to_yield <-- Accuse
+Refuse_to_yield <-- Sign_formal_agreement, Threaten
+Refuse_to_yield <-- Demand_change_in_leadership
+Refuse_to_yield <-- Expel_or_deport_individuals, Threaten
+Refuse_to_yield <-- Impose_embargo,_boycott,_or_sanctions
+Refuse_to_yield <-- Threaten, Threaten
+Refuse_to_yield <-- Reject
+Refuse_to_yield <-- Use_conventional_military_force
+Refuse_to_yield <-- Threaten, Give_ultimatum
+Refuse_to_yield <-- Increase_military_alert_status
+Refuse_to_yield <-- Return,_release_person(s), Threaten
+Refuse_to_yield <-- Mobilize_or_increase_armed_forces, Threaten
+Refuse_to_yield <-- Threaten, Impose_embargo,_boycott,_or_sanctions
+Refuse_to_yield <-- Threaten, Reduce_or_break_diplomatic_relations
+Refuse_to_yield <-- Protest_violently,_riot
+Refuse_to_yield <-- Criticize_or_denounce, Threaten
+Refuse_to_yield <-- Use_unconventional_violence
+Refuse_to_yield <-- Use_tactics_of_violent_repression
+Refuse_to_yield <-- Threaten, Increase_military_alert_status
+Refuse_to_yield <-- Abduct,_hijack,_or_take_hostage, Threaten
+Refuse_to_yield <-- Threaten
+Refuse_to_yield <-- Obstruct_passage,_block
+Refuse_to_yield <-- Ease_administrative_sanctions, Threaten
+Refuse_to_yield <-- Make_statement, Use_tactics_of_violent_repression
+Refuse_to_yield <-- Increase_military_alert_status, Threaten
+Refuse_to_yield <-- Physically_assault, Threaten
+Refuse_to_yield <-- Express_intent_to_cooperate, Threaten
+Refuse_to_yield <-- Decline_comment
+Refuse_to_yield <-- Arrest,_detain,_or_charge_with_legal_action, Threaten
+Refuse_to_yield <-- Arrest,_detain,_or_charge_with_legal_action
+Refuse_to_yield <-- Threaten, Physically_assault
+Refuse_to_yield <-- Defy_norms,_law, Threaten
+Refuse_to_yield <-- Halt_mediation
+Refuse_to_yield <-- Threaten, Coerce
+Refuse_to_yield <-- Kill_by_physical_assault
+Refuse_to_yield <-- Threaten, Halt_negotiations
+Refuse_to_yield <-- Threaten, Reduce_relations
+Refuse_to_yield <-- Threaten, Accuse
+Refuse_to_yield <-- Reduce_or_break_diplomatic_relations, Threaten
+Refuse_to_yield <-- Threaten, Reject_plan,_agreement_to_settle_dispute
+Refuse_to_yield <-- Threaten, Protest_violently,_riot
+Refuse_to_yield <-- Threaten, Confiscate_property
+Refuse_to_yield <-- Destroy_property
+Refuse_to_yield <-- Mobilize_or_increase_armed_forces
+Refuse_to_yield <-- Threaten, Obstruct_passage,_block
+Refuse_to_yield <-- Threaten, Veto
+Refuse_to_yield <-- Demand, Threaten
+Refuse_to_yield <-- Refuse_to_ease_administrative_sanctions
+Refuse_to_yield <-- Threaten, Expel_or_deport_individuals
+Refuse_to_yield <-- Reduce_relations

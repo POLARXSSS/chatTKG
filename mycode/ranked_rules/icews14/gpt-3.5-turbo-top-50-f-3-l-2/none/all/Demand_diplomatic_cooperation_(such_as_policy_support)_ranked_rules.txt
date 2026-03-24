@@ -1,0 +1,75 @@
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+3	0.038461538461538464	0.05357142857142857	0.3	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_change_in_leadership
+26	0.3333333333333333	0.02826086956521739	0.14285714285714285	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Demand
+2	0.02564102564102564	0.06451612903225806	0.16666666666666666	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_change_policy
+2	0.02564102564102564	0.15384615384615385	0.5	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_militarily
+3	0.038461538461538464	0.046875	0.21428571428571427	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_intelligence
+3	0.038461538461538464	0.04	0.17647058823529413	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Host_a_visit
+3	0.038461538461538464	0.2727272727272727	1.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_material_cooperation
+2	0.02564102564102564	0.25	0.6666666666666666	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_to_yield
+2	0.02564102564102564	0.06666666666666667	0.2222222222222222	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_judicial_cooperation
+2	0.02564102564102564	0.1	0.3333333333333333	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_military_aid
+29	0.3717948717948718	0.010796723752792257	0.06682027649769585	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_political_reform
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_institute_political_reform
+19	0.24358974358974358	0.003013481363996828	0.024296675191815855	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Consult
+1	0.01282051282051282	0.00228310502283105	0.012987012987012988	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Demand_policy_change
+4	0.05128205128205128	0.125	0.4444444444444444	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_to_others_to_meet_or_negotiate
+1	0.01282051282051282	0.05555555555555555	0.16666666666666666	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_de-escalation_of_military_engagement
+1	0.01282051282051282	0.07692307692307693	0.16666666666666666	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_to_others_to_settle_dispute
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_yield
+4	0.05128205128205128	0.23529411764705882	0.4444444444444444	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_economic_aid
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_mediate
+11	0.14102564102564102	0.01661631419939577	0.14864864864864866	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation
+13	0.16666666666666666	0.011206896551724138	0.06770833333333333	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Mediate
+3	0.038461538461538464	0.14285714285714285	1.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_aid
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_military_protection_or_peacekeeping
+4	0.05128205128205128	0.044444444444444446	0.2857142857142857	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Yield
+2	0.02564102564102564	0.14285714285714285	0.4	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Demand_material_cooperation
+2	0.02564102564102564	0.023255813953488372	0.3333333333333333	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_engage_in_material_cooperation
+6	0.07692307692307693	0.01935483870967742	0.09836065573770492	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Meet_at_a_'third'_location
+2	0.02564102564102564	0.020202020202020204	0.2	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_on_intelligence
+1	0.01282051282051282	0.25	1.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Threaten_with_sanctions,_boycott,_embargo
+3	0.038461538461538464	0.004076086956521739	0.031914893617021274	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Sign_formal_agreement
+2	0.02564102564102564	0.1111111111111111	0.3333333333333333	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_change_leadership
+15	0.19230769230769232	0.01984126984126984	0.09740259740259741	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_accept_mediation
+37	0.47435897435897434	0.011515717398070339	0.0691588785046729	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_target_to_allow_international_involvement_(non-mediation)
+2	0.02564102564102564	0.11764705882352941	0.5	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_economic_cooperation
+4	0.05128205128205128	0.10810810810810811	0.2857142857142857	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_settle_dispute
+34	0.4358974358974359	0.004191321499013806	0.05143721633888049	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Host_a_visit
+3	0.038461538461538464	0.2727272727272727	1.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_material_cooperation
+38	0.48717948717948717	0.0012339264839589558	0.01539084649655731	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Make_an_appeal_or_request
+2	0.02564102564102564	0.027777777777777776	0.15384615384615385	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Accuse, Demand_material_cooperation
+22	0.28205128205128205	0.001133611583449271	0.012709416522241479	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_a_visit, Express_intent_to_meet_or_negotiate
+2	0.02564102564102564	0.013605442176870748	0.125	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Appeal_for_material_cooperation
+3	0.038461538461538464	0.034482758620689655	0.14285714285714285	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Demand_material_cooperation
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation, Demand_material_cooperation
+1	0.01282051282051282	0.25	1.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_engage_in_material_cooperation, Demand_material_cooperation
+38	0.48717948717948717	0.0011104617182933958	0.015157558835261268	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Express_intent_to_meet_or_negotiate
+3	0.038461538461538464	0.05357142857142857	0.3	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_change_in_leadership
+3	0.038461538461538464	0.14285714285714285	1.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_aid
+14	0.1794871794871795	0.005325218714340053	0.03664921465968586	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Praise_or_endorse
+7	0.08974358974358974	0.002158495220474869	0.021806853582554516	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation, Make_a_visit
+15	0.19230769230769232	0.0070389488503050214	0.05226480836236934	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_a_visit
+0.0	0.0	0.0	0.0	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Provide_humanitarian_aid, Engage_in_symbolic_act
+3	0.038461538461538464	0.016853932584269662	0.10714285714285714	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Reduce_relations
+2	0.02564102564102564	0.14285714285714285	0.4	Demand_diplomatic_cooperation_(such_as_policy_support) <-- Demand_material_cooperation

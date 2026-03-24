@@ -1,0 +1,18 @@
+Appeal_for_judicial_cooperation <-- Appeal_for_military_aid
+Appeal_for_judicial_cooperation <-- Engage_in_material_cooperation
+Appeal_for_judicial_cooperation <-- Reduce_relations, Obstruct_passage,_block
+Appeal_for_judicial_cooperation <-- Appeal_for_material_cooperation
+Appeal_for_judicial_cooperation <-- Demand
+Appeal_for_judicial_cooperation <-- Reject_plan,_agreement_to_settle_dispute
+Appeal_for_judicial_cooperation <-- Accuse
+Appeal_for_judicial_cooperation <-- Refuse_to_release_persons_or_property
+Appeal_for_judicial_cooperation <-- Appeal_for_material_cooperation, Make_statement
+Appeal_for_judicial_cooperation <-- Defy_norms,_law
+Appeal_for_judicial_cooperation <-- Express_intent_to_engage_in_material_cooperation, Express_intent_to_meet_or_negotiate
+Appeal_for_judicial_cooperation <-- Investigate, Make_statement
+Appeal_for_judicial_cooperation <-- Make_an_appeal_or_request, Demand
+Appeal_for_judicial_cooperation <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_judicial_cooperation <-- Torture
+Appeal_for_judicial_cooperation <-- Accuse, Make_statement
+Appeal_for_judicial_cooperation <-- Demonstrate_or_rally, Impose_state_of_emergency_or_martial_law
+Appeal_for_judicial_cooperation <-- Express_intent_to_engage_in_material_cooperation, Make_an_appeal_or_request

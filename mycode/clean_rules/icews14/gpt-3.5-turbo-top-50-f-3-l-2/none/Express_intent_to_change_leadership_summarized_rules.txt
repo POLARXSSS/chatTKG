@@ -1,0 +1,30 @@
+Express_intent_to_change_leadership(X0,X2,T2) <- Engage_in_political_dissent(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Make_statement(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Reduce_relations(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Threaten_non-force(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Meet_at_a_'third'_location(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Rally_opposition_against(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Rally_support_on_behalf_of(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Appeal_for_change_in_leadership(X0,X2,T2).
+Express_intent_to_change_leadership(X0,X2,T2) <- Complain_officially(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Criticize_or_denounce(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Impose_administrative_sanctions(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Give_ultimatum(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Reduce_or_break_diplomatic_relations(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Protest_violently,_riot(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Engage_in_negotiation(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Expel_or_deport_individuals(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Reject_request_for_change_in_leadership(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Use_conventional_military_force(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Threaten_with_military_force(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Demand_change_in_leadership(X0,X2,T2).
+Express_intent_to_change_leadership(X0,X2,T2) <- Demonstrate_for_leadership_change(X0,X2,T2).
+Express_intent_to_change_leadership(X0,X2,T2) <- Conduct_strike_or_boycott(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Obstruct_passage_to_demand_leadership_change(X0,X2,T2).
+Express_intent_to_change_leadership(X0,X2,T2) <- Threaten_with_political_dissent,_protest(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Consult(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Threaten_with_sanctions,_boycott,_embargo(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Defend_verbally(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Appeal_to_others_to_meet_or_negotiate(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Accuse_of_crime,_corruption(X0,X2,T0), Demand_change_in_leadership(X0,X2,T1).
+Express_intent_to_change_leadership(X0,X2,T2) <- Make_an_appeal_or_request(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).

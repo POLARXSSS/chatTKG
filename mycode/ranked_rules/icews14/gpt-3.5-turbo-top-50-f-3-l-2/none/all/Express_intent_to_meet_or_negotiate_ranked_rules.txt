@@ -1,0 +1,99 @@
+205	0.04029880086494987	2.0707070707070705	2.77027027027027	Express_intent_to_meet_or_negotiate <-- Cooperate_economically
+63	0.012384509534106546	0.7325581395348837	1.3695652173913044	Express_intent_to_meet_or_negotiate <-- Cooperate_militarily
+11	0.002162374680558286	0.6470588235294118	0.7857142857142857	Express_intent_to_meet_or_negotiate <-- Appeal_for_economic_cooperation
+900	0.17692156477295065	2.903225806451613	3.345724907063197	Express_intent_to_meet_or_negotiate <-- Meet_at_a_'third'_location
+32	0.006290544525260468	2.909090909090909	3.2	Express_intent_to_meet_or_negotiate <-- Appeal_for_material_cooperation
+6	0.0011794770984863377	0.4	0.6	Express_intent_to_meet_or_negotiate <-- Express_intent_to_de-escalate_military_engagement
+1021	0.2007076862590918	1.3872282608695652	2.0668016194331984	Express_intent_to_meet_or_negotiate <-- Sign_formal_agreement
+11	0.002162374680558286	1.0	1.2222222222222223	Express_intent_to_meet_or_negotiate <-- Demand_de-escalation_of_military_engagement
+43	0.008452919205818754	0.8958333333333334	1.4827586206896552	Express_intent_to_meet_or_negotiate <-- Impose_restrictions_on_political_freedoms
+776	0.15254570473756635	0.3641482871891131	0.40993132593766507	Express_intent_to_meet_or_negotiate <-- Host_a_visit
+904	0.17770788283860822	1.6648250460405156	2.254364089775561	Express_intent_to_meet_or_negotiate <-- Make_optimistic_comment
+252	0.04953803813642618	2.739130434782609	4.131147540983607	Express_intent_to_meet_or_negotiate <-- Complain_officially
+293	0.05759779830941616	7.918918918918919	8.13888888888889	Express_intent_to_meet_or_negotiate <-- Express_intent_to_settle_dispute
+7	0.0013760566149007274	0.2916666666666667	0.5	Express_intent_to_meet_or_negotiate <-- Defend_verbally
+439	0.08629840770591704	1.0022831050228311	1.5905797101449275	Express_intent_to_meet_or_negotiate <-- Discuss_by_telephone
+54	0.010615293886377039	5.4	6.0	Express_intent_to_meet_or_negotiate <-- Ease_economic_sanctions,_boycott,_embargo
+27	0.0053076469431885195	0.48214285714285715	0.9642857142857143	Express_intent_to_meet_or_negotiate <-- Acknowledge_or_claim_responsibility
+117	0.022999803420483585	0.44656488549618323	0.9435483870967742	Express_intent_to_meet_or_negotiate <-- Return,_release_person(s)
+16	0.003145272262630234	0.5925925925925926	0.8421052631578947	Express_intent_to_meet_or_negotiate <-- Declare_truce,_ceasefire
+4	0.0007863180656575585	0.3333333333333333	0.6666666666666666	Express_intent_to_meet_or_negotiate <-- Express_intent_to_yield
+1356	0.2665618242579123	0.5157854697603652	0.8153938665063138	Express_intent_to_meet_or_negotiate <-- Praise_or_endorse
+1	0.00019657951641438963	0.25	0.5	Express_intent_to_meet_or_negotiate <-- Demobilize_armed_forces
+23	0.004521328877530961	1.2105263157894737	1.3529411764705883	Express_intent_to_meet_or_negotiate <-- Mediate
+109	0.021427167289168467	0.7032258064516129	1.1595744680851063	Express_intent_to_meet_or_negotiate <-- Provide_aid
+231	0.045409868291724005	5.5	9.24	Express_intent_to_meet_or_negotiate <-- Share_intelligence_or_information
+31	0.006093965008846078	0.2767857142857143	0.5254237288135594	Express_intent_to_meet_or_negotiate <-- Ease_administrative_sanctions
+17	0.0033418517790446234	0.5483870967741935	0.8947368421052632	Express_intent_to_meet_or_negotiate <-- Apologize
+115	0.022606644387654806	1.7692307692307692	2.738095238095238	Express_intent_to_meet_or_negotiate <-- Grant_diplomatic_recognition
+85	0.01670925889522312	6.538461538461538	8.5	Express_intent_to_meet_or_negotiate <-- Appeal_to_others_to_settle_dispute
+1289	0.25339099665814824	1.7050264550264551	2.26140350877193	Express_intent_to_meet_or_negotiate <-- Express_intent_to_cooperate
+6	0.0011794770984863377	0.6	1.2	Express_intent_to_meet_or_negotiate <-- Express_intent_to_accept_mediation
+219	0.04305091409475133	2.546511627906977	4.9772727272727275	Express_intent_to_meet_or_negotiate <-- Engage_in_material_cooperation
+4	0.0007863180656575585	0.36363636363636365	0.5	Express_intent_to_meet_or_negotiate <-- Express_intent_to_engage_in_material_cooperation
+60	0.011794770984863378	0.6666666666666666	1.0909090909090908	Express_intent_to_meet_or_negotiate <-- Yield
+72	0.014153725181836052	6.0	9.0	Express_intent_to_meet_or_negotiate <-- Return,_release_property
+7	0.0013760566149007274	0.2	0.28	Express_intent_to_meet_or_negotiate <-- Appeal_to_engage_in_or_accept_mediation
+11	0.002162374680558286	0.6111111111111112	0.8461538461538461	Express_intent_to_meet_or_negotiate <-- Demand_meeting,_negotiation
+2257	0.44367996854727737	0.35796986518636004	0.5585251175451621	Express_intent_to_meet_or_negotiate <-- Consult
+33	0.0064871240416748575	3.0	5.5	Express_intent_to_meet_or_negotiate <-- Engage_in_judicial_cooperation
+1931	0.37959504619618634	0.2380424063116371	0.5221741481882098	Express_intent_to_meet_or_negotiate <-- Make_statement
+0.0	0.0	0.0	0.0	Express_intent_to_meet_or_negotiate <-- Receive_inspectors
+51	0.010025555337133871	0.6071428571428571	1.3783783783783783	Express_intent_to_meet_or_negotiate <-- Mobilize_or_increase_armed_forces
+250	0.049144879103597404	0.4854368932038835	1.0330578512396693	Express_intent_to_meet_or_negotiate <-- Investigate
+27	0.0053076469431885195	0.84375	1.125	Express_intent_to_meet_or_negotiate <-- Appeal_to_others_to_meet_or_negotiate
+223	0.043837232160408884	2.3978494623655915	3.2318840579710146	Express_intent_to_meet_or_negotiate <-- Consider_policy_option
+0.0	0.0	0.0	0.0	Express_intent_to_meet_or_negotiate <-- Forgive
+752	0.147827796343621	1.13595166163142	1.3951762523191094	Express_intent_to_meet_or_negotiate <-- Engage_in_diplomatic_cooperation
+2011	0.39532140750933753	0.9436884091975598	1.3204202232435982	Express_intent_to_meet_or_negotiate <-- Make_a_visit
+1383	0.27186947120110083	1.1922413793103448	1.5574324324324325	Express_intent_to_meet_or_negotiate <-- Engage_in_negotiation
+48	0.009435816787890702	0.38095238095238093	0.38095238095238093	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Declare_truce,_ceasefire
+876	0.1722036563790053	0.7093117408906883	0.7093117408906883	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Express_intent_to_settle_dispute
+2219	0.43620994692353054	0.1876850207223209	0.1876850207223209	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Sign_formal_agreement
+17	0.0033418517790446234	0.02750809061488673	0.06692913385826772	Express_intent_to_meet_or_negotiate <-- Criticize_or_denounce, Demand_change_in_leadership
+31	0.006093965008846078	2.5833333333333335	2.5833333333333335	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Express_intent_to_cooperate_on_judicial_matters
+1021	0.2007076862590918	1.3872282608695652	2.0668016194331984	Express_intent_to_meet_or_negotiate <-- Sign_formal_agreement
+1295	0.25457047375663455	0.40204905308910277	0.5586712683347713	Express_intent_to_meet_or_negotiate <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+610	0.11991350501277767	0.8640226628895185	0.8640226628895185	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Engage_in_material_cooperation
+559	0.1098879496756438	0.42444950645406226	0.42444950645406226	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Complain_officially
+117	0.022999803420483585	0.2224334600760456	0.2224334600760456	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Appeal_to_others_to_meet_or_negotiate
+317	0.062315706703361506	0.6179337231968811	0.6179337231968811	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Express_intent_to_cooperate_militarily
+7	0.0013760566149007274	0.20588235294117646	0.20588235294117646	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Express_intent_to_accept_mediation
+2565	0.5042264596029093	0.044449450663709145	0.044449450663709145	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Host_a_visit
+2513	0.4940043247493611	0.03139601709102721	0.04647335133335799	Express_intent_to_meet_or_negotiate <-- Make_a_visit, Host_a_visit
+8	0.001572636131315117	0.0975609756097561	0.16	Express_intent_to_meet_or_negotiate <-- Provide_aid, Provide_aid
+2335	0.45901317082759974	0.16384815100694688	0.16384815100694688	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+660	0.12974248083349715	0.6358381502890174	0.6358381502890174	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+1148	0.2256732848437193	0.5372016846045858	0.5372016846045858	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Express_intent_to_cooperate_economically
+7	0.0013760566149007274	0.056910569105691054	0.056910569105691054	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Appeal_to_engage_in_or_accept_mediation
+11	0.002162374680558286	0.6111111111111112	0.8461538461538461	Express_intent_to_meet_or_negotiate <-- Demand_meeting,_negotiation
+147	0.028897188912915275	0.7386934673366834	0.7386934673366834	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Apologize
+2011	0.39532140750933753	0.9436884091975598	1.3204202232435982	Express_intent_to_meet_or_negotiate <-- Make_a_visit
+60	0.011794770984863378	0.6666666666666666	1.0909090909090908	Express_intent_to_meet_or_negotiate <-- Yield
+0.0	0.0	0.0	0.0	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Forgive
+152	0.02988008649498722	0.1655773420479303	0.1655773420479303	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Yield
+188	0.03695694908590525	0.6064516129032258	0.6064516129032258	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Appeal_to_others_to_settle_dispute
+0.0	0.0	0.0	0.0	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Express_intent_to_yield
+113	0.022213485354826028	1.202127659574468	1.202127659574468	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Demand_settling_of_dispute
+14	0.002752113229801455	0.11666666666666667	0.11666666666666667	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Halt_mediation
+0.0	0.0	0.0	0.0	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Demand_that_target_yields
+110	0.021623746805582857	0.3806228373702422	0.3806228373702422	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Appeal_for_judicial_cooperation
+1383	0.27186947120110083	1.1922413793103448	1.5574324324324325	Express_intent_to_meet_or_negotiate <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Express_intent_to_meet_or_negotiate <-- Threaten_with_military_force, Demand_meeting,_negotiation
+550	0.10811873402791429	1.5193370165745856	1.5193370165745856	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Halt_negotiations
+1289	0.25339099665814824	1.7050264550264551	2.26140350877193	Express_intent_to_meet_or_negotiate <-- Express_intent_to_cooperate
+715	0.1405543542362886	0.26560178306092125	0.26560178306092125	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Discuss_by_telephone
+3059	0.6013367407116178	0.04080081094779524	0.06268699536866265	Express_intent_to_meet_or_negotiate <-- Consult, Consult
+2257	0.44367996854727737	0.35796986518636004	0.5585251175451621	Express_intent_to_meet_or_negotiate <-- Consult
+13	0.002555533713387065	0.28888888888888886	0.325	Express_intent_to_meet_or_negotiate <-- Engage_in_diplomatic_cooperation, Express_intent_to_engage_in_material_cooperation
+77	0.015136622763908	0.5620437956204379	0.5703703703703704	Express_intent_to_meet_or_negotiate <-- Appeal_for_material_cooperation, Consult
+1954	0.3841163750737173	0.10558167179985951	0.15317080818374226	Express_intent_to_meet_or_negotiate <-- Praise_or_endorse, Praise_or_endorse
+2125	0.41773147238057795	0.06900246785296792	0.1343916013154566	Express_intent_to_meet_or_negotiate <-- Make_statement, Make_an_appeal_or_request
+77	0.015136622763908	0.32489451476793246	0.32489451476793246	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Mediate
+439	0.08629840770591704	1.0022831050228311	1.5905797101449275	Express_intent_to_meet_or_negotiate <-- Discuss_by_telephone
+23	0.004521328877530961	1.2105263157894737	1.3529411764705883	Express_intent_to_meet_or_negotiate <-- Mediate
+53	0.01041871436996265	1.0392156862745099	1.0392156862745099	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Engage_in_judicial_cooperation
+3035	0.5966188323176725	0.07886599277603097	0.07886599277603097	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Consult
+776	0.15254570473756635	0.3641482871891131	0.40993132593766507	Express_intent_to_meet_or_negotiate <-- Host_a_visit
+2215	0.435423628857873	0.11720817017673828	0.11720817017673828	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Make_an_appeal_or_request
+2390	0.4698250442303912	0.18918704979023193	0.18918704979023193	Express_intent_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate, Make_a_visit

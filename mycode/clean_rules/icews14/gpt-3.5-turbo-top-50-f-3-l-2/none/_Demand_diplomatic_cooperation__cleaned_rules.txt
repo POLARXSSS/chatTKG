@@ -1,0 +1,20 @@
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_engage_in_material_cooperation
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Host_a_visit
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_material_cooperation
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Make_an_appeal_or_request
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Accuse, Demand_material_cooperation
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_a_visit, Express_intent_to_meet_or_negotiate
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Appeal_for_material_cooperation
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Demand_material_cooperation
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation, Demand_material_cooperation
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Threaten_with_sanctions,_boycott,_embargo
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_engage_in_material_cooperation, Demand_material_cooperation
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Express_intent_to_meet_or_negotiate
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_change_in_leadership
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_aid
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Praise_or_endorse
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation, Make_a_visit
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Make_a_visit
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Provide_humanitarian_aid, Engage_in_symbolic_act
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Reduce_relations
+Demand_diplomatic_cooperation_(such_as_policy_support) <-- Demand_material_cooperation

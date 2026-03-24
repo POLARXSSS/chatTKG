@@ -1,0 +1,49 @@
+Express_intent_to_cooperate(X0,X1,T1) <- Sign_formal_agreement(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Engage_in_negotiation(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Consult(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Host_a_visit(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Make_a_visit(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Meet_at_a_'third'_location(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Discuss_by_telephone(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Make_optimistic_comment(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Make_empathetic_comment(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Apologize(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Yield(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Grant_diplomatic_recognition(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Ease_economic_sanctions,_boycott,_embargo(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Provide_humanitarian_aid(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Cooperate_economically(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Cooperate_militarily(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Engage_in_diplomatic_cooperation(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Praise_or_endorse(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Forgive(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Declare_truce,_ceasefire(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Express_intent_to_cooperate(X0,X1,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), Express_intent_to_meet_or_negotiate(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Engage_in_negotiation(X0,X1,T0), Engage_in_negotiation(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Consult(X0,X1,T0), Consult(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Host_a_visit(X0,X1,T0), Host_a_visit(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Make_a_visit(X0,X1,T0), Make_a_visit(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Discuss_by_telephone(X0,X1,T0), Discuss_by_telephone(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Make_statement(X0,X1,T0), Make_statement(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T1) <- Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Demand_diplomatic_cooperation_(such_as_policy_support)(X1,X0,T0).
+Express_intent_to_cooperate(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Sign_formal_agreement(X0,X1,T1).
+Express_intent_to_cooperate(X0,X1,T2) <- Engage_in_negotiation(X0,X1,T0), Sign_formal_agreement(X0,X1,T1).
+Express_intent_to_cooperate(X0,X1,T2) <- Consult(X0,X1,T0), Sign_formal_agreement(X0,X1,T1).
+Express_intent_to_cooperate(X0,X1,T2) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), Meet_at_a_'third'_location(X0,X1,T1).
+Express_intent_to_cooperate(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1).
+Express_intent_to_cooperate(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Provide_humanitarian_aid(X0,X1,T1).
+Express_intent_to_cooperate(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Provide_economic_aid(X0,X1,T1).
+Express_intent_to_cooperate(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Provide_material_aid(X0,X1,T1).
+Express_intent_to_cooperate(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Provide_military_aid(X0,X1,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Consult(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Make_statement(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Host_a_visit(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Make_a_visit(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Discuss_by_telephone(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Meet_at_a_'third'_location(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Engage_in_negotiation(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Sign_formal_agreement(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Mediate(X0,X2,T1).
+Express_intent_to_cooperate(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1), Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X2,T1).

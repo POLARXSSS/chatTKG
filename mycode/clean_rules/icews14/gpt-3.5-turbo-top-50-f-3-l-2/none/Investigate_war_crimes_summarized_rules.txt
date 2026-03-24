@@ -1,0 +1,20 @@
+Investigate_war_crimes(X0,X2,T2) <- Torture(X1,X2,T0), Make_statement(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Arrest,_detain,_or_charge_with_legal_action(X0,X2,T0).
+Investigate_war_crimes(X0,X2,T2) <- Investigate_human_rights_abuses(X0,X2,T0).
+Investigate_war_crimes(X0,X2,T2) <- Accuse_of_human_rights_abuses(X1,X2,T0), Appeal_for_judicial_cooperation(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Engage_in_mass_killings(X1,X2,T0), Make_statement(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Violate_ceasefire(X1,X2,T0), Complain_officially(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Accuse_of_war_crimes(X0,X2,T0).
+Investigate_war_crimes(X0,X2,T2) <- Use_tactics_of_violent_repression(X1,X2,T0), Make_statement(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Receive_inspectors(X2,X1,T0), Make_statement(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Bring_lawsuit_against(X0,X2,T0).
+Investigate_war_crimes(X0,X2,T2) <- Engage_in_mass_killings(X1,X2,T0), Complain_officially(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Appeal_for_target_to_allow_international_involvement_(non-mediation)(X0,X2,T0).
+Investigate_war_crimes(X0,X2,T2) <- Demand_judicial_cooperation(X0,X1,T0), Express_intent_to_cooperate_on_judicial_matters(X1,X2,T1).
+Investigate_war_crimes(X0,X2,T2) <- Accuse_of_war_crimes(X1,X2,T0), Make_statement(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Sexually_assault(X1,X2,T0), Make_statement(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Use_chemical,_biological,_or_radiological_weapons(X1,X2,T0), Criticize_or_denounce(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Use_chemical,_biological,_or_radiological_weapons(X1,X2,T0), Complain_officially(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Sexually_assault(X1,X2,T0), Complain_officially(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Torture(X1,X2,T0), Criticize_or_denounce(X0,X1,T1).
+Investigate_war_crimes(X0,X2,T2) <- Kill_by_physical_assault(X1,X2,T0), Complain_officially(X0,X1,T1).

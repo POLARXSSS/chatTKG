@@ -1,0 +1,25 @@
+_Acknowledge_or_claim_responsibility(X0,X1,T1) <- Kill_by_physical_assault(X0,X1,T0).
+_Acknowledge_or_claim_responsibility(X0,X1,T1) <- Detonate_nuclear_weapons(X0,X1,T0).
+_Acknowledge_or_claim_responsibility(X0,X1,T1) <- Apologize(X0,X1,T0).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Engage_in_negotiation(X0,X1,T0), Sign_formal_agreement(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0), Return,_release_person(s)(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Use_conventional_military_force(X0,X1,T0), Arrest,_detain,_or_charge_with_legal_action(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Grant_diplomatic_recognition(X0,X1,T0), Engage_in_diplomatic_cooperation(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Accuse_of_war_crimes(X0,X1,T0), Defend_verbally(X1,X0,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Protest_violently,_riot(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Provide_humanitarian_aid(X0,X1,T0), Engage_in_material_cooperation(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Threaten_with_military_force(X0,X1,T0), Yield(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X2,T2) <- Host_a_visit(X0,X1,T0), Occupy_territory(X1,X2,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Make_statement(X0,X1,T0), Accuse(X1,X0,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0), Ease_economic_sanctions,_boycott,_embargo(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T1) <- Retreat_or_surrender_militarily(X0,X1,T0).
+_Acknowledge_or_claim_responsibility(X0,X1,T1) <- fight_with_small_arms_and_light_weapons(X0,X1,T0).
+_Acknowledge_or_claim_responsibility(X0,X1,T1) <- Use_unconventional_violence(X0,X1,T0).
+_Acknowledge_or_claim_responsibility(X0,X1,T1) <- Carry_out_suicide_bombing(X0,X1,T0).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Declare_truce,_ceasefire(X0,X1,T0), Express_intent_to_yield(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Demand_release_of_persons_or_property(X0,X1,T0), Return,_release_person(s)(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Investigate_war_crimes(X0,X1,T0), Confiscate_property(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Demobilize_armed_forces(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Cooperate_militarily(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Complain_officially(X0,X1,T0), Mediate(X0,X1,T1).
+_Acknowledge_or_claim_responsibility(X0,X1,T2) <- Threaten_non-force(X0,X1,T0), Refuse_to_yield(X0,X1,T1).

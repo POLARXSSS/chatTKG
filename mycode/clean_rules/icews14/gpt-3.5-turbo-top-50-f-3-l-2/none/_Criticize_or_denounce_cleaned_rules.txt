@@ -1,0 +1,40 @@
+Criticize_or_denounce <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Criticize_or_denounce <-- Mobilize_or_increase_armed_forces
+Criticize_or_denounce <-- Use_conventional_military_force
+Criticize_or_denounce <-- Complain_officially
+Criticize_or_denounce <-- Make_statement
+Criticize_or_denounce <-- Refuse_to_release_persons_or_property
+Criticize_or_denounce <-- Kill_by_physical_assault, Sign_formal_agreement
+Criticize_or_denounce <-- Deny_responsibility
+Criticize_or_denounce <-- Impose_embargo,_boycott,_or_sanctions
+Criticize_or_denounce <-- Threaten
+Criticize_or_denounce <-- Kill_by_physical_assault
+Criticize_or_denounce <-- Abduct,_hijack,_or_take_hostage
+Criticize_or_denounce <-- Reject
+Criticize_or_denounce <-- Physically_assault, Consult
+Criticize_or_denounce <-- Abduct,_hijack,_or_take_hostage, Host_a_visit
+Criticize_or_denounce <-- Demonstrate_or_rally
+Criticize_or_denounce <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Criticize_or_denounce <-- Refuse_to_yield
+Criticize_or_denounce <-- Assassinate, Make_a_visit
+Criticize_or_denounce <-- Refuse_to_de-escalate_military_engagement
+Criticize_or_denounce <-- Assassinate
+Criticize_or_denounce <-- Threaten, Demand
+Criticize_or_denounce <-- Halt_mediation
+Criticize_or_denounce <-- Occupy_territory, Express_intent_to_meet_or_negotiate
+Criticize_or_denounce <-- Accuse
+Criticize_or_denounce <-- Expel_or_deport_individuals
+Criticize_or_denounce <-- Accuse, Make_statement
+Criticize_or_denounce <-- Arrest,_detain,_or_charge_with_legal_action, Make_an_appeal_or_request
+Criticize_or_denounce <-- Physically_assault
+Criticize_or_denounce <-- Make_pessimistic_comment
+Criticize_or_denounce <-- Defy_norms,_law
+Criticize_or_denounce <-- Occupy_territory
+Criticize_or_denounce <-- Reduce_relations
+Criticize_or_denounce <-- Arrest,_detain,_or_charge_with_legal_action
+Criticize_or_denounce <-- Impose_restrictions_on_political_freedoms
+Criticize_or_denounce <-- Use_conventional_military_force, Engage_in_negotiation
+Criticize_or_denounce <-- Expel_or_deport_individuals, Appeal_for_material_cooperation
+Criticize_or_denounce <-- Halt_negotiations
+Criticize_or_denounce <-- Veto
+Criticize_or_denounce <-- Reject_plan,_agreement_to_settle_dispute

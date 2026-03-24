@@ -1,0 +1,30 @@
+Engage_in_material_cooperation <-- Grant_diplomatic_recognition
+Engage_in_material_cooperation <-- Investigate, Share_intelligence_or_information
+Engage_in_material_cooperation <-- Engage_in_negotiation, Sign_formal_agreement
+Engage_in_material_cooperation <-- Consult, Discuss_by_telephone
+Engage_in_material_cooperation <-- Accuse, Express_intent_to_meet_or_negotiate
+Engage_in_material_cooperation <-- Provide_aid
+Engage_in_material_cooperation <-- Praise_or_endorse, Express_accord
+Engage_in_material_cooperation <-- Demand_policy_change, Express_intent_to_change_policy
+Engage_in_material_cooperation <-- Discuss_by_telephone, Express_intent_to_meet_or_negotiate
+Engage_in_material_cooperation <-- Engage_in_diplomatic_cooperation
+Engage_in_material_cooperation <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+Engage_in_material_cooperation <-- Protest_violently,_riot, Apologize
+Engage_in_material_cooperation <-- Host_a_visit, Make_a_visit
+Engage_in_material_cooperation <-- Appeal_for_military_aid, Provide_military_aid
+Engage_in_material_cooperation <-- Threaten, Yield
+Engage_in_material_cooperation <-- Complain_officially, Apologize
+Engage_in_material_cooperation <-- Demobilize_armed_forces, Express_intent_to_cooperate
+Engage_in_material_cooperation <-- Provide_economic_aid
+Engage_in_material_cooperation <-- Provide_humanitarian_aid
+Engage_in_material_cooperation <-- Cooperate_militarily
+Engage_in_material_cooperation <-- Use_conventional_military_force, Declare_truce,_ceasefire
+Engage_in_material_cooperation <-- Provide_military_aid, Cooperate_militarily
+Engage_in_material_cooperation <-- Sign_formal_agreement
+Engage_in_material_cooperation <-- Express_intent_to_cooperate, Engage_in_material_cooperation
+Engage_in_material_cooperation <-- Demand_material_cooperation, Provide_aid
+Engage_in_material_cooperation <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+Engage_in_material_cooperation <-- Defend_verbally, Make_statement
+Engage_in_material_cooperation <-- Appeal_for_economic_cooperation, Cooperate_economically
+Engage_in_material_cooperation <-- Appeal_for_material_cooperation
+Engage_in_material_cooperation <-- Cooperate_economically

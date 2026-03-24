@@ -1,0 +1,79 @@
+0.0	0.0	0.0	0.0	Destroy_property <-- Reduce_or_break_diplomatic_relations, Accuse
+0.0	0.0	0.0	0.0	Destroy_property <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Destroy_property <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Destroy_property <-- Threaten_with_repression, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Destroy_property <-- Increase_police_alert_status, Mobilize_or_increase_police_power
+3	0.6	0.0037313432835820895	0.15	Destroy_property <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Criticize_or_denounce, Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Destroy_property <-- Appeal_for_military_aid, Provide_military_aid
+0.0	0.0	0.0	0.0	Destroy_property <-- Threaten_with_military_force, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Destroy_property <-- Demonstrate_for_leadership_change, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Destroy_property <-- Coerce, Threaten_non-force
+0.0	0.0	0.0	0.0	Destroy_property <-- Impose_blockade,_restrict_movement, Reduce_relations
+2	0.4	0.01694915254237288	0.5	Destroy_property <-- Occupy_territory
+1	0.2	0.010638297872340425	1.0	Destroy_property <-- Confiscate_property
+0.0	0.0	0.0	0.0	Destroy_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Destroy_property <-- Demand, Refuse_to_yield
+1	0.2	0.0023923444976076554	0.14285714285714285	Destroy_property <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Destroy_property <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Destroy_property <-- Violate_ceasefire, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Destroy_property <-- Express_intent_to_change_leadership, Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Destroy_property <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Destroy_property <-- Engage_in_material_cooperation, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Destroy_property <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Destroy_property <-- Reject_plan,_agreement_to_settle_dispute, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Threaten_to_reduce_or_break_relations, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Destroy_property <-- Increase_military_alert_status, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Destroy_property <-- Investigate_crime,_corruption, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Destroy_property <-- Investigate, Use_conventional_military_force
+1	0.2	0.0028089887640449437	0.25	Destroy_property <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Destroy_property <-- Impose_embargo,_boycott,_or_sanctions, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Destroy_property <-- Torture
+0.0	0.0	0.0	0.0	Destroy_property <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Destroy_property <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Destroy_property <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Destroy_property <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Destroy_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Destroy_property <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Destroy_property <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Seize_or_damage_property
+1	0.2	0.0023923444976076554	0.14285714285714285	Destroy_property <-- fight_with_small_arms_and_light_weapons
+1	0.2	0.001002004008016032	0.5	Destroy_property <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Destroy_property <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Destroy_property <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Destroy_property <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Destroy_property <-- Sexually_assault
+0.0	0.0	0.0	0.0	Destroy_property <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Destroy_property <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Destroy_property <-- Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Destroy_property <-- Engage_in_mass_expulsion
+1	0.2	0.0035335689045936395	1.0	Destroy_property <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Destroy_property <-- Cooperate_militarily, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Destroy_property <-- Mobilize_or_increase_armed_forces, Praise_or_endorse
+0.0	0.0	0.0	0.0	Destroy_property <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Destroy_property <-- Engage_in_violent_protest_for_rights
+1	0.2	0.041666666666666664	1.0	Destroy_property <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Destroy_property <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Destroy_property <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Destroy_property <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Destroy_property <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Destroy_property <-- Give_ultimatum, Refuse_to_yield
+0.0	0.0	0.0	0.0	Destroy_property <-- Impose_blockade,_restrict_movement, Refuse_to_ease_administrative_sanctions
+1	0.2	0.06666666666666667	1.0	Destroy_property <-- Increase_police_alert_status
+0.0	0.0	0.0	0.0	Destroy_property <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Destroy_property <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Destroy_property <-- Threaten_with_sanctions,_boycott,_embargo
+3	0.6	0.0037313432835820895	0.15	Destroy_property <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Use_tactics_of_violent_repression
+2	0.4	0.01694915254237288	0.5	Destroy_property <-- Occupy_territory
+0.0	0.0	0.0	0.0	Destroy_property <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Destroy_property <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Destroy_property <-- Physically_assault
+1	0.2	0.010638297872340425	1.0	Destroy_property <-- Confiscate_property
+1	0.2	0.0018115942028985507	0.07692307692307693	Destroy_property <-- Arrest,_detain,_or_charge_with_legal_action, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Destroy_property <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Destroy_property <-- Carry_out_car_bombing

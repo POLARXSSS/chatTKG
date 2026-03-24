@@ -1,0 +1,198 @@
+Express_intent_to_accept_mediation <-- Demand_easing_of_administrative_sanctions
+Express_intent_to_accept_mediation <-- Grant_diplomatic_recognition
+Express_intent_to_accept_mediation <-- Coerce, Yield
+Express_intent_to_accept_mediation <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+Express_intent_to_accept_mediation <-- Express_intent_to_provide_humanitarian_aid
+Express_intent_to_accept_mediation <-- Host_a_visit
+Express_intent_to_accept_mediation <-- Appeal_for_aid
+Express_intent_to_accept_mediation <-- Declare_truce,_ceasefire
+Express_intent_to_accept_mediation <-- Appeal_for_easing_of_administrative_sanctions
+Express_intent_to_accept_mediation <-- Engage_in_diplomatic_cooperation
+Express_intent_to_accept_mediation <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+Express_intent_to_accept_mediation <-- Demand_that_target_yields
+Express_intent_to_accept_mediation <-- Make_statement
+Express_intent_to_accept_mediation <-- Receive_inspectors
+Express_intent_to_accept_mediation <-- Express_intent_to_engage_in_material_cooperation
+Express_intent_to_accept_mediation <-- Protest_violently,_riot, Demonstrate_or_rally
+Express_intent_to_accept_mediation <-- Appeal_for_release_of_persons_or_property
+Express_intent_to_accept_mediation <-- Express_intent_to_settle_dispute
+Express_intent_to_accept_mediation <-- Express_intent_to_cooperate_economically
+Express_intent_to_accept_mediation <-- Demand_economic_aid
+Express_intent_to_accept_mediation <-- Demand_political_reform
+Express_intent_to_accept_mediation <-- Demand_settling_of_dispute
+Express_intent_to_accept_mediation <-- Consider_policy_option, Express_intent_to_cooperate
+Express_intent_to_accept_mediation <-- Appeal_for_target_to_allow_international_involvement_(non-mediation)
+Express_intent_to_accept_mediation <-- Appeal_for_rights
+Express_intent_to_accept_mediation <-- Demand_military_aid
+Express_intent_to_accept_mediation <-- Appeal_for_political_reform
+Express_intent_to_accept_mediation <-- Demand_policy_change
+Express_intent_to_accept_mediation <-- Grant_asylum
+Express_intent_to_accept_mediation <-- Investigate_human_rights_abuses
+Express_intent_to_accept_mediation <-- Expel_or_withdraw
+Express_intent_to_accept_mediation <-- Express_intent_to_cooperate
+Express_intent_to_accept_mediation <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Express_intent_to_accept_mediation <-- Ease_administrative_sanctions
+Express_intent_to_accept_mediation <-- Express_intent_to_change_leadership
+Express_intent_to_accept_mediation <-- Appeal_for_humanitarian_aid
+Express_intent_to_accept_mediation <-- Impose_state_of_emergency_or_martial_law, Ease_state_of_emergency_or_martial_law
+Express_intent_to_accept_mediation <-- Demand_judicial_cooperation
+Express_intent_to_accept_mediation <-- Ease_state_of_emergency_or_martial_law
+Express_intent_to_accept_mediation <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+Express_intent_to_accept_mediation <-- Express_intent_to_de-escalate_military_engagement
+Express_intent_to_accept_mediation <-- Appeal_for_change_in_leadership
+Express_intent_to_accept_mediation <-- Forgive
+Express_intent_to_accept_mediation <-- Threaten_with_political_dissent,_protest, Engage_in_political_dissent
+Express_intent_to_accept_mediation <-- Accede_to_demands_for_change_in_institutions,_regime
+Express_intent_to_accept_mediation <-- Demand_humanitarian_aid
+Express_intent_to_accept_mediation <-- Consult
+Express_intent_to_accept_mediation <-- Reduce_relations
+Express_intent_to_accept_mediation <-- Reject_economic_cooperation
+Express_intent_to_accept_mediation <-- Reduce_or_stop_economic_assistance
+Express_intent_to_accept_mediation <-- Express_intent_to_accept_mediation
+Express_intent_to_accept_mediation <-- Consider_policy_option
+Express_intent_to_accept_mediation <-- Demobilize_armed_forces
+Express_intent_to_accept_mediation <-- Accede_to_demands_for_change_in_leadership
+Express_intent_to_accept_mediation <-- Appeal_for_military_aid, Provide_military_aid
+Express_intent_to_accept_mediation <-- Engage_in_material_cooperation
+Express_intent_to_accept_mediation <-- Defend_verbally
+Express_intent_to_accept_mediation <-- Demand_material_cooperation
+Express_intent_to_accept_mediation <-- Criticize_or_denounce, Defend_verbally
+Express_intent_to_accept_mediation <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+Express_intent_to_accept_mediation <-- Provide_humanitarian_aid, Appeal_for_humanitarian_aid
+Express_intent_to_accept_mediation <-- Obstruct_passage,_block, Ease_curfew
+Express_intent_to_accept_mediation <-- Mobilize_or_increase_armed_forces, Demobilize_armed_forces
+Express_intent_to_accept_mediation <-- Impose_blockade,_restrict_movement, Ease_military_blockade
+Express_intent_to_accept_mediation <-- Ease_economic_sanctions,_boycott,_embargo
+Express_intent_to_accept_mediation <-- Engage_in_political_dissent
+Express_intent_to_accept_mediation <-- Accede_to_demands_for_change_in_policy
+Express_intent_to_accept_mediation <-- Accede_to_requests_or_demands_for_political_reform
+Express_intent_to_accept_mediation <-- Appeal_for_material_cooperation
+Express_intent_to_accept_mediation <-- Demand_change_in_institutions,_regime
+Express_intent_to_accept_mediation <-- Demand_meeting,_negotiation
+Express_intent_to_accept_mediation <-- Investigate_crime,_corruption
+Express_intent_to_accept_mediation <-- Express_accord
+Express_intent_to_accept_mediation <-- Express_intent_to_cooperate_on_intelligence, Express_intent_to_cooperate_on_judicial_matters
+Express_intent_to_accept_mediation <-- Demand_change_in_leadership
+Express_intent_to_accept_mediation <-- Demand_material_aid
+Express_intent_to_accept_mediation <-- Appeal_for_policy_change
+Express_intent_to_accept_mediation <-- Appeal_for_military_protection_or_peacekeeping
+Express_intent_to_accept_mediation <-- Declare_truce,_ceasefire, Engage_in_negotiation
+Express_intent_to_accept_mediation <-- Investigate_war_crimes, Apologize
+Express_intent_to_accept_mediation <-- Express_intent_to_mediate
+Express_intent_to_accept_mediation <-- Appeal_for_economic_aid, Provide_economic_aid
+Express_intent_to_accept_mediation <-- Rally_opposition_against, Rally_support_on_behalf_of
+Express_intent_to_accept_mediation <-- Appeal_for_de-escalation_of_military_engagement
+Express_intent_to_accept_mediation <-- Engage_in_judicial_cooperation
+Express_intent_to_accept_mediation <-- Demand_mediation
+Express_intent_to_accept_mediation <-- Appeal_for_change_in_leadership, Accede_to_demands_for_change_in_leadership
+Express_intent_to_accept_mediation <-- Accuse, Accuse_of_aggression
+Express_intent_to_accept_mediation <-- Provide_humanitarian_aid
+Express_intent_to_accept_mediation <-- Express_intent_to_accept_mediation, Express_intent_to_accept_mediation
+Express_intent_to_accept_mediation <-- Reduce_or_stop_military_assistance
+Express_intent_to_accept_mediation <-- Express_intent_to_change_policy
+Express_intent_to_accept_mediation <-- Ease_political_dissent
+Express_intent_to_accept_mediation <-- Appeal_to_others_to_meet_or_negotiate, Meet_at_a_'third'_location
+Express_intent_to_accept_mediation <-- Appeal_for_intelligence
+Express_intent_to_accept_mediation <-- Express_intent_to_ease_administrative_sanctions
+Express_intent_to_accept_mediation <-- Provide_military_aid
+Express_intent_to_accept_mediation <-- Make_empathetic_comment
+Express_intent_to_accept_mediation <-- Express_intent_to_de-escalate_military_engagement, Declare_truce,_ceasefire
+Express_intent_to_accept_mediation <-- Appeal_for_change_in_institutions,_regime
+Express_intent_to_accept_mediation <-- Provide_military_protection_or_peacekeeping
+Express_intent_to_accept_mediation <-- Expel_or_withdraw_peacekeepers, Receive_deployment_of_peacekeepers
+Express_intent_to_accept_mediation <-- Reduce_or_stop_humanitarian_assistance
+Express_intent_to_accept_mediation <-- Abduct,_hijack,_or_take_hostage, Return,_release_person(s)
+Express_intent_to_accept_mediation <-- Yield, Refuse_to_yield
+Express_intent_to_accept_mediation <-- Express_intent_to_change_institutions,_regime
+Express_intent_to_accept_mediation <-- Complain_officially
+Express_intent_to_accept_mediation <-- Provide_military_aid, Provide_military_protection_or_peacekeeping
+Express_intent_to_accept_mediation <-- Appeal_to_others_to_settle_dispute
+Express_intent_to_accept_mediation <-- fight_with_artillery_and_tanks, fight_with_small_arms_and_light_weapons
+Express_intent_to_accept_mediation <-- Demand_release_of_persons_or_property
+Express_intent_to_accept_mediation <-- Express_intent_to_provide_material_aid, Express_intent_to_provide_military_aid
+Express_intent_to_accept_mediation <-- Deny_responsibility, Acknowledge_or_claim_responsibility
+Express_intent_to_accept_mediation <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Express_intent_to_accept_mediation <-- Express_intent_to_meet_or_negotiate
+Express_intent_to_accept_mediation <-- Employ_aerial_weapons, Use_unconventional_violence
+Express_intent_to_accept_mediation <-- Cooperate_economically
+Express_intent_to_accept_mediation <-- Appeal_for_judicial_cooperation
+Express_intent_to_accept_mediation <-- Appeal_to_others_to_meet_or_negotiate
+Express_intent_to_accept_mediation <-- Express_intent_to_provide_military_protection_or_peacekeeping
+Express_intent_to_accept_mediation <-- Ban_political_parties_or_politicians, Ease_state_of_emergency_or_martial_law
+Express_intent_to_accept_mediation <-- Appeal_for_economic_aid
+Express_intent_to_accept_mediation <-- Express_intent_to_provide_economic_aid, Express_intent_to_provide_humanitarian_aid
+Express_intent_to_accept_mediation <-- Occupy_territory, Retreat_or_surrender_militarily
+Express_intent_to_accept_mediation <-- Demand_de-escalation_of_military_engagement
+Express_intent_to_accept_mediation <-- Violate_ceasefire, Declare_truce,_ceasefire
+Express_intent_to_accept_mediation <-- Acknowledge_or_claim_responsibility, Apologize
+Express_intent_to_accept_mediation <-- Appeal_to_yield
+Express_intent_to_accept_mediation <-- Engage_in_symbolic_act
+Express_intent_to_accept_mediation <-- Engage_in_mass_expulsion
+Express_intent_to_accept_mediation <-- Appeal_for_military_aid
+Express_intent_to_accept_mediation <-- Decline_comment, Make_pessimistic_comment
+Express_intent_to_accept_mediation <-- Reduce_or_break_diplomatic_relations
+Express_intent_to_accept_mediation <-- Express_intent_to_change_institutions,_regime, Express_intent_to_change_leadership
+Express_intent_to_accept_mediation <-- Conduct_hunger_strike, Grant_asylum
+Express_intent_to_accept_mediation <-- Express_intent_to_yield
+Express_intent_to_accept_mediation <-- Express_intent_to_cooperate_on_judicial_matters
+Express_intent_to_accept_mediation <-- Express_intent_to_cooperate_on_intelligence
+Express_intent_to_accept_mediation <-- Express_intent_to_cooperate_militarily
+Express_intent_to_accept_mediation <-- Accede_to_demands_for_rights
+Express_intent_to_accept_mediation <-- Bring_lawsuit_against, Investigate
+Express_intent_to_accept_mediation <-- Apologize
+Express_intent_to_accept_mediation <-- Appeal_to_engage_in_or_accept_mediation
+Express_intent_to_accept_mediation <-- Provide_economic_aid
+Express_intent_to_accept_mediation <-- Engage_in_negotiation
+Express_intent_to_accept_mediation <-- Appeal_for_policy_change, Demand_policy_change
+Express_intent_to_accept_mediation <-- Demand_mediation, Consult
+Express_intent_to_accept_mediation <-- Express_intent_to_mediate, Mediate
+Express_intent_to_accept_mediation <-- Express_intent_to_change_policy, Express_intent_to_institute_political_reform
+Express_intent_to_accept_mediation <-- Express_intent_to_provide_military_aid
+Express_intent_to_accept_mediation <-- Threaten, Threaten_non-force
+Express_intent_to_accept_mediation <-- Share_intelligence_or_information
+Express_intent_to_accept_mediation <-- Ease_military_blockade
+Express_intent_to_accept_mediation <-- Accuse_of_crime,_corruption, Accuse_of_espionage,_treason
+Express_intent_to_accept_mediation <-- Return,_release_property
+Express_intent_to_accept_mediation <-- Assassinate, Attempt_to_assassinate
+Express_intent_to_accept_mediation <-- Praise_or_endorse
+Express_intent_to_accept_mediation <-- Discuss_by_telephone
+Express_intent_to_accept_mediation <-- Threaten_with_repression, Use_tactics_of_violent_repression
+Express_intent_to_accept_mediation <-- Meet_at_a_'third'_location
+Express_intent_to_accept_mediation <-- Investigate
+Express_intent_to_accept_mediation <-- Mediate, Express_intent_to_settle_dispute
+Express_intent_to_accept_mediation <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+Express_intent_to_accept_mediation <-- Yield
+Express_intent_to_accept_mediation <-- Acknowledge_or_claim_responsibility
+Express_intent_to_accept_mediation <-- Make_optimistic_comment
+Express_intent_to_accept_mediation <-- Make_an_appeal_or_request
+Express_intent_to_accept_mediation <-- Receive_deployment_of_peacekeepers
+Express_intent_to_accept_mediation <-- Cooperate_militarily, Engage_in_diplomatic_cooperation
+Express_intent_to_accept_mediation <-- Express_intent_to_release_persons_or_property
+Express_intent_to_accept_mediation <-- Express_intent_to_settle_dispute, Demand_settling_of_dispute
+Express_intent_to_accept_mediation <-- Demand_rights
+Express_intent_to_accept_mediation <-- Discuss_by_telephone, Consult
+Express_intent_to_accept_mediation <-- Make_a_visit
+Express_intent_to_accept_mediation <-- Retreat_or_surrender_militarily
+Express_intent_to_accept_mediation <-- Sign_formal_agreement
+Express_intent_to_accept_mediation <-- Conduct_strike_or_boycott
+Express_intent_to_accept_mediation <-- Expel_or_deport_individuals
+Express_intent_to_accept_mediation <-- Confiscate_property, Return,_release_property
+Express_intent_to_accept_mediation <-- Torture, Investigate_human_rights_abuses
+Express_intent_to_accept_mediation <-- Make_empathetic_comment, Make_optimistic_comment
+Express_intent_to_accept_mediation <-- Express_intent_to_institute_political_reform
+Express_intent_to_accept_mediation <-- Cooperate_militarily
+Express_intent_to_accept_mediation <-- Reduce_or_stop_material_aid
+Express_intent_to_accept_mediation <-- Demand_intelligence_cooperation
+Express_intent_to_accept_mediation <-- Express_intent_to_yield, Yield
+Express_intent_to_accept_mediation <-- Express_intent_to_cooperate_militarily, Express_intent_to_cooperate_economically
+Express_intent_to_accept_mediation <-- Ease_curfew
+Express_intent_to_accept_mediation <-- Conduct_hunger_strike
+Express_intent_to_accept_mediation <-- Accuse_of_human_rights_abuses, Accuse_of_war_crimes
+Express_intent_to_accept_mediation <-- Investigate_war_crimes
+Express_intent_to_accept_mediation <-- Appeal_for_economic_cooperation
+Express_intent_to_accept_mediation <-- Give_ultimatum, Demand_that_target_yields
+Express_intent_to_accept_mediation <-- Express_intent_to_provide_economic_aid
+Express_intent_to_accept_mediation <-- Yield, Sign_formal_agreement
+Express_intent_to_accept_mediation <-- Expel_or_withdraw_peacekeepers
+Express_intent_to_accept_mediation <-- Return,_release_person(s)
+Express_intent_to_accept_mediation <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)

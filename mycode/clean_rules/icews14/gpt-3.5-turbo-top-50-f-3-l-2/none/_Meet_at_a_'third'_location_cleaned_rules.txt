@@ -1,0 +1,45 @@
+Meet_at_a_'third'_location <-- Grant_diplomatic_recognition, Grant_diplomatic_recognition
+Meet_at_a_'third'_location <-- Appeal_to_others_to_meet_or_negotiate, Appeal_to_others_to_meet_or_negotiate
+Meet_at_a_'third'_location <-- Apologize
+Meet_at_a_'third'_location <-- Make_statement, Make_statement
+Meet_at_a_'third'_location <-- Provide_humanitarian_aid, Provide_humanitarian_aid
+Meet_at_a_'third'_location <-- Forgive
+Meet_at_a_'third'_location <-- Make_a_visit
+Meet_at_a_'third'_location <-- Provide_humanitarian_aid
+Meet_at_a_'third'_location <-- Provide_military_aid
+Meet_at_a_'third'_location <-- Express_intent_to_cooperate
+Meet_at_a_'third'_location <-- Consult
+Meet_at_a_'third'_location <-- Appeal_to_others_to_meet_or_negotiate
+Meet_at_a_'third'_location <-- Defend_verbally
+Meet_at_a_'third'_location <-- Consult, Consult
+Meet_at_a_'third'_location <-- Sign_formal_agreement, Sign_formal_agreement
+Meet_at_a_'third'_location <-- Provide_aid
+Meet_at_a_'third'_location <-- Discuss_by_telephone, Discuss_by_telephone
+Meet_at_a_'third'_location <-- Cooperate_economically, Cooperate_economically
+Meet_at_a_'third'_location <-- Provide_military_aid, Provide_military_aid
+Meet_at_a_'third'_location <-- Sign_formal_agreement
+Meet_at_a_'third'_location <-- Engage_in_negotiation
+Meet_at_a_'third'_location <-- Make_optimistic_comment, Make_optimistic_comment
+Meet_at_a_'third'_location <-- Praise_or_endorse, Praise_or_endorse
+Meet_at_a_'third'_location <-- Host_a_visit
+Meet_at_a_'third'_location <-- Yield
+Meet_at_a_'third'_location <-- Make_statement
+Meet_at_a_'third'_location <-- Make_optimistic_comment
+Meet_at_a_'third'_location <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+Meet_at_a_'third'_location <-- Engage_in_diplomatic_cooperation, Engage_in_diplomatic_cooperation
+Meet_at_a_'third'_location <-- Cooperate_militarily
+Meet_at_a_'third'_location <-- Praise_or_endorse
+Meet_at_a_'third'_location <-- Express_intent_to_meet_or_negotiate
+Meet_at_a_'third'_location <-- Cooperate_economically
+Meet_at_a_'third'_location <-- Cooperate_militarily, Cooperate_militarily
+Meet_at_a_'third'_location <-- Grant_diplomatic_recognition
+Meet_at_a_'third'_location <-- Provide_aid, Provide_aid
+Meet_at_a_'third'_location <-- Demand_meeting,_negotiation, Demand_meeting,_negotiation
+Meet_at_a_'third'_location <-- Demand_meeting,_negotiation
+Meet_at_a_'third'_location <-- Mediate, Mediate
+Meet_at_a_'third'_location <-- Mediate
+Meet_at_a_'third'_location <-- Engage_in_negotiation, Engage_in_negotiation
+Meet_at_a_'third'_location <-- Host_a_visit, Make_a_visit
+Meet_at_a_'third'_location <-- Engage_in_diplomatic_cooperation
+Meet_at_a_'third'_location <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+Meet_at_a_'third'_location <-- Discuss_by_telephone

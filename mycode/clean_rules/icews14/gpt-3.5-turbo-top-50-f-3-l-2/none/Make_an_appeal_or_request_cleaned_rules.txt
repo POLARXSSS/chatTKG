@@ -1,0 +1,24 @@
+Make_an_appeal_or_request <-- Provide_humanitarian_aid
+Make_an_appeal_or_request <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+Make_an_appeal_or_request <-- Reduce_relations, Criticize_or_denounce
+Make_an_appeal_or_request <-- Engage_in_material_cooperation
+Make_an_appeal_or_request <-- Make_statement
+Make_an_appeal_or_request <-- Make_optimistic_comment, Demand
+Make_an_appeal_or_request <-- Accuse, Make_an_appeal_or_request
+Make_an_appeal_or_request <-- Host_a_visit, Reduce_or_break_diplomatic_relations
+Make_an_appeal_or_request <-- Make_statement, Sexually_assault
+Make_an_appeal_or_request <-- Make_statement, Reduce_relations
+Make_an_appeal_or_request <-- Threaten
+Make_an_appeal_or_request <-- Engage_in_material_cooperation, Make_an_appeal_or_request
+Make_an_appeal_or_request <-- Appeal_for_intelligence, Use_unconventional_violence
+Make_an_appeal_or_request <-- Demand
+Make_an_appeal_or_request <-- Demonstrate_or_rally
+Make_an_appeal_or_request <-- Provide_humanitarian_aid, Provide_humanitarian_aid
+Make_an_appeal_or_request <-- Host_a_visit
+Make_an_appeal_or_request <-- Criticize_or_denounce, Make_statement
+Make_an_appeal_or_request <-- Make_statement, Appeal_for_intelligence
+Make_an_appeal_or_request <-- Accuse
+Make_an_appeal_or_request <-- Make_an_appeal_or_request, Appeal_for_material_cooperation
+Make_an_appeal_or_request <-- Express_intent_to_cooperate
+Make_an_appeal_or_request <-- Arrest,_detain,_or_charge_with_legal_action, Make_an_appeal_or_request
+Make_an_appeal_or_request <-- Appeal_for_material_cooperation

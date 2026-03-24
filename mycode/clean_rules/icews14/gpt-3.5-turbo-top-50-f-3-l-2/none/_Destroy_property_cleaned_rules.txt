@@ -1,0 +1,50 @@
+Destroy_property <-- Investigate, Use_conventional_military_force
+Destroy_property <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Destroy_property <-- Impose_embargo,_boycott,_or_sanctions, Reduce_or_stop_economic_assistance
+Destroy_property <-- Torture
+Destroy_property <-- Threaten_with_repression
+Destroy_property <-- Impose_restrictions_on_political_freedoms
+Destroy_property <-- Carry_out_suicide_bombing
+Destroy_property <-- Impose_state_of_emergency_or_martial_law
+Destroy_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Destroy_property <-- Obstruct_passage,_block
+Destroy_property <-- Threaten_with_military_force
+Destroy_property <-- Seize_or_damage_property
+Destroy_property <-- fight_with_small_arms_and_light_weapons
+Destroy_property <-- Use_unconventional_violence
+Destroy_property <-- Detonate_nuclear_weapons
+Destroy_property <-- Kill_by_physical_assault
+Destroy_property <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+Destroy_property <-- Sexually_assault
+Destroy_property <-- Expel_or_deport_individuals
+Destroy_property <-- Threaten_with_administrative_sanctions
+Destroy_property <-- Demonstrate_military_or_police_power
+Destroy_property <-- Engage_in_mass_expulsion
+Destroy_property <-- Abduct,_hijack,_or_take_hostage
+Destroy_property <-- Cooperate_militarily, Use_conventional_military_force
+Destroy_property <-- Ban_political_parties_or_politicians
+Destroy_property <-- Mobilize_or_increase_armed_forces, Praise_or_endorse
+Destroy_property <-- Defy_norms,_law
+Destroy_property <-- Engage_in_violent_protest_for_rights
+Destroy_property <-- Increase_military_alert_status
+Destroy_property <-- Use_as_human_shield
+Destroy_property <-- Engage_in_mass_killings
+Destroy_property <-- Protest_violently,_riot
+Destroy_property <-- Employ_aerial_weapons
+Destroy_property <-- Give_ultimatum, Refuse_to_yield
+Destroy_property <-- Impose_blockade,_restrict_movement, Refuse_to_ease_administrative_sanctions
+Destroy_property <-- Increase_police_alert_status
+Destroy_property <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Destroy_property <-- Threaten_with_political_dissent,_protest
+Destroy_property <-- fight_with_artillery_and_tanks
+Destroy_property <-- Threaten_with_sanctions,_boycott,_embargo
+Destroy_property <-- Use_conventional_military_force
+Destroy_property <-- Use_tactics_of_violent_repression
+Destroy_property <-- Occupy_territory
+Destroy_property <-- Violate_ceasefire
+Destroy_property <-- Use_chemical,_biological,_or_radiological_weapons
+Destroy_property <-- Physically_assault
+Destroy_property <-- Confiscate_property
+Destroy_property <-- Arrest,_detain,_or_charge_with_legal_action, Use_conventional_military_force
+Destroy_property <-- Give_ultimatum
+Destroy_property <-- Carry_out_car_bombing

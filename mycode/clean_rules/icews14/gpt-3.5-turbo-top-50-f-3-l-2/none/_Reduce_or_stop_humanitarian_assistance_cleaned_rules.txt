@@ -1,0 +1,21 @@
+Reduce_or_stop_humanitarian_assistance <-- Conduct_strike_or_boycott, Make_an_appeal_or_request
+Reduce_or_stop_humanitarian_assistance <-- Threaten_to_reduce_or_stop_aid, Use_unconventional_violence
+Reduce_or_stop_humanitarian_assistance <-- Impose_administrative_sanctions, Reduce_relations
+Reduce_or_stop_humanitarian_assistance <-- Kill_by_physical_assault, Physically_assault
+Reduce_or_stop_humanitarian_assistance <-- fight_with_small_arms_and_light_weapons, fight_with_artillery_and_tanks
+Reduce_or_stop_humanitarian_assistance <-- Conduct_suicide,_car,_or_other_non-military_bombing, Reduce_relations
+Reduce_or_stop_humanitarian_assistance <-- Impose_embargo,_boycott,_or_sanctions, Cooperate_economically
+Reduce_or_stop_humanitarian_assistance <-- Obstruct_passage,_block
+Reduce_or_stop_humanitarian_assistance <-- Ban_political_parties_or_politicians, Demand_political_reform
+Reduce_or_stop_humanitarian_assistance <-- Appeal_for_humanitarian_aid, Reject_request_for_military_aid
+Reduce_or_stop_humanitarian_assistance <-- Express_intent_to_meet_or_negotiate, Reject
+Reduce_or_stop_humanitarian_assistance <-- Coerce, Refuse_to_yield
+Reduce_or_stop_humanitarian_assistance <-- Obstruct_passage,_block, Protest_violently,_riot
+Reduce_or_stop_humanitarian_assistance <-- Assassinate, Attempt_to_assassinate
+Reduce_or_stop_humanitarian_assistance <-- Impose_blockade,_restrict_movement
+Reduce_or_stop_humanitarian_assistance <-- Threaten_to_reduce_or_stop_aid
+Reduce_or_stop_humanitarian_assistance <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+Reduce_or_stop_humanitarian_assistance <-- Arrest,_detain,_or_charge_with_legal_action, Arrest,_detain,_or_charge_with_legal_action
+Reduce_or_stop_humanitarian_assistance <-- Accuse_of_human_rights_abuses, Engage_in_mass_killings
+Reduce_or_stop_humanitarian_assistance <-- Provide_humanitarian_aid, Refuse_to_ease_administrative_sanctions
+Reduce_or_stop_humanitarian_assistance <-- Engage_in_negotiation, Halt_mediation

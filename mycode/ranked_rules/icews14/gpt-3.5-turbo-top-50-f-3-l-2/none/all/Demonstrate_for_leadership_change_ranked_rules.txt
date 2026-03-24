@@ -1,0 +1,58 @@
+13	0.41935483870967744	0.203125	0.7222222222222222	Demonstrate_for_leadership_change <-- Demand_change_in_leadership
+1	0.03225806451612903	0.043478260869565216	0.1	Demonstrate_for_leadership_change <-- Obstruct_passage,_block
+13	0.41935483870967744	0.04377104377104377	0.22807017543859648	Demonstrate_for_leadership_change <-- Demonstrate_or_rally
+31	1.0	1.4090909090909092	1.4090909090909092	Demonstrate_for_leadership_change <-- Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Obstruct_passage_to_demand_leadership_change
+4	0.12903225806451613	0.034482758620689655	0.12121212121212122	Demonstrate_for_leadership_change <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Engage_in_symbolic_act
+4	0.12903225806451613	0.07142857142857142	0.5714285714285714	Demonstrate_for_leadership_change <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Destroy_property, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Detonate_nuclear_weapons, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Physically_assault, Make_statement
+13	0.41935483870967744	0.04377104377104377	0.22807017543859648	Demonstrate_for_leadership_change <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Use_conventional_military_force, Defend_verbally
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- fight_with_artillery_and_tanks, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Increase_military_alert_status, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Demand_that_target_yields, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- fight_with_small_arms_and_light_weapons, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Sign_formal_agreement, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Veto, Make_statement
+1	0.03225806451612903	0.043478260869565216	0.1	Demonstrate_for_leadership_change <-- Obstruct_passage,_block
+1	0.03225806451612903	0.0016286644951140066	0.1	Demonstrate_for_leadership_change <-- Threaten_with_military_force, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Investigate_human_rights_abuses, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Engage_in_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Mobilize_or_increase_armed_forces, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Discuss_by_telephone, Decline_comment
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Expel_or_deport_individuals, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Carry_out_roadside_bombing, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Use_chemical,_biological,_or_radiological_weapons, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Arrest,_detain,_or_charge_with_legal_action, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Kill_by_physical_assault, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Use_tactics_of_violent_repression, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Demonstrate_for_policy_change, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Threaten_with_repression, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Give_ultimatum, Reject
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Increase_police_alert_status, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Employ_aerial_weapons, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Attempt_to_assassinate, Make_statement
+4	0.12903225806451613	0.07142857142857142	0.5714285714285714	Demonstrate_for_leadership_change <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Conduct_hunger_strike
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Demonstrate_for_leadership_change, Praise_or_endorse
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Sexually_assault, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Carry_out_suicide_bombing, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Torture, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Mobilize_or_increase_police_power, Make_statement
+6	0.1935483870967742	0.003157894736842105	0.07228915662650602	Demonstrate_for_leadership_change <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Complain_officially
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Carry_out_car_bombing, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Seize_or_damage_property, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Use_as_human_shield, Make_statement
+13	0.41935483870967744	0.203125	0.7222222222222222	Demonstrate_for_leadership_change <-- Demand_change_in_leadership
+4	0.12903225806451613	0.034482758620689655	0.12121212121212122	Demonstrate_for_leadership_change <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demonstrate_for_leadership_change <-- Abduct,_hijack,_or_take_hostage, Make_statement

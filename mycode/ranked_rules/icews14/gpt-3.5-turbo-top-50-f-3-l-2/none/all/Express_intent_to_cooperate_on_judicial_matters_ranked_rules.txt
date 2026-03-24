@@ -1,0 +1,27 @@
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Demand_judicial_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Threaten, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Appeal_for_judicial_cooperation
+1	0.5	0.006802721088435374	0.08333333333333333	Express_intent_to_cooperate_on_judicial_matters <-- Conduct_suicide,_car,_or_other_non-military_bombing, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Arrest,_detain,_or_charge_with_legal_action, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- fight_with_artillery_and_tanks, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Threaten_with_military_force, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Consult, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Reject_plan,_agreement_to_settle_dispute, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Investigate_crime,_corruption, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Engage_in_diplomatic_cooperation, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Demand_judicial_cooperation, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Appeal_for_judicial_cooperation, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Decline_comment, Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Make_statement, Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Yield, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Return,_release_person(s), Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Express_intent_to_meet_or_negotiate, Mediate
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Arrest,_detain,_or_charge_with_legal_action, Investigate
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Accuse_of_war_crimes, Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Apologize, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_on_judicial_matters <-- Accuse_of_espionage,_treason, Acknowledge_or_claim_responsibility

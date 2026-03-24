@@ -1,0 +1,84 @@
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_to_halt_mediation
+1	0.09090909090909091	0.012195121951219513	0.5	Threaten_non-force <-- Coerce
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_to_reduce_or_stop_aid
+1	0.09090909090909091	0.008620689655172414	1.0	Threaten_non-force <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Impose_state_of_emergency_or_martial_law
+2	0.18181818181818182	0.02702702702702703	0.6666666666666666	Threaten_non-force <-- Threaten_with_military_force
+11	1.0	1.1	1.1	Threaten_non-force <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Make_statement, Demand_policy_change
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_with_political_dissent,_protest
+1	0.09090909090909091	0.012048192771084338	0.25	Threaten_non-force <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_that_target_yields
+2	0.18181818181818182	0.0026455026455026454	0.11764705882352941	Threaten_non-force <-- Express_intent_to_cooperate
+1	0.09090909090909091	0.02702702702702703	0.5	Threaten_non-force <-- Refuse_to_yield
+1	0.09090909090909091	0.020833333333333332	1.0	Threaten_non-force <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_with_administrative_sanctions
+1	0.09090909090909091	0.02	0.5	Threaten_non-force <-- Give_ultimatum
+3	0.2727272727272727	0.022900763358778626	0.21428571428571427	Threaten_non-force <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Accuse, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Reduce_relations
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demonstrate_military_or_police_power
+5	0.45454545454545453	0.01182033096926714	0.29411764705882354	Threaten_non-force <-- Threaten
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Complain_officially, Demand_rights
+1	0.09090909090909091	0.5	1.0	Threaten_non-force <-- Halt_mediation
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_material_aid, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_to_reduce_or_break_relations, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_change_in_leadership, Reject
+1	0.09090909090909091	0.02	0.5	Threaten_non-force <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Impose_blockade,_restrict_movement, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Reduce_or_break_diplomatic_relations, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_policy_change, Reject
+1	0.09090909090909091	0.0012610340479192938	0.013333333333333334	Threaten_non-force <-- Coerce, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_rights, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Appeal_for_change_in_institutions,_regime, Decline_comment
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Seize_or_damage_property, Make_an_appeal_or_request
+5	0.45454545454545453	0.01182033096926714	0.29411764705882354	Threaten_non-force <-- Threaten
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Mobilize_or_increase_armed_forces, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_change_in_institutions,_regime, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_military_aid, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_intelligence_cooperation, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_material_cooperation, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Increase_military_alert_status, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Appeal_for_release_of_persons_or_property, Decline_comment
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_de-escalation_of_military_engagement, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Ban_political_parties_or_politicians, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Arrest,_detain,_or_charge_with_legal_action, Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_economic_aid, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Impose_embargo,_boycott,_or_sanctions, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Defy_norms,_law, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_to_halt_mediation, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Conduct_strike_or_boycott, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_mediation, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Protest_violently,_riot, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Engage_in_violent_protest_for_rights, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_political_reform, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_meeting,_negotiation, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Obstruct_passage,_block, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Expel_or_deport_individuals, Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_to_reduce_or_stop_aid, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_that_target_yields, Refuse_to_yield
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_with_repression, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_with_administrative_sanctions, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Appeal_for_economic_aid, Decline_comment
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_humanitarian_aid, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_with_sanctions,_boycott,_embargo, Make_statement
+11	1.0	1.1	1.1	Threaten_non-force <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_judicial_cooperation, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Confiscate_property, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_with_political_dissent,_protest, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_settling_of_dispute, Reject
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Threaten_to_halt_negotiations, Make_statement
+0.0	0.0	0.0	0.0	Threaten_non-force <-- Demand_easing_of_administrative_sanctions, Reject

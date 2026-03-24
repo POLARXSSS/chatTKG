@@ -1,0 +1,37 @@
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Refuse_to_yield, Protest_violently,_riot
+6	0.02214022140221402	0.07142857142857142	0.07142857142857142	Use_tactics_of_violent_repression <-- Use_tactics_of_violent_repression, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Express_intent_to_cooperate, Refuse_to_yield
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Refuse_to_yield
+1	0.0036900369003690036	0.002364066193853428	0.0625	Use_tactics_of_violent_repression <-- Threaten
+20	0.07380073800738007	0.038834951456310676	0.21978021978021978	Use_tactics_of_violent_repression <-- Investigate
+8	0.02952029520295203	0.0015936254980079682	0.07079646017699115	Use_tactics_of_violent_repression <-- Make_statement, Threaten
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Carry_out_car_bombing
+5	0.01845018450184502	0.00501002004008016	0.38461538461538464	Use_tactics_of_violent_repression <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Kill_by_physical_assault
+9	0.033210332103321034	0.06474820143884892	0.225	Use_tactics_of_violent_repression <-- Impose_administrative_sanctions
+128	0.47232472324723246	0.3062200956937799	2.5098039215686274	Use_tactics_of_violent_repression <-- fight_with_small_arms_and_light_weapons
+8	0.02952029520295203	0.3076923076923077	1.1428571428571428	Use_tactics_of_violent_repression <-- Torture
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Engage_in_negotiation, Refuse_to_yield
+72	0.2656826568265683	0.055130168453292494	0.28125	Use_tactics_of_violent_repression <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Obstruct_passage,_block
+1	0.0036900369003690036	0.000881057268722467	0.09090909090909091	Use_tactics_of_violent_repression <-- Use_unconventional_violence, fight_with_small_arms_and_light_weapons
+6	0.02214022140221402	0.013303769401330377	0.11538461538461539	Use_tactics_of_violent_repression <-- Use_conventional_military_force, Protest_violently,_riot
+88	0.3247232472324723	0.6285714285714286	7.333333333333333	Use_tactics_of_violent_repression <-- Physically_assault
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Attempt_to_assassinate
+99	0.36531365313653136	0.05210526315789474	1.546875	Use_tactics_of_violent_repression <-- Criticize_or_denounce
+200	0.7380073800738007	0.24875621890547264	1.694915254237288	Use_tactics_of_violent_repression <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Demonstrate_or_rally, Use_tactics_of_violent_repression
+5	0.01845018450184502	0.0176678445229682	0.35714285714285715	Use_tactics_of_violent_repression <-- Abduct,_hijack,_or_take_hostage
+271	1.0	3.712328767123288	3.712328767123288	Use_tactics_of_violent_repression <-- Use_tactics_of_violent_repression
+45	0.16605166051660517	0.3813559322033898	2.25	Use_tactics_of_violent_repression <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Protest_violently,_riot, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Destroy_property
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Obstruct_passage,_block, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Use_tactics_of_violent_repression <-- Impose_state_of_emergency_or_martial_law
+1	0.0036900369003690036	0.05555555555555555	0.2	Use_tactics_of_violent_repression <-- Mobilize_or_increase_police_power

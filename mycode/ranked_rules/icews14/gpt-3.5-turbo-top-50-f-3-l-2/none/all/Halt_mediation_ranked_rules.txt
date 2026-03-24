@@ -1,0 +1,184 @@
+0.0	0.0	0.0	0.0	Halt_mediation <-- Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Halt_mediation <-- Refuse_to_yield, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_material_cooperation
+0.0	0.0	0.0	0.0	Halt_mediation <-- Express_intent_to_change_institutions,_regime, Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Halt_mediation <-- fight_with_artillery_and_tanks
+2	1.0	0.0024875621890547263	0.2222222222222222	Halt_mediation <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_request_for_change_in_leadership, Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Halt_mediation <-- Criticize_or_denounce, Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Halt_mediation <-- Defy_norms,_law, Give_ultimatum
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_with_sanctions,_boycott,_embargo, Threaten_non-force
+0.0	0.0	0.0	0.0	Halt_mediation <-- Impose_blockade,_restrict_movement, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Halt_mediation <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Increase_police_alert_status
+0.0	0.0	0.0	0.0	Halt_mediation <-- Torture
+0.0	0.0	0.0	0.0	Halt_mediation <-- Violate_ceasefire, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Halt_mediation <-- Defy_norms,_law
+1	0.5	0.1111111111111111	0.5	Halt_mediation <-- Reduce_or_stop_military_assistance
+2	1.0	0.0010526315789473684	0.05263157894736842	Halt_mediation <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Halt_mediation <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Halt_mediation <-- Use_as_human_shield, Increase_police_alert_status
+0.0	0.0	0.0	0.0	Halt_mediation <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Halt_mediation <-- Use_tactics_of_violent_repression
+1	0.5	0.00847457627118644	0.3333333333333333	Halt_mediation <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Halt_mediation <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Halt_mediation <-- Arrest,_detain,_or_charge_with_legal_action, Demand_that_target_yields
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_political_dissent, Rally_opposition_against
+0.0	0.0	0.0	0.0	Halt_mediation <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Halt_mediation <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Halt_mediation <-- Complain_officially
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_request_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Halt_mediation <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Halt_mediation <-- Attempt_to_assassinate, Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Halt_mediation <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_request_for_military_aid
+1	0.5	0.013513513513513514	1.0	Halt_mediation <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Halt_mediation <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Halt_mediation <-- Employ_aerial_weapons
+1	0.5	0.007633587786259542	0.5	Halt_mediation <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Halt_mediation <-- Bring_lawsuit_against, Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_mass_killings, Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Halt_mediation <-- Accuse_of_aggression
+1	0.5	0.012195121951219513	0.09090909090909091	Halt_mediation <-- Coerce
+1	0.5	0.02	1.0	Halt_mediation <-- Give_ultimatum
+1	0.5	0.0007656967840735069	0.037037037037037035	Halt_mediation <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Halt_mediation <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Halt_mediation <-- Expel_or_withdraw_peacekeepers, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Halt_mediation <-- Accuse_of_war_crimes, Accuse_of_aggression
+0.0	0.0	0.0	0.0	Halt_mediation <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Halt_mediation <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Halt_mediation <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Halt_mediation <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Halt_mediation <-- Obstruct_passage,_block, Occupy_territory
+2	1.0	0.004728132387706856	0.2222222222222222	Halt_mediation <-- Threaten
+0.0	0.0	0.0	0.0	Halt_mediation <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Halt_mediation <-- Obstruct_passage_to_demand_leadership_change
+1	0.5	0.006896551724137931	0.05555555555555555	Halt_mediation <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reduce_or_stop_military_assistance, Reduce_relations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Halt_mediation <-- Assassinate
+0.0	0.0	0.0	0.0	Halt_mediation <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_with_political_dissent,_protest, Threaten_with_repression
+0.0	0.0	0.0	0.0	Halt_mediation <-- Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Halt_mediation <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Halt_mediation <-- Coerce, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Halt_mediation <-- Halt_negotiations, Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_military_cooperation, Reject_material_cooperation
+1	0.5	0.038461538461538464	1.0	Halt_mediation <-- Decline_comment
+0.0	0.0	0.0	0.0	Halt_mediation <-- Carry_out_roadside_bombing, Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Halt_mediation <-- Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Halt_mediation <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Halt_mediation <-- Conduct_strike_or_boycott
+2	1.0	0.024096385542168676	0.3333333333333333	Halt_mediation <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_political_dissent
+1	0.5	0.007142857142857143	1.0	Halt_mediation <-- Physically_assault
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reduce_or_stop_humanitarian_assistance, Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Halt_mediation <-- fight_with_artillery_and_tanks, fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Halt_mediation <-- Employ_aerial_weapons, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Halt_mediation <-- Destroy_property
+1	0.5	0.010638297872340425	1.0	Halt_mediation <-- Confiscate_property
+0.0	0.0	0.0	0.0	Halt_mediation <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_violent_protest_for_rights, Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Halt_mediation <-- Occupy_territory
+0.0	0.0	0.0	0.0	Halt_mediation <-- Confiscate_property, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Halt_mediation <-- Make_pessimistic_comment, Deny_responsibility
+2	1.0	0.004866180048661801	0.2	Halt_mediation <-- Make_pessimistic_comment
+0.0	0.0	0.0	0.0	Halt_mediation <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demand_change_in_institutions,_regime, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Halt_mediation <-- Sexually_assault
+0.0	0.0	0.0	0.0	Halt_mediation <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Halt_mediation <-- Decline_comment, Veto
+0.0	0.0	0.0	0.0	Halt_mediation <-- Mobilize_or_increase_police_power, Impose_administrative_sanctions
+1	0.5	0.0056179775280898875	0.16666666666666666	Halt_mediation <-- Reduce_relations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Carry_out_suicide_bombing
+1	0.5	0.02702702702702703	0.25	Halt_mediation <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Halt_mediation <-- Destroy_property, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Halt_mediation <-- Refuse_to_de-escalate_military_engagement, Refuse_to_ease_administrative_sanctions
+1	0.5	0.020833333333333332	0.5	Halt_mediation <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Halt_mediation <-- Detonate_nuclear_weapons, Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Halt_mediation <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demonstrate_for_policy_change, Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Halt_mediation <-- Veto
+0.0	0.0	0.0	0.0	Halt_mediation <-- Carry_out_roadside_bombing
+0.0	0.0	0.0	0.0	Halt_mediation <-- Expel_or_withdraw
+0.0	0.0	0.0	0.0	Halt_mediation <-- Use_tactics_of_violent_repression, Physically_assault
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_to_reduce_or_stop_aid, Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demonstrate_for_policy_change
+0.0	0.0	0.0	0.0	Halt_mediation <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Halt_mediation <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Halt_mediation <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_request_for_military_protection_or_peacekeeping, Obstruct_passage_to_demand_leadership_change
+0.0	0.0	0.0	0.0	Halt_mediation <-- Kill_by_physical_assault, Assassinate
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Ban_political_parties_or_politicians, Complain_officially
+0.0	0.0	0.0	0.0	Halt_mediation <-- Expel_or_deport_individuals, Torture
+1	0.5	0.0023923444976076554	0.5	Halt_mediation <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Halt_mediation <-- Rally_opposition_against
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Halt_mediation <-- Sexually_assault, Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Halt_mediation <-- Appeal_for_change_in_institutions,_regime, Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Halt_mediation <-- Seize_or_damage_property
+2	1.0	0.011560693641618497	0.2857142857142857	Halt_mediation <-- Deny_responsibility
+0.0	0.0	0.0	0.0	Halt_mediation <-- Expel_or_withdraw, Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Halt_mediation <-- Express_intent_to_change_institutions,_regime
+1	0.5	0.1	1.0	Halt_mediation <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Halt_mediation <-- Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Halt_mediation <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Halt_mediation <-- Accuse_of_human_rights_abuses
+2	1.0	0.0024875621890547263	0.2222222222222222	Halt_mediation <-- Use_conventional_military_force
+2	1.0	0.024096385542168676	0.3333333333333333	Halt_mediation <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Halt_mediation <-- Provide_aid, Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Halt_mediation <-- Share_intelligence_or_information, Accuse_of_espionage,_treason
+0.0	0.0	0.0	0.0	Halt_mediation <-- Appeal_for_military_aid, Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Halt_mediation <-- Express_intent_to_release_persons_or_property, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Halt_mediation <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Halt_mediation <-- Mobilize_or_increase_armed_forces
+1	0.5	0.00013326226012793177	0.022222222222222223	Halt_mediation <-- Make_an_appeal_or_request, Reject
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_violent_protest_for_rights
+1	0.5	0.02702702702702703	0.25	Halt_mediation <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demand_mediation, Reject
+1	0.5	0.0007656967840735069	0.037037037037037035	Halt_mediation <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Halt_mediation <-- Express_intent_to_accept_mediation, Reject
+0.0	0.0	0.0	0.0	Halt_mediation <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Halt_mediation <-- Sign_formal_agreement, Violate_ceasefire
+0.0	0.0	0.0	0.0	Halt_mediation <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_with_sanctions,_boycott,_embargo, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Halt_mediation <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Halt_mediation <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Halt_mediation <-- Torture
+0.0	0.0	0.0	0.0	Halt_mediation <-- Appeal_for_economic_aid, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Halt_mediation <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Halt_mediation <-- Express_intent_to_de-escalate_military_engagement, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Halt_mediation <-- Express_intent_to_cooperate, Refuse_to_yield
+0.0	0.0	0.0	0.0	Halt_mediation <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Halt_mediation <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Halt_mediation <-- Conduct_suicide,_car,_or_other_non-military_bombing
+1	0.5	0.013513513513513514	1.0	Halt_mediation <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Halt_mediation <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Halt_mediation <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Halt_mediation <-- Engage_in_diplomatic_cooperation, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Halt_mediation <-- Cooperate_militarily, Reject_military_cooperation

@@ -1,0 +1,35 @@
+Reduce_or_stop_military_assistance <-- Impose_embargo,_boycott,_or_sanctions
+Reduce_or_stop_military_assistance <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+Reduce_or_stop_military_assistance <-- Expel_or_withdraw_peacekeepers, Reduce_or_stop_military_assistance
+Reduce_or_stop_military_assistance <-- Express_intent_to_cooperate_economically
+Reduce_or_stop_military_assistance <-- Sign_formal_agreement, Reduce_or_stop_military_assistance
+Reduce_or_stop_military_assistance <-- Reduce_or_stop_military_assistance
+Reduce_or_stop_military_assistance <-- Engage_in_negotiation
+Reduce_or_stop_military_assistance <-- Demand_de-escalation_of_military_engagement, Refuse_to_de-escalate_military_engagement
+Reduce_or_stop_military_assistance <-- Yield
+Reduce_or_stop_military_assistance <-- Make_a_visit, Make_pessimistic_comment
+Reduce_or_stop_military_assistance <-- Reduce_or_stop_economic_assistance
+Reduce_or_stop_military_assistance <-- Make_pessimistic_comment
+Reduce_or_stop_military_assistance <-- Engage_in_diplomatic_cooperation, Make_pessimistic_comment
+Reduce_or_stop_military_assistance <-- Reduce_or_break_diplomatic_relations
+Reduce_or_stop_military_assistance <-- Criticize_or_denounce
+Reduce_or_stop_military_assistance <-- Reduce_relations
+Reduce_or_stop_military_assistance <-- Provide_humanitarian_aid
+Reduce_or_stop_military_assistance <-- Make_pessimistic_comment, Reduce_relations
+Reduce_or_stop_military_assistance <-- Use_conventional_military_force
+Reduce_or_stop_military_assistance <-- Provide_military_aid, Reduce_or_stop_military_assistance
+Reduce_or_stop_military_assistance <-- fight_with_artillery_and_tanks, fight_with_small_arms_and_light_weapons
+Reduce_or_stop_military_assistance <-- Mobilize_or_increase_armed_forces
+Reduce_or_stop_military_assistance <-- Threaten_with_military_force, Use_conventional_military_force
+Reduce_or_stop_military_assistance <-- Sign_formal_agreement
+Reduce_or_stop_military_assistance <-- Declare_truce,_ceasefire
+Reduce_or_stop_military_assistance <-- Appeal_for_military_aid, Refuse_to_yield
+Reduce_or_stop_military_assistance <-- Threaten_with_military_force
+Reduce_or_stop_military_assistance <-- Accede_to_demands_for_change_in_policy
+Reduce_or_stop_military_assistance <-- Express_intent_to_cooperate_economically, Impose_embargo,_boycott,_or_sanctions
+Reduce_or_stop_military_assistance <-- Express_intent_to_cooperate_economically, Reduce_or_stop_economic_assistance
+Reduce_or_stop_military_assistance <-- Violate_ceasefire, Halt_mediation
+Reduce_or_stop_military_assistance <-- Engage_in_negotiation, Declare_truce,_ceasefire
+Reduce_or_stop_military_assistance <-- Host_a_visit, Criticize_or_denounce
+Reduce_or_stop_military_assistance <-- Express_intent_to_provide_military_aid, Reduce_or_stop_military_assistance
+Reduce_or_stop_military_assistance <-- Express_intent_to_accept_mediation, Mediate

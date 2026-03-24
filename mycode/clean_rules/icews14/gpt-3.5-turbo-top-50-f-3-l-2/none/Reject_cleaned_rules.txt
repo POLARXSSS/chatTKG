@@ -1,0 +1,42 @@
+Reject <-- Use_tactics_of_violent_repression
+Reject <-- Demand_change_in_institutions,_regime
+Reject <-- Demand_policy_change
+Reject <-- Demand_mediation
+Reject <-- Obstruct_passage,_block
+Reject <-- Threaten
+Reject <-- Express_intent_to_cooperate, Reject_material_cooperation
+Reject <-- Mediate, Halt_mediation
+Reject <-- Carry_out_car_bombing
+Reject <-- Expel_or_deport_individuals
+Reject <-- Attempt_to_assassinate
+Reject <-- Demand_settling_of_dispute
+Reject <-- Demand_that_target_yields
+Reject <-- Accuse
+Reject <-- Demand
+Reject <-- Assassinate
+Reject <-- Ban_political_parties_or_politicians
+Reject <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+Reject <-- Grant_diplomatic_recognition, Reduce_relations
+Reject <-- Demand_rights
+Reject <-- Torture
+Reject <-- Arrest,_detain,_or_charge_with_legal_action
+Reject <-- Sign_formal_agreement, Violate_ceasefire
+Reject <-- Impose_embargo,_boycott,_or_sanctions
+Reject <-- Abduct,_hijack,_or_take_hostage
+Reject <-- Criticize_or_denounce
+Reject <-- Demand_material_cooperation
+Reject <-- Detonate_nuclear_weapons
+Reject <-- Provide_aid, Reduce_or_stop_humanitarian_assistance
+Reject <-- Demand_change_in_leadership
+Reject <-- Make_an_appeal_or_request, Refuse_to_yield
+Reject <-- Demand_easing_of_administrative_sanctions
+Reject <-- Use_chemical,_biological,_or_radiological_weapons
+Reject <-- Host_a_visit, Expel_or_deport_individuals
+Reject <-- Consult, Reject
+Reject <-- Defy_norms,_law
+Reject <-- Kill_by_physical_assault
+Reject <-- Engage_in_diplomatic_cooperation, Reject_military_cooperation
+Reject <-- Demand_release_of_persons_or_property
+Reject <-- Carry_out_suicide_bombing
+Reject <-- Impose_administrative_sanctions
+Reject <-- Use_conventional_military_force

@@ -1,0 +1,39 @@
+Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_ease_administrative_sanctions
+Express_intent_to_provide_humanitarian_aid <-- Grant_diplomatic_recognition
+Express_intent_to_provide_humanitarian_aid <-- Ease_administrative_sanctions
+Express_intent_to_provide_humanitarian_aid <-- Defend_verbally
+Express_intent_to_provide_humanitarian_aid <-- Make_statement
+Express_intent_to_provide_humanitarian_aid <-- Appeal_for_humanitarian_aid
+Express_intent_to_provide_humanitarian_aid <-- Impose_embargo,_boycott,_or_sanctions, Ease_administrative_sanctions
+Express_intent_to_provide_humanitarian_aid <-- Reduce_relations
+Express_intent_to_provide_humanitarian_aid <-- Forgive
+Express_intent_to_provide_humanitarian_aid <-- Praise_or_endorse
+Express_intent_to_provide_humanitarian_aid <-- Threaten, Apologize
+Express_intent_to_provide_humanitarian_aid <-- Complain_officially
+Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_meet_or_negotiate
+Express_intent_to_provide_humanitarian_aid <-- Acknowledge_or_claim_responsibility
+Express_intent_to_provide_humanitarian_aid <-- Apologize
+Express_intent_to_provide_humanitarian_aid <-- Demand_humanitarian_aid
+Express_intent_to_provide_humanitarian_aid <-- Make_optimistic_comment
+Express_intent_to_provide_humanitarian_aid <-- Receive_inspectors
+Express_intent_to_provide_humanitarian_aid <-- Reduce_or_stop_military_assistance
+Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_cooperate
+Express_intent_to_provide_humanitarian_aid <-- Accuse, Praise_or_endorse
+Express_intent_to_provide_humanitarian_aid <-- Grant_asylum
+Express_intent_to_provide_humanitarian_aid <-- Demonstrate_or_rally
+Express_intent_to_provide_humanitarian_aid <-- Confiscate_property, Return,_release_person(s)
+Express_intent_to_provide_humanitarian_aid <-- Provide_humanitarian_aid
+Express_intent_to_provide_humanitarian_aid <-- Receive_deployment_of_peacekeepers
+Express_intent_to_provide_humanitarian_aid <-- Ease_administrative_sanctions, Ease_economic_sanctions,_boycott,_embargo
+Express_intent_to_provide_humanitarian_aid <-- Demobilize_armed_forces
+Express_intent_to_provide_humanitarian_aid <-- Host_a_visit
+Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_de-escalate_military_engagement
+Express_intent_to_provide_humanitarian_aid <-- Conduct_hunger_strike
+Express_intent_to_provide_humanitarian_aid <-- Make_empathetic_comment
+Express_intent_to_provide_humanitarian_aid <-- Use_conventional_military_force, Declare_truce,_ceasefire
+Express_intent_to_provide_humanitarian_aid <-- Make_statement, Make_optimistic_comment
+Express_intent_to_provide_humanitarian_aid <-- Make_a_visit
+Express_intent_to_provide_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Express_intent_to_provide_humanitarian_aid <-- Yield
+Express_intent_to_provide_humanitarian_aid <-- fight_with_small_arms_and_light_weapons, Demobilize_armed_forces
+Express_intent_to_provide_humanitarian_aid <-- Declare_truce,_ceasefire

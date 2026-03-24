@@ -1,0 +1,31 @@
+Acknowledge_or_claim_responsibility <-- Mobilize_or_increase_armed_forces
+Acknowledge_or_claim_responsibility <-- Make_an_appeal_or_request, Make_statement
+Acknowledge_or_claim_responsibility <-- Arrest,_detain,_or_charge_with_legal_action
+Acknowledge_or_claim_responsibility <-- Engage_in_negotiation
+Acknowledge_or_claim_responsibility <-- Express_intent_to_provide_material_aid
+Acknowledge_or_claim_responsibility <-- Acknowledge_or_claim_responsibility, Use_conventional_military_force
+Acknowledge_or_claim_responsibility <-- Occupy_territory, Make_statement
+Acknowledge_or_claim_responsibility <-- Reject, Make_statement
+Acknowledge_or_claim_responsibility <-- Express_intent_to_mediate, Make_statement
+Acknowledge_or_claim_responsibility <-- Accuse
+Acknowledge_or_claim_responsibility <-- Express_intent_to_provide_material_aid, Make_statement
+Acknowledge_or_claim_responsibility <-- Use_conventional_military_force
+Acknowledge_or_claim_responsibility <-- Make_an_appeal_or_request
+Acknowledge_or_claim_responsibility <-- Acknowledge_or_claim_responsibility, Make_statement
+Acknowledge_or_claim_responsibility <-- Make_statement
+Acknowledge_or_claim_responsibility <-- Make_statement, Express_intent_to_mediate
+Acknowledge_or_claim_responsibility <-- Express_intent_to_mediate
+Acknowledge_or_claim_responsibility <-- Use_conventional_military_force, Make_statement
+Acknowledge_or_claim_responsibility <-- Reject
+Acknowledge_or_claim_responsibility <-- Retreat_or_surrender_militarily
+Acknowledge_or_claim_responsibility <-- Criticize_or_denounce
+Acknowledge_or_claim_responsibility <-- Accuse, Make_statement
+Acknowledge_or_claim_responsibility <-- Occupy_territory
+Acknowledge_or_claim_responsibility <-- Retreat_or_surrender_militarily, Make_statement
+Acknowledge_or_claim_responsibility <-- Abduct,_hijack,_or_take_hostage
+Acknowledge_or_claim_responsibility <-- Use_unconventional_violence, Retreat_or_surrender_militarily
+Acknowledge_or_claim_responsibility <-- Acknowledge_or_claim_responsibility
+Acknowledge_or_claim_responsibility <-- Use_unconventional_violence
+Acknowledge_or_claim_responsibility <-- Engage_in_negotiation, Make_statement
+Acknowledge_or_claim_responsibility <-- Criticize_or_denounce, Make_statement
+Acknowledge_or_claim_responsibility <-- Arrest,_detain,_or_charge_with_legal_action, Make_statement

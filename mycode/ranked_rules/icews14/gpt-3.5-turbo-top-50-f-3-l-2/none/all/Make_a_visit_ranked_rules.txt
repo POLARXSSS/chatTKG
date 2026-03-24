@@ -1,0 +1,70 @@
+12	0.002812280290602297	6.0	6.0	Make_a_visit <-- Grant_diplomatic_recognition, Apologize
+0.0	0.0	0.0	0.0	Make_a_visit <-- Appeal_for_political_reform, Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Make_a_visit <-- Conduct_strike_or_boycott, Cooperate_militarily
+0.0	0.0	0.0	0.0	Make_a_visit <-- Attempt_to_assassinate, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Make_a_visit <-- Sexually_assault, Kill_by_physical_assault
+1216	0.28497773611436605	0.2796688132474701	0.3140495867768595	Make_a_visit <-- Meet_at_a_'third'_location, Express_intent_to_meet_or_negotiate
+973	0.22802906022966957	0.10079767947788253	0.1233362910381544	Make_a_visit <-- Engage_in_diplomatic_cooperation, Consult
+0.0	0.0	0.0	0.0	Make_a_visit <-- Use_chemical,_biological,_or_radiological_weapons, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Make_a_visit <-- Veto, Yield
+0.0	0.0	0.0	0.0	Make_a_visit <-- Carry_out_car_bombing, Declare_truce,_ceasefire
+23	0.005390203890321068	0.36507936507936506	0.8846153846153846	Make_a_visit <-- Use_conventional_military_force, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Make_a_visit <-- Demand_change_in_leadership, Express_intent_to_change_leadership
+1	0.00023435669088352472	0.14285714285714285	0.14285714285714285	Make_a_visit <-- Accuse_of_espionage,_treason, Share_intelligence_or_information
+94	0.022029528943051324	0.25066666666666665	0.31543624161073824	Make_a_visit <-- Rally_support_on_behalf_of, Praise_or_endorse
+0.0	0.0	0.0	0.0	Make_a_visit <-- Torture, Physically_assault
+189	0.04429341457698617	1.4765625	1.6578947368421053	Make_a_visit <-- Mediate, Express_intent_to_meet_or_negotiate
+32	0.007499414108272791	2.4615384615384617	4.0	Make_a_visit <-- fight_with_artillery_and_tanks, Reduce_relations
+0.0	0.0	0.0	0.0	Make_a_visit <-- Mobilize_or_increase_police_power, Increase_police_alert_status
+0.0	0.0	0.0	0.0	Make_a_visit <-- Detonate_nuclear_weapons, Halt_mediation
+0.0	0.0	0.0	0.0	Make_a_visit <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+1550	0.36325287086946334	0.1788805539526832	0.22794117647058823	Make_a_visit <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Make_a_visit <-- Abduct,_hijack,_or_take_hostage, Discuss_by_telephone
+159	0.03726271385048043	0.38498789346246975	0.7327188940092166	Make_a_visit <-- Provide_economic_aid, Express_intent_to_meet_or_negotiate
+1	0.00023435669088352472	0.09090909090909091	0.125	Make_a_visit <-- Appeal_for_economic_cooperation, Cooperate_economically
+2263	0.5303491914694165	0.05066266678606609	0.09892463717433117	Make_a_visit <-- Make_statement, Praise_or_endorse
+0.0	0.0	0.0	0.0	Make_a_visit <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Make_a_visit <-- Occupy_territory, Expel_or_withdraw
+0.0	0.0	0.0	0.0	Make_a_visit <-- fight_with_small_arms_and_light_weapons, Demobilize_armed_forces
+2195	0.5144129364893367	0.8172002978406553	1.1085858585858586	Make_a_visit <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Make_a_visit <-- Seize_or_damage_property, Confiscate_property
+1149	0.2692758378251699	0.11674456411298517	0.14875712066286897	Make_a_visit <-- Sign_formal_agreement, Consult
+0.0	0.0	0.0	0.0	Make_a_visit <-- Impose_state_of_emergency_or_martial_law, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Make_a_visit <-- Grant_asylum, Return,_release_property
+1036	0.2427935317553316	0.2032967032967033	0.3146067415730337	Make_a_visit <-- Criticize_or_denounce, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Make_a_visit <-- Conduct_hunger_strike, Make_empathetic_comment
+0.0	0.0	0.0	0.0	Make_a_visit <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+2662	0.6238575111319428	0.0716998410860021	0.10247921157991993	Make_a_visit <-- Consult, Express_intent_to_meet_or_negotiate
+589	0.13803609093039607	1.2832244008714597	1.4987277353689568	Make_a_visit <-- Engage_in_negotiation, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Make_a_visit <-- Impose_embargo,_boycott,_or_sanctions, Ease_economic_sanctions,_boycott,_embargo
+18	0.004218420435903445	1.5	3.6	Make_a_visit <-- Threaten, Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Make_a_visit <-- Bring_lawsuit_against, Investigate_crime,_corruption
+6	0.0014061401453011485	0.1111111111111111	0.6	Make_a_visit <-- Defy_norms,_law, Complain_officially
+0.0	0.0	0.0	0.0	Make_a_visit <-- Provide_humanitarian_aid, Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Make_a_visit <-- Accuse_of_human_rights_abuses, Appeal_for_rights
+1	0.00023435669088352472	0.5	1.0	Make_a_visit <-- Rally_opposition_against, Demand_policy_change
+0.0	0.0	0.0	0.0	Make_a_visit <-- Accuse_of_war_crimes, Investigate_war_crimes
+0.0	0.0	0.0	0.0	Make_a_visit <-- Provide_military_aid, Express_intent_to_provide_military_protection_or_peacekeeping
+5	0.0011717834544176236	1.0	1.25	Make_a_visit <-- Demand, Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Make_a_visit <-- Obstruct_passage,_block, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Make_a_visit <-- Demonstrate_for_policy_change, Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Make_a_visit <-- Declare_truce,_ceasefire, Demobilize_armed_forces
+1749	0.40988985235528475	0.171976401179941	0.2357142857142857	Make_a_visit <-- Consult, Sign_formal_agreement
+1400	0.3280993672369346	0.11218847664075647	0.1369997064292005	Make_a_visit <-- Host_a_visit, Express_intent_to_meet_or_negotiate
+1320	0.3093508319662526	0.20935765265662173	0.3402061855670103	Make_a_visit <-- Consult
+415	0.09725802671666275	0.563858695652174	0.9346846846846847	Make_a_visit <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Make_a_visit <-- Mediate, Express_intent_to_accept_mediation
+459	0.10756972111553785	0.6933534743202417	0.8947368421052632	Make_a_visit <-- Engage_in_diplomatic_cooperation
+22	0.005155847199437544	0.7096774193548387	1.2941176470588236	Make_a_visit <-- Apologize
+2	0.00046871338176704945	0.0392156862745098	0.08333333333333333	Make_a_visit <-- Provide_aid, Express_intent_to_provide_economic_aid
+467	0.10944457464260604	0.6177248677248677	1.047085201793722	Make_a_visit <-- Express_intent_to_cooperate
+1	0.00023435669088352472	0.05555555555555555	0.16666666666666666	Make_a_visit <-- Demand_meeting,_negotiation
+2127	0.4984766815092571	0.02657354888683441	0.02657354888683441	Make_a_visit <-- Make_a_visit, Host_a_visit
+2195	0.5144129364893367	0.8172002978406553	1.1085858585858586	Make_a_visit <-- Express_intent_to_meet_or_negotiate
+64	0.014998828216545582	0.6274509803921569	0.8	Make_a_visit <-- Apologize, Praise_or_endorse
+1098	0.25732364659011014	0.41764929631038417	0.7171783148269105	Make_a_visit <-- Praise_or_endorse
+26	0.006093273962971643	1.1304347826086956	2.888888888888889	Make_a_visit <-- Yield, Ease_administrative_sanctions
+363	0.08507147879071948	0.1703425621773815	0.19923161361141603	Make_a_visit <-- Host_a_visit
+0.0	0.0	0.0	0.0	Make_a_visit <-- Ease_economic_sanctions,_boycott,_embargo, Appeal_for_economic_cooperation
+4267	1.0	2.002346316283435	2.002346316283435	Make_a_visit <-- Make_a_visit
+726	0.17014295758143896	0.22539583980130395	0.37307297019527236	Make_a_visit <-- Express_intent_to_cooperate, Express_intent_to_cooperate

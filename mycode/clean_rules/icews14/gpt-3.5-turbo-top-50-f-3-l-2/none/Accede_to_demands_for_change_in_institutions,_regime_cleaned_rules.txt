@@ -1,0 +1,5 @@
+Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Provide_military_aid
+Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Threaten
+Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Appeal_for_material_cooperation
+Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Occupy_territory
+Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Engage_in_negotiation

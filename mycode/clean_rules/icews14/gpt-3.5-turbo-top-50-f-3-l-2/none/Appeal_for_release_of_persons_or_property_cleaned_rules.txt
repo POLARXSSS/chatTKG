@@ -1,0 +1,17 @@
+Appeal_for_release_of_persons_or_property <-- Make_optimistic_comment
+Appeal_for_release_of_persons_or_property <-- Express_intent_to_de-escalate_military_engagement
+Appeal_for_release_of_persons_or_property <-- Appeal_for_material_cooperation
+Appeal_for_release_of_persons_or_property <-- Engage_in_negotiation, Make_an_appeal_or_request
+Appeal_for_release_of_persons_or_property <-- Host_a_visit, Reject
+Appeal_for_release_of_persons_or_property <-- Make_statement, Criticize_or_denounce
+Appeal_for_release_of_persons_or_property <-- Give_ultimatum
+Appeal_for_release_of_persons_or_property <-- Accuse, Make_statement
+Appeal_for_release_of_persons_or_property <-- Refuse_to_release_persons_or_property, Make_an_appeal_or_request
+Appeal_for_release_of_persons_or_property <-- Arrest,_detain,_or_charge_with_legal_action, Make_an_appeal_or_request
+Appeal_for_release_of_persons_or_property <-- Demand, Make_a_visit
+Appeal_for_release_of_persons_or_property <-- Accuse
+Appeal_for_release_of_persons_or_property <-- Make_statement
+Appeal_for_release_of_persons_or_property <-- Make_an_appeal_or_request
+Appeal_for_release_of_persons_or_property <-- Criticize_or_denounce, Accuse
+Appeal_for_release_of_persons_or_property <-- Express_intent_to_cooperate, Express_intent_to_meet_or_negotiate
+Appeal_for_release_of_persons_or_property <-- Criticize_or_denounce

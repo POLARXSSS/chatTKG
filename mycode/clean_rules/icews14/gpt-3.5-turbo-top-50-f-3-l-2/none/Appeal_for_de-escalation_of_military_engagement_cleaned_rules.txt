@@ -1,0 +1,18 @@
+Appeal_for_de-escalation_of_military_engagement <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_de-escalation_of_military_engagement <-- Express_intent_to_meet_or_negotiate
+Appeal_for_de-escalation_of_military_engagement <-- Make_a_visit
+Appeal_for_de-escalation_of_military_engagement <-- Deny_responsibility, Appeal_for_rights
+Appeal_for_de-escalation_of_military_engagement <-- Reject, Appeal_for_rights
+Appeal_for_de-escalation_of_military_engagement <-- Use_unconventional_violence
+Appeal_for_de-escalation_of_military_engagement <-- Use_conventional_military_force
+Appeal_for_de-escalation_of_military_engagement <-- Demand
+Appeal_for_de-escalation_of_military_engagement <-- Engage_in_symbolic_act, Criticize_or_denounce
+Appeal_for_de-escalation_of_military_engagement <-- Abduct,_hijack,_or_take_hostage
+Appeal_for_de-escalation_of_military_engagement <-- Appeal_for_de-escalation_of_military_engagement
+Appeal_for_de-escalation_of_military_engagement <-- Appeal_for_release_of_persons_or_property
+Appeal_for_de-escalation_of_military_engagement <-- Make_statement, Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_de-escalation_of_military_engagement <-- Engage_in_diplomatic_cooperation
+Appeal_for_de-escalation_of_military_engagement <-- Discuss_by_telephone, Reject
+Appeal_for_de-escalation_of_military_engagement <-- Express_intent_to_settle_dispute
+Appeal_for_de-escalation_of_military_engagement <-- Make_an_appeal_or_request
+Appeal_for_de-escalation_of_military_engagement <-- Occupy_territory, Express_intent_to_meet_or_negotiate

@@ -1,0 +1,15 @@
+Accede_to_demands_for_rights <-- Make_statement, Make_an_appeal_or_request
+Accede_to_demands_for_rights <-- Make_an_appeal_or_request, Provide_humanitarian_aid
+Accede_to_demands_for_rights <-- Make_statement, Criticize_or_denounce
+Accede_to_demands_for_rights <-- Criticize_or_denounce
+Accede_to_demands_for_rights <-- Make_an_appeal_or_request
+Accede_to_demands_for_rights <-- Demand
+Accede_to_demands_for_rights <-- Praise_or_endorse, Provide_humanitarian_aid
+Accede_to_demands_for_rights <-- Provide_aid, Make_an_appeal_or_request
+Accede_to_demands_for_rights <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Use_conventional_military_force
+Accede_to_demands_for_rights <-- Yield
+Accede_to_demands_for_rights <-- Refuse_to_yield, Accuse
+Accede_to_demands_for_rights <-- Yield, Use_conventional_military_force
+Accede_to_demands_for_rights <-- Demonstrate_or_rally, Use_conventional_military_force
+Accede_to_demands_for_rights <-- Make_statement, Accuse
+Accede_to_demands_for_rights <-- Accuse

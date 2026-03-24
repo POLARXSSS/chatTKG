@@ -1,0 +1,51 @@
+Reduce_relations <-- Kill_by_physical_assault, Arrest,_detain,_or_charge_with_legal_action
+Reduce_relations <-- Yield, Refuse_to_release_persons_or_property
+Reduce_relations <-- Arrest,_detain,_or_charge_with_legal_action
+Reduce_relations <-- Conduct_hunger_strike, Conduct_strike_or_boycott
+Reduce_relations <-- Expel_or_deport_individuals
+Reduce_relations <-- Reduce_or_stop_economic_assistance
+Reduce_relations <-- Make_pessimistic_comment, Make_statement
+Reduce_relations <-- Criticize_or_denounce
+Reduce_relations <-- Use_unconventional_violence, Use_tactics_of_violent_repression
+Reduce_relations <-- Impose_embargo,_boycott,_or_sanctions, Reduce_relations
+Reduce_relations <-- Accuse, Accuse
+Reduce_relations <-- Use_tactics_of_violent_repression
+Reduce_relations <-- Criticize_or_denounce, Threaten
+Reduce_relations <-- Confiscate_property, Seize_or_damage_property
+Reduce_relations <-- Complain_officially
+Reduce_relations <-- Provide_military_aid, Use_conventional_military_force
+Reduce_relations <-- Reduce_or_break_diplomatic_relations
+Reduce_relations <-- Defend_verbally, Threaten_non-force
+Reduce_relations <-- Kill_by_physical_assault
+Reduce_relations <-- Grant_diplomatic_recognition, Deny_responsibility
+Reduce_relations <-- Expel_or_deport_individuals, Ban_political_parties_or_politicians
+Reduce_relations <-- Violate_ceasefire
+Reduce_relations <-- Protest_violently,_riot
+Reduce_relations <-- Violate_ceasefire, Protest_violently,_riot
+Reduce_relations <-- Engage_in_negotiation, Halt_mediation
+Reduce_relations <-- Confiscate_property
+Reduce_relations <-- Occupy_territory, Retreat_or_surrender_militarily
+Reduce_relations <-- Cooperate_economically, Impose_administrative_sanctions
+Reduce_relations <-- Ban_political_parties_or_politicians
+Reduce_relations <-- Seize_or_damage_property
+Reduce_relations <-- Express_intent_to_cooperate, Reject
+Reduce_relations <-- Express_intent_to_meet_or_negotiate, Refuse_to_yield
+Reduce_relations <-- Destroy_property
+Reduce_relations <-- Share_intelligence_or_information, Abduct,_hijack,_or_take_hostage
+Reduce_relations <-- Express_intent_to_provide_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+Reduce_relations <-- Express_intent_to_cooperate_economically, Reject_economic_cooperation
+Reduce_relations <-- Use_unconventional_violence
+Reduce_relations <-- Accuse
+Reduce_relations <-- Make_a_visit, Threaten
+Reduce_relations <-- Reduce_relations, Reduce_relations
+Reduce_relations <-- Host_a_visit, Expel_or_deport_individuals
+Reduce_relations <-- Appeal_for_material_cooperation, Demand_that_target_yields
+Reduce_relations <-- Reduce_or_break_diplomatic_relations, Reduce_or_stop_economic_assistance
+Reduce_relations <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+Reduce_relations <-- Reject
+Reduce_relations <-- Complain_officially, Reject
+Reduce_relations <-- Impose_embargo,_boycott,_or_sanctions
+Reduce_relations <-- Threaten
+Reduce_relations <-- Make_pessimistic_comment
+Reduce_relations <-- Mediate, Halt_negotiations
+Reduce_relations <-- Sign_formal_agreement, Violate_ceasefire

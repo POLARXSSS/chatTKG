@@ -1,0 +1,18 @@
+3	0.075	0.002297090352220521	0.023809523809523808	Appeal_for_de-escalation_of_military_engagement <-- Arrest,_detain,_or_charge_with_legal_action
+13	0.325	0.004839910647803425	0.05179282868525897	Appeal_for_de-escalation_of_military_engagement <-- Express_intent_to_meet_or_negotiate
+9	0.225	0.004223369310183012	0.04225352112676056	Appeal_for_de-escalation_of_military_engagement <-- Make_a_visit
+0.0	0.0	0.0	0.0	Appeal_for_de-escalation_of_military_engagement <-- Deny_responsibility, Appeal_for_rights
+0.0	0.0	0.0	0.0	Appeal_for_de-escalation_of_military_engagement <-- Reject, Appeal_for_rights
+3	0.075	0.003006012024048096	0.16666666666666666	Appeal_for_de-escalation_of_military_engagement <-- Use_unconventional_violence
+4	0.1	0.004975124378109453	0.10256410256410256	Appeal_for_de-escalation_of_military_engagement <-- Use_conventional_military_force
+8	0.2	0.008695652173913044	0.0898876404494382	Appeal_for_de-escalation_of_military_engagement <-- Demand
+5	0.125	0.0018573551263001485	0.028735632183908046	Appeal_for_de-escalation_of_military_engagement <-- Engage_in_symbolic_act, Criticize_or_denounce
+1	0.025	0.0035335689045936395	0.07692307692307693	Appeal_for_de-escalation_of_military_engagement <-- Abduct,_hijack,_or_take_hostage
+40	1.0	1.1111111111111112	1.1111111111111112	Appeal_for_de-escalation_of_military_engagement <-- Appeal_for_de-escalation_of_military_engagement
+2	0.05	0.06451612903225806	0.2222222222222222	Appeal_for_de-escalation_of_military_engagement <-- Appeal_for_release_of_persons_or_property
+5	0.125	0.00020609208194221178	0.004608294930875576	Appeal_for_de-escalation_of_military_engagement <-- Make_statement, Arrest,_detain,_or_charge_with_legal_action
+5	0.125	0.0075528700906344415	0.04854368932038835	Appeal_for_de-escalation_of_military_engagement <-- Engage_in_diplomatic_cooperation
+4	0.1	0.01038961038961039	0.046511627906976744	Appeal_for_de-escalation_of_military_engagement <-- Discuss_by_telephone, Reject
+2	0.05	0.05405405405405406	0.125	Appeal_for_de-escalation_of_military_engagement <-- Express_intent_to_settle_dispute
+16	0.4	0.004979769685652039	0.046242774566473986	Appeal_for_de-escalation_of_military_engagement <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_de-escalation_of_military_engagement <-- Occupy_territory, Express_intent_to_meet_or_negotiate

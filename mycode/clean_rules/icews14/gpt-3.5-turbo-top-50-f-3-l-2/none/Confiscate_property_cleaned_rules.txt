@@ -1,0 +1,20 @@
+Confiscate_property <-- Return,_release_person(s)
+Confiscate_property <-- Investigate
+Confiscate_property <-- Make_statement, Use_unconventional_violence
+Confiscate_property <-- Confiscate_property
+Confiscate_property <-- Complain_officially
+Confiscate_property <-- Arrest,_detain,_or_charge_with_legal_action
+Confiscate_property <-- Increase_police_alert_status
+Confiscate_property <-- Express_intent_to_mediate
+Confiscate_property <-- Impose_administrative_sanctions
+Confiscate_property <-- Seize_or_damage_property
+Confiscate_property <-- Demand_military_aid
+Confiscate_property <-- Confiscate_property, Make_an_appeal_or_request
+Confiscate_property <-- Use_conventional_military_force
+Confiscate_property <-- Sexually_assault, Arrest,_detain,_or_charge_with_legal_action
+Confiscate_property <-- Provide_humanitarian_aid, Provide_aid
+Confiscate_property <-- Sexually_assault
+Confiscate_property <-- Torture
+Confiscate_property <-- Appeal_for_judicial_cooperation, Confiscate_property
+Confiscate_property <-- Declare_truce,_ceasefire, Make_statement
+Confiscate_property <-- Provide_humanitarian_aid

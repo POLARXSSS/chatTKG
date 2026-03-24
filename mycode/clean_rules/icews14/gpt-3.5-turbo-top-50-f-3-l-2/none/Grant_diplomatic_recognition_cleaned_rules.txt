@@ -1,0 +1,49 @@
+Grant_diplomatic_recognition <-- Provide_military_aid
+Grant_diplomatic_recognition <-- Make_a_visit, Host_a_visit
+Grant_diplomatic_recognition <-- Express_intent_to_cooperate, Cooperate_economically
+Grant_diplomatic_recognition <-- Ease_state_of_emergency_or_martial_law, Ease_state_of_emergency_or_martial_law
+Grant_diplomatic_recognition <-- Express_intent_to_change_policy, Accede_to_demands_for_change_in_policy
+Grant_diplomatic_recognition <-- Return,_release_person(s)
+Grant_diplomatic_recognition <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+Grant_diplomatic_recognition <-- Yield
+Grant_diplomatic_recognition <-- Express_intent_to_provide_humanitarian_aid, Provide_humanitarian_aid
+Grant_diplomatic_recognition <-- Make_optimistic_comment, Express_intent_to_cooperate
+Grant_diplomatic_recognition <-- Sign_formal_agreement
+Grant_diplomatic_recognition <-- Forgive
+Grant_diplomatic_recognition <-- Make_an_appeal_or_request, Express_intent_to_meet_or_negotiate
+Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_intelligence
+Grant_diplomatic_recognition <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+Grant_diplomatic_recognition <-- Express_intent_to_mediate, Ease_curfew
+Grant_diplomatic_recognition <-- Cooperate_militarily
+Grant_diplomatic_recognition <-- Apologize
+Grant_diplomatic_recognition <-- Express_intent_to_provide_economic_aid, Provide_humanitarian_aid
+Grant_diplomatic_recognition <-- Provide_humanitarian_aid
+Grant_diplomatic_recognition <-- Express_intent_to_engage_in_material_cooperation
+Grant_diplomatic_recognition <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+Grant_diplomatic_recognition <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+Grant_diplomatic_recognition <-- Express_intent_to_cooperate_economically, Cooperate_economically
+Grant_diplomatic_recognition <-- Express_intent_to_provide_military_aid, Provide_military_aid
+Grant_diplomatic_recognition <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+Grant_diplomatic_recognition <-- Appeal_for_material_cooperation, Express_intent_to_engage_in_material_cooperation
+Grant_diplomatic_recognition <-- Express_intent_to_settle_dispute, Demand_settling_of_dispute
+Grant_diplomatic_recognition <-- Express_intent_to_yield, Yield
+Grant_diplomatic_recognition <-- Declare_truce,_ceasefire
+Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+Grant_diplomatic_recognition <-- Express_intent_to_institute_political_reform, Ease_political_dissent
+Grant_diplomatic_recognition <-- Provide_military_aid, Receive_deployment_of_peacekeepers
+Grant_diplomatic_recognition <-- Accede_to_demands_for_change_in_policy
+Grant_diplomatic_recognition <-- Express_intent_to_provide_military_aid, Ease_military_blockade
+Grant_diplomatic_recognition <-- Grant_diplomatic_recognition
+Grant_diplomatic_recognition <-- Make_statement, Praise_or_endorse
+Grant_diplomatic_recognition <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+Grant_diplomatic_recognition <-- Consult
+Grant_diplomatic_recognition <-- Express_intent_to_provide_military_protection_or_peacekeeping, Receive_deployment_of_peacekeepers
+Grant_diplomatic_recognition <-- Ease_economic_sanctions,_boycott,_embargo
+Grant_diplomatic_recognition <-- Discuss_by_telephone, Make_a_visit
+Grant_diplomatic_recognition <-- Host_a_visit
+Grant_diplomatic_recognition <-- Engage_in_diplomatic_cooperation
+Grant_diplomatic_recognition <-- Make_a_visit
+Grant_diplomatic_recognition <-- Express_intent_to_accept_mediation, Mediate
+Grant_diplomatic_recognition <-- Express_intent_to_provide_material_aid, Provide_military_aid
+Grant_diplomatic_recognition <-- Cooperate_economically
+Grant_diplomatic_recognition <-- Mediate

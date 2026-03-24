@@ -1,0 +1,51 @@
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Abduct,_hijack,_or_take_hostage, Demand_release_of_persons_or_property
+6	0.13636363636363635	0.041379310344827586	0.08450704225352113	Share_intelligence_or_information <-- Complain_officially, Sign_formal_agreement
+7	0.1590909090909091	0.01907356948228883	0.07216494845360824	Share_intelligence_or_information <-- Reduce_relations, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Express_intent_to_engage_in_material_cooperation, Deny_responsibility
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Provide_aid, Engage_in_material_cooperation
+1	0.022727272727272728	0.02	0.16666666666666666	Share_intelligence_or_information <-- Demand_intelligence_cooperation, Engage_in_diplomatic_cooperation
+11	0.25	0.009482758620689655	0.06358381502890173	Share_intelligence_or_information <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Bring_lawsuit_against, Engage_in_judicial_cooperation
+6	0.13636363636363635	0.008174386920980926	0.07692307692307693	Share_intelligence_or_information <-- Express_intent_to_cooperate, Deny_responsibility
+3	0.06818181818181818	0.015957446808510637	0.07142857142857142	Share_intelligence_or_information <-- Express_intent_to_cooperate_economically, Cooperate_economically
+2	0.045454545454545456	0.009852216748768473	0.09090909090909091	Share_intelligence_or_information <-- Defy_norms,_law, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Investigate_human_rights_abuses, Engage_in_judicial_cooperation
+3	0.06818181818181818	0.75	1.5	Share_intelligence_or_information <-- Express_intent_to_cooperate_on_intelligence
+6	0.13636363636363635	0.001671309192200557	0.014150943396226415	Share_intelligence_or_information <-- Threaten, Make_statement
+14	0.3181818181818182	0.0016156953260242355	0.012089810017271158	Share_intelligence_or_information <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Engage_in_judicial_cooperation
+17	0.38636363636363635	0.002696272799365583	0.03736263736263736	Share_intelligence_or_information <-- Consult
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Use_unconventional_violence, Engage_in_negotiation
+2	0.045454545454545456	0.03125	0.4	Share_intelligence_or_information <-- Appeal_for_intelligence
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Occupy_territory, Appeal_for_intelligence
+12	0.2727272727272727	0.016304347826086956	0.11650485436893204	Share_intelligence_or_information <-- Sign_formal_agreement
+10	0.22727272727272727	0.015105740181268883	0.07462686567164178	Share_intelligence_or_information <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Conduct_suicide,_car,_or_other_non-military_bombing, Express_intent_to_cooperate
+9	0.20454545454545456	0.002849905003166561	0.018218623481781375	Share_intelligence_or_information <-- Express_intent_to_cooperate, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Use_conventional_military_force, Cooperate_militarily
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Appeal_for_judicial_cooperation, Engage_in_judicial_cooperation
+5	0.11363636363636363	0.00547645125958379	0.07352941176470588	Share_intelligence_or_information <-- Accuse, Investigate
+7	0.1590909090909091	0.0028443722064201544	0.07368421052631578	Share_intelligence_or_information <-- Make_an_appeal_or_request, Deny_responsibility
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Mediate
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Cooperate_militarily
+9	0.20454545454545456	0.0031435557107928748	0.03	Share_intelligence_or_information <-- Demand, Engage_in_diplomatic_cooperation
+7	0.1590909090909091	0.015730337078651686	0.036458333333333336	Share_intelligence_or_information <-- Reject_plan,_agreement_to_settle_dispute, Engage_in_negotiation
+1	0.022727272727272728	0.0015313935681470138	0.02631578947368421	Share_intelligence_or_information <-- Provide_aid, Use_unconventional_violence
+2	0.045454545454545456	0.03076923076923077	0.125	Share_intelligence_or_information <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Provide_military_aid
+9	0.20454545454545456	0.02903225806451613	0.16666666666666666	Share_intelligence_or_information <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Express_intent_to_cooperate_militarily
+7	0.1590909090909091	0.09333333333333334	0.30434782608695654	Share_intelligence_or_information <-- Express_intent_to_cooperate_economically
+3	0.06818181818181818	0.00684931506849315	0.08333333333333333	Share_intelligence_or_information <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Demand_intelligence_cooperation
+3	0.06818181818181818	0.75	1.5	Share_intelligence_or_information <-- Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Mediate
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Appeal_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Express_intent_to_cooperate_on_judicial_matters
+3	0.06818181818181818	0.030303030303030304	0.16666666666666666	Share_intelligence_or_information <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Appeal_for_material_cooperation
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Appeal_for_judicial_cooperation
+0.0	0.0	0.0	0.0	Share_intelligence_or_information <-- Engage_in_judicial_cooperation

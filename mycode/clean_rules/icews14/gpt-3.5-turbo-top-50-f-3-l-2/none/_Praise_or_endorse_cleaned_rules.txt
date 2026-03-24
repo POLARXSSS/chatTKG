@@ -1,0 +1,50 @@
+Praise_or_endorse <-- Appeal_for_material_cooperation
+Praise_or_endorse <-- Acknowledge_or_claim_responsibility
+Praise_or_endorse <-- Sign_formal_agreement
+Praise_or_endorse <-- Ease_military_blockade
+Praise_or_endorse <-- Discuss_by_telephone
+Praise_or_endorse <-- Accede_to_demands_for_change_in_leadership
+Praise_or_endorse <-- Provide_military_aid
+Praise_or_endorse <-- Consult, Consult
+Praise_or_endorse <-- Host_a_visit, Make_a_visit
+Praise_or_endorse <-- Share_intelligence_or_information
+Praise_or_endorse <-- Consult
+Praise_or_endorse <-- Make_statement, Make_statement
+Praise_or_endorse <-- Express_intent_to_de-escalate_military_engagement, Declare_truce,_ceasefire
+Praise_or_endorse <-- Provide_humanitarian_aid
+Praise_or_endorse <-- Accede_to_requests_or_demands_for_political_reform
+Praise_or_endorse <-- Ease_state_of_emergency_or_martial_law
+Praise_or_endorse <-- Retreat_or_surrender_militarily
+Praise_or_endorse <-- Praise_or_endorse
+Praise_or_endorse <-- Express_intent_to_provide_military_aid
+Praise_or_endorse <-- Host_a_visit
+Praise_or_endorse <-- Engage_in_symbolic_act
+Praise_or_endorse <-- Mediate
+Praise_or_endorse <-- Accede_to_demands_for_change_in_policy
+Praise_or_endorse <-- Cooperate_economically
+Praise_or_endorse <-- Forgive
+Praise_or_endorse <-- Express_intent_to_provide_material_aid
+Praise_or_endorse <-- Receive_inspectors
+Praise_or_endorse <-- Appeal_for_aid, Provide_aid
+Praise_or_endorse <-- Express_intent_to_meet_or_negotiate
+Praise_or_endorse <-- Provide_economic_aid
+Praise_or_endorse <-- Apologize
+Praise_or_endorse <-- Grant_diplomatic_recognition
+Praise_or_endorse <-- Defend_verbally
+Praise_or_endorse <-- Express_intent_to_cooperate, Cooperate_economically
+Praise_or_endorse <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+Praise_or_endorse <-- Express_intent_to_accept_mediation
+Praise_or_endorse <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+Praise_or_endorse <-- Express_intent_to_engage_in_material_cooperation
+Praise_or_endorse <-- Ease_political_dissent
+Praise_or_endorse <-- Ease_administrative_sanctions
+Praise_or_endorse <-- Yield
+Praise_or_endorse <-- Engage_in_diplomatic_cooperation, Engage_in_diplomatic_cooperation
+Praise_or_endorse <-- Engage_in_diplomatic_cooperation
+Praise_or_endorse <-- Express_intent_to_provide_material_aid, Provide_humanitarian_aid
+Praise_or_endorse <-- Make_statement
+Praise_or_endorse <-- Cooperate_militarily
+Praise_or_endorse <-- Ease_economic_sanctions,_boycott,_embargo
+Praise_or_endorse <-- Accede_to_demands_for_rights
+Praise_or_endorse <-- Declare_truce,_ceasefire
+Praise_or_endorse <-- Express_intent_to_yield

@@ -1,0 +1,10 @@
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Forgive
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Declare_truce,_ceasefire
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_curfew
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Yield
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_political_dissent
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Demand_policy_change
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_economic_sanctions,_boycott,_embargo
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_military_blockade
+Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_state_of_emergency_or_martial_law

@@ -1,0 +1,14 @@
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Appeal_for_target_to_allow_international_involvement_(non-mediation), Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Accuse_of_human_rights_abuses, Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Appeal_for_intelligence, Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Criticize_or_denounce, Make_statement
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Demand_that_target_yields, Refuse_to_yield
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Abduct,_hijack,_or_take_hostage, Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Impose_embargo,_boycott,_or_sanctions, Reduce_relations
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Demand_change_in_leadership, Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Appeal_for_intelligence, Obstruct_passage_to_demand_leadership_change
+1	1.0	0.0136986301369863	0.5	Engage_in_mass_expulsion <-- Use_tactics_of_violent_repression
+1	1.0	0.037037037037037035	1.0	Engage_in_mass_expulsion <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Engage_in_mass_expulsion <-- Reduce_relations, Impose_administrative_sanctions

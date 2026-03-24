@@ -1,0 +1,100 @@
+39	0.2846715328467153	0.0017717608577139741	0.029039463886820552	Complain_officially <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_material_cooperation, Reject_judicial_cooperation
+1	0.0072992700729927005	0.25	0.25	Complain_officially <-- Express_intent_to_cooperate_on_intelligence, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Complain_officially <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+37	0.27007299270072993	0.08747044917257683	0.5967741935483871	Complain_officially <-- Threaten
+0.0	0.0	0.0	0.0	Complain_officially <-- Express_intent_to_provide_material_aid, Reduce_or_stop_material_aid
+65	0.4744525547445255	0.044735030970406056	0.2927927927927928	Complain_officially <-- Accuse
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_policy_change, Demand_policy_change
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_easing_of_administrative_sanctions, Refuse_to_ease_administrative_sanctions
+37	0.27007299270072993	0.004561143984220907	0.11077844311377245	Complain_officially <-- Make_statement
+6	0.043795620437956206	0.010416666666666666	0.1276595744680851	Complain_officially <-- Make_an_appeal_or_request, Decline_comment
+9	0.06569343065693431	0.020642201834862386	0.10227272727272728	Complain_officially <-- Express_intent_to_cooperate, Cooperate_economically
+55	0.40145985401459855	0.00202295130204502	0.042242703533026116	Complain_officially <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+19	0.1386861313868613	0.0023878346110343092	0.038306451612903226	Complain_officially <-- Engage_in_negotiation, Engage_in_negotiation
+5	0.0364963503649635	0.03571428571428571	0.29411764705882354	Complain_officially <-- Physically_assault
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_rights, Demand_rights
+14	0.10218978102189781	0.022617124394184167	0.3888888888888889	Complain_officially <-- Make_an_appeal_or_request, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_material_cooperation, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Complain_officially <-- Express_intent_to_provide_military_aid, Reduce_or_stop_military_assistance
+36	0.26277372262773724	0.05732484076433121	0.05732484076433121	Complain_officially <-- Complain_officially, Consult
+0.0	0.0	0.0	0.0	Complain_officially <-- Destroy_property
+15	0.10948905109489052	0.18518518518518517	1.1538461538461537	Complain_officially <-- Sexually_assault
+34	0.24817518248175183	0.026856240126382307	0.21935483870967742	Complain_officially <-- Criticize_or_denounce, Complain_officially
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_intelligence, Share_intelligence_or_information
+16	0.11678832116788321	0.01225114854517611	0.10457516339869281	Complain_officially <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_to_others_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Complain_officially <-- Express_intent_to_cooperate_economically, Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_change_in_leadership, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_to_yield, Refuse_to_yield
+0.0	0.0	0.0	0.0	Complain_officially <-- Express_intent_to_provide_economic_aid, Reduce_or_stop_economic_assistance
+8	0.058394160583941604	0.00306044376434583	0.1509433962264151	Complain_officially <-- Use_unconventional_violence, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_military_aid, Reject_request_for_military_aid
+1	0.0072992700729927005	0.05263157894736842	1.0	Complain_officially <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation
+1	0.0072992700729927005	1.0	1.0	Complain_officially <-- Appeal_for_judicial_cooperation, Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_target_to_allow_international_involvement_(non-mediation), Obstruct_passage,_block
+43	0.31386861313868614	0.010877814318239311	0.08902691511387163	Complain_officially <-- Make_optimistic_comment, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_to_others_to_settle_dispute, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Complain_officially <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Impose_embargo,_boycott,_or_sanctions
+39	0.2846715328467153	0.005311904113320621	0.06046511627906977	Complain_officially <-- Demand, Consult
+1	0.0072992700729927005	0.005025125628140704	0.03571428571428571	Complain_officially <-- Threaten, Threaten_with_military_force
+34	0.24817518248175183	0.0005663740400792923	0.016940707523667164	Complain_officially <-- Make_statement, Make_statement
+8	0.058394160583941604	0.009950248756218905	0.19047619047619047	Complain_officially <-- Use_conventional_military_force
+29	0.2116788321167883	0.009003415088481837	0.090625	Complain_officially <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+1	0.0072992700729927005	0.010638297872340425	0.14285714285714285	Complain_officially <-- Confiscate_property
+0.0	0.0	0.0	0.0	Complain_officially <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Complain_officially <-- Appeal_for_economic_aid, Reduce_or_stop_economic_assistance
+6	0.043795620437956206	0.02654867256637168	0.09230769230769231	Complain_officially <-- Accuse_of_crime,_corruption, Reject
+23	0.1678832116788321	0.008748573602130088	0.125	Complain_officially <-- Praise_or_endorse
+1	0.0072992700729927005	0.00847457627118644	0.07692307692307693	Complain_officially <-- Expel_or_deport_individuals
+65	0.4744525547445255	0.044735030970406056	0.2927927927927928	Complain_officially <-- Accuse
+0.0	0.0	0.0	0.0	Complain_officially <-- Engage_in_mass_killings
+1	0.0072992700729927005	0.013513513513513514	0.14285714285714285	Complain_officially <-- Threaten_with_military_force
+74	0.5401459854014599	0.03894736842105263	0.29133858267716534	Complain_officially <-- Criticize_or_denounce
+1	0.0072992700729927005	0.015873015873015872	0.16666666666666666	Complain_officially <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Complain_officially <-- Detonate_nuclear_weapons
+19	0.1386861313868613	0.10674157303370786	0.6785714285714286	Complain_officially <-- Reduce_relations
+37	0.27007299270072993	0.08747044917257683	0.5967741935483871	Complain_officially <-- Threaten
+13	0.0948905109489051	0.11607142857142858	0.52	Complain_officially <-- Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Complain_officially <-- Increase_military_alert_status
+7	0.051094890510948905	1.75	7.0	Complain_officially <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+17	0.12408759124087591	0.0913978494623656	1.0625	Complain_officially <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Complain_officially <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Complain_officially <-- Employ_aerial_weapons
+6	0.043795620437956206	0.02654867256637168	0.4	Complain_officially <-- Make_empathetic_comment
+1	0.0072992700729927005	0.015384615384615385	0.08333333333333333	Complain_officially <-- Grant_diplomatic_recognition
+1	0.0072992700729927005	0.010638297872340425	0.14285714285714285	Complain_officially <-- Confiscate_property
+47	0.34306569343065696	0.07320872274143302	0.43119266055045874	Complain_officially <-- Reject
+0.0	0.0	0.0	0.0	Complain_officially <-- Mediate
+1	0.0072992700729927005	0.011904761904761904	0.5	Complain_officially <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Complain_officially <-- Use_tactics_of_violent_repression
+16	0.11678832116788321	0.01225114854517611	0.10457516339869281	Complain_officially <-- Arrest,_detain,_or_charge_with_legal_action
+7	0.051094890510948905	0.0603448275862069	0.3333333333333333	Complain_officially <-- Protest_violently,_riot
+41	0.29927007299270075	0.09975669099756691	0.7192982456140351	Complain_officially <-- Make_pessimistic_comment
+2	0.014598540145985401	0.07142857142857142	0.3333333333333333	Complain_officially <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Complain_officially <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Complain_officially <-- Assassinate
+0.0	0.0	0.0	0.0	Complain_officially <-- Declare_truce,_ceasefire
+5	0.0364963503649635	0.03571428571428571	0.29411764705882354	Complain_officially <-- Physically_assault
+18	0.13138686131386862	0.06060606060606061	0.36	Complain_officially <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Complain_officially <-- Destroy_property
+0.0	0.0	0.0	0.0	Complain_officially <-- Impose_state_of_emergency_or_martial_law
+8	0.058394160583941604	0.009950248756218905	0.19047619047619047	Complain_officially <-- Use_conventional_military_force
+20	0.145985401459854	0.02717391304347826	0.2564102564102564	Complain_officially <-- Sign_formal_agreement
+13	0.0948905109489051	0.006100422336931018	0.036211699164345405	Complain_officially <-- Host_a_visit
+0.0	0.0	0.0	0.0	Complain_officially <-- Torture
+52	0.3795620437956204	0.05652173913043478	0.46846846846846846	Complain_officially <-- Demand
+1	0.0072992700729927005	0.0035335689045936395	0.06666666666666667	Complain_officially <-- Abduct,_hijack,_or_take_hostage
+14	0.10218978102189781	0.01206896551724138	0.20588235294117646	Complain_officially <-- Engage_in_negotiation
+32	0.23357664233576642	0.058931860036832415	0.3516483516483517	Complain_officially <-- Make_optimistic_comment
+25	0.18248175182481752	0.32894736842105265	1.25	Complain_officially <-- Rally_opposition_against
+15	0.10948905109489052	0.18518518518518517	1.1538461538461537	Complain_officially <-- Sexually_assault
+2	0.014598540145985401	0.014388489208633094	0.125	Complain_officially <-- Impose_administrative_sanctions
+72	0.5255474452554745	0.022408963585434174	0.21301775147928995	Complain_officially <-- Make_an_appeal_or_request
+37	0.27007299270072993	0.004561143984220907	0.11077844311377245	Complain_officially <-- Make_statement
+58	0.4233576642335766	0.021593447505584513	0.3036649214659686	Complain_officially <-- Express_intent_to_meet_or_negotiate
+15	0.10948905109489052	0.01503006012024048	0.17857142857142858	Complain_officially <-- Use_unconventional_violence
+6	0.043795620437956206	0.10714285714285714	0.6666666666666666	Complain_officially <-- Appeal_for_change_in_leadership

@@ -1,0 +1,27 @@
+9	0.1232876712328767	3.0	4.5	Impose_restrictions_on_political_freedoms <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Impose_restrictions_on_political_freedoms <-- Engage_in_political_dissent
+9	0.1232876712328767	0.391304347826087	3.0	Impose_restrictions_on_political_freedoms <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Impose_restrictions_on_political_freedoms <-- Conduct_hunger_strike
+14	0.1917808219178082	0.125	0.6363636363636364	Impose_restrictions_on_political_freedoms <-- Ease_administrative_sanctions
+1	0.0136986301369863	0.06666666666666667	0.5	Impose_restrictions_on_political_freedoms <-- Increase_police_alert_status
+36	0.4931506849315068	0.011204481792717087	0.23225806451612904	Impose_restrictions_on_political_freedoms <-- Make_an_appeal_or_request
+2	0.0273972602739726	0.25	1.0	Impose_restrictions_on_political_freedoms <-- Impose_state_of_emergency_or_martial_law
+12	0.1643835616438356	0.003028773346794548	0.0916030534351145	Impose_restrictions_on_political_freedoms <-- Make_an_appeal_or_request, Demonstrate_or_rally
+28	0.3835616438356164	0.014736842105263158	0.24778761061946902	Impose_restrictions_on_political_freedoms <-- Criticize_or_denounce
+5	0.0684931506849315	0.8333333333333334	2.5	Impose_restrictions_on_political_freedoms <-- Ban_political_parties_or_politicians
+6	0.0821917808219178	0.005185825410544511	0.13953488372093023	Impose_restrictions_on_political_freedoms <-- Make_an_appeal_or_request, Ease_administrative_sanctions
+27	0.3698630136986301	0.020673813169984685	0.16981132075471697	Impose_restrictions_on_political_freedoms <-- Arrest,_detain,_or_charge_with_legal_action
+1	0.0136986301369863	0.2	0.5	Impose_restrictions_on_political_freedoms <-- Threaten_with_repression
+15	0.2054794520547945	0.1079136690647482	0.5555555555555556	Impose_restrictions_on_political_freedoms <-- Impose_administrative_sanctions
+73	1.0	1.5208333333333333	1.5208333333333333	Impose_restrictions_on_political_freedoms <-- Impose_restrictions_on_political_freedoms
+23	0.3150684931506849	0.0035625774473358116	0.06515580736543909	Impose_restrictions_on_political_freedoms <-- Make_an_appeal_or_request, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Impose_restrictions_on_political_freedoms <-- Conduct_strike_or_boycott
+22	0.3013698630136986	0.0025139984001828364	0.06162464985994398	Impose_restrictions_on_political_freedoms <-- Accuse, Criticize_or_denounce
+10	0.136986301369863	0.03816793893129771	0.2857142857142857	Impose_restrictions_on_political_freedoms <-- Return,_release_person(s)
+29	0.3972602739726027	0.0035749506903353058	0.10320284697508897	Impose_restrictions_on_political_freedoms <-- Make_statement
+9	0.1232876712328767	0.391304347826087	3.0	Impose_restrictions_on_political_freedoms <-- Obstruct_passage,_block
+27	0.3698630136986301	0.020673813169984685	0.16981132075471697	Impose_restrictions_on_political_freedoms <-- Arrest,_detain,_or_charge_with_legal_action
+2	0.0273972602739726	0.023809523809523808	0.4	Impose_restrictions_on_political_freedoms <-- Mobilize_or_increase_armed_forces
+2	0.0273972602739726	0.25	1.0	Impose_restrictions_on_political_freedoms <-- Impose_state_of_emergency_or_martial_law
+36	0.4931506849315068	0.011204481792717087	0.23225806451612904	Impose_restrictions_on_political_freedoms <-- Make_an_appeal_or_request
+9	0.1232876712328767	3.0	4.5	Impose_restrictions_on_political_freedoms <-- Reduce_or_stop_humanitarian_assistance

@@ -1,0 +1,180 @@
+Defy_norms,_law(X0,X1,T1) <- Threaten_with_repression(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Sexually_assault(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Complain_officially(X0,X1,T0), Reject_judicial_cooperation(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Reject_material_cooperation(X0,X1,T0), Reject_military_cooperation(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reject(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Attempt_to_assassinate(X0,X1,T0), Abduct,_hijack,_or_take_hostage(X1,X2,T1), Use_as_human_shield(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Express_intent_to_change_institutions,_regime(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Threaten_with_repression(X0,X1,T0), Demonstrate_or_rally(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Coerce(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demand_political_reform(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Demand_policy_change(X0,X1,T0), Demand_political_reform(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Appeal_for_change_in_institutions,_regime(X0,X1,T0), Appeal_for_change_in_leadership(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Demonstrate_for_policy_change(X0,X1,T0), Demonstrate_military_or_police_power(X1,X2,T1), Engage_in_political_dissent(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Engage_in_mass_killings(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demand_change_in_leadership(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Engage_in_violent_protest_for_rights(X0,X1,T0), Conduct_hunger_strike(X1,X2,T1), Conduct_strike_or_boycott(X2,X3,T2).
+Defy_norms,_law(X0,X2,T2) <- Attempt_to_assassinate(X0,X1,T0), Abduct,_hijack,_or_take_hostage(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Threaten_with_military_force(X0,X1,T0), Mobilize_or_increase_armed_forces(X1,X2,T1), Increase_military_alert_status(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Employ_aerial_weapons(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Expel_or_withdraw(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Use_conventional_military_force(X0,X1,T0), Arrest,_detain,_or_charge_with_legal_action(X1,X2,T1), Impose_restrictions_on_political_freedoms(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Accuse_of_crime,_corruption(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Engage_in_political_dissent(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Threaten_to_halt_negotiations(X0,X1,T0), Threaten_to_reduce_or_break_relations(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Destroy_property(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- fight_with_artillery_and_tanks(X0,X1,T0), fight_with_small_arms_and_light_weapons(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Threaten_to_reduce_or_stop_aid(X0,X1,T0), Demand_that_target_yields(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Conduct_hunger_strike(X0,X1,T0), Conduct_strike_or_boycott(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Conduct_hunger_strike(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Rally_opposition_against(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Carry_out_suicide_bombing(X0,X1,T0), Physically_assault(X1,X2,T1), Threaten(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Obstruct_passage,_block(X0,X1,T0).
+Defy_norms,_law(X0,X1,T2) <- Use_conventional_military_force(X0,X1,T0), Arrest,_detain,_or_charge_with_legal_action(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Reject_economic_cooperation(X0,X1,T0), Reject_request_for_change_in_leadership(X1,X2,T1), Reject_request_for_military_aid(X2,X3,T2).
+Defy_norms,_law(X0,X2,T2) <- Obstruct_passage,_block(X0,X1,T0), Threaten_with_military_force(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Express_intent_to_change_institutions,_regime(X0,X1,T0), Express_intent_to_change_leadership(X1,X2,T1), Express_intent_to_change_policy(X2,X3,T2).
+Defy_norms,_law(X0,X2,T2) <- Refuse_to_yield(X0,X1,T0), Violate_ceasefire(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Reduce_or_stop_material_aid(X0,X1,T0), Reduce_or_stop_military_assistance(X1,X2,T1), Expel_or_withdraw(X2,X3,T2).
+Defy_norms,_law(X0,X3,T3) <- Reduce_or_break_diplomatic_relations(X0,X1,T0), Reduce_or_stop_economic_assistance(X1,X2,T1), Reduce_or_stop_humanitarian_assistance(X2,X3,T2).
+Defy_norms,_law(X0,X3,T3) <- Expel_or_withdraw_peacekeepers(X0,X1,T0), Halt_negotiations(X1,X2,T1), Reject(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Ban_political_parties_or_politicians(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Threaten_with_administrative_sanctions(X0,X1,T0), Threaten_with_sanctions,_boycott,_embargo(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Engage_in_mass_killings(X0,X1,T0), Engage_in_mass_expulsion(X1,X2,T1), fight_with_artillery_and_tanks(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Carry_out_car_bombing(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Engage_in_mass_killings(X0,X1,T0), Engage_in_mass_expulsion(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Reject_plan,_agreement_to_settle_dispute(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Reduce_or_break_diplomatic_relations(X0,X1,T0), Reduce_or_stop_economic_assistance(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- fight_with_small_arms_and_light_weapons(X0,X1,T0), Detonate_nuclear_weapons(X1,X2,T1), Assassinate(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Threaten_to_reduce_or_stop_aid(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reduce_or_stop_humanitarian_assistance(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0), Reduce_relations(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Refuse_to_release_persons_or_property(X0,X1,T0), Bring_lawsuit_against(X1,X2,T1), Complain_officially(X2,X3,T2).
+Defy_norms,_law(X0,X2,T2) <- Refuse_to_release_persons_or_property(X0,X1,T0), Bring_lawsuit_against(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Sexually_assault(X0,X1,T0), Kill_by_physical_assault(X1,X2,T1), Carry_out_car_bombing(X2,X3,T2).
+Defy_norms,_law(X0,X3,T3) <- Accuse_of_crime,_corruption(X0,X1,T0), Ban_political_parties_or_politicians(X1,X2,T1), Occupy_territory(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Complain_officially(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demand_rights(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demand_policy_change(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Reject_request_for_military_protection_or_peacekeeping(X0,X1,T0), Reject_proposal_to_meet,_discuss,_or_negotiate(X1,X2,T1), Refuse_to_de-escalate_military_engagement(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- fight_with_small_arms_and_light_weapons(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reject_request_for_military_aid(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reject_request_for_military_protection_or_peacekeeping(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Bring_lawsuit_against(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Express_intent_to_change_institutions,_regime(X0,X1,T0), Express_intent_to_change_leadership(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Expel_or_withdraw_peacekeepers(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Attempt_to_assassinate(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demonstrate_for_leadership_change(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten_with_military_force(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Threaten_with_political_dissent,_protest(X0,X1,T0), Threaten_to_halt_mediation(X1,X2,T1), Threaten_to_halt_negotiations(X2,X3,T2).
+Defy_norms,_law(X0,X2,T2) <- Demonstrate_for_policy_change(X0,X1,T0), Demonstrate_military_or_police_power(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Violate_ceasefire(X0,X1,T0), Rally_opposition_against(X1,X2,T1), Demonstrate_for_leadership_change(X2,X3,T2).
+Defy_norms,_law(X0,X2,T2) <- Sexually_assault(X0,X1,T0), Kill_by_physical_assault(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Criticize_or_denounce(X0,X1,T0), Use_conventional_military_force(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Appeal_for_change_in_institutions,_regime(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0), Carry_out_roadside_bombing(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Reject_material_cooperation(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Accuse_of_crime,_corruption(X0,X1,T0), Ban_political_parties_or_politicians(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Reduce_or_stop_military_assistance(X0,X1,T0), Expel_or_withdraw(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reduce_or_stop_military_assistance(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Criticize_or_denounce(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Engage_in_political_dissent(X0,X1,T0), Engage_in_violent_protest_for_rights(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Demand_policy_change(X0,X1,T0), Demand_political_reform(X1,X2,T1), Demand_release_of_persons_or_property(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- fight_with_artillery_and_tanks(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Threaten_with_repression(X0,X1,T0), Demonstrate_or_rally(X1,X2,T1), Protest_violently,_riot(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Veto(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Rally_opposition_against(X0,X1,T0), Demonstrate_for_leadership_change(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Increase_military_alert_status(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demonstrate_for_policy_change(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Detonate_nuclear_weapons(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Express_intent_to_institute_political_reform(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Assassinate(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demand_that_target_yields(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reduce_or_break_diplomatic_relations(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Halt_mediation(X0,X1,T0), Reject_plan,_agreement_to_settle_dispute(X1,X2,T1), Give_ultimatum(X2,X3,T2).
+Defy_norms,_law(X0,X3,T3) <- Threaten_to_reduce_or_break_relations(X0,X1,T0), Threaten_to_reduce_or_stop_aid(X1,X2,T1), Demand_that_target_yields(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Express_intent_to_change_policy(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Use_as_human_shield(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Impose_state_of_emergency_or_martial_law(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Physically_assault(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten_to_halt_mediation(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten_with_sanctions,_boycott,_embargo(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Impose_restrictions_on_political_freedoms(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Threaten_non-force(X0,X1,T0), Threaten_with_administrative_sanctions(X1,X2,T1), Threaten_with_sanctions,_boycott,_embargo(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Torture(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Refuse_to_de-escalate_military_engagement(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Demand_release_of_persons_or_property(X0,X1,T0), Demand_rights(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Give_ultimatum(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten_non-force(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demand_change_in_institutions,_regime(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Coerce(X0,X1,T0), Veto(X1,X2,T1), Deny_responsibility(X2,X3,T2).
+Defy_norms,_law(X0,X2,T2) <- Give_ultimatum(X0,X1,T0), Coerce(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Reduce_or_stop_humanitarian_assistance(X0,X1,T0), Reduce_or_stop_material_aid(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Halt_negotiations(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten_to_halt_negotiations(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reject_judicial_cooperation(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Demonstrate_or_rally(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Halt_mediation(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Expel_or_withdraw_peacekeepers(X0,X1,T0), Halt_negotiations(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Confiscate_property(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Carry_out_suicide_bombing(X0,X1,T0), Physically_assault(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Express_intent_to_change_leadership(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Halt_mediation(X0,X1,T0), Reject_plan,_agreement_to_settle_dispute(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Threaten(X0,X1,T0), Threaten_non-force(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Demand_release_of_persons_or_property(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Employ_aerial_weapons(X0,X1,T0), Conduct_suicide,_car,_or_other_non-military_bombing(X1,X2,T1), Carry_out_roadside_bombing(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Seize_or_damage_property(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Mobilize_or_increase_armed_forces(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Demand_change_in_institutions,_regime(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Reject(X0,X1,T0), Criticize_or_denounce(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Veto(X0,X1,T0), Deny_responsibility(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Violate_ceasefire(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Carry_out_roadside_bombing(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Reject_request_for_military_aid(X0,X1,T0), Reject_request_for_military_protection_or_peacekeeping(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Appeal_for_change_in_leadership(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Deny_responsibility(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Threaten_with_political_dissent,_protest(X0,X1,T0), Threaten_to_halt_mediation(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Use_as_human_shield(X0,X1,T0), Employ_aerial_weapons(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Use_chemical,_biological,_or_radiological_weapons(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Protest_violently,_riot(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Express_intent_to_change_policy(X0,X1,T0), Express_intent_to_institute_political_reform(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Reduce_relations(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten_with_administrative_sanctions(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Refuse_to_ease_administrative_sanctions(X0,X1,T0), Refuse_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Reduce_or_stop_economic_assistance(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Refuse_to_yield(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Increase_military_alert_status(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Reject_judicial_cooperation(X0,X1,T0), Reject_material_cooperation(X1,X2,T1), Reject_military_cooperation(X2,X3,T2).
+Defy_norms,_law(X0,X2,T2) <- Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T0), Refuse_to_de-escalate_military_engagement(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Occupy_territory(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reject_request_for_change_in_leadership(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reject_economic_cooperation(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0), Reduce_relations(X1,X2,T1), Obstruct_passage,_block(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Conduct_strike_or_boycott(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten_to_reduce_or_break_relations(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Refuse_to_ease_administrative_sanctions(X0,X1,T0), Refuse_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1), Refuse_to_yield(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Reject_military_cooperation(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Threaten_with_political_dissent,_protest(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Refuse_to_ease_administrative_sanctions(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Reduce_or_stop_material_aid(X0,X1,T0).
+Defy_norms,_law(X0,X3,T3) <- Express_intent_to_institute_political_reform(X0,X1,T0), Demand_change_in_institutions,_regime(X1,X2,T1), Demand_change_in_leadership(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Refuse_to_release_persons_or_property(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Engage_in_violent_protest_for_rights(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Detonate_nuclear_weapons(X0,X1,T0), Assassinate(X1,X2,T1).
+Defy_norms,_law(X0,X2,T2) <- Carry_out_car_bombing(X0,X1,T0), Occupy_territory(X1,X2,T1).
+Defy_norms,_law(X0,X3,T3) <- Demand_rights(X0,X1,T0), Appeal_for_change_in_institutions,_regime(X1,X2,T1), Appeal_for_change_in_leadership(X2,X3,T2).
+Defy_norms,_law(X0,X1,T1) <- Demonstrate_military_or_police_power(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Carry_out_suicide_bombing(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Reject_economic_cooperation(X0,X1,T0), Reject_request_for_change_in_leadership(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Kill_by_physical_assault(X0,X1,T0).
+Defy_norms,_law(X0,X2,T2) <- Impose_restrictions_on_political_freedoms(X0,X1,T0), Protest_violently,_riot(X1,X2,T1).
+Defy_norms,_law(X0,X1,T1) <- Expel_or_deport_individuals(X0,X1,T0).
+Defy_norms,_law(X0,X1,T1) <- Engage_in_mass_expulsion(X0,X1,T0).

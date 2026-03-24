@@ -1,0 +1,10 @@
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Criticize_or_denounce
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Impose_embargo,_boycott,_or_sanctions, Consult
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Make_an_appeal_or_request
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Make_optimistic_comment
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Reject_plan,_agreement_to_settle_dispute
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Make_statement
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Use_unconventional_violence, Express_intent_to_meet_or_negotiate
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Reduce_relations
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Consult
+Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Impose_embargo,_boycott,_or_sanctions, Make_optimistic_comment

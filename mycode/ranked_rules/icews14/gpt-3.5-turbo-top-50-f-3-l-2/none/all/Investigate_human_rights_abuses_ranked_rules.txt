@@ -1,0 +1,19 @@
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Make_a_visit, Host_a_visit
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Physically_assault, Complain_officially
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Arrest,_detain,_or_charge_with_legal_action, Make_statement
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Use_conventional_military_force, Complain_officially
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Appeal_for_humanitarian_aid, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Accuse_of_war_crimes, Make_statement
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Seize_or_damage_property, Appeal_for_rights
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Demand_change_in_institutions,_regime, Refuse_to_yield
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Engage_in_mass_expulsion, Criticize_or_denounce
+1	0.25	0.0003354579000335458	0.038461538461538464	Investigate_human_rights_abuses <-- Express_intent_to_meet_or_negotiate, Threaten
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Receive_inspectors, Make_statement
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Impose_administrative_sanctions, Deny_responsibility
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Use_tactics_of_violent_repression, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Defy_norms,_law, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Abduct,_hijack,_or_take_hostage, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Torture, Appeal_for_rights
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Sexually_assault, Make_statement
+0.0	0.0	0.0	0.0	Investigate_human_rights_abuses <-- Engage_in_mass_killings, Complain_officially

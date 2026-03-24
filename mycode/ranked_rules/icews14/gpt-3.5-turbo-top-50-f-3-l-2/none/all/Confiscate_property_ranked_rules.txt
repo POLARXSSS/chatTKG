@@ -1,0 +1,30 @@
+56	0.3181818181818182	0.21374045801526717	0.8484848484848485	Confiscate_property <-- Return,_release_person(s)
+98	0.5568181818181818	0.19029126213592232	0.6533333333333333	Confiscate_property <-- Investigate
+66	0.375	0.028085106382978724	0.3316582914572864	Confiscate_property <-- Make_statement, Use_unconventional_violence
+176	1.0	1.872340425531915	1.872340425531915	Confiscate_property <-- Confiscate_property
+7	0.03977272727272727	0.07608695652173914	0.5833333333333334	Confiscate_property <-- Complain_officially
+85	0.48295454545454547	0.06508422664624809	0.24079320113314448	Confiscate_property <-- Arrest,_detain,_or_charge_with_legal_action
+24	0.13636363636363635	1.6	2.6666666666666665	Confiscate_property <-- Increase_police_alert_status
+2	0.011363636363636364	0.13333333333333333	0.6666666666666666	Confiscate_property <-- Express_intent_to_mediate
+57	0.32386363636363635	0.41007194244604317	1.2666666666666666	Confiscate_property <-- Impose_administrative_sanctions
+13	0.07386363636363637	1.625	2.6	Confiscate_property <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Confiscate_property <-- Demand_military_aid
+59	0.3352272727272727	0.08027210884353742	0.08027210884353742	Confiscate_property <-- Confiscate_property, Make_an_appeal_or_request
+109	0.6193181818181818	0.13557213930348258	0.68125	Confiscate_property <-- Use_conventional_military_force
+2	0.011363636363636364	0.03773584905660377	0.06451612903225806	Confiscate_property <-- Sexually_assault, Arrest,_detain,_or_charge_with_legal_action
+5	0.028409090909090908	0.049019607843137254	0.23809523809523808	Confiscate_property <-- Provide_humanitarian_aid, Provide_aid
+30	0.17045454545454544	0.37037037037037035	3.3333333333333335	Confiscate_property <-- Sexually_assault
+16	0.09090909090909091	0.6153846153846154	1.6	Confiscate_property <-- Torture
+16	0.09090909090909091	1.0666666666666667	2.2857142857142856	Confiscate_property <-- Appeal_for_judicial_cooperation, Confiscate_property
+15	0.08522727272727272	0.06198347107438017	0.32608695652173914	Confiscate_property <-- Declare_truce,_ceasefire, Make_statement
+60	0.3409090909090909	0.3225806451612903	1.7647058823529411	Confiscate_property <-- Provide_humanitarian_aid
+40	0.22727272727272727	0.06230529595015576	1.25	Confiscate_property <-- Reject
+13	0.07386363636363637	1.625	2.6	Confiscate_property <-- Seize_or_damage_property
+47	0.26704545454545453	0.051086956521739134	0.6911764705882353	Confiscate_property <-- Demand
+52	0.29545454545454547	0.035788024776324846	0.52	Confiscate_property <-- Accuse
+109	0.6193181818181818	0.13557213930348258	0.68125	Confiscate_property <-- Use_conventional_military_force
+2	0.011363636363636364	0.031746031746031744	0.4	Confiscate_property <-- Kill_by_physical_assault
+16	0.09090909090909091	0.6153846153846154	1.6	Confiscate_property <-- Torture
+26	0.14772727272727273	0.5416666666666666	1.8571428571428572	Confiscate_property <-- Impose_restrictions_on_political_freedoms
+1	0.005681818181818182	0.013513513513513514	0.3333333333333333	Confiscate_property <-- Threaten_with_military_force
+85	0.48295454545454547	0.06508422664624809	0.24079320113314448	Confiscate_property <-- Arrest,_detain,_or_charge_with_legal_action

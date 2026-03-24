@@ -1,0 +1,20 @@
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T1) <- Make_an_appeal_or_request(X0,X1,T0).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X2,T2) <- Complain_officially(X0,X1,T0), Impose_embargo,_boycott,_or_sanctions(X1,X2,T1).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X3,T3) <- Express_intent_to_provide_material_aid(X0,X1,T0), Express_intent_to_cooperate(X1,X2,T1), Impose_embargo,_boycott,_or_sanctions(X2,X3,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X3,T3) <- Express_intent_to_provide_material_aid(X0,X1,T0), Praise_or_endorse(X1,X2,T1), Impose_embargo,_boycott,_or_sanctions(X2,X3,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X3,T3) <- Express_intent_to_provide_material_aid(X0,X1,T0), Express_intent_to_meet_or_negotiate(X1,X2,T1), Impose_embargo,_boycott,_or_sanctions(X2,X3,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X2,T2) <- Reduce_relations(X0,X1,T0), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T3) <- Threaten(X0,X1,T0), Express_intent_to_meet_or_negotiate(X1,X2,T1), Express_intent_to_cooperate(X2,X1,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T3) <- Reject_plan,_agreement_to_settle_dispute(X0,X1,T0), Express_intent_to_meet_or_negotiate(X1,X2,T1), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X2,X1,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T3) <- Deny_responsibility(X0,X1,T0), Use_conventional_military_force(X1,X2,T1), Use_unconventional_violence(X2,X3,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T3) <- Make_statement(X0,X1,T0), Express_intent_to_cooperate(X1,X2,T1), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X2,X1,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X3,T3) <- Express_intent_to_provide_material_aid(X0,X1,T0), Engage_in_diplomatic_cooperation(X1,X2,T1), Impose_embargo,_boycott,_or_sanctions(X2,X3,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X2,T2) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X3,T3) <- Make_an_appeal_or_request(X0,X1,T0), Consult(X1,X2,T1), Express_intent_to_meet_or_negotiate(X2,X3,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X3,T3) <- Express_intent_to_provide_material_aid(X0,X1,T0), Express_intent_to_cooperate(X1,X2,T1), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X2,X3,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X3,T3) <- Express_intent_to_provide_material_aid(X0,X1,T0), Express_intent_to_cooperate(X1,X2,T1), Impose_embargo,_boycott,_or_sanctions(X2,X3,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X2,T2) <- Complain_officially(X0,X1,T0), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T3) <- Reject_plan,_agreement_to_settle_dispute(X0,X1,T0), Express_intent_to_meet_or_negotiate(X1,X2,T1), Express_intent_to_cooperate(X2,X1,T2).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X2,T2) <- Reduce_relations(X0,X1,T0), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1).
+_Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X3,T3) <- Express_intent_to_provide_material_aid(X0,X1,T0), Host_a_visit(X1,X2,T1), Impose_embargo,_boycott,_or_sanctions(X2,X3,T2).

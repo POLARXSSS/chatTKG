@@ -1,0 +1,15 @@
+Veto <-- fight_with_artillery_and_tanks
+Veto <-- Veto
+Veto <-- Impose_administrative_sanctions
+Veto <-- Confiscate_property, Seize_or_damage_property
+Veto <-- Arrest,_detain,_or_charge_with_legal_action
+Veto <-- Engage_in_symbolic_act, Demonstrate_military_or_police_power
+Veto <-- Defy_norms,_law, Protest_violently,_riot
+Veto <-- Threaten_non-force
+Veto <-- Accuse_of_war_crimes, Investigate_war_crimes
+Veto <-- Use_tactics_of_violent_repression
+Veto <-- Defy_norms,_law, Accuse
+Veto <-- Use_conventional_military_force, Kill_by_physical_assault
+Veto <-- Express_intent_to_change_leadership, Attempt_to_assassinate
+Veto <-- Threaten_with_military_force
+Veto <-- Violate_ceasefire

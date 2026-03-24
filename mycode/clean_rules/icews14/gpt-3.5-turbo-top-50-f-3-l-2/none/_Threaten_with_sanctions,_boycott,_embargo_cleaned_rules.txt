@@ -1,0 +1,25 @@
+Threaten_with_sanctions,_boycott,_embargo <-- Protest_violently,_riot
+Threaten_with_sanctions,_boycott,_embargo <-- Impose_blockade,_restrict_movement, Obstruct_passage,_block
+Threaten_with_sanctions,_boycott,_embargo <-- Discuss_by_telephone, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Threaten_with_sanctions,_boycott,_embargo <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Threaten_with_sanctions,_boycott,_embargo <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Threaten_with_sanctions,_boycott,_embargo <-- Engage_in_violent_protest_for_rights, Use_tactics_of_violent_repression
+Threaten_with_sanctions,_boycott,_embargo <-- Demand_policy_change, Refuse_to_yield
+Threaten_with_sanctions,_boycott,_embargo <-- Use_conventional_military_force
+Threaten_with_sanctions,_boycott,_embargo <-- Rally_support_on_behalf_of, Consult
+Threaten_with_sanctions,_boycott,_embargo <-- Conduct_strike_or_boycott, Ease_economic_sanctions,_boycott,_embargo
+Threaten_with_sanctions,_boycott,_embargo <-- Make_statement, Criticize_or_denounce
+Threaten_with_sanctions,_boycott,_embargo <-- Seize_or_damage_property, Confiscate_property
+Threaten_with_sanctions,_boycott,_embargo <-- Make_an_appeal_or_request, Refuse_to_release_persons_or_property
+Threaten_with_sanctions,_boycott,_embargo <-- Give_ultimatum
+Threaten_with_sanctions,_boycott,_embargo <-- Accuse_of_human_rights_abuses, Investigate_human_rights_abuses
+Threaten_with_sanctions,_boycott,_embargo <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+Threaten_with_sanctions,_boycott,_embargo <-- Impose_administrative_sanctions, Reduce_relations
+Threaten_with_sanctions,_boycott,_embargo <-- Express_intent_to_cooperate
+Threaten_with_sanctions,_boycott,_embargo <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Threaten_with_sanctions,_boycott,_embargo <-- Host_a_visit, Reject
+Threaten_with_sanctions,_boycott,_embargo <-- Expel_or_deport_individuals, Grant_diplomatic_recognition
+Threaten_with_sanctions,_boycott,_embargo <-- Reduce_or_stop_economic_assistance, Appeal_for_economic_aid
+Threaten_with_sanctions,_boycott,_embargo <-- Express_intent_to_provide_military_protection_or_peacekeeping, Reject_request_for_military_protection_or_peacekeeping
+Threaten_with_sanctions,_boycott,_embargo <-- Sign_formal_agreement, Violate_ceasefire
+Threaten_with_sanctions,_boycott,_embargo <-- Threaten_with_military_force, Refuse_to_de-escalate_military_engagement

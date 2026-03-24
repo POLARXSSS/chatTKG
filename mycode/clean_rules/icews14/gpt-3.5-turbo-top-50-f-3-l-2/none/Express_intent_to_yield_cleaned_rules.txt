@@ -1,0 +1,14 @@
+Express_intent_to_yield <-- Provide_humanitarian_aid, Engage_in_negotiation
+Express_intent_to_yield <-- Demand_that_target_yields
+Express_intent_to_yield <-- Return,_release_person(s), Express_intent_to_meet_or_negotiate
+Express_intent_to_yield <-- Use_conventional_military_force, Express_intent_to_de-escalate_military_engagement
+Express_intent_to_yield <-- Threaten_with_military_force, Express_intent_to_cooperate
+Express_intent_to_yield <-- Appeal_to_engage_in_or_accept_mediation, Mediate
+Express_intent_to_yield <-- Accede_to_demands_for_change_in_policy
+Express_intent_to_yield <-- Give_ultimatum, Engage_in_negotiation
+Express_intent_to_yield <-- Declare_truce,_ceasefire, Engage_in_negotiation
+Express_intent_to_yield <-- Make_statement, Express_intent_to_meet_or_negotiate
+Express_intent_to_yield <-- Express_intent_to_yield
+Express_intent_to_yield <-- Impose_embargo,_boycott,_or_sanctions, Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+Express_intent_to_yield <-- Accede_to_demands_for_rights
+Express_intent_to_yield <-- Accede_to_demands_for_change_in_leadership

@@ -1,0 +1,155 @@
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Yield
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Rally_support_on_behalf_of
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Apologize
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Forgive
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Consult
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Ease_curfew
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Provide_military_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Cooperate_militarily
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_a_visit
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Make_optimistic_comment
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Receive_inspectors
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Provide_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_optimistic_comment
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Mediate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Make_a_visit
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Provide_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Return,_release_property
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Grant_asylum
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Ease_military_blockade
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_empathetic_comment
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Mediate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Praise_or_endorse
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Provide_economic_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Grant_asylum
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Host_a_visit
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Rally_support_on_behalf_of
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Host_a_visit
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Make_empathetic_comment
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_accord
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Apologize
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Forgive
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Cooperate_economically
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Yield
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_yield
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Consult
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Receive_inspectors
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Express_accord
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Return,_release_person(s)
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Provide_economic_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_an_appeal_or_request, Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Appeal_for_economic_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Complain_officially, Make_optimistic_comment
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Demand_political_reform, Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Engage_in_political_dissent, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Make_statement, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Impose_state_of_emergency_or_martial_law, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Threaten, Yield
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Appeal_for_release_of_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Apologize
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Demand_meeting,_negotiation, Host_a_visit
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Mediate, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Coerce, Yield
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Appeal_for_rights, Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Threaten_non-force, Yield
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Ease_military_blockade
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Discuss_by_telephone, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Appeal_to_engage_in_or_accept_mediation, Mediate
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Engage_in_negotiation, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Accede_to_demands_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Protest_violently,_riot, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Demonstrate_or_rally, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Grant_asylum, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Ease_political_dissent <-- Conduct_strike_or_boycott, Accede_to_demands_for_change_in_policy

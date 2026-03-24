@@ -1,0 +1,46 @@
+4	0.10526315789473684	0.0016032064128256513	0.08333333333333333	Accede_to_demands_for_change_in_leadership <-- Make_an_appeal_or_request, Reduce_relations
+2	0.05263157894736842	0.0011890606420927466	0.18181818181818182	Accede_to_demands_for_change_in_leadership <-- Provide_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Reduce_relations, Engage_in_negotiation
+4	0.10526315789473684	0.0008028904054596548	0.023809523809523808	Accede_to_demands_for_change_in_leadership <-- Make_optimistic_comment, Express_intent_to_meet_or_negotiate
+9	0.23684210526315788	0.00015596298478494437	0.006736526946107785	Accede_to_demands_for_change_in_leadership <-- Express_intent_to_meet_or_negotiate, Host_a_visit
+3	0.07894736842105263	2.997002997002997e-05	0.004225352112676056	Accede_to_demands_for_change_in_leadership <-- Make_statement, Host_a_visit
+14	0.3684210526315789	0.0009399758291929637	0.0340632603406326	Accede_to_demands_for_change_in_leadership <-- Make_an_appeal_or_request, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Provide_aid, Make_optimistic_comment
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Criticize_or_denounce, Provide_aid
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Use_conventional_military_force, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Accede_to_demands_for_rights, Make_statement
+3	0.07894736842105263	0.0006080259424402108	0.036585365853658534	Accede_to_demands_for_change_in_leadership <-- Make_statement, Provide_aid
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Accede_to_demands_for_rights, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Host_a_visit, Make_empathetic_comment
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Make_empathetic_comment, Make_a_visit
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Accede_to_demands_for_change_in_leadership, Engage_in_negotiation
+1	0.02631578947368421	0.0018248175182481751	0.0625	Accede_to_demands_for_change_in_leadership <-- Refuse_to_yield, Make_an_appeal_or_request
+7	0.18421052631578946	0.0014204545454545455	0.07777777777777778	Accede_to_demands_for_change_in_leadership <-- Criticize_or_denounce, Make_a_visit
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Use_conventional_military_force, Reduce_relations
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Return,_release_person(s), Yield
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Express_intent_to_yield, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Use_tactics_of_violent_repression, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Confiscate_property, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Demand_change_in_leadership, Yield
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Reduce_relations, Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Seize_or_damage_property, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Arrest,_detain,_or_charge_with_legal_action
+38	1.0	1.3103448275862069	1.3103448275862069	Accede_to_demands_for_change_in_leadership <-- Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Appeal_to_engage_in_or_accept_mediation, Mediate
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Accede_to_demands_for_change_in_policy
+2	0.05263157894736842	0.008849557522123894	0.3333333333333333	Accede_to_demands_for_change_in_leadership <-- Make_empathetic_comment
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Demobilize_armed_forces, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Cooperate_militarily, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Demand_that_target_yields, Yield
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Mobilize_or_increase_armed_forces, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Appeal_for_change_in_leadership, Yield
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Express_intent_to_change_leadership, Make_statement
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Threaten_with_military_force, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Accede_to_demands_for_rights
+2	0.05263157894736842	0.000541858574911948	0.01904761904761905	Accede_to_demands_for_change_in_leadership <-- Engage_in_negotiation, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Impose_embargo,_boycott,_or_sanctions, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Express_intent_to_provide_military_aid, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Conduct_strike_or_boycott, Yield
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Accede_to_demands_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_leadership <-- Demonstrate_for_leadership_change, Coerce

@@ -1,0 +1,30 @@
+Threaten_to_reduce_or_stop_aid <-- Conduct_strike_or_boycott
+Threaten_to_reduce_or_stop_aid <-- Obstruct_passage,_block, Reduce_relations
+Threaten_to_reduce_or_stop_aid <-- Accuse_of_war_crimes
+Threaten_to_reduce_or_stop_aid <-- Accuse_of_human_rights_abuses
+Threaten_to_reduce_or_stop_aid <-- Demand_change_in_leadership
+Threaten_to_reduce_or_stop_aid <-- Threaten_non-force
+Threaten_to_reduce_or_stop_aid <-- Impose_blockade,_restrict_movement
+Threaten_to_reduce_or_stop_aid <-- Arrest,_detain,_or_charge_with_legal_action
+Threaten_to_reduce_or_stop_aid <-- Impose_embargo,_boycott,_or_sanctions
+Threaten_to_reduce_or_stop_aid <-- Criticize_or_denounce
+Threaten_to_reduce_or_stop_aid <-- Obstruct_passage,_block, Demand_change_in_leadership
+Threaten_to_reduce_or_stop_aid <-- Threaten_to_reduce_or_stop_aid
+Threaten_to_reduce_or_stop_aid <-- Use_conventional_military_force, Accuse_of_war_crimes
+Threaten_to_reduce_or_stop_aid <-- Protest_violently,_riot, Arrest,_detain,_or_charge_with_legal_action
+Threaten_to_reduce_or_stop_aid <-- Reduce_relations
+Threaten_to_reduce_or_stop_aid <-- Obstruct_passage,_block
+Threaten_to_reduce_or_stop_aid <-- Protest_violently,_riot
+Threaten_to_reduce_or_stop_aid <-- Demand_policy_change
+Threaten_to_reduce_or_stop_aid <-- Meet_at_a_'third'_location
+Threaten_to_reduce_or_stop_aid <-- Make_statement, Criticize_or_denounce
+Threaten_to_reduce_or_stop_aid <-- Threaten_to_reduce_or_break_relations
+Threaten_to_reduce_or_stop_aid <-- Demand_policy_change, Reject_economic_cooperation
+Threaten_to_reduce_or_stop_aid <-- Make_statement
+Threaten_to_reduce_or_stop_aid <-- Conduct_strike_or_boycott, Impose_embargo,_boycott,_or_sanctions
+Threaten_to_reduce_or_stop_aid <-- Use_conventional_military_force
+Threaten_to_reduce_or_stop_aid <-- Criticize_or_denounce, Meet_at_a_'third'_location
+Threaten_to_reduce_or_stop_aid <-- Threaten_with_sanctions,_boycott,_embargo
+Threaten_to_reduce_or_stop_aid <-- Threaten
+Threaten_to_reduce_or_stop_aid <-- Reject_economic_cooperation
+Threaten_to_reduce_or_stop_aid <-- Reduce_relations, Threaten_with_sanctions,_boycott,_embargo

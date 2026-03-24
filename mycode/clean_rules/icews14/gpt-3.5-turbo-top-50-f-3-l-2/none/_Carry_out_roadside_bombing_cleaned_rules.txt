@@ -1,0 +1,75 @@
+Carry_out_roadside_bombing <-- Demand_change_in_leadership
+Carry_out_roadside_bombing <-- Use_tactics_of_violent_repression
+Carry_out_roadside_bombing <-- Halt_mediation
+Carry_out_roadside_bombing <-- Mobilize_or_increase_armed_forces
+Carry_out_roadside_bombing <-- Provide_military_protection_or_peacekeeping, Reject_request_for_military_protection_or_peacekeeping
+Carry_out_roadside_bombing <-- Use_conventional_military_force
+Carry_out_roadside_bombing <-- Seize_or_damage_property
+Carry_out_roadside_bombing <-- Use_unconventional_violence
+Carry_out_roadside_bombing <-- Demand_intelligence_cooperation, Reject_material_cooperation
+Carry_out_roadside_bombing <-- Accuse_of_war_crimes
+Carry_out_roadside_bombing <-- Kill_by_physical_assault
+Carry_out_roadside_bombing <-- Demand_change_in_leadership, Reject_request_for_change_in_leadership
+Carry_out_roadside_bombing <-- Increase_military_alert_status
+Carry_out_roadside_bombing <-- Consider_policy_option, Use_conventional_military_force
+Carry_out_roadside_bombing <-- Demand_easing_of_administrative_sanctions, Refuse_to_ease_administrative_sanctions
+Carry_out_roadside_bombing <-- Arrest,_detain,_or_charge_with_legal_action
+Carry_out_roadside_bombing <-- Demand_de-escalation_of_military_engagement, Refuse_to_de-escalate_military_engagement
+Carry_out_roadside_bombing <-- Demand_rights, Reject_plan,_agreement_to_settle_dispute
+Carry_out_roadside_bombing <-- Demand_that_target_yields, Refuse_to_yield
+Carry_out_roadside_bombing <-- Expel_or_deport_individuals, Abduct,_hijack,_or_take_hostage
+Carry_out_roadside_bombing <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+Carry_out_roadside_bombing <-- Protest_violently,_riot
+Carry_out_roadside_bombing <-- Demonstrate_or_rally, Use_tactics_of_violent_repression
+Carry_out_roadside_bombing <-- Praise_or_endorse, Criticize_or_denounce
+Carry_out_roadside_bombing <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Carry_out_roadside_bombing <-- Give_ultimatum
+Carry_out_roadside_bombing <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Carry_out_roadside_bombing <-- Demand_mediation, Halt_mediation
+Carry_out_roadside_bombing <-- Threaten_with_military_force
+Carry_out_roadside_bombing <-- Demand_rights, Impose_restrictions_on_political_freedoms
+Carry_out_roadside_bombing <-- Demand_economic_aid, Reduce_or_stop_economic_assistance
+Carry_out_roadside_bombing <-- Carry_out_car_bombing
+Carry_out_roadside_bombing <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Carry_out_roadside_bombing <-- Cooperate_militarily, Reject_military_cooperation
+Carry_out_roadside_bombing <-- Make_statement, Threaten_with_military_force
+Carry_out_roadside_bombing <-- Share_intelligence_or_information, Investigate
+Carry_out_roadside_bombing <-- Make_an_appeal_or_request, Reject
+Carry_out_roadside_bombing <-- Defy_norms,_law
+Carry_out_roadside_bombing <-- Express_intent_to_provide_military_aid
+Carry_out_roadside_bombing <-- Abduct,_hijack,_or_take_hostage
+Carry_out_roadside_bombing <-- Impose_blockade,_restrict_movement, Obstruct_passage,_block
+Carry_out_roadside_bombing <-- Threaten
+Carry_out_roadside_bombing <-- Sign_formal_agreement, Violate_ceasefire
+Carry_out_roadside_bombing <-- Engage_in_political_dissent, Ease_state_of_emergency_or_martial_law
+Carry_out_roadside_bombing <-- Express_intent_to_yield, Refuse_to_yield
+Carry_out_roadside_bombing <-- Reject_plan,_agreement_to_settle_dispute
+Carry_out_roadside_bombing <-- Physically_assault
+Carry_out_roadside_bombing <-- Threaten_with_military_force, Use_conventional_military_force
+Carry_out_roadside_bombing <-- Appeal_for_military_aid, Express_intent_to_provide_military_aid
+Carry_out_roadside_bombing <-- Violate_ceasefire
+Carry_out_roadside_bombing <-- Torture
+Carry_out_roadside_bombing <-- Refuse_to_yield
+Carry_out_roadside_bombing <-- Provide_military_aid
+Carry_out_roadside_bombing <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Impose_embargo,_boycott,_or_sanctions
+Carry_out_roadside_bombing <-- Demand_material_aid, Reduce_or_stop_material_aid
+Carry_out_roadside_bombing <-- Meet_at_a_'third'_location, Decline_comment
+Carry_out_roadside_bombing <-- Demand_material_cooperation, Reject_judicial_cooperation
+Carry_out_roadside_bombing <-- Carry_out_suicide_bombing
+Carry_out_roadside_bombing <-- Demand_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+Carry_out_roadside_bombing <-- Demand_settling_of_dispute, Reject_plan,_agreement_to_settle_dispute
+Carry_out_roadside_bombing <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+Carry_out_roadside_bombing <-- Attempt_to_assassinate
+Carry_out_roadside_bombing <-- Demand_judicial_cooperation, Reject_judicial_cooperation
+Carry_out_roadside_bombing <-- Engage_in_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Carry_out_roadside_bombing <-- Demand_policy_change, Reject_plan,_agreement_to_settle_dispute
+Carry_out_roadside_bombing <-- Demand_military_aid, Reject_request_for_military_aid
+Carry_out_roadside_bombing <-- Engage_in_mass_killings
+Carry_out_roadside_bombing <-- Express_intent_to_accept_mediation, Reject_plan,_agreement_to_settle_dispute
+Carry_out_roadside_bombing <-- Demand_material_cooperation, Reject_material_cooperation
+Carry_out_roadside_bombing <-- Criticize_or_denounce
+Carry_out_roadside_bombing <-- Destroy_property
+Carry_out_roadside_bombing <-- Occupy_territory, Retreat_or_surrender_militarily
+Carry_out_roadside_bombing <-- Demand_political_reform, Reject_plan,_agreement_to_settle_dispute
+Carry_out_roadside_bombing <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+Carry_out_roadside_bombing <-- Grant_diplomatic_recognition, Reduce_or_break_diplomatic_relations

@@ -1,0 +1,69 @@
+Threaten_with_repression <-- Give_ultimatum, Threaten_with_repression
+Threaten_with_repression <-- Impose_restrictions_on_political_freedoms
+Threaten_with_repression <-- fight_with_artillery_and_tanks, Threaten_with_repression
+Threaten_with_repression <-- Demand_policy_change, Threaten_with_administrative_sanctions
+Threaten_with_repression <-- Threaten_with_administrative_sanctions
+Threaten_with_repression <-- Threaten_non-force, Threaten_with_repression
+Threaten_with_repression <-- Impose_state_of_emergency_or_martial_law
+Threaten_with_repression <-- Conduct_strike_or_boycott, Reduce_or_stop_economic_assistance
+Threaten_with_repression <-- Threaten_with_political_dissent,_protest
+Threaten_with_repression <-- Halt_mediation, Threaten_with_military_force
+Threaten_with_repression <-- Sexually_assault
+Threaten_with_repression <-- Accuse_of_crime,_corruption, Confiscate_property
+Threaten_with_repression <-- Reject_request_for_military_aid, Threaten_with_military_force
+Threaten_with_repression <-- Threaten_to_halt_negotiations, Threaten_with_repression
+Threaten_with_repression <-- Refuse_to_yield, Threaten_with_military_force
+Threaten_with_repression <-- Occupy_territory, Use_conventional_military_force
+Threaten_with_repression <-- Assassinate
+Threaten_with_repression <-- Detonate_nuclear_weapons, Threaten_with_military_force
+Threaten_with_repression <-- Carry_out_roadside_bombing, Threaten_with_repression
+Threaten_with_repression <-- Engage_in_political_dissent, Demonstrate_military_or_police_power
+Threaten_with_repression <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Halt_mediation
+Threaten_with_repression <-- Threaten_with_repression
+Threaten_with_repression <-- Employ_aerial_weapons, Threaten_with_military_force
+Threaten_with_repression <-- Reject_plan,_agreement_to_settle_dispute, Threaten_with_repression
+Threaten_with_repression <-- Accuse_of_human_rights_abuses, Arrest,_detain,_or_charge_with_legal_action
+Threaten_with_repression <-- Threaten_with_sanctions,_boycott,_embargo
+Threaten_with_repression <-- Confiscate_property
+Threaten_with_repression <-- Threaten, Threaten_with_repression
+Threaten_with_repression <-- Reject_request_for_military_protection_or_peacekeeping, Threaten_with_military_force
+Threaten_with_repression <-- fight_with_small_arms_and_light_weapons, Threaten_with_repression
+Threaten_with_repression <-- Increase_military_alert_status, Threaten_with_military_force
+Threaten_with_repression <-- Mobilize_or_increase_armed_forces, Threaten_with_military_force
+Threaten_with_repression <-- Protest_violently,_riot, Mobilize_or_increase_police_power
+Threaten_with_repression <-- Demand_change_in_leadership, Threaten_with_military_force
+Threaten_with_repression <-- Kill_by_physical_assault
+Threaten_with_repression <-- Threaten_to_halt_mediation, Threaten_with_repression
+Threaten_with_repression <-- Physically_assault
+Threaten_with_repression <-- Conduct_suicide,_car,_or_other_non-military_bombing, Threaten_with_repression
+Threaten_with_repression <-- Engage_in_mass_killings
+Threaten_with_repression <-- Reject_request_for_change_in_leadership, Threaten_with_military_force
+Threaten_with_repression <-- Defy_norms,_law, Increase_police_alert_status
+Threaten_with_repression <-- Expel_or_deport_individuals
+Threaten_with_repression <-- Refuse_to_ease_administrative_sanctions, Threaten_with_administrative_sanctions
+Threaten_with_repression <-- Violate_ceasefire, Threaten_with_military_force
+Threaten_with_repression <-- Abduct,_hijack,_or_take_hostage
+Threaten_with_repression <-- Torture
+Threaten_with_repression <-- Demand_rights, Arrest,_detain,_or_charge_with_legal_action
+Threaten_with_repression <-- Carry_out_car_bombing, Threaten_with_repression
+Threaten_with_repression <-- Ban_political_parties_or_politicians
+Threaten_with_repression <-- Refuse_to_release_persons_or_property, Threaten_with_repression
+Threaten_with_repression <-- Demonstrate_for_leadership_change, Impose_restrictions_on_political_freedoms
+Threaten_with_repression <-- Engage_in_violent_protest_for_rights, Increase_police_alert_status
+Threaten_with_repression <-- Use_as_human_shield
+Threaten_with_repression <-- Use_chemical,_biological,_or_radiological_weapons, Threaten_with_military_force
+Threaten_with_repression <-- Threaten_to_reduce_or_stop_aid, Threaten_with_repression
+Threaten_with_repression <-- Reduce_or_stop_material_aid, Threaten_with_repression
+Threaten_with_repression <-- Attempt_to_assassinate
+Threaten_with_repression <-- Bring_lawsuit_against, Threaten_with_sanctions,_boycott,_embargo
+Threaten_with_repression <-- Use_tactics_of_violent_repression
+Threaten_with_repression <-- Reduce_or_stop_humanitarian_assistance, Threaten_with_repression
+Threaten_with_repression <-- Carry_out_suicide_bombing, Threaten_with_repression
+Threaten_with_repression <-- Reduce_or_stop_military_assistance, Threaten_with_military_force
+Threaten_with_repression <-- Threaten_to_reduce_or_break_relations, Threaten_with_repression
+Threaten_with_repression <-- Investigate_human_rights_abuses, Impose_state_of_emergency_or_martial_law
+Threaten_with_repression <-- Conduct_hunger_strike, Obstruct_passage,_block
+Threaten_with_repression <-- Reduce_relations, Coerce
+Threaten_with_repression <-- Seize_or_damage_property
+Threaten_with_repression <-- Threaten_with_military_force
+Threaten_with_repression <-- Impose_blockade,_restrict_movement, Threaten_with_sanctions,_boycott,_embargo

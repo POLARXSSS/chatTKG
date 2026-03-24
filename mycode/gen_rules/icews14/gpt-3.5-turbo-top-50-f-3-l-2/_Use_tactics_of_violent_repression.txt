@@ -1,0 +1,102 @@
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Physically_assault(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- fight_with_small_arms_and_light_weapons(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_tactics_of_violent_repression(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Refuse_to_yield(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Obstruct_passage,_block(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Threaten(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_tactics_of_violent_repression(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Engage_in_negotiation(X0,X1,T0), Refuse_to_yield(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Impose_state_of_emergency_or_martial_law(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Criticize_or_denounce(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Destroy_property(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Carry_out_car_bombing(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Conduct_strike_or_boycott(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Defy_norms,_law(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Investigate(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Ban_political_parties_or_politicians(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Expel_or_deport_individuals(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Impose_administrative_sanctions(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Torture(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Kill_by_physical_assault(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Attempt_to_assassinate(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Make_statement(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Threaten(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_tactics_of_violent_repression(X0,X1,T0), Protest_violently,_riot(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0), Protest_violently,_riot(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Refuse_to_yield(X0,X1,T0), Protest_violently,_riot(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Obstruct_passage,_block(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), fight_with_small_arms_and_light_weapons(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Express_intent_to_cooperate(X0,X1,T0), Refuse_to_yield(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Make_statement(X0,X1,T0), Threaten(X0,X1,T1).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Mobilize_or_increase_police_power(X0,X1,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_conventional_military_force(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Refuse_to_yield(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_tactics_of_violent_repression(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Threaten(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Obstruct_passage,_block(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Physically_assault(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- fight_with_small_arms_and_light_weapons(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_unconventional_violence(X1,X0,T0).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X0,X1,T1), Demonstrate_or_rally(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_tactics_of_violent_repression(X0,X1,T1), Protest_violently,_riot(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Refuse_to_yield(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_tactics_of_violent_repression(X0,X1,T0), Protest_violently,_riot(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Obstruct_passage,_block(X0,X1,T0), Protest_violently,_riot(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Threaten(X0,X1,T0), Protest_violently,_riot(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Make_statement(X0,X1,T0), Threaten(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Engage_in_negotiation(X0,X1,T0), Refuse_to_yield(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_unconventional_violence(X0,X1,T1), fight_with_small_arms_and_light_weapons(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Defy_norms,_law(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_unconventional_violence(X1,X2,T1), Use_conventional_military_force(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Make_statement(X1,X2,T1), Use_conventional_military_force(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Obstruct_passage,_block(X0,X1,T0), Protest_violently,_riot(X1,X0,T1), Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Protest_violently,_riot(X1,X0,T1), Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_tactics_of_violent_repression(X0,X1,T0), Make_statement(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Use_tactics_of_violent_repression(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), _Use_unconventional_violence(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), _Use_unconventional_violence(X1,X2,T1), Use_unconventional_violence(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), _Refuse_to_yield(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), _Express_accord(X1,X0,T1), Engage_in_negotiation(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Investigate(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Use_tactics_of_violent_repression(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), _Defy_norms,_law(X1,X0,T1), Express_intent_to_cooperate(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), _Demonstrate_or_rally(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Make_statement(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), _Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Express_intent_to_ease_administrative_sanctions(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Use_conventional_military_force(X0,X1,T0), _Protest_violently,_riot(X1,X0,T1), _Use_conventional_military_force(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), fight_with_small_arms_and_light_weapons(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Refuse_to_yield(X0,X1,T0), _Protest_violently,_riot(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Use_tactics_of_violent_repression(X0,X1,T0), Make_statement(X1,X0,T1), _Express_intent_to_ease_administrative_sanctions(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Return,_release_person(s)(X0,X1,T0), _Demonstrate_or_rally(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), _fight_with_small_arms_and_light_weapons(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Use_tactics_of_violent_repression(X0,X1,T0), Make_statement(X1,X2,T1), _Use_conventional_military_force(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Refuse_to_yield(X0,X1,T0), _Protest_violently,_riot(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Use_tactics_of_violent_repression(X0,X1,T0), Make_statement(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X2,T3) <- Obstruct_passage,_block(X0,X1,T0), _Protest_violently,_riot(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X2,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Use_tactics_of_violent_repression(X0,X1,T0), _Demonstrate_or_rally(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), _Protest_violently,_riot(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Use_tactics_of_violent_repression(X0,X1,T0), _Use_unconventional_violence(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- _Use_tactics_of_violent_repression(X0,X1,T0), _Make_statement(X1,X2,T1), Make_statement(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), _Demonstrate_or_rally(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_tactics_of_violent_repression(X1,X2,T1), Protest_violently,_riot(X2,X1,T2).
+Use_tactics_of_violent_repression(X0,X2,T3) <- Protest_violently,_riot(X0,X1,T0), _Obstruct_passage,_block(X1,X0,T1), Protest_violently,_riot(X0,X2,T2).
+Use_tactics_of_violent_repression(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), _Demonstrate_or_rally(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Use_tactics_of_violent_repression(X0,X2,T3) <- Demonstrate_or_rally(X0,X1,T0), _Threaten(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X2,T2).

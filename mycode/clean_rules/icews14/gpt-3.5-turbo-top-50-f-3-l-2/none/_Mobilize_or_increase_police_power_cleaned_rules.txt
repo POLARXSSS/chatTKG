@@ -1,0 +1,20 @@
+Mobilize_or_increase_police_power <-- Arrest,_detain,_or_charge_with_legal_action
+Mobilize_or_increase_police_power <-- Demonstrate_or_rally, Use_conventional_military_force
+Mobilize_or_increase_police_power <-- Protest_violently,_riot
+Mobilize_or_increase_police_power <-- Use_conventional_military_force, Threaten_with_repression
+Mobilize_or_increase_police_power <-- Demonstrate_or_rally
+Mobilize_or_increase_police_power <-- Use_unconventional_violence
+Mobilize_or_increase_police_power <-- Threaten_with_repression
+Mobilize_or_increase_police_power <-- Occupy_territory
+Mobilize_or_increase_police_power <-- Express_intent_to_provide_military_aid
+Mobilize_or_increase_police_power <-- Arrest,_detain,_or_charge_with_legal_action, Use_conventional_military_force
+Mobilize_or_increase_police_power <-- Conduct_suicide,_car,_or_other_non-military_bombing, fight_with_small_arms_and_light_weapons
+Mobilize_or_increase_police_power <-- Demand_easing_of_administrative_sanctions
+Mobilize_or_increase_police_power <-- Confiscate_property
+Mobilize_or_increase_police_power <-- Increase_police_alert_status
+Mobilize_or_increase_police_power <-- Mobilize_or_increase_armed_forces
+Mobilize_or_increase_police_power <-- Receive_deployment_of_peacekeepers
+Mobilize_or_increase_police_power <-- Demonstrate_or_rally, Threaten_with_repression
+Mobilize_or_increase_police_power <-- Arrest,_detain,_or_charge_with_legal_action, Make_statement
+Mobilize_or_increase_police_power <-- Investigate
+Mobilize_or_increase_police_power <-- Impose_administrative_sanctions

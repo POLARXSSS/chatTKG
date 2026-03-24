@@ -1,0 +1,30 @@
+Arrest,_detain,_or_charge_with_legal_action <-- Torture, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Investigate
+Arrest,_detain,_or_charge_with_legal_action <-- Sexually_assault
+Arrest,_detain,_or_charge_with_legal_action <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Kill_by_physical_assault, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Impose_administrative_sanctions
+Arrest,_detain,_or_charge_with_legal_action <-- Physically_assault, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Accuse
+Arrest,_detain,_or_charge_with_legal_action <-- fight_with_small_arms_and_light_weapons, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Make_statement
+Arrest,_detain,_or_charge_with_legal_action <-- Torture
+Arrest,_detain,_or_charge_with_legal_action <-- Kill_by_physical_assault
+Arrest,_detain,_or_charge_with_legal_action <-- Use_unconventional_violence
+Arrest,_detain,_or_charge_with_legal_action <-- Use_conventional_military_force
+Arrest,_detain,_or_charge_with_legal_action <-- Confiscate_property
+Arrest,_detain,_or_charge_with_legal_action <-- Expel_or_deport_individuals
+Arrest,_detain,_or_charge_with_legal_action <-- Threaten
+Arrest,_detain,_or_charge_with_legal_action <-- Sexually_assault, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Impose_administrative_sanctions, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Confiscate_property, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Mobilize_or_increase_police_power
+Arrest,_detain,_or_charge_with_legal_action <-- Physically_assault
+Arrest,_detain,_or_charge_with_legal_action <-- fight_with_small_arms_and_light_weapons
+Arrest,_detain,_or_charge_with_legal_action <-- Use_conventional_military_force, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Demand
+Arrest,_detain,_or_charge_with_legal_action <-- Demonstrate_military_or_police_power
+Arrest,_detain,_or_charge_with_legal_action <-- Increase_police_alert_status
+Arrest,_detain,_or_charge_with_legal_action <-- Expel_or_deport_individuals, Arrest,_detain,_or_charge_with_legal_action
+Arrest,_detain,_or_charge_with_legal_action <-- Reject
+Arrest,_detain,_or_charge_with_legal_action <-- Occupy_territory

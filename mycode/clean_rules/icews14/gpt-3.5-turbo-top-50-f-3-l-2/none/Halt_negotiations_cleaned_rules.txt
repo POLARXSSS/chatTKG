@@ -1,0 +1,65 @@
+Halt_negotiations <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+Halt_negotiations <-- Engage_in_mass_killings
+Halt_negotiations <-- Threaten_to_halt_negotiations
+Halt_negotiations <-- Threaten_to_reduce_or_break_relations
+Halt_negotiations <-- Make_a_visit, Expel_or_deport_individuals
+Halt_negotiations <-- Seize_or_damage_property
+Halt_negotiations <-- Reject_military_cooperation
+Halt_negotiations <-- Assassinate
+Halt_negotiations <-- Host_a_visit, Reduce_or_break_diplomatic_relations
+Halt_negotiations <-- Destroy_property
+Halt_negotiations <-- Coerce
+Halt_negotiations <-- Threaten, Use_conventional_military_force
+Halt_negotiations <-- Reject_plan,_agreement_to_settle_dispute
+Halt_negotiations <-- Reject_economic_cooperation
+Halt_negotiations <-- Carry_out_car_bombing
+Halt_negotiations <-- Conduct_hunger_strike
+Halt_negotiations <-- Praise_or_endorse, Protest_violently,_riot
+Halt_negotiations <-- Impose_state_of_emergency_or_martial_law
+Halt_negotiations <-- Reduce_or_break_diplomatic_relations
+Halt_negotiations <-- Impose_restrictions_on_political_freedoms
+Halt_negotiations <-- Engage_in_negotiation, fight_with_artillery_and_tanks
+Halt_negotiations <-- Demand_change_in_leadership, Refuse_to_yield
+Halt_negotiations <-- Impose_administrative_sanctions
+Halt_negotiations <-- Threaten_with_repression
+Halt_negotiations <-- Increase_military_alert_status
+Halt_negotiations <-- Carry_out_suicide_bombing
+Halt_negotiations <-- Meet_at_a_'third'_location, Occupy_territory
+Halt_negotiations <-- Halt_negotiations
+Halt_negotiations <-- Abduct,_hijack,_or_take_hostage
+Halt_negotiations <-- Express_intent_to_cooperate, Reject_economic_cooperation
+Halt_negotiations <-- Defy_norms,_law
+Halt_negotiations <-- Occupy_territory
+Halt_negotiations <-- Use_conventional_military_force
+Halt_negotiations <-- Reduce_relations
+Halt_negotiations <-- Use_tactics_of_violent_repression, Engage_in_negotiation
+Halt_negotiations <-- Halt_negotiations, Threaten_with_sanctions,_boycott,_embargo
+Halt_negotiations <-- Mobilize_or_increase_armed_forces
+Halt_negotiations <-- Consult, Veto
+Halt_negotiations <-- fight_with_artillery_and_tanks
+Halt_negotiations <-- Confiscate_property
+Halt_negotiations <-- Attempt_to_assassinate
+Halt_negotiations <-- Make_an_appeal_or_request, Threaten_to_halt_negotiations
+Halt_negotiations <-- Sexually_assault
+Halt_negotiations <-- Refuse_to_yield
+Halt_negotiations <-- Appeal_for_political_reform, Impose_restrictions_on_political_freedoms
+Halt_negotiations <-- Sign_formal_agreement, Violate_ceasefire
+Halt_negotiations <-- Torture
+Halt_negotiations <-- Appeal_for_material_cooperation, Reduce_relations
+Halt_negotiations <-- Detonate_nuclear_weapons
+Halt_negotiations <-- Express_intent_to_yield, Refuse_to_ease_administrative_sanctions
+Halt_negotiations <-- Threaten_with_administrative_sanctions
+Halt_negotiations <-- Yield, Threaten_with_military_force
+Halt_negotiations <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Halt_negotiations <-- Make_optimistic_comment, Conduct_strike_or_boycott
+Halt_negotiations <-- Physically_assault
+Halt_negotiations <-- Expel_or_deport_individuals
+Halt_negotiations <-- Engage_in_mass_expulsion
+Halt_negotiations <-- Violate_ceasefire
+Halt_negotiations <-- Give_ultimatum
+Halt_negotiations <-- Ban_political_parties_or_politicians
+Halt_negotiations <-- Threaten_with_political_dissent,_protest
+Halt_negotiations <-- Make_statement, Criticize_or_denounce
+Halt_negotiations <-- Impose_embargo,_boycott,_or_sanctions
+Halt_negotiations <-- Threaten
+Halt_negotiations <-- Kill_by_physical_assault

@@ -1,0 +1,8 @@
+6	0.013452914798206279	0.008152173913043478	0.025	Return,_release_person(s) <-- Sign_formal_agreement
+23	0.0515695067264574	0.019827586206896553	0.08614232209737828	Return,_release_person(s) <-- Engage_in_negotiation
+16	0.03587443946188341	0.17777777777777778	0.5333333333333333	Return,_release_person(s) <-- Yield
+109	0.24439461883408073	0.04058078927773641	0.2546728971962617	Return,_release_person(s) <-- Express_intent_to_meet_or_negotiate
+12	0.026905829596412557	2.4	6.0	Return,_release_person(s) <-- Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Return,_release_person(s) <-- Mediate
+99	0.2219730941704036	1.9411764705882353	3.413793103448276	Return,_release_person(s) <-- Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Return,_release_person(s) <-- Express_intent_to_accept_mediation

@@ -1,0 +1,30 @@
+Make_empathetic_comment <-- Make_optimistic_comment, Praise_or_endorse
+Make_empathetic_comment <-- Reject_plan,_agreement_to_settle_dispute, Express_intent_to_settle_dispute
+Make_empathetic_comment <-- Demand, Yield
+Make_empathetic_comment <-- Grant_diplomatic_recognition, Share_intelligence_or_information
+Make_empathetic_comment <-- Provide_humanitarian_aid
+Make_empathetic_comment <-- Host_a_visit, Discuss_by_telephone
+Make_empathetic_comment <-- Threaten, Defend_verbally
+Make_empathetic_comment <-- Cooperate_economically, Cooperate_militarily
+Make_empathetic_comment <-- Provide_humanitarian_aid, Express_intent_to_cooperate
+Make_empathetic_comment <-- Investigate, Acknowledge_or_claim_responsibility
+Make_empathetic_comment <-- Make_an_appeal_or_request, Yield
+Make_empathetic_comment <-- Engage_in_negotiation, Sign_formal_agreement
+Make_empathetic_comment <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Make_empathetic_comment <-- Apologize
+Make_empathetic_comment <-- Engage_in_negotiation
+Make_empathetic_comment <-- Return,_release_person(s)
+Make_empathetic_comment <-- Protest_violently,_riot, Conduct_hunger_strike
+Make_empathetic_comment <-- Express_intent_to_cooperate
+Make_empathetic_comment <-- Use_conventional_military_force, Retreat_or_surrender_militarily
+Make_empathetic_comment <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+Make_empathetic_comment <-- Declare_truce,_ceasefire, Demobilize_armed_forces
+Make_empathetic_comment <-- Praise_or_endorse
+Make_empathetic_comment <-- Mediate
+Make_empathetic_comment <-- Apologize, Make_statement
+Make_empathetic_comment <-- Impose_restrictions_on_political_freedoms, Ease_political_dissent
+Make_empathetic_comment <-- Bring_lawsuit_against, Reject
+Make_empathetic_comment <-- Make_statement
+Make_empathetic_comment <-- Accuse, Apologize
+Make_empathetic_comment <-- Host_a_visit
+Make_empathetic_comment <-- Consult

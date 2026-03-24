@@ -1,0 +1,25 @@
+1	0.08333333333333333	0.001358695652173913	0.058823529411764705	Engage_in_judicial_cooperation <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Investigate
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Investigate_war_crimes
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Investigate_human_rights_abuses
+1	0.08333333333333333	0.003816793893129771	0.125	Engage_in_judicial_cooperation <-- Return,_release_person(s)
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Appeal_for_judicial_cooperation
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Express_accord
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Express_intent_to_cooperate_on_judicial_matters
+1	0.08333333333333333	0.0001154068090017311	0.007633587786259542	Engage_in_judicial_cooperation <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Investigate_crime,_corruption
+1	0.08333333333333333	0.010869565217391304	0.3333333333333333	Engage_in_judicial_cooperation <-- Complain_officially
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Demand_judicial_cooperation
+1	0.08333333333333333	0.00015860428231562253	0.01818181818181818	Engage_in_judicial_cooperation <-- Consult
+1	0.08333333333333333	0.00025806451612903227	0.01639344262295082	Engage_in_judicial_cooperation <-- Engage_in_diplomatic_cooperation, Sign_formal_agreement
+2	0.16666666666666666	0.010752688172043012	0.2222222222222222	Engage_in_judicial_cooperation <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Arrest,_detain,_or_charge_with_legal_action
+1	0.08333333333333333	0.0008620689655172414	0.14285714285714285	Engage_in_judicial_cooperation <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Appeal_for_judicial_cooperation, Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Engage_in_judicial_cooperation <-- Mediate

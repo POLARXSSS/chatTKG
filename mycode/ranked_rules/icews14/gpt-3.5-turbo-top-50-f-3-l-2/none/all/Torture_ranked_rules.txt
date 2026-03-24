@@ -1,0 +1,23 @@
+0.0	0.0	0.0	0.0	Torture <-- Sexually_assault, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Torture <-- Carry_out_car_bombing
+5	0.14285714285714285	0.08928571428571429	0.7142857142857143	Torture <-- Arrest,_detain,_or_charge_with_legal_action, Provide_aid
+0.0	0.0	0.0	0.0	Torture <-- Arrest,_detain,_or_charge_with_legal_action, Increase_police_alert_status
+0.0	0.0	0.0	0.0	Torture <-- Impose_embargo,_boycott,_or_sanctions
+8	0.22857142857142856	0.1095890410958904	0.8888888888888888	Torture <-- Use_tactics_of_violent_repression
+12	0.34285714285714286	0.028708133971291867	0.23076923076923078	Torture <-- fight_with_small_arms_and_light_weapons
+13	0.37142857142857144	0.01616915422885572	0.12380952380952381	Torture <-- Use_conventional_military_force
+35	1.0	1.3461538461538463	1.3461538461538463	Torture <-- Torture
+0.0	0.0	0.0	0.0	Torture <-- Demobilize_armed_forces
+13	0.37142857142857144	0.009954058192955589	0.12745098039215685	Torture <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Torture <-- Refuse_to_yield
+15	0.42857142857142855	0.016304347826086956	0.75	Torture <-- Demand
+1	0.02857142857142857	0.0006188118811881188	0.047619047619047616	Torture <-- Threaten, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Torture <-- Impose_state_of_emergency_or_martial_law
+7	0.2	0.0036842105263157894	0.5	Torture <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Torture <-- Arrest,_detain,_or_charge_with_legal_action, Confiscate_property
+4	0.11428571428571428	0.014134275618374558	0.17391304347826086	Torture <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Torture <-- Engage_in_violent_protest_for_rights
+2	0.05714285714285714	0.16666666666666666	1.0	Torture <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Torture <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Torture <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Torture <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation

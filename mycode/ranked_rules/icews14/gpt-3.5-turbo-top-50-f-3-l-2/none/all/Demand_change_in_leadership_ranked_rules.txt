@@ -1,0 +1,72 @@
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_with_repression, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Demand_change_in_leadership, Accede_to_demands_for_change_in_leadership
+16	0.1927710843373494	0.0018283624728602445	0.0446927374301676	Demand_change_in_leadership <-- Accuse, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_to_halt_negotiations, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Coerce, Refuse_to_yield
+1	0.012048192771084338	0.007142857142857143	0.0625	Demand_change_in_leadership <-- Physically_assault
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Conduct_suicide,_car,_or_other_non-military_bombing, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Torture
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Impose_embargo,_boycott,_or_sanctions, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Protest_violently,_riot, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_with_administrative_sanctions, Refuse_to_yield
+4	0.04819277108433735	0.05263157894736842	0.3333333333333333	Demand_change_in_leadership <-- Rally_opposition_against
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Use_as_human_shield, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Destroy_property, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Carry_out_car_bombing, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Engage_in_mass_killings, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- fight_with_small_arms_and_light_weapons, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Mobilize_or_increase_armed_forces, Refuse_to_yield
+1	0.012048192771084338	0.0072992700729927005	0.1	Demand_change_in_leadership <-- Threaten, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Demand_that_target_yields, Yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Use_unconventional_violence, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_to_halt_mediation, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Occupy_territory
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Increase_military_alert_status, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Obstruct_passage,_block, Refuse_to_yield
+8	0.0963855421686747	0.14285714285714285	0.8	Demand_change_in_leadership <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Use_conventional_military_force, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- fight_with_artillery_and_tanks, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Use_chemical,_biological,_or_radiological_weapons, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_to_reduce_or_stop_aid, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Kill_by_physical_assault, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_non-force, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Confiscate_property, Refuse_to_yield
+1	0.012048192771084338	0.03571428571428571	0.14285714285714285	Demand_change_in_leadership <-- Conduct_strike_or_boycott
+1	0.012048192771084338	0.003067484662576687	0.1	Demand_change_in_leadership <-- Engage_in_negotiation, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Give_ultimatum, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Ban_political_parties_or_politicians, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Increase_police_alert_status, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Detonate_nuclear_weapons, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Carry_out_suicide_bombing, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Sexually_assault, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Expel_or_deport_individuals, Refuse_to_yield
+1	0.012048192771084338	0.0035335689045936395	0.08333333333333333	Demand_change_in_leadership <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Impose_restrictions_on_political_freedoms, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Complain_officially, Yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Reject_request_for_change_in_leadership, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Assassinate
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Investigate_human_rights_abuses, Criticize_or_denounce
+15	0.18072289156626506	0.6818181818181818	1.5	Demand_change_in_leadership <-- Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Provide_humanitarian_aid, Refuse_to_release_persons_or_property
+4	0.04819277108433735	0.0025396825396825397	0.07017543859649122	Demand_change_in_leadership <-- Make_an_appeal_or_request, Yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_with_military_force, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Violate_ceasefire, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Arrest,_detain,_or_charge_with_legal_action, Consult
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Mobilize_or_increase_police_power, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_with_political_dissent,_protest, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Express_intent_to_yield, Yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Appeal_to_yield, Yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Threaten_with_sanctions,_boycott,_embargo, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Obstruct_passage_to_demand_leadership_change, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Reduce_or_break_diplomatic_relations, Threaten_to_reduce_or_break_relations
+1	0.012048192771084338	0.25	1.0	Demand_change_in_leadership <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation
+14	0.1686746987951807	0.004507405022537025	0.0748663101604278	Demand_change_in_leadership <-- Engage_in_symbolic_act, Consult
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Carry_out_roadside_bombing, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Impose_state_of_emergency_or_martial_law, Defy_norms,_law
+1	0.012048192771084338	0.03571428571428571	0.03571428571428571	Demand_change_in_leadership <-- Demand_change_in_leadership, Yield
+1	0.012048192771084338	0.0005621135469364812	0.030303030303030304	Demand_change_in_leadership <-- Make_statement, Yield
+0.0	0.0	0.0	0.0	Demand_change_in_leadership <-- Employ_aerial_weapons, Refuse_to_yield

@@ -1,0 +1,71 @@
+0.0	0.0	0.0	0.0	Occupy_territory <-- Use_conventional_military_force, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Occupy_territory <-- Violate_ceasefire, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Occupy_territory <-- Threaten_with_military_force, Use_conventional_military_force
+19	0.07307692307692308	0.7916666666666666	3.8	Occupy_territory <-- Increase_military_alert_status
+76	0.2923076923076923	1.027027027027027	3.3043478260869565	Occupy_territory <-- Threaten_with_military_force
+59	0.22692307692307692	0.07338308457711443	0.2935323383084577	Occupy_territory <-- Use_conventional_military_force
+4	0.015384615384615385	0.06896551724137931	0.2857142857142857	Occupy_territory <-- Give_ultimatum, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Occupy_territory <-- Occupy_territory, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Occupy_territory <-- Abduct,_hijack,_or_take_hostage, Confiscate_property
+0.0	0.0	0.0	0.0	Occupy_territory <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+6	0.023076923076923078	0.75	2.0	Occupy_territory <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Occupy_territory <-- Expel_or_deport_individuals, Use_conventional_military_force
+65	0.25	1.7567567567567568	3.611111111111111	Occupy_territory <-- Carry_out_suicide_bombing
+260	1.0	2.2033898305084745	2.2033898305084745	Occupy_territory <-- Occupy_territory
+9	0.03461538461538462	0.16071428571428573	0.2727272727272727	Occupy_territory <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Occupy_territory <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+4	0.015384615384615385	0.06557377049180328	0.23529411764705882	Occupy_territory <-- Conduct_suicide,_car,_or_other_non-military_bombing, Use_unconventional_violence
+54	0.2076923076923077	0.6428571428571429	2.4545454545454546	Occupy_territory <-- Mobilize_or_increase_armed_forces
+81	0.31153846153846154	1.653061224489796	4.2631578947368425	Occupy_territory <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Occupy_territory <-- Express_intent_to_change_leadership, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Occupy_territory <-- Coerce, Use_conventional_military_force
+19	0.07307692307692308	0.7916666666666666	3.8	Occupy_territory <-- Increase_military_alert_status
+73	0.28076923076923077	3.8421052631578947	6.083333333333333	Occupy_territory <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Occupy_territory <-- Complain_officially
+0.0	0.0	0.0	0.0	Occupy_territory <-- Forgive
+0.0	0.0	0.0	0.0	Occupy_territory <-- Obstruct_passage_to_demand_leadership_change
+0.0	0.0	0.0	0.0	Occupy_territory <-- Investigate_war_crimes
+59	0.22692307692307692	0.07338308457711443	0.2935323383084577	Occupy_territory <-- Use_conventional_military_force
+65	0.25	1.7567567567567568	3.611111111111111	Occupy_territory <-- Carry_out_suicide_bombing
+260	1.0	2.2033898305084745	2.2033898305084745	Occupy_territory <-- Occupy_territory
+3	0.011538461538461539	0.11538461538461539	0.6	Occupy_territory <-- Torture
+0.0	0.0	0.0	0.0	Occupy_territory <-- Ease_military_blockade
+2	0.007692307692307693	0.018691588785046728	0.18181818181818182	Occupy_territory <-- Rally_support_on_behalf_of
+4	0.015384615384615385	0.03571428571428571	0.3076923076923077	Occupy_territory <-- Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Occupy_territory <-- Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Occupy_territory <-- Ban_political_parties_or_politicians
+4	0.015384615384615385	0.17391304347826086	1.3333333333333333	Occupy_territory <-- Obstruct_passage,_block
+23	0.08846153846153847	0.04466019417475728	0.3898305084745763	Occupy_territory <-- Investigate
+133	0.5115384615384615	0.13326653306613226	0.5757575757575758	Occupy_territory <-- Use_unconventional_violence
+17	0.06538461538461539	0.06007067137809187	0.19767441860465115	Occupy_territory <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Occupy_territory <-- Rally_opposition_against
+0.0	0.0	0.0	0.0	Occupy_territory <-- Ease_political_dissent
+66	0.25384615384615383	1.1785714285714286	5.076923076923077	Occupy_territory <-- Acknowledge_or_claim_responsibility
+24	0.09230769230769231	0.2553191489361702	1.6	Occupy_territory <-- Confiscate_property
+0.0	0.0	0.0	0.0	Occupy_territory <-- Share_intelligence_or_information
+12	0.046153846153846156	2.4	6.0	Occupy_territory <-- Destroy_property
+1	0.0038461538461538464	0.25	1.0	Occupy_territory <-- Ease_curfew
+54	0.2076923076923077	0.6428571428571429	2.4545454545454546	Occupy_territory <-- Mobilize_or_increase_armed_forces
+9	0.03461538461538462	0.16071428571428573	0.2727272727272727	Occupy_territory <-- Employ_aerial_weapons
+7	0.026923076923076925	0.4666666666666667	1.1666666666666667	Occupy_territory <-- Increase_police_alert_status
+2	0.007692307692307693	0.011560693641618497	0.08333333333333333	Occupy_territory <-- Deny_responsibility
+2	0.007692307692307693	0.014285714285714285	0.16666666666666666	Occupy_territory <-- Physically_assault
+0.0	0.0	0.0	0.0	Occupy_territory <-- Detonate_nuclear_weapons
+1	0.0038461538461538464	0.03225806451612903	0.25	Occupy_territory <-- Apologize
+5	0.019230769230769232	0.04310344827586207	0.4166666666666667	Occupy_territory <-- Protest_violently,_riot
+1	0.0038461538461538464	0.015873015873015872	0.05	Occupy_territory <-- Kill_by_physical_assault
+81	0.31153846153846154	1.653061224489796	4.2631578947368425	Occupy_territory <-- Conduct_suicide,_car,_or_other_non-military_bombing
+94	0.36153846153846153	2.6857142857142855	6.714285714285714	Occupy_territory <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Occupy_territory <-- Investigate_human_rights_abuses
+5	0.019230769230769232	0.10416666666666667	0.7142857142857143	Occupy_territory <-- Impose_restrictions_on_political_freedoms
+3	0.011538461538461539	0.375	3.0	Occupy_territory <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Occupy_territory <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Occupy_territory <-- Investigate_crime,_corruption
+89	0.3423076923076923	0.21291866028708134	1.1125	Occupy_territory <-- fight_with_small_arms_and_light_weapons
+4	0.015384615384615385	0.030534351145038167	0.11764705882352941	Occupy_territory <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Occupy_territory <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Occupy_territory <-- Use_tactics_of_violent_repression
+6	0.023076923076923078	0.75	2.0	Occupy_territory <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Occupy_territory <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Occupy_territory <-- Grant_diplomatic_recognition
+12	0.046153846153846156	0.009188361408882083	0.05660377358490566	Occupy_territory <-- Arrest,_detain,_or_charge_with_legal_action

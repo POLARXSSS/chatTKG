@@ -1,0 +1,80 @@
+92	0.02556976097832129	0.4946236559139785	0.9787234042553191	Praise_or_endorse <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Return,_release_property, Apologize
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Share_intelligence_or_information, Cooperate_militarily
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Declare_truce,_ceasefire, Demobilize_armed_forces
+347	0.09644246803779878	0.043207570663678245	0.06614563476934808	Praise_or_endorse <-- Consult, Discuss_by_telephone
+460	0.12784880489160644	0.14232673267326731	0.17490494296577946	Praise_or_endorse <-- Sign_formal_agreement, Make_a_visit
+556	0.15453029460811563	0.2609103707179728	0.41063515509601184	Praise_or_endorse <-- Make_a_visit
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Ease_economic_sanctions,_boycott,_embargo, Return,_release_person(s)
+383	0.10644802668148971	0.5785498489425982	0.6827094474153298	Praise_or_endorse <-- Engage_in_diplomatic_cooperation
+19	0.0052807115063924406	0.4318181818181818	0.475	Praise_or_endorse <-- Express_intent_to_provide_military_aid, Provide_military_aid
+125	0.03474152306837132	0.14845605700712589	0.20491803278688525	Praise_or_endorse <-- Grant_diplomatic_recognition, Engage_in_diplomatic_cooperation
+411	0.11423012784880489	0.13533091866973987	0.15729047072330654	Praise_or_endorse <-- Host_a_visit, Engage_in_diplomatic_cooperation
+2	0.0005558643690939411	0.08695652173913043	0.13333333333333333	Praise_or_endorse <-- Yield, Ease_administrative_sanctions
+104	0.028904947192884937	1.5294117647058822	1.8245614035087718	Praise_or_endorse <-- Provide_military_aid
+862	0.23957754307948861	0.1367168913560666	0.21101591187270502	Praise_or_endorse <-- Consult
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Mediate, Express_intent_to_settle_dispute
+28	0.007782101167315175	0.5185185185185185	0.7368421052631579	Praise_or_endorse <-- Cooperate_economically, Engage_in_material_cooperation
+642	0.1784324624791551	0.23901712583767684	0.3422174840085288	Praise_or_endorse <-- Express_intent_to_meet_or_negotiate
+370	0.1028349082823791	0.4894179894179894	0.6607142857142857	Praise_or_endorse <-- Express_intent_to_cooperate
+442	0.12284602556976097	0.18540268456375839	0.20829406220546653	Praise_or_endorse <-- Express_intent_to_cooperate, Sign_formal_agreement
+921	0.25597554196775985	0.011506459108967792	0.020396864065199097	Praise_or_endorse <-- Make_a_visit, Host_a_visit
+1526	0.42412451361867703	0.03416315930867735	0.06792184092224152	Praise_or_endorse <-- Make_statement, Praise_or_endorse
+67	0.018621456364647026	0.4652777777777778	0.5075757575757576	Praise_or_endorse <-- Provide_military_aid, Express_intent_to_cooperate
+109	0.03029460811561979	1.3974358974358974	1.8793103448275863	Praise_or_endorse <-- Provide_economic_aid
+4	0.0011117287381878821	0.09090909090909091	0.13333333333333333	Praise_or_endorse <-- Appeal_for_material_cooperation, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Apologize, Forgive
+332	0.09227348526959422	0.45108695652173914	0.6653306613226453	Praise_or_endorse <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Express_intent_to_provide_economic_aid, Provide_economic_aid
+448	0.1245136186770428	0.21022993899577663	0.2391884676988788	Praise_or_endorse <-- Host_a_visit
+23	0.006392440244580322	2.090909090909091	3.2857142857142856	Praise_or_endorse <-- Appeal_for_material_cooperation
+1	0.00027793218454697053	0.017857142857142856	0.05263157894736842	Praise_or_endorse <-- Acknowledge_or_claim_responsibility
+332	0.09227348526959422	0.45108695652173914	0.6653306613226453	Praise_or_endorse <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Ease_military_blockade
+109	0.03029460811561979	0.24885844748858446	0.36577181208053694	Praise_or_endorse <-- Discuss_by_telephone
+13	0.003613118399110617	0.4482758620689655	0.6842105263157895	Praise_or_endorse <-- Accede_to_demands_for_change_in_leadership
+104	0.028904947192884937	1.5294117647058822	1.8245614035087718	Praise_or_endorse <-- Provide_military_aid
+1502	0.41745414118954977	0.020033611652039374	0.03135044875808808	Praise_or_endorse <-- Consult, Consult
+636	0.17676486937187327	0.07339873052510099	0.09019997163522904	Praise_or_endorse <-- Host_a_visit, Make_a_visit
+27	0.007504168982768205	0.6428571428571429	1.0	Praise_or_endorse <-- Share_intelligence_or_information
+862	0.23957754307948861	0.1367168913560666	0.21101591187270502	Praise_or_endorse <-- Consult
+1531	0.4255141745414119	0.02550348986357049	0.051176627891429335	Praise_or_endorse <-- Make_statement, Make_statement
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Express_intent_to_de-escalate_military_engagement, Declare_truce,_ceasefire
+92	0.02556976097832129	0.4946236559139785	0.9787234042553191	Praise_or_endorse <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Ease_state_of_emergency_or_martial_law
+18	0.005002779321845469	0.5142857142857142	1.125	Praise_or_endorse <-- Retreat_or_surrender_militarily
+3598	1.0	1.3685812095853938	1.3685812095853938	Praise_or_endorse <-- Praise_or_endorse
+78	0.0216787103946637	1.5	2.108108108108108	Praise_or_endorse <-- Express_intent_to_provide_military_aid
+448	0.1245136186770428	0.21022993899577663	0.2391884676988788	Praise_or_endorse <-- Host_a_visit
+96	0.02668148971650917	0.23940149625935161	0.3356643356643357	Praise_or_endorse <-- Engage_in_symbolic_act
+16	0.0044469149527515284	0.8421052631578947	1.0666666666666667	Praise_or_endorse <-- Mediate
+5	0.0013896609227348527	2.5	2.5	Praise_or_endorse <-- Accede_to_demands_for_change_in_policy
+97	0.026959421901056144	0.9797979797979798	1.3472222222222223	Praise_or_endorse <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Forgive
+125	0.03474152306837132	1.7605633802816902	2.0833333333333335	Praise_or_endorse <-- Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Receive_inspectors
+8	0.0022234574763757642	0.25	0.47058823529411764	Praise_or_endorse <-- Appeal_for_aid, Provide_aid
+642	0.1784324624791551	0.23901712583767684	0.3422174840085288	Praise_or_endorse <-- Express_intent_to_meet_or_negotiate
+109	0.03029460811561979	1.3974358974358974	1.8793103448275863	Praise_or_endorse <-- Provide_economic_aid
+11	0.003057254030016676	0.3548387096774194	0.6470588235294118	Praise_or_endorse <-- Apologize
+29	0.008060033351862146	0.4461538461538462	0.6041666666666666	Praise_or_endorse <-- Grant_diplomatic_recognition
+54	0.01500833796553641	2.25	3.375	Praise_or_endorse <-- Defend_verbally
+164	0.045580878265703166	0.3761467889908257	0.41	Praise_or_endorse <-- Express_intent_to_cooperate, Cooperate_economically
+4	0.0011117287381878821	0.06153846153846154	0.07142857142857142	Praise_or_endorse <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+4	0.0011117287381878821	0.4	0.8	Praise_or_endorse <-- Express_intent_to_accept_mediation
+5	0.0013896609227348527	0.35714285714285715	0.38461538461538464	Praise_or_endorse <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+6	0.0016675931072818232	0.5454545454545454	0.75	Praise_or_endorse <-- Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Ease_political_dissent
+24	0.006670372429127293	0.21428571428571427	0.3870967741935484	Praise_or_endorse <-- Ease_administrative_sanctions
+58	0.016120066703724293	0.6444444444444445	1.1153846153846154	Praise_or_endorse <-- Yield
+511	0.14202334630350194	0.1080338266384778	0.12762237762237763	Praise_or_endorse <-- Engage_in_diplomatic_cooperation, Engage_in_diplomatic_cooperation
+383	0.10644802668148971	0.5785498489425982	0.6827094474153298	Praise_or_endorse <-- Engage_in_diplomatic_cooperation
+20	0.005558643690939411	0.29411764705882354	0.3508771929824561	Praise_or_endorse <-- Express_intent_to_provide_material_aid, Provide_humanitarian_aid
+1085	0.301556420233463	0.13375246548323472	0.27213443691998995	Praise_or_endorse <-- Make_statement
+51	0.014174541411895497	0.5930232558139535	1.02	Praise_or_endorse <-- Cooperate_militarily
+4	0.0011117287381878821	0.4	0.4444444444444444	Praise_or_endorse <-- Ease_economic_sanctions,_boycott,_embargo
+8	0.0022234574763757642	1.6	2.0	Praise_or_endorse <-- Accede_to_demands_for_rights
+9	0.0025013896609227346	0.3333333333333333	0.4090909090909091	Praise_or_endorse <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Praise_or_endorse <-- Express_intent_to_yield

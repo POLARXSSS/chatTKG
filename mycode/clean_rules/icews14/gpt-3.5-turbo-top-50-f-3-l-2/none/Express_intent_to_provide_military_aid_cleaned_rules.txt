@@ -1,0 +1,20 @@
+Express_intent_to_provide_military_aid <-- Make_statement
+Express_intent_to_provide_military_aid <-- Mobilize_or_increase_armed_forces, Make_a_visit
+Express_intent_to_provide_military_aid <-- Use_conventional_military_force
+Express_intent_to_provide_military_aid <-- Demand_military_aid
+Express_intent_to_provide_military_aid <-- Threaten, Use_conventional_military_force
+Express_intent_to_provide_military_aid <-- Threaten
+Express_intent_to_provide_military_aid <-- Engage_in_diplomatic_cooperation, Use_unconventional_violence
+Express_intent_to_provide_military_aid <-- Use_conventional_military_force, Mobilize_or_increase_armed_forces
+Express_intent_to_provide_military_aid <-- Express_intent_to_provide_military_aid
+Express_intent_to_provide_military_aid <-- Consult
+Express_intent_to_provide_military_aid <-- Provide_military_aid, Use_conventional_military_force
+Express_intent_to_provide_military_aid <-- Engage_in_diplomatic_cooperation
+Express_intent_to_provide_military_aid <-- Express_intent_to_provide_military_aid, Engage_in_diplomatic_cooperation
+Express_intent_to_provide_military_aid <-- Mobilize_or_increase_armed_forces
+Express_intent_to_provide_military_aid <-- Make_statement, Threaten
+Express_intent_to_provide_military_aid <-- Appeal_for_military_aid, Make_statement
+Express_intent_to_provide_military_aid <-- Provide_military_aid
+Express_intent_to_provide_military_aid <-- Demand_military_aid, Threaten
+Express_intent_to_provide_military_aid <-- Appeal_for_military_aid
+Express_intent_to_provide_military_aid <-- Consult, Criticize_or_denounce

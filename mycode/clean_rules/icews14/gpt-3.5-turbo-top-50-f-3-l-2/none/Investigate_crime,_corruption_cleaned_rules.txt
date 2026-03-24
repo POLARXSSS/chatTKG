@@ -1,0 +1,11 @@
+Investigate_crime,_corruption <-- Accuse_of_crime,_corruption
+Investigate_crime,_corruption <-- Engage_in_material_cooperation
+Investigate_crime,_corruption <-- Use_unconventional_violence
+Investigate_crime,_corruption <-- Criticize_or_denounce
+Investigate_crime,_corruption <-- Investigate_war_crimes
+Investigate_crime,_corruption <-- Use_conventional_military_force
+Investigate_crime,_corruption <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+Investigate_crime,_corruption <-- Impose_blockade,_restrict_movement
+Investigate_crime,_corruption <-- Investigate_human_rights_abuses
+Investigate_crime,_corruption <-- Investigate, Use_unconventional_violence
+Investigate_crime,_corruption <-- Complain_officially, Impose_administrative_sanctions

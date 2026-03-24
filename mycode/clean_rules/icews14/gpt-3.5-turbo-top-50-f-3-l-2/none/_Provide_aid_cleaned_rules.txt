@@ -1,0 +1,39 @@
+Provide_aid <-- Engage_in_negotiation, Express_intent_to_cooperate
+Provide_aid <-- Acknowledge_or_claim_responsibility
+Provide_aid <-- Engage_in_diplomatic_cooperation
+Provide_aid <-- Provide_military_aid
+Provide_aid <-- Express_intent_to_engage_in_material_cooperation
+Provide_aid <-- Host_a_visit, Make_a_visit
+Provide_aid <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Provide_aid <-- Forgive
+Provide_aid <-- Declare_truce,_ceasefire
+Provide_aid <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+Provide_aid <-- Make_an_appeal_or_request
+Provide_aid <-- Appeal_for_humanitarian_aid
+Provide_aid <-- Praise_or_endorse
+Provide_aid <-- Sign_formal_agreement
+Provide_aid <-- Ease_military_blockade
+Provide_aid <-- Express_intent_to_provide_military_aid
+Provide_aid <-- Express_intent_to_provide_humanitarian_aid
+Provide_aid <-- Express_intent_to_provide_material_aid
+Provide_aid <-- Consult, Consult
+Provide_aid <-- Ease_administrative_sanctions
+Provide_aid <-- Provide_military_protection_or_peacekeeping
+Provide_aid <-- Yield
+Provide_aid <-- Provide_humanitarian_aid
+Provide_aid <-- Express_intent_to_cooperate_militarily
+Provide_aid <-- Ease_economic_sanctions,_boycott,_embargo
+Provide_aid <-- Use_conventional_military_force, Ease_economic_sanctions,_boycott,_embargo
+Provide_aid <-- Appeal_for_military_aid
+Provide_aid <-- Appeal_for_economic_aid
+Provide_aid <-- Cooperate_militarily
+Provide_aid <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+Provide_aid <-- Accuse_of_crime,_corruption, Make_an_appeal_or_request
+Provide_aid <-- Mediate, Express_intent_to_accept_mediation
+Provide_aid <-- Provide_economic_aid
+Provide_aid <-- Engage_in_material_cooperation
+Provide_aid <-- Defend_verbally
+Provide_aid <-- Return,_release_person(s)
+Provide_aid <-- Apologize
+Provide_aid <-- Criticize_or_denounce, Make_statement
+Provide_aid <-- Grant_diplomatic_recognition

@@ -1,0 +1,50 @@
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Carry_out_suicide_bombing, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Violate_ceasefire, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Defend_verbally, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Use_conventional_military_force, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Accuse_of_human_rights_abuses, Impose_administrative_sanctions
+2	0.5	0.18181818181818182	2.0	Threaten_to_reduce_or_stop_aid <-- Demand_change_in_leadership, Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Threaten_with_sanctions,_boycott,_embargo, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Demand_political_reform, Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Obstruct_passage,_block, Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Arrest,_detain,_or_charge_with_legal_action, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Demand_policy_change, Reject
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Conduct_strike_or_boycott, Reduce_relations
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Reduce_or_stop_material_aid, Confiscate_property
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Demand_change_in_leadership, Refuse_to_yield
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Impose_embargo,_boycott,_or_sanctions, Reduce_relations
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Reduce_or_break_diplomatic_relations, Expel_or_withdraw
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Appeal_for_humanitarian_aid, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Halt_mediation, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Obstruct_passage,_block, Reduce_relations
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Obstruct_passage,_block, Demand_change_in_leadership
+4	1.0	1.3333333333333333	1.3333333333333333	Threaten_to_reduce_or_stop_aid <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Use_conventional_military_force, Accuse_of_war_crimes
+2	0.5	0.0041753653444676405	0.058823529411764705	Threaten_to_reduce_or_stop_aid <-- Protest_violently,_riot, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Reduce_relations
+2	0.5	0.08695652173913043	1.0	Threaten_to_reduce_or_stop_aid <-- Obstruct_passage,_block
+2	0.5	0.017241379310344827	0.2857142857142857	Threaten_to_reduce_or_stop_aid <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Demand_policy_change
+1	0.25	0.0032258064516129032	0.05	Threaten_to_reduce_or_stop_aid <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Make_statement, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Demand_policy_change, Reject_economic_cooperation
+3	0.75	0.0003698224852071006	0.046153846153846156	Threaten_to_reduce_or_stop_aid <-- Make_statement
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Conduct_strike_or_boycott, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Criticize_or_denounce, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Threaten_with_sanctions,_boycott,_embargo
+2	0.5	0.004728132387706856	0.15384615384615385	Threaten_to_reduce_or_stop_aid <-- Threaten
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Threaten_to_reduce_or_stop_aid <-- Reduce_relations, Threaten_with_sanctions,_boycott,_embargo

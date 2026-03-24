@@ -1,0 +1,50 @@
+Complain_officially <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+Complain_officially <-- Appeal_for_material_cooperation, Reject_judicial_cooperation
+Complain_officially <-- Express_intent_to_cooperate_on_intelligence, Share_intelligence_or_information
+Complain_officially <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+Complain_officially <-- Threaten
+Complain_officially <-- Express_intent_to_provide_material_aid, Reduce_or_stop_material_aid
+Complain_officially <-- Accuse
+Complain_officially <-- Appeal_for_policy_change, Demand_policy_change
+Complain_officially <-- Appeal_for_easing_of_administrative_sanctions, Refuse_to_ease_administrative_sanctions
+Complain_officially <-- Make_statement
+Complain_officially <-- Make_an_appeal_or_request, Decline_comment
+Complain_officially <-- Express_intent_to_cooperate, Cooperate_economically
+Complain_officially <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+Complain_officially <-- Engage_in_negotiation, Engage_in_negotiation
+Complain_officially <-- Physically_assault
+Complain_officially <-- Appeal_for_rights, Demand_rights
+Complain_officially <-- Make_an_appeal_or_request, Reject_plan,_agreement_to_settle_dispute
+Complain_officially <-- Appeal_for_material_cooperation, Reject_material_cooperation
+Complain_officially <-- Express_intent_to_provide_military_aid, Reduce_or_stop_military_assistance
+Complain_officially <-- Complain_officially, Consult
+Complain_officially <-- Destroy_property
+Complain_officially <-- Sexually_assault
+Complain_officially <-- Criticize_or_denounce, Complain_officially
+Complain_officially <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Complain_officially <-- Appeal_for_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+Complain_officially <-- Appeal_for_intelligence, Share_intelligence_or_information
+Complain_officially <-- Arrest,_detain,_or_charge_with_legal_action
+Complain_officially <-- Appeal_to_others_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+Complain_officially <-- Express_intent_to_cooperate_economically, Reject_economic_cooperation
+Complain_officially <-- Appeal_for_change_in_leadership, Demand_change_in_leadership
+Complain_officially <-- Appeal_to_yield, Refuse_to_yield
+Complain_officially <-- Express_intent_to_provide_economic_aid, Reduce_or_stop_economic_assistance
+Complain_officially <-- Use_unconventional_violence, Use_unconventional_violence
+Complain_officially <-- Appeal_for_military_aid, Reject_request_for_military_aid
+Complain_officially <-- fight_with_artillery_and_tanks
+Complain_officially <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation
+Complain_officially <-- Appeal_for_judicial_cooperation, Reject_judicial_cooperation
+Complain_officially <-- Appeal_for_target_to_allow_international_involvement_(non-mediation), Obstruct_passage,_block
+Complain_officially <-- Make_optimistic_comment, Criticize_or_denounce
+Complain_officially <-- Appeal_to_others_to_settle_dispute, Reject_plan,_agreement_to_settle_dispute
+Complain_officially <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Impose_embargo,_boycott,_or_sanctions
+Complain_officially <-- Demand, Consult
+Complain_officially <-- Threaten, Threaten_with_military_force
+Complain_officially <-- Make_statement, Make_statement
+Complain_officially <-- Use_conventional_military_force
+Complain_officially <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+Complain_officially <-- Confiscate_property
+Complain_officially <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+Complain_officially <-- Appeal_for_economic_aid, Reduce_or_stop_economic_assistance
+Complain_officially <-- Accuse_of_crime,_corruption, Reject

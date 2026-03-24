@@ -1,0 +1,22 @@
+Reject_plan,_agreement_to_settle_dispute <-- Violate_ceasefire
+Reject_plan,_agreement_to_settle_dispute <-- Refuse_to_yield
+Reject_plan,_agreement_to_settle_dispute <-- Give_ultimatum
+Reject_plan,_agreement_to_settle_dispute <-- Sign_formal_agreement, Violate_ceasefire
+Reject_plan,_agreement_to_settle_dispute <-- Demand, Refuse_to_yield
+Reject_plan,_agreement_to_settle_dispute <-- Reject
+Reject_plan,_agreement_to_settle_dispute <-- Use_conventional_military_force
+Reject_plan,_agreement_to_settle_dispute <-- Destroy_property
+Reject_plan,_agreement_to_settle_dispute <-- Confiscate_property
+Reject_plan,_agreement_to_settle_dispute <-- Seize_or_damage_property
+Reject_plan,_agreement_to_settle_dispute <-- Arrest,_detain,_or_charge_with_legal_action
+Reject_plan,_agreement_to_settle_dispute <-- Consult, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Reject_plan,_agreement_to_settle_dispute <-- Appeal_to_others_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+Reject_plan,_agreement_to_settle_dispute <-- Provide_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+Reject_plan,_agreement_to_settle_dispute <-- Make_a_visit, Host_a_visit
+Reject_plan,_agreement_to_settle_dispute <-- Express_intent_to_cooperate, Reject_plan,_agreement_to_settle_dispute
+Reject_plan,_agreement_to_settle_dispute <-- Mobilize_or_increase_armed_forces
+Reject_plan,_agreement_to_settle_dispute <-- Impose_embargo,_boycott,_or_sanctions
+Reject_plan,_agreement_to_settle_dispute <-- Express_intent_to_meet_or_negotiate, Reject
+Reject_plan,_agreement_to_settle_dispute <-- Threaten_with_military_force
+Reject_plan,_agreement_to_settle_dispute <-- Engage_in_negotiation, Halt_negotiations
+Reject_plan,_agreement_to_settle_dispute <-- Share_intelligence_or_information, Refuse_to_release_persons_or_property

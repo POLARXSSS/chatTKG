@@ -1,0 +1,8 @@
+Carry_out_suicide_bombing <-- Carry_out_suicide_bombing, Make_statement
+Carry_out_suicide_bombing <-- Carry_out_suicide_bombing
+Carry_out_suicide_bombing <-- Praise_or_endorse, Abduct,_hijack,_or_take_hostage
+Carry_out_suicide_bombing <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Carry_out_suicide_bombing <-- Refuse_to_yield, Praise_or_endorse
+Carry_out_suicide_bombing <-- Occupy_territory
+Carry_out_suicide_bombing <-- Use_unconventional_violence
+Carry_out_suicide_bombing <-- Threaten_with_military_force

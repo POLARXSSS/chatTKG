@@ -1,0 +1,5 @@
+Express_intent_to_yield <-- Yield, Express_intent_to_yield
+Express_intent_to_yield <-- Declare_truce,_ceasefire, Express_intent_to_yield
+Express_intent_to_yield <-- Return,_release_person(s), Express_intent_to_yield
+Express_intent_to_yield <-- Ease_economic_sanctions,_boycott,_embargo, Express_intent_to_yield
+Express_intent_to_yield <-- Demobilize_armed_forces, Express_intent_to_yield

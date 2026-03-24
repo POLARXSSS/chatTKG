@@ -1,0 +1,39 @@
+Make_pessimistic_comment <-- Consult, Threaten
+Make_pessimistic_comment <-- Carry_out_car_bombing
+Make_pessimistic_comment <-- Make_a_visit, Arrest,_detain,_or_charge_with_legal_action
+Make_pessimistic_comment <-- Reduce_or_break_diplomatic_relations
+Make_pessimistic_comment <-- Bring_lawsuit_against
+Make_pessimistic_comment <-- Criticize_or_denounce
+Make_pessimistic_comment <-- Make_an_appeal_or_request, Refuse_to_yield
+Make_pessimistic_comment <-- Appeal_for_material_cooperation, Refuse_to_ease_administrative_sanctions
+Make_pessimistic_comment <-- Threaten
+Make_pessimistic_comment <-- Protest_violently,_riot
+Make_pessimistic_comment <-- Accuse
+Make_pessimistic_comment <-- Yield, Refuse_to_de-escalate_military_engagement
+Make_pessimistic_comment <-- Give_ultimatum
+Make_pessimistic_comment <-- Provide_aid, Reduce_or_stop_material_aid
+Make_pessimistic_comment <-- Impose_embargo,_boycott,_or_sanctions
+Make_pessimistic_comment <-- Sign_formal_agreement, Violate_ceasefire
+Make_pessimistic_comment <-- Obstruct_passage,_block
+Make_pessimistic_comment <-- Discuss_by_telephone, Make_statement
+Make_pessimistic_comment <-- Reject
+Make_pessimistic_comment <-- Refuse_to_yield
+Make_pessimistic_comment <-- Use_conventional_military_force
+Make_pessimistic_comment <-- Host_a_visit, Expel_or_deport_individuals
+Make_pessimistic_comment <-- Receive_deployment_of_peacekeepers, Expel_or_withdraw_peacekeepers
+Make_pessimistic_comment <-- Halt_mediation
+Make_pessimistic_comment <-- Praise_or_endorse, Criticize_or_denounce
+Make_pessimistic_comment <-- Kill_by_physical_assault
+Make_pessimistic_comment <-- Meet_at_a_'third'_location, Reject_proposal_to_meet,_discuss,_or_negotiate
+Make_pessimistic_comment <-- Demand_that_target_yields
+Make_pessimistic_comment <-- Violate_ceasefire
+Make_pessimistic_comment <-- Mediate, Halt_mediation
+Make_pessimistic_comment <-- Investigate
+Make_pessimistic_comment <-- Engage_in_mass_killings
+Make_pessimistic_comment <-- Accuse, Reject
+Make_pessimistic_comment <-- Arrest,_detain,_or_charge_with_legal_action
+Make_pessimistic_comment <-- Threaten, Use_conventional_military_force
+Make_pessimistic_comment <-- Express_intent_to_cooperate, Reject
+Make_pessimistic_comment <-- Engage_in_diplomatic_cooperation, Threaten_with_military_force
+Make_pessimistic_comment <-- Express_intent_to_meet_or_negotiate, Reject_request_for_military_aid
+Make_pessimistic_comment <-- Engage_in_negotiation, Halt_negotiations

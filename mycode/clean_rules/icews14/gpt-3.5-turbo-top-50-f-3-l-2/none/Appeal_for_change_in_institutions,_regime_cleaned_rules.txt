@@ -1,0 +1,8 @@
+Appeal_for_change_in_institutions,_regime <-- Provide_military_aid
+Appeal_for_change_in_institutions,_regime <-- Appeal_for_release_of_persons_or_property, Mobilize_or_increase_armed_forces
+Appeal_for_change_in_institutions,_regime <-- Appeal_for_change_in_institutions,_regime
+Appeal_for_change_in_institutions,_regime <-- Rally_support_on_behalf_of, Appeal_for_change_in_institutions,_regime
+Appeal_for_change_in_institutions,_regime <-- Appeal_for_release_of_persons_or_property, Praise_or_endorse
+Appeal_for_change_in_institutions,_regime <-- Appeal_for_release_of_persons_or_property, Occupy_territory
+Appeal_for_change_in_institutions,_regime <-- Express_intent_to_provide_humanitarian_aid
+Appeal_for_change_in_institutions,_regime <-- Threaten_non-force, Criticize_or_denounce

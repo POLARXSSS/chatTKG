@@ -1,0 +1,52 @@
+Demonstrate_or_rally(X0,X1,T1) <- Demand(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T1) <- Criticize_or_denounce(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T3) <- Demand_rights(X0,X1,T0), Arrest,_detain,_or_charge_with_legal_action(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Protest_violently,_riot(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Express_intent_to_engage_in_material_cooperation(X1,X0,T1), Express_intent_to_release_persons_or_property(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Demonstrate_or_rally(X1,X2,T1), Demonstrate_or_rally(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_provide_economic_aid(X0,X1,T0), Express_intent_to_provide_humanitarian_aid(X1,X0,T1), Express_intent_to_provide_material_aid(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), fight_with_small_arms_and_light_weapons(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Ban_political_parties_or_politicians(X0,X1,T0), Engage_in_symbolic_act(X1,X0,T1), Make_statement(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Demonstrate_or_rally(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Cooperate_economically(X0,X1,T0), Cooperate_militarily(X1,X0,T1), Engage_in_material_cooperation(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Accede_to_demands_for_change_in_leadership(X1,X2,T1), Make_statement(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_conventional_military_force(X1,X2,T1), Use_conventional_military_force(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T1) <- Physically_assault(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_unconventional_violence(X1,X2,T1), Use_unconventional_violence(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_cooperate_on_intelligence(X0,X1,T0), Express_intent_to_cooperate_on_judicial_matters(X1,X0,T1), Express_intent_to_mediate(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Declare_truce,_ceasefire(X0,X1,T0), Violate_ceasefire(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), fight_with_small_arms_and_light_weapons(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Provide_military_aid(X0,X1,T0), Receive_deployment_of_peacekeepers(X1,X0,T1), Engage_in_diplomatic_cooperation(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Consult(X1,X2,T1), Consult(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X1,X0,T1), Use_tactics_of_violent_repression(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Halt_negotiations(X0,X1,T0), Reject_proposal_to_meet,_discuss,_or_negotiate(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T1) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T3) <- Occupy_territory(X0,X1,T0), Threaten_with_military_force(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_change_institutions,_regime(X0,X1,T0), Express_intent_to_change_policy(X1,X0,T1), Express_intent_to_institute_political_reform(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_tactics_of_violent_repression(X1,X2,T1), Use_tactics_of_violent_repression(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Return,_release_person(s)(X0,X1,T0), Accuse_of_human_rights_abuses(X1,X0,T1), Investigate_human_rights_abuses(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_yield(X0,X1,T0), Refuse_to_yield(X1,X0,T1), Make_an_appeal_or_request(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_unconventional_violence(X1,X2,T1), Abduct,_hijack,_or_take_hostage(X2,X1,T2).
+Demonstrate_or_rally(X0,X1,T1) <- Sexually_assault(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T1) <- Make_an_appeal_or_request(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T1) <- Threaten(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T1) <- Protest_violently,_riot(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T1) <- Use_tactics_of_violent_repression(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X1,X0,T1), Demand_meeting,_negotiation(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_de-escalate_military_engagement(X0,X1,T0), Express_intent_to_ease_administrative_sanctions(X1,X0,T1), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Reduce_relations(X0,X1,T0), Reduce_or_break_diplomatic_relations(X1,X0,T1), Sign_formal_agreement(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Protest_violently,_riot(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Demonstrate_or_rally(X1,X0,T1), Defy_norms,_law(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Engage_in_political_dissent(X0,X1,T0), Impose_restrictions_on_political_freedoms(X1,X0,T1), Conduct_strike_or_boycott(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Make_an_appeal_or_request(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate_economically(X1,X0,T1), Express_intent_to_cooperate_militarily(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_provide_military_aid(X0,X1,T0), Express_intent_to_provide_military_protection_or_peacekeeping(X1,X0,T1), Appeal_for_military_aid(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), Criticize_or_denounce(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Refuse_to_yield(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Mobilize_or_increase_police_power(X0,X1,T0), Increase_police_alert_status(X1,X0,T1), Obstruct_passage,_block(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Express_intent_to_settle_dispute(X0,X1,T0), Express_intent_to_accept_mediation(X1,X0,T1), Express_intent_to_change_leadership(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T1) <- Expel_or_deport_individuals(X0,X1,T0).
+Demonstrate_or_rally(X0,X1,T3) <- Grant_diplomatic_recognition(X0,X1,T0), Host_a_visit(X1,X0,T1), Make_a_visit(X0,X1,T2).
+Demonstrate_or_rally(X0,X1,T3) <- Discuss_by_telephone(X0,X1,T0), Meet_at_a_'third'_location(X1,X0,T1), Share_intelligence_or_information(X0,X1,T2).

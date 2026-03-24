@@ -1,0 +1,6 @@
+0.0	0.0	0.0	0.0	Express_intent_to_institute_political_reform <-- Defy_norms,_law, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Express_intent_to_institute_political_reform <-- Express_intent_to_change_institutions,_regime, Make_statement
+0.0	0.0	0.0	0.0	Express_intent_to_institute_political_reform <-- Demonstrate_for_leadership_change, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Express_intent_to_institute_political_reform <-- Conduct_strike_or_boycott, Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Express_intent_to_institute_political_reform <-- Defy_norms,_law, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Express_intent_to_institute_political_reform <-- Defy_norms,_law, Occupy_territory

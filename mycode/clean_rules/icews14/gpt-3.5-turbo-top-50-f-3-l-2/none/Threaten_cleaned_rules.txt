@@ -1,0 +1,10 @@
+Threaten <-- Use_conventional_military_force
+Threaten <-- Abduct,_hijack,_or_take_hostage
+Threaten <-- Employ_aerial_weapons
+Threaten <-- Arrest,_detain,_or_charge_with_legal_action
+Threaten <-- fight_with_small_arms_and_light_weapons
+Threaten <-- Criticize_or_denounce
+Threaten <-- Demand_change_in_leadership
+Threaten <-- Give_ultimatum
+Threaten <-- Protest_violently,_riot
+Threaten <-- Accuse

@@ -1,0 +1,23 @@
+Torture <-- Sexually_assault, Arrest,_detain,_or_charge_with_legal_action
+Torture <-- Carry_out_car_bombing
+Torture <-- Arrest,_detain,_or_charge_with_legal_action, Provide_aid
+Torture <-- Arrest,_detain,_or_charge_with_legal_action, Increase_police_alert_status
+Torture <-- Impose_embargo,_boycott,_or_sanctions
+Torture <-- Use_tactics_of_violent_repression
+Torture <-- fight_with_small_arms_and_light_weapons
+Torture <-- Use_conventional_military_force
+Torture <-- Torture
+Torture <-- Demobilize_armed_forces
+Torture <-- Arrest,_detain,_or_charge_with_legal_action
+Torture <-- Refuse_to_yield
+Torture <-- Demand
+Torture <-- Threaten, Arrest,_detain,_or_charge_with_legal_action
+Torture <-- Impose_state_of_emergency_or_martial_law
+Torture <-- Criticize_or_denounce
+Torture <-- Arrest,_detain,_or_charge_with_legal_action, Confiscate_property
+Torture <-- Abduct,_hijack,_or_take_hostage
+Torture <-- Engage_in_violent_protest_for_rights
+Torture <-- Engage_in_mass_killings
+Torture <-- Reduce_or_stop_humanitarian_assistance
+Torture <-- Attempt_to_assassinate
+Torture <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation

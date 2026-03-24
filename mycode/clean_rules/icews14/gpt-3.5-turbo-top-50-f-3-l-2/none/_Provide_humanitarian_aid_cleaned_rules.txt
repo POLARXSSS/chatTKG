@@ -1,0 +1,14 @@
+Provide_humanitarian_aid <-- Engage_in_judicial_cooperation
+Provide_humanitarian_aid <-- Express_intent_to_cooperate
+Provide_humanitarian_aid <-- Provide_military_protection_or_peacekeeping
+Provide_humanitarian_aid <-- Appeal_for_economic_cooperation
+Provide_humanitarian_aid <-- Accuse
+Provide_humanitarian_aid <-- Investigate
+Provide_humanitarian_aid <-- Provide_humanitarian_aid
+Provide_humanitarian_aid <-- Express_intent_to_provide_humanitarian_aid
+Provide_humanitarian_aid <-- Make_statement, Accede_to_demands_for_change_in_institutions,_regime
+Provide_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action, Mobilize_or_increase_police_power
+Provide_humanitarian_aid <-- fight_with_small_arms_and_light_weapons, Make_statement
+Provide_humanitarian_aid <-- Investigate, Demand_intelligence_cooperation
+Provide_humanitarian_aid <-- Host_a_visit
+Provide_humanitarian_aid <-- Appeal_for_material_cooperation, Cooperate_militarily

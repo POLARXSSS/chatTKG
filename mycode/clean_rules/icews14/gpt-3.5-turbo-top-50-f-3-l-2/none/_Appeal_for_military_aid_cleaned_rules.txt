@@ -1,0 +1,108 @@
+Appeal_for_military_aid <-- Threaten_non-force
+Appeal_for_military_aid <-- Violate_ceasefire
+Appeal_for_military_aid <-- Obstruct_passage,_block, Reduce_relations
+Appeal_for_military_aid <-- Express_intent_to_accept_mediation, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_economic_aid
+Appeal_for_military_aid <-- Demand_material_cooperation
+Appeal_for_military_aid <-- Use_chemical,_biological,_or_radiological_weapons
+Appeal_for_military_aid <-- Give_ultimatum
+Appeal_for_military_aid <-- Detonate_nuclear_weapons
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_ease_administrative_sanctions
+Appeal_for_military_aid <-- Express_intent_to_release_persons_or_property, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Demand_change_in_leadership
+Appeal_for_military_aid <-- Engage_in_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Appeal_for_military_aid <-- Express_intent_to_provide_material_aid, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_change_leadership, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Conduct_strike_or_boycott
+Appeal_for_military_aid <-- Refuse_to_yield
+Appeal_for_military_aid <-- Express_intent_to_institute_political_reform, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_cooperate_economically, Express_intent_to_cooperate_militarily
+Appeal_for_military_aid <-- Appeal_to_others_to_meet_or_negotiate
+Appeal_for_military_aid <-- Express_intent_to_engage_in_material_cooperation, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Demand_change_in_leadership, Express_intent_to_change_leadership
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_settle_dispute
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate_on_judicial_matters
+Appeal_for_military_aid <-- Occupy_territory
+Appeal_for_military_aid <-- Reduce_relations
+Appeal_for_military_aid <-- Praise_or_endorse, Use_conventional_military_force
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Appeal_for_military_aid <-- Threaten_with_military_force
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_engage_in_material_cooperation
+Appeal_for_military_aid <-- Make_statement, Consult
+Appeal_for_military_aid <-- Impose_blockade,_restrict_movement
+Appeal_for_military_aid <-- Engage_in_mass_killings
+Appeal_for_military_aid <-- Torture
+Appeal_for_military_aid <-- Impose_embargo,_boycott,_or_sanctions
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_material_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_release_persons_or_property
+Appeal_for_military_aid <-- Use_conventional_military_force, Express_intent_to_cooperate_militarily
+Appeal_for_military_aid <-- Express_intent_to_provide_humanitarian_aid, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_ease_administrative_sanctions, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Investigate_war_crimes
+Appeal_for_military_aid <-- Express_intent_to_change_policy, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_humanitarian_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Accuse
+Appeal_for_military_aid <-- Halt_negotiations
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate_militarily
+Appeal_for_military_aid <-- Make_statement, Demand_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate
+Appeal_for_military_aid <-- Expel_or_deport_individuals
+Appeal_for_military_aid <-- Express_intent_to_provide_economic_aid, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_institute_political_reform
+Appeal_for_military_aid <-- Bring_lawsuit_against
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_change_institutions,_regime
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_meet_or_negotiate
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_accept_mediation
+Appeal_for_military_aid <-- Cooperate_militarily
+Appeal_for_military_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Appeal_for_humanitarian_aid
+Appeal_for_military_aid <-- Appeal_for_material_cooperation
+Appeal_for_military_aid <-- Threaten_with_repression
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate_on_intelligence
+Appeal_for_military_aid <-- Abduct,_hijack,_or_take_hostage
+Appeal_for_military_aid <-- Impose_state_of_emergency_or_martial_law
+Appeal_for_military_aid <-- Express_intent_to_cooperate_militarily
+Appeal_for_military_aid <-- Express_intent_to_cooperate, Engage_in_negotiation
+Appeal_for_military_aid <-- Abduct,_hijack,_or_take_hostage, Make_an_appeal_or_request
+Appeal_for_military_aid <-- Praise_or_endorse
+Appeal_for_military_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_change_policy
+Appeal_for_military_aid <-- Protest_violently,_riot, Make_an_appeal_or_request
+Appeal_for_military_aid <-- Seize_or_damage_property
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_cooperate_economically
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_meet_or_negotiate, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Reject_military_cooperation
+Appeal_for_military_aid <-- Carry_out_car_bombing
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_military_protection_or_peacekeeping
+Appeal_for_military_aid <-- Use_conventional_military_force
+Appeal_for_military_aid <-- Destroy_property
+Appeal_for_military_aid <-- Express_intent_to_change_institutions,_regime, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_de-escalate_military_engagement
+Appeal_for_military_aid <-- Defy_norms,_law
+Appeal_for_military_aid <-- Protest_violently,_riot
+Appeal_for_military_aid <-- Reduce_or_break_diplomatic_relations
+Appeal_for_military_aid <-- Express_intent_to_yield, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_mediate, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_mediate
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_change_leadership
+Appeal_for_military_aid <-- Reject_request_for_military_aid
+Appeal_for_military_aid <-- Bring_lawsuit_against, Accuse
+Appeal_for_military_aid <-- Impose_blockade,_restrict_movement, Appeal_for_humanitarian_aid
+Appeal_for_military_aid <-- Reduce_relations, Threaten_with_military_force
+Appeal_for_military_aid <-- Confiscate_property
+Appeal_for_military_aid <-- Use_unconventional_violence
+Appeal_for_military_aid <-- Mobilize_or_increase_armed_forces
+Appeal_for_military_aid <-- Express_intent_to_cooperate_on_intelligence, Express_intent_to_cooperate_militarily
+Appeal_for_military_aid <-- Attempt_to_assassinate
+Appeal_for_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_yield
+Appeal_for_military_aid <-- Threaten_with_sanctions,_boycott,_embargo
+Appeal_for_military_aid <-- Express_intent_to_change_leadership
+Appeal_for_military_aid <-- Appeal_for_economic_aid
+Appeal_for_military_aid <-- Express_intent_to_cooperate, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_cooperate_militarily
+Appeal_for_military_aid <-- Express_intent_to_settle_dispute, Express_intent_to_provide_military_aid
+Appeal_for_military_aid <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_military_aid <-- Demobilize_armed_forces, Use_unconventional_violence

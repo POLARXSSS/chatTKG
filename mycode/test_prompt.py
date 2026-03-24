@@ -1,5 +1,6 @@
 import argparse
 import json
+import math
 import os
 import re
 from tqdm import tqdm
@@ -8,7 +9,7 @@ import random
 from llms import llm_client
 from multiprocessing.pool import ThreadPool
 
-RDict_PATH = "data/icews14/relation2id.json"
+RDict_PATH = "../data/icews14/relation2id.json"
 
 # 模拟缺失的依赖模块（避免运行报错）
 class Dataset:
@@ -144,9 +145,15 @@ def read_paths(path):
 
 def build_prompt(head, candidate_rels, is_zero, k):
     instruction = (
-        "Logical rules define the relationship between entities and time. Each rule is written in the form "
-        "of a logical implication: Rule_head <- Rule_body. If the conditions in the rule body are satisfied, "
-        "then the rule head holds true.\n\n"
+        "You are a logical rule miner for ICEWS14 event temporal knowledge graph.\n"
+        "Rules MUST follow ALL these constraints:\n"
+        "1. Rule body length = 1 or 2\n"
+        "2. Relations MUST only come from the given list\n"
+        "3. Path MUST form a chain: X0→X1→X2\n"
+        "4. Variables MUST be X0,X1,X2\n"
+        "5. Time order: T1 < T2 < T\n"
+        "Format example:\n"
+        "Head(X0,X1,T) <- Body1(X0,X2,T1), Body2(X2,X1,T2)\n"
     )
 
     if is_zero and k != 0:  # Zero-shot
@@ -244,7 +251,7 @@ def main(args, LLM):
 
     # 加载TXT格式的规则文件（核心修改：读取txt而非jsonl）
     # sampled_path_file = os.path.join(sampled_path_dir, "190326001638_r[1,2,3]_n200_exp_s8_rules.txt")  # 改为你的TXT文件名
-    sampled_path_file = os.path.join(sampled_path_dir, "demo.txt")  # 改为你的TXT文件名
+    sampled_path_file = os.path.join(sampled_path_dir, "190326001638_r[1,2,3]_n200_exp_s8_rules.txt")  # 改为你的TXT文件名
     sampled_path = read_paths(sampled_path_file)
 
     # 获取数据集所有关系
@@ -305,7 +312,7 @@ if __name__ == "__main__":
     parser.add_argument("--is_zero", action="store_true", help="Enable zero-shot mode")
     parser.add_argument("-k", type=int, default=50, help="Number of generated rules")
     parser.add_argument("-f", type=int, default=3, help="Few-shot sample number")
-    parser.add_argument("-n", type=int, default=5, help="multi thread number")
+    parser.add_argument("-n", type=int, default=16, help="multi thread number")
     parser.add_argument("-l", type=int, default=2, help="sample times")
     parser.add_argument("--prefix", type=str, default="", help="prefix")
     parser.add_argument("--dry_run", action="store_true", help="dry run")

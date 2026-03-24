@@ -1,0 +1,10 @@
+Demonstrate_military_or_police_power <-- fight_with_artillery_and_tanks
+Demonstrate_military_or_police_power <-- Occupy_territory
+Demonstrate_military_or_police_power <-- Increase_military_alert_status
+Demonstrate_military_or_police_power <-- Arrest,_detain,_or_charge_with_legal_action
+Demonstrate_military_or_police_power <-- Threaten_with_military_force
+Demonstrate_military_or_police_power <-- Mobilize_or_increase_armed_forces
+Demonstrate_military_or_police_power <-- Use_conventional_military_force
+Demonstrate_military_or_police_power <-- Increase_police_alert_status
+Demonstrate_military_or_police_power <-- fight_with_small_arms_and_light_weapons
+Demonstrate_military_or_police_power <-- Coerce

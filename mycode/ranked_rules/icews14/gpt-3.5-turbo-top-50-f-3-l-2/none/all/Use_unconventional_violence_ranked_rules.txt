@@ -1,0 +1,30 @@
+311	0.13105773282764432	4.202702702702703	7.585365853658536	Use_unconventional_violence <-- Threaten_with_military_force
+26	0.010956595027391488	0.03233830845771144	0.22033898305084745	Use_unconventional_violence <-- Use_conventional_military_force
+757	0.3190054782975137	1.8110047846889952	2.992094861660079	Use_unconventional_violence <-- fight_with_small_arms_and_light_weapons
+43	0.018120522545301308	0.27741935483870966	2.6875	Use_unconventional_violence <-- Provide_aid
+228	0.09608091024020228	6.162162162162162	6.705882352941177	Use_unconventional_violence <-- Carry_out_suicide_bombing
+13	0.005478297513695744	0.7222222222222222	2.1666666666666665	Use_unconventional_violence <-- Demand_meeting,_negotiation
+78	0.03286978508217446	0.15145631067961166	1.813953488372093	Use_unconventional_violence <-- Investigate
+184	0.07753898019384745	1.5862068965517242	4.181818181818182	Use_unconventional_violence <-- Protest_violently,_riot
+158	0.06658238516645597	0.17173913043478262	0.9937106918238994	Use_unconventional_violence <-- Demand
+11	0.004635482511588706	0.16923076923076924	0.16923076923076924	Use_unconventional_violence <-- Use_unconventional_violence, Demand_meeting,_negotiation
+451	0.19005478297513695	0.2868956743002545	0.4160516605166052	Use_unconventional_violence <-- fight_with_small_arms_and_light_weapons, Make_statement
+195	0.08217446270543616	3.0952380952380953	3.75	Use_unconventional_violence <-- Kill_by_physical_assault
+13	0.005478297513695744	13.0	13.0	Use_unconventional_violence <-- Carry_out_roadside_bombing
+2373	1.0	2.3777555110220443	2.3777555110220443	Use_unconventional_violence <-- Use_unconventional_violence
+441	0.18584070796460178	1.558303886925795	2.2731958762886597	Use_unconventional_violence <-- Abduct,_hijack,_or_take_hostage
+273	0.11504424778761062	2.3135593220338984	4.875	Use_unconventional_violence <-- Occupy_territory
+224	0.0943952802359882	4.571428571428571	5.894736842105263	Use_unconventional_violence <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Use_unconventional_violence <-- Employ_aerial_weapons
+327	0.13780025284450062	2.335714285714286	3.5543478260869565	Use_unconventional_violence <-- Physically_assault
+0.0	0.0	0.0	0.0	Use_unconventional_violence <-- Arrest,_detain,_or_charge_with_legal_action, Provide_economic_aid
+4	0.001685630004214075	0.04878048780487805	0.5714285714285714	Use_unconventional_violence <-- Coerce
+184	0.07753898019384745	1.5862068965517242	4.181818181818182	Use_unconventional_violence <-- Protest_violently,_riot
+2373	1.0	2.3777555110220443	2.3777555110220443	Use_unconventional_violence <-- Use_unconventional_violence
+412	0.17361989043404974	0.28355127322780455	1.279503105590062	Use_unconventional_violence <-- Accuse
+26	0.010956595027391488	0.03233830845771144	0.22033898305084745	Use_unconventional_violence <-- Use_conventional_military_force
+466	0.19637589549093973	0.24526315789473685	1.378698224852071	Use_unconventional_violence <-- Criticize_or_denounce
+158	0.06658238516645597	0.17173913043478262	0.9937106918238994	Use_unconventional_violence <-- Demand
+86	0.036241045090602615	0.06584992343032159	1.1025641025641026	Use_unconventional_violence <-- Arrest,_detain,_or_charge_with_legal_action
+195	0.08217446270543616	3.0952380952380953	3.75	Use_unconventional_violence <-- Kill_by_physical_assault
+311	0.13105773282764432	4.202702702702703	7.585365853658536	Use_unconventional_violence <-- Threaten_with_military_force

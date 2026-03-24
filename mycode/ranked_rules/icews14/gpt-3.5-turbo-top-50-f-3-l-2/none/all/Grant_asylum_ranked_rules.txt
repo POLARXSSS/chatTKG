@@ -1,0 +1,59 @@
+0.0	0.0	0.0	0.0	Grant_asylum <-- Engage_in_mass_killings, Appeal_for_humanitarian_aid
+12	1.0	1.5	1.5	Grant_asylum <-- Grant_asylum
+0.0	0.0	0.0	0.0	Grant_asylum <-- Expel_or_deport_individuals, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Mediate, Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Grant_asylum <-- Use_conventional_military_force, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Grant_asylum <-- Declare_truce,_ceasefire, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_economic_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Torture, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Grant_asylum <-- Arrest,_detain,_or_charge_with_legal_action, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Grant_asylum <-- Kill_by_physical_assault, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Grant_asylum <-- Yield, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Grant_asylum <-- Threaten_with_repression, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Grant_asylum <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Grant_asylum <-- Accuse_of_human_rights_abuses, Investigate_human_rights_abuses
+1	0.08333333333333333	0.0008865248226950354	0.034482758620689655	Grant_asylum <-- Make_an_appeal_or_request, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Grant_asylum <-- Make_a_visit, Host_a_visit
+0.0	0.0	0.0	0.0	Grant_asylum <-- Impose_state_of_emergency_or_martial_law, Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Grant_asylum <-- Sign_formal_agreement, Provide_military_protection_or_peacekeeping
+1	0.08333333333333333	0.001851851851851852	0.045454545454545456	Grant_asylum <-- Engage_in_negotiation, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Grant_asylum <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_intelligence
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_material_cooperation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_judicial_cooperation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_target_to_allow_international_involvement_(non-mediation)
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_to_engage_in_or_accept_mediation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_to_others_to_settle_dispute
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Grant_asylum <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Grant_asylum <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Grant_asylum <-- Provide_military_protection_or_peacekeeping
+12	1.0	1.5	1.5	Grant_asylum <-- Grant_asylum
+0.0	0.0	0.0	0.0	Grant_asylum <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_to_others_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_aid
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_military_aid
+1	0.08333333333333333	0.0013227513227513227	0.05	Grant_asylum <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_to_yield
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Grant_asylum <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Ease_administrative_sanctions
+5	0.4166666666666667	0.002346316283435007	0.036231884057971016	Grant_asylum <-- Host_a_visit
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_economic_cooperation
+0.0	0.0	0.0	0.0	Grant_asylum <-- Consult
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_political_reform
+0.0	0.0	0.0	0.0	Grant_asylum <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Grant_asylum <-- Make_a_visit
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_economic_aid
+0.0	0.0	0.0	0.0	Grant_asylum <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Grant_asylum <-- Appeal_for_military_protection_or_peacekeeping

@@ -1,0 +1,4 @@
+Demand_material_cooperation <-- Accuse, Express_intent_to_engage_in_material_cooperation
+Demand_material_cooperation <-- Accuse
+Demand_material_cooperation <-- Express_intent_to_release_persons_or_property
+Demand_material_cooperation <-- Demand, Express_intent_to_engage_in_material_cooperation

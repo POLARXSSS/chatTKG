@@ -1,0 +1,10 @@
+Threaten_with_military_force <-- Use_conventional_military_force
+Threaten_with_military_force <-- Coerce
+Threaten_with_military_force <-- Abduct,_hijack,_or_take_hostage
+Threaten_with_military_force <-- Give_ultimatum
+Threaten_with_military_force <-- Use_unconventional_violence
+Threaten_with_military_force <-- Increase_military_alert_status
+Threaten_with_military_force <-- Threaten
+Threaten_with_military_force <-- fight_with_small_arms_and_light_weapons
+Threaten_with_military_force <-- Mobilize_or_increase_armed_forces
+Threaten_with_military_force <-- Kill_by_physical_assault

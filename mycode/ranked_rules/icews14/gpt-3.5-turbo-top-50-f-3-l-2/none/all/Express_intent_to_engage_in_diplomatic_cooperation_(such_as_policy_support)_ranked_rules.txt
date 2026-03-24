@@ -1,0 +1,71 @@
+556	0.3904494382022472	0.17123498614105329	0.22758902988129348	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate, Make_a_visit
+577	0.40519662921348315	0.0410559271381813	0.0792473561323994	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_negotiation, Make_statement
+88	0.06179775280898876	1.353846153846154	2.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Grant_diplomatic_recognition
+816	0.5730337078651685	0.016185337987940335	0.04353625353465294	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Consult, Make_statement
+545	0.3827247191011236	0.7208994708994709	1.1473684210526316	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate
+558	0.39185393258426965	0.20774385703648549	0.4058181818181818	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_meet_or_negotiate
+121	0.08497191011235955	0.1288604898828541	0.29876543209876544	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Provide_humanitarian_aid, Make_statement
+53	0.037219101123595506	0.6162790697674418	1.394736842105263	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Cooperate_militarily
+11	0.007724719101123595	1.0	1.375	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_material_cooperation
+301	0.21137640449438203	0.49917081260364843	0.7166666666666667	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Cooperate_economically, Express_intent_to_cooperate
+560	0.39325842696629215	0.8459214501510574	1.1359026369168357	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation
+562	0.3946629213483146	0.08913560666137986	0.2189326061550448	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Consult
+138	0.09691011235955056	3.72972972972973	4.451612903225806	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_settle_dispute
+12	0.008426966292134831	0.05263157894736842	0.06741573033707865	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Mediate, Make_statement
+499	0.35042134831460675	0.0615138067061144	0.22538392050587172	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement
+582	0.40870786516853935	0.005814185814185815	0.022860285164381947	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Host_a_visit
+367	0.2577247191011236	0.1722196152041295	0.21923536439665472	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Host_a_visit
+478	0.3356741573033708	0.6494565217391305	1.1039260969976905	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Sign_formal_agreement
+20	0.014044943820224719	0.12345679012345678	0.16129032258064516	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Apologize, Make_statement
+715	0.5021067415730337	0.031149255031802735	0.06550018321729571	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Praise_or_endorse, Make_statement
+85	0.059691011235955056	0.14782608695652175	0.23809523809523808	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Yield, Make_statement
+7	0.0049157303370786515	0.3684210526315789	0.5384615384615384	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Mediate
+17	0.011938202247191011	0.22972972972972974	0.4857142857142857	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_accord
+204	0.14325842696629212	2.0606060606060606	2.8732394366197185	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Cooperate_economically
+60	0.042134831460674156	1.3333333333333333	1.8181818181818181	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_provide_humanitarian_aid
+57	0.04002808988764045	0.13013698630136986	0.2511013215859031	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Discuss_by_telephone
+562	0.3946629213483146	0.08913560666137986	0.2189326061550448	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Consult
+12	0.008426966292134831	0.3870967741935484	0.75	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Apologize
+53	0.037219101123595506	0.7571428571428571	1.0816326530612246	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_provide_economic_aid
+40	0.028089887640449437	3.076923076923077	3.6363636363636362	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_militarily
+378	0.2654494382022472	0.3258620689655172	0.6146341463414634	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_accept_mediation
+560	0.39325842696629215	0.8459214501510574	1.1359026369168357	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_on_judicial_matters
+499	0.35042134831460675	0.0615138067061144	0.22538392050587172	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement
+53	0.037219101123595506	0.6162790697674418	1.394736842105263	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Cooperate_militarily
+88	0.06179775280898876	1.353846153846154	2.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Grant_diplomatic_recognition
+199	0.13974719101123595	2.6533333333333333	3.5535714285714284	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_economically
+138	0.09691011235955056	3.72972972972973	4.451612903225806	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_settle_dispute
+50	0.0351123595505618	0.5555555555555556	1.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Yield
+112	0.07865168539325842	1.435897435897436	2.382978723404255	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Provide_economic_aid
+19	0.013342696629213483	4.75	4.75	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+7	0.0049157303370786515	0.6363636363636364	1.1666666666666667	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_engage_in_material_cooperation
+9	0.006320224719101123	0.3333333333333333	0.75	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Declare_truce,_ceasefire
+382	0.26825842696629215	0.17925856405443455	0.4488836662749706	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Make_a_visit
+11	0.007724719101123595	1.0	1.375	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_material_cooperation
+60	0.042134831460674156	1.4285714285714286	2.727272727272727	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_yield
+7	0.0049157303370786515	0.4666666666666667	0.7777777777777778	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_de-escalate_military_engagement
+8	0.0056179775280898875	0.8	1.3333333333333333	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Ease_economic_sanctions,_boycott,_embargo
+478	0.3356741573033708	0.6494565217391305	1.1039260969976905	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Sign_formal_agreement
+19	0.013342696629213483	4.75	4.75	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_on_intelligence
+133	0.09339887640449439	1.8732394366197183	2.509433962264151	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_provide_material_aid
+5	0.0035112359550561797	0.35714285714285715	0.625	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Demand_material_cooperation
+97	0.06811797752808989	0.521505376344086	1.3472222222222223	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Forgive
+113	0.07935393258426966	0.7290322580645161	1.3452380952380953	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Provide_aid
+0.0	0.0	0.0	0.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Receive_inspectors
+2	0.0014044943820224719	0.5	2.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Demobilize_armed_forces
+191	0.13412921348314608	0.29750778816199375	0.7022058823529411	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Reject
+499	0.35042134831460675	0.1898060098896919	0.3865220759101472	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Praise_or_endorse
+27	0.018960674157303372	0.24107142857142858	0.6585365853658537	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Ease_administrative_sanctions
+64	0.0449438202247191	1.2307692307692308	2.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_provide_military_aid
+34	0.023876404494382022	1.4166666666666667	2.8333333333333335	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Defend_verbally
+7	0.0049157303370786515	0.4666666666666667	0.7777777777777778	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_mediate
+558	0.39185393258426965	0.20774385703648549	0.4058181818181818	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_meet_or_negotiate
+97	0.06811797752808989	0.5449438202247191	1.0210526315789474	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Reduce_relations
+367	0.2577247191011236	0.1722196152041295	0.21923536439665472	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Host_a_visit
+0.0	0.0	0.0	0.0	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Ease_political_dissent
+98	0.06882022471910113	1.4411764705882353	1.8846153846153846	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Provide_military_aid
+545	0.3827247191011236	0.7208994708994709	1.1473684210526316	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate

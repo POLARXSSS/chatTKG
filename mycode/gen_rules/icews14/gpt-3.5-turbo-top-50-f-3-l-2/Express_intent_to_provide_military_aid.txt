@@ -1,0 +1,50 @@
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Appeal_for_military_aid(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Demand_military_aid(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Provide_military_aid(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_provide_military_aid(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Threaten(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Make_statement(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Consult(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Engage_in_diplomatic_cooperation(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Appeal_for_military_aid(X0,X1,T0), Make_statement(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Demand_military_aid(X0,X1,T0), Threaten(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Provide_military_aid(X0,X1,T0), Use_conventional_military_force(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_provide_military_aid(X0,X1,T0), Engage_in_diplomatic_cooperation(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Make_a_visit(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Threaten(X0,X1,T0), _Use_conventional_military_force(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Make_statement(X0,X1,T0), _Threaten(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Consult(X0,X1,T0), _Criticize_or_denounce(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Engage_in_diplomatic_cooperation(X0,X1,T0), _Use_unconventional_violence(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0), _Mobilize_or_increase_armed_forces(X1,X0,T1).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Appeal_for_military_aid(X0,X1,T0), Make_statement(X1,X0,T1), Engage_in_negotiation(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Demand_military_aid(X0,X1,T0), Threaten(X1,X0,T1), Use_conventional_military_force(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Provide_military_aid(X0,X1,T0), Use_unconventional_violence(X1,X0,T1), Make_statement(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_provide_military_aid(X0,X1,T0), Engage_in_diplomatic_cooperation(X1,X0,T1), _Threaten(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Make_a_visit(X1,X0,T1), Host_a_visit(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Threaten(X0,X1,T0), _Make_statement(X1,X0,T1), _Threaten(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Make_statement(X0,X1,T0), _Consult(X1,X0,T1), _Engage_in_diplomatic_cooperation(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Consult(X0,X1,T0), _Mobilize_or_increase_armed_forces(X1,X0,T1), _Use_conventional_military_force(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Engage_in_diplomatic_cooperation(X0,X1,T0), _Threaten(X1,X0,T1), _Use_unconventional_violence(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0), _Appeal_for_military_aid(X1,X0,T1), _Demand_military_aid(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Appeal_for_military_aid(X0,X1,T0), Make_statement(X1,X0,T1), _Engage_in_negotiation(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Demand_military_aid(X0,X1,T0), Threaten(X1,X0,T1), _Use_conventional_military_force(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Provide_military_aid(X0,X1,T0), Use_unconventional_violence(X1,X0,T1), _Make_statement(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_provide_military_aid(X0,X1,T0), Engage_in_diplomatic_cooperation(X1,X0,T1), Threaten(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Make_a_visit(X1,X0,T1), _Host_a_visit(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Threaten(X0,X1,T0), Make_statement(X1,X0,T1), _Threaten(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Make_statement(X0,X1,T0), Consult(X1,X0,T1), _Engage_in_diplomatic_cooperation(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Consult(X0,X1,T0), Mobilize_or_increase_armed_forces(X1,X0,T1), _Use_conventional_military_force(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Engage_in_diplomatic_cooperation(X0,X1,T0), Threaten(X1,X0,T1), _Use_unconventional_violence(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0), Appeal_for_military_aid(X1,X0,T1), _Demand_military_aid(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_provide_material_aid(X0,X1,T0), _Use_unconventional_violence(X1,X0,T1), _Use_conventional_military_force(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_provide_economic_aid(X0,X1,T0), _Threaten(X1,X0,T1), _Accuse(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_provide_humanitarian_aid(X0,X1,T0), _Use_conventional_military_force(X1,X0,T1), _Torture(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_provide_military_protection_or_peacekeeping(X0,X1,T0), _Mobilize_or_increase_armed_forces(X1,X0,T1), _Occupy_territory(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_settle_dispute(X0,X1,T0), _Criticize_or_denounce(X1,X0,T1), _Make_statement(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), _Threaten(X1,X0,T1), _Use_unconventional_violence(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), _Make_a_visit(X1,X0,T1), _Host_a_visit(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_cooperate_militarily(X0,X1,T0), _Use_conventional_military_force(X1,X0,T1), _Use_unconventional_violence(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_cooperate_economically(X0,X1,T0), _Threaten(X1,X0,T1), _Accuse(X2,X1,T2).
+Express_intent_to_provide_military_aid(X0,X1,T3) <- Express_intent_to_cooperate_on_intelligence(X0,X1,T0), _Use_conventional_military_force(X1,X0,T1), _Torture(X2,X1,T2).

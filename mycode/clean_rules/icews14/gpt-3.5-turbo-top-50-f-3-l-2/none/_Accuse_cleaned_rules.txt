@@ -1,0 +1,44 @@
+Accuse <-- Refuse_to_yield
+Accuse <-- Criticize_or_denounce
+Accuse <-- Make_statement
+Accuse <-- Torture
+Accuse <-- Sexually_assault
+Accuse <-- Ban_political_parties_or_politicians
+Accuse <-- Criticize_or_denounce, Accuse
+Accuse <-- fight_with_small_arms_and_light_weapons
+Accuse <-- Make_pessimistic_comment, Express_intent_to_cooperate
+Accuse <-- Investigate, fight_with_small_arms_and_light_weapons
+Accuse <-- Employ_aerial_weapons
+Accuse <-- Consult, Criticize_or_denounce
+Accuse <-- Threaten
+Accuse <-- Accuse, Accuse
+Accuse <-- Deny_responsibility
+Accuse <-- Demand, Arrest,_detain,_or_charge_with_legal_action
+Accuse <-- Decline_comment
+Accuse <-- Demand, Make_statement
+Accuse <-- Make_an_appeal_or_request, Reject
+Accuse <-- Make_an_appeal_or_request, Use_conventional_military_force
+Accuse <-- Physically_assault
+Accuse <-- Kill_by_physical_assault
+Accuse <-- Threaten, Express_intent_to_cooperate
+Accuse <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Accuse <-- Seize_or_damage_property
+Accuse <-- Defy_norms,_law
+Accuse <-- Use_conventional_military_force
+Accuse <-- Abduct,_hijack,_or_take_hostage
+Accuse <-- Detonate_nuclear_weapons
+Accuse <-- Arrest,_detain,_or_charge_with_legal_action
+Accuse <-- Reduce_or_break_diplomatic_relations
+Accuse <-- Use_chemical,_biological,_or_radiological_weapons
+Accuse <-- Make_statement, Use_conventional_military_force
+Accuse <-- Make_statement, Make_statement
+Accuse <-- Expel_or_deport_individuals
+Accuse <-- Reject
+Accuse <-- Use_tactics_of_violent_repression
+Accuse <-- Demand_change_in_leadership
+Accuse <-- Reduce_or_break_diplomatic_relations, Accuse
+Accuse <-- Impose_restrictions_on_political_freedoms
+Accuse <-- Engage_in_mass_killings
+Accuse <-- Use_unconventional_violence, Physically_assault
+Accuse <-- Complain_officially
+Accuse <-- Occupy_territory

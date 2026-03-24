@@ -1,0 +1,17 @@
+Demand_policy_change <-- Express_intent_to_change_policy
+Demand_policy_change <-- Accuse
+Demand_policy_change <-- Appeal_for_policy_change, Make_statement
+Demand_policy_change <-- Threaten_with_military_force
+Demand_policy_change <-- Express_intent_to_change_policy, Make_statement
+Demand_policy_change <-- Demand_meeting,_negotiation
+Demand_policy_change <-- Violate_ceasefire
+Demand_policy_change <-- Use_tactics_of_violent_repression
+Demand_policy_change <-- Criticize_or_denounce
+Demand_policy_change <-- Demonstrate_for_policy_change
+Demand_policy_change <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Demand_policy_change <-- Impose_administrative_sanctions
+Demand_policy_change <-- Carry_out_car_bombing
+Demand_policy_change <-- Engage_in_negotiation
+Demand_policy_change <-- Demand
+Demand_policy_change <-- Demand_rights
+Demand_policy_change <-- Complain_officially

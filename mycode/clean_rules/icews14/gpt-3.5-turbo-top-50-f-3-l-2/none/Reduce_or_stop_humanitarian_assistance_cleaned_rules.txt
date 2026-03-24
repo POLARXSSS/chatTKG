@@ -1,0 +1,25 @@
+Reduce_or_stop_humanitarian_assistance <-- Carry_out_car_bombing, Carry_out_roadside_bombing
+Reduce_or_stop_humanitarian_assistance <-- Defy_norms,_law, Investigate
+Reduce_or_stop_humanitarian_assistance <-- Express_intent_to_provide_humanitarian_aid, Halt_mediation
+Reduce_or_stop_humanitarian_assistance <-- Engage_in_mass_killings, Torture
+Reduce_or_stop_humanitarian_assistance <-- fight_with_artillery_and_tanks, Violate_ceasefire
+Reduce_or_stop_humanitarian_assistance <-- Obstruct_passage,_block
+Reduce_or_stop_humanitarian_assistance <-- Reduce_relations, Impose_administrative_sanctions
+Reduce_or_stop_humanitarian_assistance <-- Protest_violently,_riot, Make_pessimistic_comment
+Reduce_or_stop_humanitarian_assistance <-- Impose_blockade,_restrict_movement, Confiscate_property
+Reduce_or_stop_humanitarian_assistance <-- Threaten_with_sanctions,_boycott,_embargo, Ease_economic_sanctions,_boycott,_embargo
+Reduce_or_stop_humanitarian_assistance <-- Impose_embargo,_boycott,_or_sanctions, Reduce_or_stop_economic_assistance
+Reduce_or_stop_humanitarian_assistance <-- Ban_political_parties_or_politicians, Impose_restrictions_on_political_freedoms
+Reduce_or_stop_humanitarian_assistance <-- Expel_or_deport_individuals, Refuse_to_yield
+Reduce_or_stop_humanitarian_assistance <-- Conduct_suicide,_car,_or_other_non-military_bombing, Mobilize_or_increase_armed_forces
+Reduce_or_stop_humanitarian_assistance <-- Seize_or_damage_property, Threaten_with_military_force
+Reduce_or_stop_humanitarian_assistance <-- Use_as_human_shield, Increase_police_alert_status
+Reduce_or_stop_humanitarian_assistance <-- Demand_change_in_leadership, Use_conventional_military_force
+Reduce_or_stop_humanitarian_assistance <-- Consider_policy_option, Make_statement
+Reduce_or_stop_humanitarian_assistance <-- Demand_economic_aid, Reject_request_for_military_aid
+Reduce_or_stop_humanitarian_assistance <-- Host_a_visit, Decline_comment
+Reduce_or_stop_humanitarian_assistance <-- Threaten_to_reduce_or_stop_aid
+Reduce_or_stop_humanitarian_assistance <-- Appeal_for_humanitarian_aid, Refuse_to_release_persons_or_property
+Reduce_or_stop_humanitarian_assistance <-- Arrest,_detain,_or_charge_with_legal_action, Reject
+Reduce_or_stop_humanitarian_assistance <-- Accuse_of_war_crimes, Veto
+Reduce_or_stop_humanitarian_assistance <-- Cooperate_militarily, Reject_military_cooperation

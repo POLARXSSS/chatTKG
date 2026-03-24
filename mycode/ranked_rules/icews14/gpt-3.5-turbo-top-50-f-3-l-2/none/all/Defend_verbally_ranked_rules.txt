@@ -1,0 +1,378 @@
+6	0.1935483870967742	0.3157894736842105	2.0	Defend_verbally <-- Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_target_to_allow_international_involvement_(non-mediation)
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_policy_change
+6	0.1935483870967742	0.25	3.0	Defend_verbally <-- Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Defend_verbally <-- Apologize
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Defend_verbally <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Defend_verbally <-- Violate_ceasefire
+6	0.1935483870967742	0.08823529411764706	0.42857142857142855	Defend_verbally <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_intelligence
+6	0.1935483870967742	0.11538461538461539	0.8571428571428571	Defend_verbally <-- Express_intent_to_provide_military_aid
+12	0.3870967741935484	0.004564473183720046	0.07947019867549669	Defend_verbally <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_symbolic_act
+0.0	0.0	0.0	0.0	Defend_verbally <-- Increase_police_alert_status
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_to_engage_in_or_accept_mediation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_material_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Receive_inspectors
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten, Refuse_to_yield
+0.0	0.0	0.0	0.0	Defend_verbally <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_rights
+0.0	0.0	0.0	0.0	Defend_verbally <-- Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Defend_verbally <-- Investigate_war_crimes
+0.0	0.0	0.0	0.0	Defend_verbally <-- Obstruct_passage_to_demand_leadership_change
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_intelligence_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_economic_cooperation
+1	0.03225806451612903	0.001941747572815534	0.07142857142857142	Defend_verbally <-- Investigate
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_economic_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_political_dissent,_protest
+6	0.1935483870967742	0.07692307692307693	0.6	Defend_verbally <-- Provide_economic_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_political_dissent
+0.0	0.0	0.0	0.0	Defend_verbally <-- Investigate_crime,_corruption
+11	0.3548387096774194	0.0013560157790927022	0.05641025641025641	Defend_verbally <-- Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Return,_release_property
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Defend_verbally <-- Use_conventional_military_force, Provide_military_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Defend_verbally <-- Expel_or_withdraw
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Defend_verbally <-- Sexually_assault
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_yield
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Defend_verbally <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Defend_verbally <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_request_for_military_protection_or_peacekeeping
+9	0.2903225806451613	0.0014274385408406026	0.04205607476635514	Defend_verbally <-- Consult
+2	0.06451612903225806	0.008849557522123894	0.2	Defend_verbally <-- Make_empathetic_comment
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Defend_verbally <-- fight_with_artillery_and_tanks
+6	0.1935483870967742	0.08	0.4	Defend_verbally <-- Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_curfew
+1	0.03225806451612903	0.0023923444976076554	0.06666666666666667	Defend_verbally <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_to_others_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_mediate, Mediate
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Defend_verbally <-- Physically_assault
+8	0.25806451612903225	0.0009531752651018706	0.015625	Defend_verbally <-- Accuse, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_mass_expulsion
+6	0.1935483870967742	0.056074766355140186	1.0	Defend_verbally <-- Rally_support_on_behalf_of
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_material_cooperation
+6	0.1935483870967742	0.10714285714285714	1.5	Defend_verbally <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_judicial_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_judicial_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reduce_or_stop_economic_assistance
+6	0.1935483870967742	0.008152173913043478	0.07317073170731707	Defend_verbally <-- Sign_formal_agreement
+6	0.1935483870967742	0.6666666666666666	3.0	Defend_verbally <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Defend_verbally <-- Grant_asylum
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_to_others_to_settle_dispute
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Defend_verbally <-- Complain_officially
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Halt_mediation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Defend_verbally <-- Rally_opposition_against
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reduce_relations
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_military_blockade
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Defend_verbally <-- Veto
+0.0	0.0	0.0	0.0	Defend_verbally <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Defend_verbally <-- Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_economic_cooperation
+6	0.1935483870967742	0.00906344410876133	0.0594059405940594	Defend_verbally <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Defend_verbally <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Defend_verbally <-- Kill_by_physical_assault
+1	0.03225806451612903	0.013513513513513514	0.2	Defend_verbally <-- Express_accord
+6	0.1935483870967742	0.014598540145985401	0.24	Defend_verbally <-- Make_pessimistic_comment
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_administrative_sanctions
+9	0.2903225806451613	0.016574585635359115	0.14754098360655737	Defend_verbally <-- Make_optimistic_comment
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demonstrate_for_policy_change
+8	0.25806451612903225	0.11267605633802817	0.4	Defend_verbally <-- Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_military_aid
+1	0.03225806451612903	0.001557632398753894	0.02040816326530612	Defend_verbally <-- Reject
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_material_aid
+13	0.41935483870967744	0.000995177218096915	0.020186335403726708	Defend_verbally <-- Criticize_or_denounce, Make_statement
+8	0.25806451612903225	0.0009232544720138488	0.014787430683918669	Defend_verbally <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Defend_verbally <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_humanitarian_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_cooperate_on_intelligence
+7	0.22580645161290322	0.08333333333333333	1.0	Defend_verbally <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Defend_verbally <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_change_institutions,_regime, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_economic_sanctions,_boycott,_embargo
+11	0.3548387096774194	0.000771875657848572	0.02534562211981567	Defend_verbally <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_military_force
+1	0.03225806451612903	0.011111111111111112	0.14285714285714285	Defend_verbally <-- Yield
+8	0.25806451612903225	0.010582010582010581	0.125	Defend_verbally <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_release_persons_or_property
+6	0.1935483870967742	0.05084745762711865	3.0	Defend_verbally <-- Occupy_territory
+3	0.0967741935483871	0.00047969299648225136	0.013761467889908258	Defend_verbally <-- Demand, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Mediate
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_judicial_cooperation
+1	0.03225806451612903	0.011627906976744186	0.2	Defend_verbally <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_to_yield
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_economic_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demonstrate_or_rally
+6	0.1935483870967742	0.005172413793103448	0.09090909090909091	Defend_verbally <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_mediation
+6	0.1935483870967742	0.06976744186046512	1.2	Defend_verbally <-- Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_material_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Defend_verbally <-- Forgive
+0.0	0.0	0.0	0.0	Defend_verbally <-- Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Defend_verbally <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Defend_verbally <-- Grant_diplomatic_recognition
+6	0.1935483870967742	0.03870967741935484	0.42857142857142855	Defend_verbally <-- Provide_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Deny_responsibility
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_political_reform
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Defend_verbally <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Defend_verbally <-- Destroy_property
+0.0	0.0	0.0	0.0	Defend_verbally <-- Bring_lawsuit_against, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ban_political_parties_or_politicians, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_mediate, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_request_for_military_aid, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Forgive, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_request_for_military_protection_or_peacekeeping, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_easing_of_administrative_sanctions, Make_statement
+1	0.03225806451612903	0.0019646365422396855	0.023809523809523808	Defend_verbally <-- Physically_assault, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reduce_or_stop_material_aid, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_humanitarian_aid, Provide_humanitarian_aid
+1	0.03225806451612903	0.00039556962025316455	0.009900990099009901	Defend_verbally <-- Demonstrate_or_rally, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_cooperate_on_judicial_matters, Make_statement
+8	0.25806451612903225	0.0009531752651018706	0.015625	Defend_verbally <-- Accuse, Make_statement
+3	0.0967741935483871	0.0063025210084033615	0.030612244897959183	Defend_verbally <-- Express_intent_to_provide_military_aid, Make_statement
+8	0.25806451612903225	0.008519701810436636	0.06201550387596899	Defend_verbally <-- Provide_humanitarian_aid, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_provide_military_protection_or_peacekeeping, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_judicial_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Carry_out_roadside_bombing, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Investigate_crime,_corruption, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_military_aid, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_restrictions_on_political_freedoms, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Accuse_of_espionage,_treason, Make_statement
+8	0.25806451612903225	0.0011721611721611722	0.01171303074670571	Defend_verbally <-- Engage_in_diplomatic_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_political_dissent, Make_statement
+1	0.03225806451612903	0.006172839506172839	0.25	Defend_verbally <-- Apologize, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Halt_mediation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Carry_out_car_bombing, Make_statement
+1	0.03225806451612903	0.011627906976744186	0.2	Defend_verbally <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_military_aid, Provide_military_aid
+14	0.45161290322580644	0.0003134234798961225	0.014553014553014554	Defend_verbally <-- Make_statement, Praise_or_endorse
+0.0	0.0	0.0	0.0	Defend_verbally <-- Accuse_of_war_crimes, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Grant_diplomatic_recognition, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Veto, Make_statement
+10	0.3225806451612903	0.0014803849000740192	0.018867924528301886	Defend_verbally <-- Express_intent_to_cooperate, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_judicial_cooperation, Make_statement
+3	0.0967741935483871	0.00047969299648225136	0.013761467889908258	Defend_verbally <-- Demand, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_mediation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Torture, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Use_as_human_shield, Make_statement
+6	0.1935483870967742	0.011695906432748537	0.06521739130434782	Defend_verbally <-- Express_intent_to_provide_economic_aid, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Increase_police_alert_status, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_judicial_cooperation, Make_statement
+1	0.03225806451612903	0.0009950248756218905	0.00909090909090909	Defend_verbally <-- Reduce_or_break_diplomatic_relations, Make_statement
+8	0.25806451612903225	0.014705882352941176	0.12903225806451613	Defend_verbally <-- Employ_aerial_weapons, Make_statement
+10	0.3225806451612903	0.0014384349827387803	0.01589825119236884	Defend_verbally <-- Sign_formal_agreement, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Mediate, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_to_others_to_settle_dispute, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_yield, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_political_reform, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Accuse_of_human_rights_abuses, Make_statement
+1	0.03225806451612903	0.0011976047904191617	0.012195121951219513	Defend_verbally <-- Reject_plan,_agreement_to_settle_dispute, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Accuse_of_crime,_corruption, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- fight_with_artillery_and_tanks, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Make_empathetic_comment, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_administrative_sanctions, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demobilize_armed_forces, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_economic_sanctions,_boycott,_embargo, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Attempt_to_assassinate, Make_statement
+2	0.06451612903225806	0.0014114326040931546	0.05555555555555555	Defend_verbally <-- Occupy_territory, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Destroy_property, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_administrative_sanctions, Make_statement
+2	0.06451612903225806	0.024691358024691357	0.05555555555555555	Defend_verbally <-- Reduce_or_stop_military_assistance, Make_statement
+10	0.3225806451612903	0.0016406890894175555	0.021367521367521368	Defend_verbally <-- Make_optimistic_comment, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Sexually_assault, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Halt_negotiations, Make_statement
+2	0.06451612903225806	0.007782101167315175	0.043478260869565216	Defend_verbally <-- Provide_military_protection_or_peacekeeping, Make_statement
+1	0.03225806451612903	0.012195121951219513	0.2	Defend_verbally <-- Demonstrate_for_leadership_change, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Mobilize_or_increase_police_power, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Retreat_or_surrender_militarily, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Increase_military_alert_status, Make_statement
+2	0.06451612903225806	0.0015037593984962407	0.019417475728155338	Defend_verbally <-- Mobilize_or_increase_armed_forces, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_de-escalate_military_engagement, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Conduct_suicide,_car,_or_other_non-military_bombing, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Conduct_hunger_strike, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_violent_protest_for_rights, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_material_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_engage_in_material_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_economic_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_de-escalate_military_engagement, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_blockade,_restrict_movement, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Expel_or_deport_individuals, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Receive_deployment_of_peacekeepers, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_change_leadership, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_military_force, Make_statement
+8	0.25806451612903225	0.006633499170812604	0.043478260869565216	Defend_verbally <-- Cooperate_economically, Make_statement
+9	0.2903225806451613	0.011278195488721804	0.06293706293706294	Defend_verbally <-- Provide_military_aid, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reduce_or_stop_economic_assistance, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_economic_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_economic_aid, Make_statement
+8	0.25806451612903225	0.005891016200294551	0.042328042328042326	Defend_verbally <-- Express_intent_to_cooperate_economically, Make_statement
+4	0.12903225806451613	0.003745318352059925	0.02185792349726776	Defend_verbally <-- Reduce_relations, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demonstrate_for_policy_change, Make_statement
+8	0.25806451612903225	0.0005692329585883023	0.011594202898550725	Defend_verbally <-- Engage_in_negotiation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Seize_or_damage_property, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_ease_administrative_sanctions, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reduce_or_stop_humanitarian_assistance, Make_statement
+9	0.2903225806451613	0.00035251263170263603	0.013412816691505217	Defend_verbally <-- Make_a_visit, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_military_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_rights, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Conduct_strike_or_boycott, Make_statement
+1	0.03225806451612903	0.0010298661174047373	0.010526315789473684	Defend_verbally <-- Protest_violently,_riot, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_change_policy, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Confiscate_property, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_to_reduce_or_stop_aid, Make_statement
+2	0.06451612903225806	0.00033523298692591353	0.013888888888888888	Defend_verbally <-- Discuss_by_telephone, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Investigate_human_rights_abuses, Make_statement
+6	0.1935483870967742	0.0022189349112426036	0.045112781954887216	Defend_verbally <-- Investigate, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_policy_change, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_accept_mediation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_material_cooperation, Make_statement
+7	0.22580645161290322	0.012110726643598616	0.109375	Defend_verbally <-- Defy_norms,_law, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Obstruct_passage,_block, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Ease_military_blockade, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Acknowledge_or_claim_responsibility, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_provide_humanitarian_aid, Make_statement
+2	0.06451612903225806	0.003246753246753247	0.03571428571428571	Defend_verbally <-- Rally_support_on_behalf_of, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_release_of_persons_or_property, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Detonate_nuclear_weapons, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_cooperate_militarily, Make_statement
+6	0.1935483870967742	0.010434782608695653	0.1935483870967742	Defend_verbally <-- Yield, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_release_persons_or_property, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Engage_in_political_dissent, Make_statement
+13	0.41935483870967744	0.000995177218096915	0.020186335403726708	Defend_verbally <-- Criticize_or_denounce, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Coerce, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_that_target_yields, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_material_aid, Make_statement
+1	0.03225806451612903	0.0005724098454493417	0.011363636363636364	Defend_verbally <-- Deny_responsibility, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_state_of_emergency_or_martial_law, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Use_chemical,_biological,_or_radiological_weapons, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_change_in_institutions,_regime, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Share_intelligence_or_information, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Expel_or_withdraw_peacekeepers, Make_statement
+1	0.03225806451612903	0.0033222591362126247	0.01818181818181818	Defend_verbally <-- Demand_change_in_leadership, Make_statement
+8	0.25806451612903225	0.011461318051575931	0.03619909502262444	Defend_verbally <-- Express_intent_to_provide_material_aid, Make_statement
+1	0.03225806451612903	0.0035971223021582736	0.0196078431372549	Defend_verbally <-- Rally_opposition_against, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_intelligence_cooperation, Make_statement
+2	0.06451612903225806	0.06666666666666667	0.06666666666666667	Defend_verbally <-- Express_intent_to_change_institutions,_regime, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Kill_by_physical_assault, Make_statement
+2	0.06451612903225806	0.0006846970215679561	0.015037593984962405	Defend_verbally <-- Use_conventional_military_force, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Return,_release_property, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_institute_political_reform, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Give_ultimatum, Make_statement
+1	0.03225806451612903	0.0006361323155216285	0.01639344262295082	Defend_verbally <-- fight_with_small_arms_and_light_weapons, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_request_for_change_in_leadership, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Assassinate, Make_statement
+8	0.25806451612903225	0.008483563096500531	0.06015037593984962	Defend_verbally <-- Provide_economic_aid, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Violate_ceasefire, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Carry_out_suicide_bombing, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_political_reform, Make_statement
+7	0.22580645161290322	0.0014635166213673428	0.01977401129943503	Defend_verbally <-- Meet_at_a_'third'_location, Make_statement
+12	0.3870967741935484	0.0005227846998344516	0.012182741116751269	Defend_verbally <-- Praise_or_endorse, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Decline_comment, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_sanctions,_boycott,_embargo, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_to_reduce_or_break_relations, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_yield, Make_statement
+11	0.3548387096774194	0.000699434094232848	0.00812407680945347	Defend_verbally <-- Host_a_visit, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_settling_of_dispute, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Accuse_of_aggression, Make_statement
+6	0.1935483870967742	0.017699115044247787	0.2727272727272727	Defend_verbally <-- Ease_administrative_sanctions, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_cooperate_on_intelligence, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Express_intent_to_settle_dispute, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_humanitarian_aid, Make_statement
+15	0.4838709677419355	0.0002975245953665503	0.00991407799074686	Defend_verbally <-- Consult, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_meeting,_negotiation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_political_dissent,_protest, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Expel_or_withdraw, Make_statement
+8	0.25806451612903225	0.009174311926605505	0.07017543859649122	Defend_verbally <-- Express_accord, Make_statement
+1	0.03225806451612903	0.009708737864077669	0.06666666666666667	Defend_verbally <-- Express_intent_to_release_persons_or_property, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Reject_judicial_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Refuse_to_ease_administrative_sanctions, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Appeal_for_de-escalation_of_military_engagement, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Impose_embargo,_boycott,_or_sanctions, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_policy_change, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Receive_inspectors, Make_statement
+8	0.25806451612903225	0.006578947368421052	0.04819277108433735	Defend_verbally <-- Consider_policy_option, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Obstruct_passage_to_demand_leadership_change, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Demand_de-escalation_of_military_engagement, Make_statement
+1	0.03225806451612903	0.001996007984031936	0.009174311926605505	Defend_verbally <-- Complain_officially, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_with_repression, Make_statement
+6	0.1935483870967742	0.012684989429175475	0.09836065573770492	Defend_verbally <-- Return,_release_person(s), Make_statement
+2	0.06451612903225806	0.0005305039787798408	0.008695652173913044	Defend_verbally <-- Make_pessimistic_comment, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Investigate_war_crimes, Make_statement
+0.0	0.0	0.0	0.0	Defend_verbally <-- Threaten_to_halt_negotiations, Make_statement
+11	0.3548387096774194	0.0004350577440278437	0.012956419316843345	Defend_verbally <-- Express_intent_to_meet_or_negotiate, Make_statement
+1	0.03225806451612903	0.004132231404958678	0.16666666666666666	Defend_verbally <-- Declare_truce,_ceasefire, Make_statement

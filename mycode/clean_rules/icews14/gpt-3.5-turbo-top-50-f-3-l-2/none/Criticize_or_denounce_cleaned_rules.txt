@@ -1,0 +1,40 @@
+Criticize_or_denounce <-- Complain_officially
+Criticize_or_denounce <-- Expel_or_deport_individuals
+Criticize_or_denounce <-- Reduce_relations
+Criticize_or_denounce <-- Confiscate_property
+Criticize_or_denounce <-- Make_an_appeal_or_request, Make_statement
+Criticize_or_denounce <-- fight_with_small_arms_and_light_weapons
+Criticize_or_denounce <-- Use_conventional_military_force, Make_statement
+Criticize_or_denounce <-- Physically_assault, Threaten_with_military_force
+Criticize_or_denounce <-- Kill_by_physical_assault
+Criticize_or_denounce <-- Use_conventional_military_force
+Criticize_or_denounce <-- Accuse, Reject
+Criticize_or_denounce <-- Abduct,_hijack,_or_take_hostage
+Criticize_or_denounce <-- Protest_violently,_riot
+Criticize_or_denounce <-- Mediate
+Criticize_or_denounce <-- Investigate
+Criticize_or_denounce <-- Reject
+Criticize_or_denounce <-- Demand
+Criticize_or_denounce <-- Impose_embargo,_boycott,_or_sanctions, Make_an_appeal_or_request
+Criticize_or_denounce <-- Complain_officially, Reject
+Criticize_or_denounce <-- Make_statement, Demand
+Criticize_or_denounce <-- Bring_lawsuit_against
+Criticize_or_denounce <-- Torture
+Criticize_or_denounce <-- Rally_opposition_against
+Criticize_or_denounce <-- Make_a_visit
+Criticize_or_denounce <-- Make_statement
+Criticize_or_denounce <-- Threaten_with_military_force
+Criticize_or_denounce <-- Impose_restrictions_on_political_freedoms
+Criticize_or_denounce <-- Arrest,_detain,_or_charge_with_legal_action, Make_statement
+Criticize_or_denounce <-- Accuse
+Criticize_or_denounce <-- Impose_embargo,_boycott,_or_sanctions
+Criticize_or_denounce <-- Physically_assault
+Criticize_or_denounce <-- Arrest,_detain,_or_charge_with_legal_action
+Criticize_or_denounce <-- Host_a_visit
+Criticize_or_denounce <-- Destroy_property
+Criticize_or_denounce <-- Ban_political_parties_or_politicians
+Criticize_or_denounce <-- Engage_in_diplomatic_cooperation, Reject
+Criticize_or_denounce <-- Discuss_by_telephone
+Criticize_or_denounce <-- fight_with_artillery_and_tanks
+Criticize_or_denounce <-- Express_intent_to_meet_or_negotiate, Make_statement
+Criticize_or_denounce <-- Sexually_assault

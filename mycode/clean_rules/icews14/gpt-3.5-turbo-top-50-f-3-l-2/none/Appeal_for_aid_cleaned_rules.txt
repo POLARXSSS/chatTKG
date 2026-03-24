@@ -1,0 +1,5 @@
+Appeal_for_aid <-- Impose_blockade,_restrict_movement, Investigate
+Appeal_for_aid <-- Engage_in_material_cooperation
+Appeal_for_aid <-- Investigate
+Appeal_for_aid <-- Physically_assault
+Appeal_for_aid <-- Reject

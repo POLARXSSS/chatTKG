@@ -1,0 +1,88 @@
+Engage_in_mass_killings <-- Kill_by_physical_assault, Torture
+Engage_in_mass_killings <-- Mobilize_or_increase_armed_forces
+Engage_in_mass_killings <-- Assassinate
+Engage_in_mass_killings <-- Confiscate_property
+Engage_in_mass_killings <-- Carry_out_car_bombing, Kill_by_physical_assault
+Engage_in_mass_killings <-- Impose_restrictions_on_political_freedoms, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Increase_police_alert_status
+Engage_in_mass_killings <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Mobilize_or_increase_armed_forces, Use_unconventional_violence
+Engage_in_mass_killings <-- Protest_violently,_riot
+Engage_in_mass_killings <-- Expel_or_deport_individuals, Kill_by_physical_assault
+Engage_in_mass_killings <-- Coerce, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Seize_or_damage_property
+Engage_in_mass_killings <-- Abduct,_hijack,_or_take_hostage, Kill_by_physical_assault
+Engage_in_mass_killings <-- Use_conventional_military_force
+Engage_in_mass_killings <-- Increase_police_alert_status, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Sexually_assault, Kill_by_physical_assault
+Engage_in_mass_killings <-- Use_unconventional_violence
+Engage_in_mass_killings <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Engage_in_mass_killings <-- Arrest,_detain,_or_charge_with_legal_action
+Engage_in_mass_killings <-- Defy_norms,_law, Use_conventional_military_force
+Engage_in_mass_killings <-- fight_with_small_arms_and_light_weapons
+Engage_in_mass_killings <-- Engage_in_mass_expulsion
+Engage_in_mass_killings <-- Kill_by_physical_assault
+Engage_in_mass_killings <-- Use_chemical,_biological,_or_radiological_weapons
+Engage_in_mass_killings <-- Threaten_with_military_force, Use_conventional_military_force
+Engage_in_mass_killings <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Engage_in_mass_killings <-- Physically_assault, Kill_by_physical_assault
+Engage_in_mass_killings <-- Coerce, Kill_by_physical_assault
+Engage_in_mass_killings <-- Demonstrate_military_or_police_power, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Threaten, Threaten_with_military_force
+Engage_in_mass_killings <-- Impose_restrictions_on_political_freedoms, Kill_by_physical_assault
+Engage_in_mass_killings <-- Impose_restrictions_on_political_freedoms
+Engage_in_mass_killings <-- Threaten, Use_unconventional_violence
+Engage_in_mass_killings <-- Occupy_territory
+Engage_in_mass_killings <-- Engage_in_violent_protest_for_rights, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- fight_with_artillery_and_tanks
+Engage_in_mass_killings <-- Carry_out_car_bombing
+Engage_in_mass_killings <-- Attempt_to_assassinate
+Engage_in_mass_killings <-- Torture, Kill_by_physical_assault
+Engage_in_mass_killings <-- Seize_or_damage_property, Kill_by_physical_assault
+Engage_in_mass_killings <-- Increase_police_alert_status, Kill_by_physical_assault
+Engage_in_mass_killings <-- Sexually_assault
+Engage_in_mass_killings <-- Coerce
+Engage_in_mass_killings <-- Arrest,_detain,_or_charge_with_legal_action, Kill_by_physical_assault
+Engage_in_mass_killings <-- Threaten
+Engage_in_mass_killings <-- Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Confiscate_property, Kill_by_physical_assault
+Engage_in_mass_killings <-- Occupy_territory, Use_conventional_military_force
+Engage_in_mass_killings <-- Abduct,_hijack,_or_take_hostage
+Engage_in_mass_killings <-- Destroy_property
+Engage_in_mass_killings <-- Threaten_with_military_force, Threaten_with_military_force
+Engage_in_mass_killings <-- Impose_state_of_emergency_or_martial_law
+Engage_in_mass_killings <-- Increase_military_alert_status
+Engage_in_mass_killings <-- Expel_or_deport_individuals
+Engage_in_mass_killings <-- Violate_ceasefire
+Engage_in_mass_killings <-- Destroy_property, Kill_by_physical_assault
+Engage_in_mass_killings <-- Give_ultimatum
+Engage_in_mass_killings <-- Seize_or_damage_property, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Give_ultimatum, Kill_by_physical_assault
+Engage_in_mass_killings <-- Physically_assault
+Engage_in_mass_killings <-- Use_conventional_military_force, Use_unconventional_violence
+Engage_in_mass_killings <-- Defy_norms,_law, Kill_by_physical_assault
+Engage_in_mass_killings <-- Protest_violently,_riot, Kill_by_physical_assault
+Engage_in_mass_killings <-- Carry_out_suicide_bombing
+Engage_in_mass_killings <-- Use_chemical,_biological,_or_radiological_weapons, Use_conventional_military_force
+Engage_in_mass_killings <-- Confiscate_property, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Detonate_nuclear_weapons, Use_conventional_military_force
+Engage_in_mass_killings <-- Give_ultimatum, Use_conventional_military_force
+Engage_in_mass_killings <-- Detonate_nuclear_weapons
+Engage_in_mass_killings <-- Increase_military_alert_status, Use_unconventional_violence
+Engage_in_mass_killings <-- Destroy_property, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Demonstrate_military_or_police_power, Use_conventional_military_force
+Engage_in_mass_killings <-- Arrest,_detain,_or_charge_with_legal_action, Torture
+Engage_in_mass_killings <-- Expel_or_deport_individuals, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Violate_ceasefire, Use_conventional_military_force
+Engage_in_mass_killings <-- Threaten_with_military_force
+Engage_in_mass_killings <-- Threaten_with_military_force, Use_unconventional_violence
+Engage_in_mass_killings <-- Torture
+Engage_in_mass_killings <-- Use_unconventional_violence, Kill_by_physical_assault
+Engage_in_mass_killings <-- Demonstrate_military_or_police_power
+Engage_in_mass_killings <-- Carry_out_roadside_bombing
+Engage_in_mass_killings <-- Engage_in_violent_protest_for_rights
+Engage_in_mass_killings <-- Increase_military_alert_status, Use_conventional_military_force
+Engage_in_mass_killings <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+Engage_in_mass_killings <-- Defy_norms,_law
+Engage_in_mass_killings <-- Engage_in_violent_protest_for_rights, Kill_by_physical_assault
+Engage_in_mass_killings <-- Engage_in_mass_expulsion, Use_tactics_of_violent_repression

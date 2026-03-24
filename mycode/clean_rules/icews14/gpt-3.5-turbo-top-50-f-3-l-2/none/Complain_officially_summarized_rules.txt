@@ -1,0 +1,50 @@
+Complain_officially(X0,X1,T1) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), Express_intent_to_meet_or_negotiate(X1,X0,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Reject_judicial_cooperation(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Express_intent_to_cooperate_on_intelligence(X0,X1,T0), Share_intelligence_or_information(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Express_intent_to_cooperate_on_judicial_matters(X0,X1,T0), Engage_in_judicial_cooperation(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Threaten(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Express_intent_to_provide_material_aid(X0,X1,T0), Reduce_or_stop_material_aid(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Accuse(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Appeal_for_policy_change(X0,X1,T0), Demand_policy_change(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_easing_of_administrative_sanctions(X0,X1,T0), Refuse_to_ease_administrative_sanctions(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Make_statement(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Make_an_appeal_or_request(X0,X1,T0), Decline_comment(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Express_intent_to_cooperate(X0,X1,T0), Cooperate_economically(X1,X2,T1).
+Complain_officially(X0,X2,T2) <- Make_an_appeal_or_request(X0,X1,T0), Make_an_appeal_or_request(X1,X0,T1).
+Complain_officially(X0,X1,T1) <- Engage_in_negotiation(X0,X1,T0), Engage_in_negotiation(X1,X0,T1).
+Complain_officially(X0,X1,T1) <- Physically_assault(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Appeal_for_rights(X0,X1,T0), Demand_rights(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Make_an_appeal_or_request(X0,X1,T0), Reject_plan,_agreement_to_settle_dispute(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_material_cooperation(X0,X1,T0), Reject_material_cooperation(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Express_intent_to_provide_military_aid(X0,X1,T0), Reduce_or_stop_military_assistance(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Complain_officially(X0,X1,T0), Consult(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Destroy_property(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Sexually_assault(X0,X1,T0).
+Complain_officially(X0,X1,T2) <- Criticize_or_denounce(X0,X1,T0), Complain_officially(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T0), Refuse_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_humanitarian_aid(X0,X1,T0), Reduce_or_stop_humanitarian_assistance(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_intelligence(X0,X1,T0), Share_intelligence_or_information(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Appeal_to_others_to_meet_or_negotiate(X0,X1,T0), Reject_proposal_to_meet,_discuss,_or_negotiate(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Express_intent_to_cooperate_economically(X0,X1,T0), Reject_economic_cooperation(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_change_in_leadership(X0,X1,T0), Demand_change_in_leadership(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_to_yield(X0,X1,T0), Refuse_to_yield(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Express_intent_to_provide_economic_aid(X0,X1,T0), Reduce_or_stop_economic_assistance(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Use_unconventional_violence(X0,X1,T0), Use_unconventional_violence(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_military_aid(X0,X1,T0), Reject_request_for_military_aid(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- fight_with_artillery_and_tanks(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Appeal_to_engage_in_or_accept_mediation(X0,X1,T0), Halt_mediation(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_judicial_cooperation(X0,X1,T0), Reject_judicial_cooperation(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_target_to_allow_international_involvement_(non-mediation)(X0,X1,T0), Obstruct_passage,_block(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Make_optimistic_comment(X0,X1,T0), Criticize_or_denounce(X1,X0,T1).
+Complain_officially(X0,X1,T1) <- Appeal_to_others_to_settle_dispute(X0,X1,T0), Reject_plan,_agreement_to_settle_dispute(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X0,X1,T0), Impose_embargo,_boycott,_or_sanctions(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Demand(X0,X1,T0), Consult(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Threaten(X0,X1,T0), Threaten_with_military_force(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Make_statement(X0,X1,T0), Make_statement(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1).
+Complain_officially(X0,X1,T1) <- Confiscate_property(X0,X1,T0).
+Complain_officially(X0,X1,T1) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Reject_military_cooperation(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Appeal_for_economic_aid(X0,X1,T0), Reduce_or_stop_economic_assistance(X1,X2,T1).
+Complain_officially(X0,X1,T1) <- Accuse_of_crime,_corruption(X0,X1,T0), Reject(X1,X2,T1).

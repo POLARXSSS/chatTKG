@@ -1,0 +1,21 @@
+Mediate <-- Investigate_crime,_corruption, Sign_formal_agreement
+Mediate <-- Reject, Demand_settling_of_dispute
+Mediate <-- Receive_deployment_of_peacekeepers, Provide_military_protection_or_peacekeeping
+Mediate <-- Express_intent_to_cooperate, Engage_in_material_cooperation
+Mediate <-- Declare_truce,_ceasefire, Engage_in_negotiation
+Mediate <-- Appeal_for_change_in_leadership, Accede_to_demands_for_change_in_leadership
+Mediate <-- Provide_humanitarian_aid, Cooperate_economically
+Mediate <-- Meet_at_a_'third'_location, Discuss_by_telephone
+Mediate <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+Mediate <-- Make_a_visit, Host_a_visit
+Mediate <-- Consult, Consult
+Mediate <-- Express_intent_to_mediate, Express_intent_to_accept_mediation
+Mediate <-- Refuse_to_yield, Yield
+Mediate <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+Mediate <-- Demand_political_reform, Express_intent_to_institute_political_reform
+Mediate <-- Mediate
+Mediate <-- Engage_in_diplomatic_cooperation, Express_intent_to_cooperate
+Mediate <-- Express_intent_to_mediate
+Mediate <-- Make_statement, Make_statement
+Mediate <-- Threaten, Appeal_for_de-escalation_of_military_engagement
+Mediate <-- Ease_economic_sanctions,_boycott,_embargo, Demand_easing_of_administrative_sanctions

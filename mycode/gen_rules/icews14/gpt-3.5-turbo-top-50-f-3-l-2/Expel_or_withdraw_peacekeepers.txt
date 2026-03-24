@@ -1,0 +1,50 @@
+Expel_or_withdraw_peacekeepers(X0,X1,T1) <- Reduce_or_break_diplomatic_relations(X0,X1,T0).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Use_unconventional_violence(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Engage_in_symbolic_act(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Make_an_appeal_or_request(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X2,T2) <- Provide_economic_aid(X0,X1,T0), Appeal_for_intelligence(X1,X2,T1).
+Expel_or_withdraw_peacekeepers(X0,X2,T2) <- Reduce_or_break_diplomatic_relations(X0,X1,T0), Criticize_or_denounce(X1,X0,T1), Reduce_or_break_diplomatic_relations(X0,X2,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Accuse(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Criticize_or_denounce(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X2,T2) <- Reduce_or_break_diplomatic_relations(X0,X1,T0), Make_an_appeal_or_request(X1,X0,T1), Reduce_or_break_diplomatic_relations(X0,X2,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Make_an_appeal_or_request(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X2,T2) <- Provide_humanitarian_aid(X0,X1,T0), Appeal_for_intelligence(X1,X2,T1).
+Expel_or_withdraw_peacekeepers(X0,X2,T2) <- Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Appeal_for_intelligence(X1,X2,T1).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Criticize_or_denounce(X0,X1,T0), Accuse(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Make_an_appeal_or_request(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Accuse(X0,X1,T0), Accuse(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X1,T3) <- Reduce_or_break_diplomatic_relations(X0,X1,T0), Reduce_or_break_diplomatic_relations(X1,X0,T1), Accuse(X0,X1,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Use_conventional_military_force(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Threaten_with_military_force(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Reject_military_cooperation(X1,X2,T1), Reduce_or_break_diplomatic_relations(X0,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Protest_violently,_riot(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Attempt_to_assassinate(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Carry_out_car_bombing(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Carry_out_suicide_bombing(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Engage_in_mass_killings(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Use_tactics_of_violent_repression(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Impose_state_of_emergency_or_martial_law(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Impose_blockade,_restrict_movement(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Occupy_territory(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Violate_ceasefire(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Detonate_nuclear_weapons(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Use_chemical,_biological,_or_radiological_weapons(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- fight_with_artillery_and_tanks(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- fight_with_small_arms_and_light_weapons(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Physically_assault(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Torture(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Sexually_assault(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Destroy_property(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Seize_or_damage_property(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Confiscate_property(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Ban_political_parties_or_politicians(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Halt_mediation(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Halt_negotiations(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Reject_plan,_agreement_to_settle_dispute(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Reject_request_for_change_in_leadership(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).
+Expel_or_withdraw_peacekeepers(X0,X3,T3) <- Reject_request_for_military_aid(X0,X1,T0), Make_statement(X1,X2,T1), Appeal_for_intelligence(X2,X3,T2).

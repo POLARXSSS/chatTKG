@@ -1,0 +1,27 @@
+Accuse_of_crime,_corruption <-- Seize_or_damage_property, Confiscate_property
+Accuse_of_crime,_corruption <-- Demand_economic_aid, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Accuse_of_crime,_corruption <-- Engage_in_judicial_cooperation, Share_intelligence_or_information
+Accuse_of_crime,_corruption <-- Violate_ceasefire, Use_conventional_military_force
+Accuse_of_crime,_corruption <-- Provide_economic_aid, Reduce_or_stop_economic_assistance
+Accuse_of_crime,_corruption <-- Use_tactics_of_violent_repression, Torture
+Accuse_of_crime,_corruption <-- Express_intent_to_cooperate_on_judicial_matters
+Accuse_of_crime,_corruption <-- Carry_out_car_bombing, Carry_out_suicide_bombing
+Accuse_of_crime,_corruption <-- Receive_deployment_of_peacekeepers, Expel_or_withdraw_peacekeepers
+Accuse_of_crime,_corruption <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+Accuse_of_crime,_corruption <-- Reduce_relations
+Accuse_of_crime,_corruption <-- Demand_change_in_leadership, Reject_request_for_change_in_leadership
+Accuse_of_crime,_corruption <-- Accuse_of_war_crimes, Engage_in_mass_killings
+Accuse_of_crime,_corruption <-- Ban_political_parties_or_politicians, Impose_restrictions_on_political_freedoms
+Accuse_of_crime,_corruption <-- Accuse_of_espionage,_treason, Arrest,_detain,_or_charge_with_legal_action
+Accuse_of_crime,_corruption <-- Investigate, Confiscate_property
+Accuse_of_crime,_corruption <-- Coerce, Threaten_with_repression
+Accuse_of_crime,_corruption <-- Demonstrate_or_rally, Engage_in_violent_protest_for_rights
+Accuse_of_crime,_corruption <-- Grant_diplomatic_recognition, Expel_or_deport_individuals
+Accuse_of_crime,_corruption <-- Conduct_strike_or_boycott, Obstruct_passage,_block
+Accuse_of_crime,_corruption <-- Complain_officially, Make_statement
+Accuse_of_crime,_corruption <-- Attempt_to_assassinate, Kill_by_physical_assault
+Accuse_of_crime,_corruption <-- Use_conventional_military_force, Threaten_with_military_force
+Accuse_of_crime,_corruption <-- Threaten_with_sanctions,_boycott,_embargo, Impose_administrative_sanctions
+Accuse_of_crime,_corruption <-- Accuse_of_human_rights_abuses, Arrest,_detain,_or_charge_with_legal_action
+Accuse_of_crime,_corruption <-- Engage_in_negotiation, Reject_plan,_agreement_to_settle_dispute
+Accuse_of_crime,_corruption <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation

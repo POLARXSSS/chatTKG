@@ -1,0 +1,140 @@
+53	0.424	0.0008828771801236028	0.01727509778357236	Cooperate_militarily <-- Make_statement, Make_statement
+2	0.016	0.007575757575757576	0.007575757575757576	Cooperate_militarily <-- Cooperate_militarily, Make_a_visit
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Mobilize_or_increase_armed_forces, Cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_provide_humanitarian_aid, Provide_humanitarian_aid
+9	0.072	0.002438363587103766	0.014516129032258065	Cooperate_militarily <-- Engage_in_negotiation, Sign_formal_agreement
+34	0.272	0.0013317143864321804	0.01781970649895178	Cooperate_militarily <-- Make_a_visit, Make_statement
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Engage_in_judicial_cooperation, Cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Reduce_or_stop_military_assistance, Cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_provide_economic_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+2	0.016	0.05128205128205128	0.14285714285714285	Cooperate_militarily <-- Grant_diplomatic_recognition, Cooperate_militarily
+1	0.008	0.0196078431372549	0.0196078431372549	Cooperate_militarily <-- Cooperate_militarily, Use_unconventional_violence
+2	0.016	0.006230529595015576	0.08	Cooperate_militarily <-- Make_optimistic_comment, Cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_cooperate_militarily, Make_statement
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Mobilize_or_increase_armed_forces, Mobilize_or_increase_armed_forces
+9	0.072	0.003472222222222222	0.019955654101995565	Cooperate_militarily <-- Meet_at_a_'third'_location, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Express_intent_to_cooperate_on_judicial_matters
+4	0.032	0.3076923076923077	0.5714285714285714	Cooperate_militarily <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Receive_deployment_of_peacekeepers, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_accept_mediation, Mediate
+3	0.024	0.00684931506849315	0.00684931506849315	Cooperate_militarily <-- Cooperate_militarily, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Ease_administrative_sanctions, Cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_change_policy, Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Meet_at_a_'third'_location
+5	0.04	0.0048543689320388345	0.07575757575757576	Cooperate_militarily <-- Make_statement, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Appeal_for_military_aid, Provide_military_aid
+1	0.008	0.25	0.5	Cooperate_militarily <-- Express_intent_to_cooperate_on_intelligence, Share_intelligence_or_information
+3	0.024	0.007228915662650603	0.06521739130434782	Cooperate_militarily <-- Praise_or_endorse, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Discuss_by_telephone, Cooperate_militarily
+27	0.216	0.0011751392757660168	0.005080918328942416	Cooperate_militarily <-- Host_a_visit, Consult
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Provide_military_protection_or_peacekeeping, Cooperate_militarily
+1	0.008	0.014285714285714285	0.014285714285714285	Cooperate_militarily <-- Cooperate_militarily, Provide_humanitarian_aid
+1	0.008	0.005319148936170213	0.014285714285714285	Cooperate_militarily <-- Express_intent_to_cooperate_economically, Cooperate_economically
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_cooperate_militarily, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Appeal_for_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+11	0.088	0.16176470588235295	0.3055555555555556	Cooperate_militarily <-- Provide_military_aid
+125	1.0	1.4534883720930232	1.4534883720930232	Cooperate_militarily <-- Cooperate_militarily
+14	0.112	0.011308562197092083	0.038781163434903045	Cooperate_militarily <-- Use_conventional_military_force, Use_conventional_military_force
+2	0.016	0.0022099447513812156	0.004819277108433735	Cooperate_militarily <-- Express_intent_to_cooperate_militarily, Host_a_visit
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Engage_in_material_cooperation, Express_intent_to_cooperate_militarily
+19	0.152	0.003972402257997073	0.024203821656050957	Cooperate_militarily <-- Meet_at_a_'third'_location, Make_statement
+1	0.008	0.041666666666666664	0.041666666666666664	Cooperate_militarily <-- Cooperate_militarily, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_institute_political_reform, Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_cooperate_militarily, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Yield, Cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Express_intent_to_cooperate_militarily
+12	0.096	0.0008420461721984422	0.009787928221859706	Cooperate_militarily <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Provide_military_aid, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Threaten_with_military_force, Yield
+1	0.008	0.010526315789473684	0.010526315789473684	Cooperate_militarily <-- Cooperate_militarily, fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Share_intelligence_or_information, Cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Express_intent_to_cooperate_on_intelligence
+43	0.344	0.0008529038400507775	0.010707171314741035	Cooperate_militarily <-- Consult, Make_statement
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_provide_military_aid, Provide_military_aid
+1	0.008	0.017241379310344827	0.017241379310344827	Cooperate_militarily <-- Cooperate_militarily, Employ_aerial_weapons
+1	0.008	0.02040816326530612	0.02040816326530612	Cooperate_militarily <-- Cooperate_militarily, Provide_economic_aid
+9	0.072	0.010830324909747292	0.010830324909747292	Cooperate_militarily <-- Cooperate_militarily, Consult
+1	0.008	0.0196078431372549	0.0196078431372549	Cooperate_militarily <-- Cooperate_militarily, Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Express_intent_to_provide_military_aid
+2	0.016	0.0111731843575419	0.047619047619047616	Cooperate_militarily <-- Engage_in_diplomatic_cooperation, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Engage_in_judicial_cooperation
+4	0.032	0.010810810810810811	0.010810810810810811	Cooperate_militarily <-- Cooperate_militarily, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Provide_military_aid
+2	0.016	0.08333333333333333	0.5	Cooperate_militarily <-- Defend_verbally
+1	0.008	0.010869565217391304	0.07692307692307693	Cooperate_militarily <-- Complain_officially
+8	0.064	0.10256410256410256	0.38095238095238093	Cooperate_militarily <-- Provide_economic_aid
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Share_intelligence_or_information
+7	0.056	0.08333333333333333	0.3684210526315789	Cooperate_militarily <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Carry_out_suicide_bombing
+9	0.072	0.05806451612903226	0.2903225806451613	Cooperate_militarily <-- Provide_aid
+5	0.04	0.050505050505050504	0.18518518518518517	Cooperate_militarily <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Accede_to_demands_for_change_in_leadership, Grant_diplomatic_recognition
+9	0.072	0.004223369310183012	0.011936339522546418	Cooperate_militarily <-- Host_a_visit
+2	0.016	0.004784688995215311	0.0625	Cooperate_militarily <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Ease_economic_sanctions,_boycott,_embargo
+27	0.216	0.0031159838430467397	0.015919811320754717	Cooperate_militarily <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Occupy_territory, Mobilize_or_increase_armed_forces
+1	0.008	0.005376344086021506	0.02631578947368421	Cooperate_militarily <-- Provide_humanitarian_aid
+2	0.016	0.10526315789473684	0.3333333333333333	Cooperate_militarily <-- Receive_deployment_of_peacekeepers
+4	0.032	0.010723860589812333	0.034482758620689655	Cooperate_militarily <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Impose_state_of_emergency_or_martial_law, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Carry_out_suicide_bombing, Yield
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Express_intent_to_cooperate_militarily, Provide_military_aid
+1	0.008	0.003367003367003367	0.2	Cooperate_militarily <-- Demonstrate_or_rally
+5	0.04	0.0423728813559322	0.2777777777777778	Cooperate_militarily <-- Occupy_territory
+6	0.048	0.0028155795401220087	0.03773584905660377	Cooperate_militarily <-- Make_a_visit
+3	0.024	0.057692307692307696	0.16666666666666666	Cooperate_militarily <-- Express_intent_to_provide_military_aid
+2	0.016	0.0064516129032258064	0.037037037037037035	Cooperate_militarily <-- Meet_at_a_'third'_location
+3	0.024	0.04225352112676056	0.08571428571428572	Cooperate_militarily <-- Provide_military_protection_or_peacekeeping, Sign_formal_agreement
+27	0.216	0.003956043956043956	0.015410958904109588	Cooperate_militarily <-- Engage_in_diplomatic_cooperation, Make_statement
+3	0.024	0.019230769230769232	0.25	Cooperate_militarily <-- fight_with_small_arms_and_light_weapons, Yield
+6	0.048	0.0012631578947368421	0.014354066985645933	Cooperate_militarily <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Receive_inspectors
+8	0.064	0.012084592145015106	0.038461538461538464	Cooperate_militarily <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Appeal_for_military_aid, Provide_military_aid
+8	0.064	0.010869565217391304	0.0547945205479452	Cooperate_militarily <-- Sign_formal_agreement
+4	0.032	0.0392156862745098	0.15384615384615385	Cooperate_militarily <-- Yield, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Accede_to_demands_for_change_in_leadership
+1	0.008	0.05263157894736842	0.1111111111111111	Cooperate_militarily <-- Provide_military_protection_or_peacekeeping
+9	0.072	0.0028011204481792717	0.04712041884816754	Cooperate_militarily <-- Make_an_appeal_or_request
+4	0.032	0.046511627906976744	0.3333333333333333	Cooperate_militarily <-- Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Cooperate_militarily, Cooperate_militarily
+1	0.008	0.017857142857142856	0.2	Cooperate_militarily <-- Acknowledge_or_claim_responsibility
+2	0.016	0.022222222222222223	0.2	Cooperate_militarily <-- Yield
+5	0.04	0.03597122302158273	0.25	Cooperate_militarily <-- Impose_administrative_sanctions
+4	0.032	0.3076923076923077	0.5714285714285714	Cooperate_militarily <-- Express_intent_to_cooperate_militarily
+125	1.0	1.4534883720930232	1.4534883720930232	Cooperate_militarily <-- Cooperate_militarily
+11	0.088	0.008422664624808576	0.045454545454545456	Cooperate_militarily <-- Arrest,_detain,_or_charge_with_legal_action
+41	0.328	0.005054240631163708	0.0971563981042654	Cooperate_militarily <-- Make_statement
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Ease_state_of_emergency_or_martial_law
+2	0.016	0.08333333333333333	0.5	Cooperate_militarily <-- Defend_verbally
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Declare_truce,_ceasefire, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Return,_release_person(s), Ease_economic_sanctions,_boycott,_embargo
+17	0.136	0.021144278606965175	0.09497206703910614	Cooperate_militarily <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Use_unconventional_violence, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Return,_release_person(s)
+4	0.032	0.5	2.0	Cooperate_militarily <-- Impose_state_of_emergency_or_martial_law
+7	0.056	0.009259259259259259	0.06930693069306931	Cooperate_militarily <-- Express_intent_to_cooperate
+2	0.016	0.10526315789473684	1.0	Cooperate_militarily <-- Mediate
+2	0.016	0.0020597322348094747	0.25	Cooperate_militarily <-- Protest_violently,_riot, Make_statement
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Share_intelligence_or_information, Provide_military_aid
+4	0.032	0.0425531914893617	0.4444444444444444	Cooperate_militarily <-- Confiscate_property
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Protest_violently,_riot
+31	0.248	0.011791555724610117	0.10652920962199312	Cooperate_militarily <-- Praise_or_endorse
+16	0.128	0.005956813104988831	0.07511737089201878	Cooperate_militarily <-- Express_intent_to_meet_or_negotiate
+1	0.008	0.015384615384615385	0.058823529411764705	Cooperate_militarily <-- Grant_diplomatic_recognition
+4	0.032	0.14814814814814814	0.4444444444444444	Cooperate_militarily <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Appeal_for_military_aid
+0.0	0.0	0.0	0.0	Cooperate_militarily <-- Use_unconventional_violence
+18	0.144	0.0028548770816812052	0.037894736842105266	Cooperate_militarily <-- Consult
+11	0.088	0.16176470588235295	0.3055555555555556	Cooperate_militarily <-- Provide_military_aid

@@ -1,0 +1,47 @@
+Use_unconventional_violence(X0,X1,T3) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0), Use_unconventional_violence(X1,X2,T1), Use_unconventional_violence(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Use_unconventional_violence(X1,X2,T1), Use_unconventional_violence(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- Threaten_with_military_force(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Arrest,_detain,_or_charge_with_legal_action(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Make_an_appeal_or_request(X0,X1,T1), Sign_formal_agreement(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- fight_with_small_arms_and_light_weapons(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T1) <- Provide_aid(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- fight_with_small_arms_and_light_weapons(X0,X1,T0), fight_with_small_arms_and_light_weapons(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- Carry_out_suicide_bombing(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Demand_meeting,_negotiation(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T1) <- Investigate(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T1) <- Protest_violently,_riot(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Demand(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Physically_assault(X0,X1,T0), Use_unconventional_violence(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+Use_unconventional_violence(X0,X2,T2) <- Use_unconventional_violence(X0,X1,T0), Demand_meeting,_negotiation(X1,X2,T1).
+Use_unconventional_violence(X0,X2,T2) <- fight_with_small_arms_and_light_weapons(X0,X1,T0), Make_statement(X1,X2,T1).
+Use_unconventional_violence(X0,X1,T3) <- Kill_by_physical_assault(X0,X1,T0), Use_unconventional_violence(X1,X0,T1), Kill_by_physical_assault(X0,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- Kill_by_physical_assault(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Physically_assault(X1,X0,T1), Abduct,_hijack,_or_take_hostage(X0,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Use_unconventional_violence(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- Carry_out_roadside_bombing(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Physically_assault(X0,X1,T0), Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Engage_in_material_cooperation(X0,X1,T0), Investigate(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- Use_unconventional_violence(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Return,_release_person(s)(X0,X1,T0), Abduct,_hijack,_or_take_hostage(X1,X0,T1), Abduct,_hijack,_or_take_hostage(X0,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Carry_out_suicide_bombing(X0,X1,T0), Engage_in_negotiation(X1,X2,T1), Engage_in_negotiation(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0), Consult(X1,X2,T1), Consult(X2,X1,T2).
+Use_unconventional_violence(X0,X2,T3) <- Appeal_for_material_cooperation(X0,X1,T0), Criticize_or_denounce(X1,X0,T1), Use_unconventional_violence(X0,X2,T2).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Use_unconventional_violence(X1,X2,T1), Use_conventional_military_force(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0), Host_a_visit(X1,X2,T1), Make_a_visit(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1), Sign_formal_agreement(X2,X1,T2).
+Use_unconventional_violence(X0,X2,T3) <- Use_conventional_military_force(X0,X1,T0), Use_unconventional_violence(X1,X0,T1), Use_unconventional_violence(X0,X2,T2).
+Use_unconventional_violence(X0,X1,T1) <- Occupy_territory(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Criticize_or_denounce(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Abduct,_hijack,_or_take_hostage(X1,X2,T1), Abduct,_hijack,_or_take_hostage(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), fight_with_small_arms_and_light_weapons(X1,X2,T1), Use_unconventional_violence(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0), Make_statement(X1,X2,T1), Make_statement(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Use_unconventional_violence(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+Use_unconventional_violence(X0,X1,T1) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T1) <- Employ_aerial_weapons(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T1) <- Physically_assault(X0,X1,T0).
+Use_unconventional_violence(X0,X1,T3) <- Accuse(X0,X1,T0), Arrest,_detain,_or_charge_with_legal_action(X1,X0,T1), Accuse(X0,X1,T2).
+Use_unconventional_violence(X0,X2,T2) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0), Provide_economic_aid(X1,X2,T1).
+Use_unconventional_violence(X0,X1,T3) <- Carry_out_roadside_bombing(X0,X1,T0), Make_statement(X1,X2,T1), Discuss_by_telephone(X2,X1,T2).
+Use_unconventional_violence(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Use_unconventional_violence(X0,X1,T1), Use_unconventional_violence(X0,X1,T2).

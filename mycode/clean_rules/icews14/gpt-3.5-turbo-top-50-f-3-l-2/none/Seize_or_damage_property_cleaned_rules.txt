@@ -1,0 +1,22 @@
+Seize_or_damage_property <-- fight_with_artillery_and_tanks
+Seize_or_damage_property <-- Investigate_crime,_corruption
+Seize_or_damage_property <-- Bring_lawsuit_against
+Seize_or_damage_property <-- Employ_aerial_weapons
+Seize_or_damage_property <-- Carry_out_car_bombing
+Seize_or_damage_property <-- Use_tactics_of_violent_repression
+Seize_or_damage_property <-- Arrest,_detain,_or_charge_with_legal_action
+Seize_or_damage_property <-- Destroy_property
+Seize_or_damage_property <-- Threaten_with_sanctions,_boycott,_embargo, Violate_ceasefire
+Seize_or_damage_property <-- Use_conventional_military_force
+Seize_or_damage_property <-- Impose_embargo,_boycott,_or_sanctions
+Seize_or_damage_property <-- Violate_ceasefire
+Seize_or_damage_property <-- Seize_or_damage_property
+Seize_or_damage_property <-- Threaten, Use_conventional_military_force
+Seize_or_damage_property <-- Confiscate_property
+Seize_or_damage_property <-- fight_with_small_arms_and_light_weapons
+Seize_or_damage_property <-- Protest_violently,_riot
+Seize_or_damage_property <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+Seize_or_damage_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Seize_or_damage_property <-- Occupy_territory
+Seize_or_damage_property <-- Engage_in_violent_protest_for_rights
+Seize_or_damage_property <-- Carry_out_suicide_bombing

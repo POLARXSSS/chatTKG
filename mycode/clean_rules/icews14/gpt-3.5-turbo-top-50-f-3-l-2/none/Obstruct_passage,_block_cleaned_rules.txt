@@ -1,0 +1,11 @@
+Obstruct_passage,_block <-- Threaten_to_reduce_or_stop_aid
+Obstruct_passage,_block <-- Use_unconventional_violence, Impose_restrictions_on_political_freedoms
+Obstruct_passage,_block <-- Reject, Conduct_suicide,_car,_or_other_non-military_bombing
+Obstruct_passage,_block <-- Appeal_for_material_cooperation, Arrest,_detain,_or_charge_with_legal_action
+Obstruct_passage,_block <-- Reduce_or_stop_humanitarian_assistance
+Obstruct_passage,_block <-- Impose_blockade,_restrict_movement
+Obstruct_passage,_block <-- Impose_restrictions_on_political_freedoms
+Obstruct_passage,_block <-- Appeal_for_material_cooperation, Engage_in_symbolic_act
+Obstruct_passage,_block <-- Threaten_with_military_force
+Obstruct_passage,_block <-- Arrest,_detain,_or_charge_with_legal_action, Demonstrate_or_rally
+Obstruct_passage,_block <-- Obstruct_passage,_block

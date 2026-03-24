@@ -1,0 +1,76 @@
+Demand_material_aid <-- Express_intent_to_yield
+Demand_material_aid <-- Demand_judicial_cooperation
+Demand_material_aid <-- Coerce
+Demand_material_aid <-- Demand_change_in_leadership
+Demand_material_aid <-- Consult
+Demand_material_aid <-- Reduce_relations
+Demand_material_aid <-- Mediate, Demand_material_aid
+Demand_material_aid <-- Demand_easing_of_administrative_sanctions
+Demand_material_aid <-- Demand_policy_change
+Demand_material_aid <-- Demand_intelligence_cooperation
+Demand_material_aid <-- Reduce_or_stop_material_aid, Demand_material_aid
+Demand_material_aid <-- Demand_de-escalation_of_military_engagement
+Demand_material_aid <-- Reduce_or_stop_material_aid
+Demand_material_aid <-- Appeal_for_humanitarian_aid
+Demand_material_aid <-- Impose_embargo,_boycott,_or_sanctions
+Demand_material_aid <-- Demand_material_cooperation
+Demand_material_aid <-- Provide_humanitarian_aid
+Demand_material_aid <-- Express_intent_to_provide_humanitarian_aid
+Demand_material_aid <-- Express_intent_to_cooperate_militarily
+Demand_material_aid <-- Express_intent_to_institute_political_reform
+Demand_material_aid <-- Express_intent_to_mediate
+Demand_material_aid <-- Express_intent_to_settle_dispute
+Demand_material_aid <-- Express_intent_to_cooperate, Express_intent_to_provide_material_aid
+Demand_material_aid <-- Appeal_for_economic_aid
+Demand_material_aid <-- Express_intent_to_provide_economic_aid
+Demand_material_aid <-- Threaten_with_sanctions,_boycott,_embargo, Demand_material_aid
+Demand_material_aid <-- Express_intent_to_change_institutions,_regime
+Demand_material_aid <-- Express_intent_to_change_policy
+Demand_material_aid <-- Reject
+Demand_material_aid <-- Demand_mediation
+Demand_material_aid <-- Engage_in_negotiation, Demand_material_aid
+Demand_material_aid <-- Express_intent_to_cooperate_economically
+Demand_material_aid <-- Express_intent_to_change_leadership
+Demand_material_aid <-- Give_ultimatum
+Demand_material_aid <-- Demand_economic_aid
+Demand_material_aid <-- Demand_that_target_yields
+Demand_material_aid <-- Consult, Appeal_for_humanitarian_aid
+Demand_material_aid <-- Meet_at_a_'third'_location
+Demand_material_aid <-- Express_intent_to_cooperate_on_intelligence
+Demand_material_aid <-- Complain_officially
+Demand_material_aid <-- Host_a_visit
+Demand_material_aid <-- Make_empathetic_comment, Appeal_for_humanitarian_aid
+Demand_material_aid <-- Discuss_by_telephone
+Demand_material_aid <-- Express_intent_to_provide_material_aid
+Demand_material_aid <-- Yield
+Demand_material_aid <-- Reduce_or_stop_humanitarian_assistance
+Demand_material_aid <-- Demand_release_of_persons_or_property
+Demand_material_aid <-- Express_intent_to_cooperate_on_judicial_matters
+Demand_material_aid <-- Demand_meeting,_negotiation
+Demand_material_aid <-- Demand_military_aid
+Demand_material_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping
+Demand_material_aid <-- Express_intent_to_provide_military_aid
+Demand_material_aid <-- Engage_in_negotiation
+Demand_material_aid <-- Accuse_of_war_crimes, Demand_material_aid
+Demand_material_aid <-- Express_intent_to_de-escalate_military_engagement
+Demand_material_aid <-- Provide_humanitarian_aid, Demand_material_aid
+Demand_material_aid <-- Express_intent_to_meet_or_negotiate
+Demand_material_aid <-- Demand_humanitarian_aid
+Demand_material_aid <-- Express_intent_to_engage_in_material_cooperation
+Demand_material_aid <-- Demand_political_reform
+Demand_material_aid <-- Make_statement
+Demand_material_aid <-- Reduce_or_stop_military_assistance
+Demand_material_aid <-- Refuse_to_yield
+Demand_material_aid <-- Make_a_visit
+Demand_material_aid <-- Appeal_for_material_cooperation, Demand_material_aid
+Demand_material_aid <-- Threaten_to_reduce_or_stop_aid
+Demand_material_aid <-- Sign_formal_agreement
+Demand_material_aid <-- Express_intent_to_ease_administrative_sanctions
+Demand_material_aid <-- Reduce_or_stop_economic_assistance
+Demand_material_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Demand_material_aid <-- Appeal_to_engage_in_or_accept_mediation
+Demand_material_aid <-- Demand_settling_of_dispute
+Demand_material_aid <-- Express_intent_to_release_persons_or_property
+Demand_material_aid <-- Demand_change_in_institutions,_regime
+Demand_material_aid <-- Demand_rights
+Demand_material_aid <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo

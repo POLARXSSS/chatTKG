@@ -1,0 +1,68 @@
+Cooperate_militarily <-- Complain_officially
+Cooperate_militarily <-- Provide_economic_aid
+Cooperate_militarily <-- Share_intelligence_or_information
+Cooperate_militarily <-- Mobilize_or_increase_armed_forces
+Cooperate_militarily <-- Carry_out_suicide_bombing
+Cooperate_militarily <-- Provide_aid
+Cooperate_militarily <-- Cooperate_economically
+Cooperate_militarily <-- Accede_to_demands_for_change_in_leadership, Grant_diplomatic_recognition
+Cooperate_militarily <-- Host_a_visit
+Cooperate_militarily <-- fight_with_small_arms_and_light_weapons
+Cooperate_militarily <-- Ease_economic_sanctions,_boycott,_embargo
+Cooperate_militarily <-- Host_a_visit, Make_a_visit
+Cooperate_militarily <-- Occupy_territory, Mobilize_or_increase_armed_forces
+Cooperate_militarily <-- Provide_humanitarian_aid
+Cooperate_militarily <-- Receive_deployment_of_peacekeepers
+Cooperate_militarily <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Cooperate_militarily <-- Impose_state_of_emergency_or_martial_law, Ease_state_of_emergency_or_martial_law
+Cooperate_militarily <-- Carry_out_suicide_bombing, Yield
+Cooperate_militarily <-- Express_intent_to_cooperate_militarily, Provide_military_aid
+Cooperate_militarily <-- Demonstrate_or_rally
+Cooperate_militarily <-- Occupy_territory
+Cooperate_militarily <-- Make_a_visit
+Cooperate_militarily <-- Express_intent_to_provide_military_aid
+Cooperate_militarily <-- Meet_at_a_'third'_location
+Cooperate_militarily <-- Provide_military_protection_or_peacekeeping, Sign_formal_agreement
+Cooperate_militarily <-- Engage_in_diplomatic_cooperation, Make_statement
+Cooperate_militarily <-- fight_with_small_arms_and_light_weapons, Yield
+Cooperate_militarily <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+Cooperate_militarily <-- Receive_inspectors
+Cooperate_militarily <-- Engage_in_diplomatic_cooperation
+Cooperate_militarily <-- Appeal_for_military_aid, Provide_military_aid
+Cooperate_militarily <-- Sign_formal_agreement
+Cooperate_militarily <-- Yield, Sign_formal_agreement
+Cooperate_militarily <-- Accede_to_demands_for_change_in_leadership
+Cooperate_militarily <-- Provide_military_protection_or_peacekeeping
+Cooperate_militarily <-- Make_an_appeal_or_request
+Cooperate_militarily <-- Engage_in_material_cooperation
+Cooperate_militarily <-- Cooperate_militarily, Cooperate_militarily
+Cooperate_militarily <-- Acknowledge_or_claim_responsibility
+Cooperate_militarily <-- Yield
+Cooperate_militarily <-- Impose_administrative_sanctions
+Cooperate_militarily <-- Express_intent_to_cooperate_militarily
+Cooperate_militarily <-- Cooperate_militarily
+Cooperate_militarily <-- Arrest,_detain,_or_charge_with_legal_action
+Cooperate_militarily <-- Make_statement
+Cooperate_militarily <-- Ease_state_of_emergency_or_martial_law
+Cooperate_militarily <-- Defend_verbally
+Cooperate_militarily <-- Declare_truce,_ceasefire, Ease_state_of_emergency_or_martial_law
+Cooperate_militarily <-- Return,_release_person(s), Ease_economic_sanctions,_boycott,_embargo
+Cooperate_militarily <-- Use_conventional_military_force
+Cooperate_militarily <-- Use_unconventional_violence, Declare_truce,_ceasefire
+Cooperate_militarily <-- Return,_release_person(s)
+Cooperate_militarily <-- Impose_state_of_emergency_or_martial_law
+Cooperate_militarily <-- Express_intent_to_cooperate
+Cooperate_militarily <-- Mediate
+Cooperate_militarily <-- Protest_violently,_riot, Make_statement
+Cooperate_militarily <-- Share_intelligence_or_information, Provide_military_aid
+Cooperate_militarily <-- Confiscate_property
+Cooperate_militarily <-- Discuss_by_telephone
+Cooperate_militarily <-- Protest_violently,_riot
+Cooperate_militarily <-- Praise_or_endorse
+Cooperate_militarily <-- Express_intent_to_meet_or_negotiate
+Cooperate_militarily <-- Grant_diplomatic_recognition
+Cooperate_militarily <-- Declare_truce,_ceasefire
+Cooperate_militarily <-- Appeal_for_military_aid
+Cooperate_militarily <-- Use_unconventional_violence
+Cooperate_militarily <-- Consult
+Cooperate_militarily <-- Provide_military_aid

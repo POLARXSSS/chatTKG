@@ -1,0 +1,25 @@
+Carry_out_suicide_bombing(X0,X1,T1) <- Threaten_with_military_force(X0,X1,T0).
+Carry_out_suicide_bombing(X0,X1,T1) <- Carry_out_suicide_bombing(X0,X1,T0).
+Carry_out_suicide_bombing(X0,X1,T1) <- Use_unconventional_violence(X0,X1,T0).
+Carry_out_suicide_bombing(X0,X1,T1) <- Occupy_territory(X0,X1,T0).
+Carry_out_suicide_bombing(X0,X2,T3) <- Increase_military_alert_status(X0,X1,T0), fight_with_small_arms_and_light_weapons(X1,X0,T1), Occupy_territory(X0,X2,T2).
+Carry_out_suicide_bombing(X0,X2,T3) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0), Carry_out_suicide_bombing(X1,X0,T1), Use_unconventional_violence(X0,X2,T2).
+Carry_out_suicide_bombing(X0,X1,T3) <- Threaten_with_military_force(X0,X1,T0), Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1), Use_as_human_shield(X2,X1,T2).
+Carry_out_suicide_bombing(X0,X1,T3) <- Carry_out_suicide_bombing(X0,X1,T0), Use_unconventional_violence(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+Carry_out_suicide_bombing(X0,X1,T1) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0).
+Carry_out_suicide_bombing(X0,X1,T3) <- Carry_out_suicide_bombing(X0,X1,T0), Make_an_appeal_or_request(X1,X2,T1), Make_an_appeal_or_request(X2,X1,T2).
+Carry_out_suicide_bombing(X0,X2,T2) <- Praise_or_endorse(X0,X1,T0), Abduct,_hijack,_or_take_hostage(X1,X2,T1).
+Carry_out_suicide_bombing(X0,X2,T3) <- Sign_formal_agreement(X0,X1,T0), Sign_formal_agreement(X1,X0,T1), Carry_out_suicide_bombing(X0,X2,T2).
+Carry_out_suicide_bombing(X0,X2,T3) <- Reduce_relations(X0,X1,T0), Impose_administrative_sanctions(X1,X0,T1), Carry_out_suicide_bombing(X0,X2,T2).
+Carry_out_suicide_bombing(X0,X3,T3) <- Impose_blockade,_restrict_movement(X0,X1,T0), Use_conventional_military_force(X1,X2,T1), fight_with_small_arms_and_light_weapons(X2,X3,T2).
+Carry_out_suicide_bombing(X0,X2,T3) <- Provide_military_protection_or_peacekeeping(X0,X1,T0), Receive_deployment_of_peacekeepers(X1,X0,T1), Use_unconventional_violence(X0,X2,T2).
+Carry_out_suicide_bombing(X0,X2,T3) <- Use_tactics_of_violent_repression(X0,X1,T0), Demonstrate_or_rally(X1,X0,T1), Use_unconventional_violence(X0,X2,T2).
+Carry_out_suicide_bombing(X0,X2,T2) <- Carry_out_suicide_bombing(X0,X1,T0), Make_statement(X1,X2,T1).
+Carry_out_suicide_bombing(X0,X2,T2) <- Refuse_to_yield(X0,X1,T0), Praise_or_endorse(X1,X2,T1).
+Carry_out_suicide_bombing(X0,X2,T3) <- Make_a_visit(X0,X1,T0), Host_a_visit(X1,X0,T1), Conduct_suicide,_car,_or_other_non-military_bombing(X0,X2,T2).
+Carry_out_suicide_bombing(X0,X3,T3) <- Use_unconventional_violence(X0,X1,T0), Use_conventional_military_force(X1,X2,T1), Use_conventional_military_force(X2,X3,T2).
+Carry_out_suicide_bombing(X0,X2,T3) <- Express_intent_to_release_persons_or_property(X0,X1,T0), Express_intent_to_release_persons_or_property(X1,X0,T1), Carry_out_suicide_bombing(X0,X2,T2).
+Carry_out_suicide_bombing(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0), Use_unconventional_violence(X1,X2,T1), Use_as_human_shield(X2,X1,T2).
+Carry_out_suicide_bombing(X0,X1,T3) <- Threaten_with_military_force(X0,X1,T0), Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1), Use_unconventional_violence(X2,X1,T2).
+Carry_out_suicide_bombing(X0,X1,T3) <- fight_with_small_arms_and_light_weapons(X0,X1,T0), Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1), Use_as_human_shield(X2,X1,T2).
+Carry_out_suicide_bombing(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), Carry_out_suicide_bombing(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).

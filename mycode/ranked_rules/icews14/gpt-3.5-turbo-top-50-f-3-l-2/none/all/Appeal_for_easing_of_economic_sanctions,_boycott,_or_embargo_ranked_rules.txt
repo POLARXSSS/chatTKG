@@ -1,0 +1,16 @@
+1	1.0	0.0005263157894736842	0.07692307692307693	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Impose_embargo,_boycott,_or_sanctions, Consult
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Make_optimistic_comment
+1	1.0	0.02	0.5	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Reject_plan,_agreement_to_settle_dispute
+1	1.0	0.0001232741617357002	0.1	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Make_statement
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Use_unconventional_violence, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Reduce_relations
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Consult
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Impose_embargo,_boycott,_or_sanctions, Make_optimistic_comment
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Reduce_relations, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Complain_officially, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_cooperate, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_meet_or_negotiate, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Complain_officially, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+1	1.0	0.0003112356053532524	0.1	Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo <-- Make_an_appeal_or_request

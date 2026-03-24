@@ -1,0 +1,7 @@
+Increase_police_alert_status <-- Deny_responsibility
+Increase_police_alert_status <-- Arrest,_detain,_or_charge_with_legal_action
+Increase_police_alert_status <-- Investigate
+Increase_police_alert_status <-- Express_intent_to_provide_military_aid
+Increase_police_alert_status <-- Confiscate_property
+Increase_police_alert_status <-- Threaten_with_military_force, Express_intent_to_provide_military_aid
+Increase_police_alert_status <-- fight_with_small_arms_and_light_weapons, Arrest,_detain,_or_charge_with_legal_action

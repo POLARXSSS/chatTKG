@@ -1,0 +1,56 @@
+1	0.013513513513513514	0.011904761904761904	1.0	Acknowledge_or_claim_responsibility <-- Mobilize_or_increase_armed_forces
+17	0.22972972972972974	0.000872555561258533	0.031135531135531136	Acknowledge_or_claim_responsibility <-- Make_an_appeal_or_request, Make_statement
+5	0.06756756756756757	0.0038284839203675345	0.14705882352941177	Acknowledge_or_claim_responsibility <-- Arrest,_detain,_or_charge_with_legal_action
+2	0.02702702702702703	0.0017241379310344827	0.2	Acknowledge_or_claim_responsibility <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Express_intent_to_provide_material_aid
+1	0.013513513513513514	0.010416666666666666	0.010416666666666666	Acknowledge_or_claim_responsibility <-- Acknowledge_or_claim_responsibility, Use_conventional_military_force
+1	0.013513513513513514	0.0007057163020465773	0.006329113924050633	Acknowledge_or_claim_responsibility <-- Occupy_territory, Make_statement
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Reject, Make_statement
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Express_intent_to_mediate, Make_statement
+9	0.12162162162162163	0.006194081211286993	0.06382978723404255	Acknowledge_or_claim_responsibility <-- Accuse
+3	0.04054054054054054	0.004297994269340974	0.05172413793103448	Acknowledge_or_claim_responsibility <-- Express_intent_to_provide_material_aid, Make_statement
+24	0.32432432432432434	0.029850746268656716	0.3380281690140845	Acknowledge_or_claim_responsibility <-- Use_conventional_military_force
+8	0.10810810810810811	0.0024898848428260194	0.05194805194805195	Acknowledge_or_claim_responsibility <-- Make_an_appeal_or_request
+6	0.08108108108108109	0.018691588785046728	0.018691588785046728	Acknowledge_or_claim_responsibility <-- Acknowledge_or_claim_responsibility, Make_statement
+11	0.14864864864864866	0.0013560157790927022	0.1134020618556701	Acknowledge_or_claim_responsibility <-- Make_statement
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Make_statement, Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Express_intent_to_mediate
+4	0.05405405405405406	0.0013693940431359123	0.014184397163120567	Acknowledge_or_claim_responsibility <-- Use_conventional_military_force, Make_statement
+3	0.04054054054054054	0.004672897196261682	0.05	Acknowledge_or_claim_responsibility <-- Reject
+2	0.02702702702702703	0.05714285714285714	0.6666666666666666	Acknowledge_or_claim_responsibility <-- Retreat_or_surrender_militarily
+9	0.12162162162162163	0.004736842105263158	0.06923076923076923	Acknowledge_or_claim_responsibility <-- Criticize_or_denounce
+11	0.14864864864864866	0.001310615989515072	0.024553571428571428	Acknowledge_or_claim_responsibility <-- Accuse, Make_statement
+6	0.08108108108108109	0.05084745762711865	0.6	Acknowledge_or_claim_responsibility <-- Occupy_territory
+4	0.05405405405405406	0.010899182561307902	0.1111111111111111	Acknowledge_or_claim_responsibility <-- Retreat_or_surrender_militarily, Make_statement
+4	0.05405405405405406	0.014134275618374558	0.08888888888888889	Acknowledge_or_claim_responsibility <-- Abduct,_hijack,_or_take_hostage
+4	0.05405405405405406	0.045454545454545456	0.36363636363636365	Acknowledge_or_claim_responsibility <-- Use_unconventional_violence, Retreat_or_surrender_militarily
+74	1.0	1.3214285714285714	1.3214285714285714	Acknowledge_or_claim_responsibility <-- Acknowledge_or_claim_responsibility
+11	0.14864864864864866	0.011022044088176353	0.06111111111111111	Acknowledge_or_claim_responsibility <-- Use_unconventional_violence
+2	0.02702702702702703	0.00014230823964707557	0.02531645569620253	Acknowledge_or_claim_responsibility <-- Engage_in_negotiation, Make_statement
+9	0.12162162162162163	0.0006889688432978642	0.020361990950226245	Acknowledge_or_claim_responsibility <-- Criticize_or_denounce, Make_statement
+5	0.06756756756756757	0.0032258064516129032	0.11363636363636363	Acknowledge_or_claim_responsibility <-- Arrest,_detain,_or_charge_with_legal_action, Make_statement
+10	0.13513513513513514	0.0007371369600471767	0.08	Acknowledge_or_claim_responsibility <-- Make_statement, Accuse
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Threaten_with_military_force, Yield
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Grant_diplomatic_recognition, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Host_a_visit, Occupy_territory
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Complain_officially, Mediate
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Provide_humanitarian_aid, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Investigate_war_crimes, Confiscate_property
+6	0.08108108108108109	0.09523809523809523	0.46153846153846156	Acknowledge_or_claim_responsibility <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+10	0.13513513513513514	0.006146281499692686	0.06369426751592357	Acknowledge_or_claim_responsibility <-- Use_conventional_military_force, Arrest,_detain,_or_charge_with_legal_action
+11	0.14864864864864866	0.011022044088176353	0.06111111111111111	Acknowledge_or_claim_responsibility <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Detonate_nuclear_weapons
+12	0.16216216216216217	0.028708133971291867	0.22641509433962265	Acknowledge_or_claim_responsibility <-- fight_with_small_arms_and_light_weapons
+3	0.04054054054054054	0.017341040462427744	0.3	Acknowledge_or_claim_responsibility <-- Abduct,_hijack,_or_take_hostage, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Declare_truce,_ceasefire, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Accuse_of_war_crimes, Defend_verbally
+5	0.06756756756756757	0.13513513513513514	0.8333333333333334	Acknowledge_or_claim_responsibility <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Impose_embargo,_boycott,_or_sanctions, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Engage_in_negotiation, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Threaten_non-force, Refuse_to_yield
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Apologize
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Express_intent_to_cooperate, Cooperate_militarily
+0.0	0.0	0.0	0.0	Acknowledge_or_claim_responsibility <-- Mobilize_or_increase_armed_forces, Demobilize_armed_forces
+2	0.02702702702702703	0.05714285714285714	0.6666666666666666	Acknowledge_or_claim_responsibility <-- Retreat_or_surrender_militarily

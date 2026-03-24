@@ -1,0 +1,2 @@
+Appeal_for_military_protection_or_peacekeeping <-- Demand_humanitarian_aid
+Appeal_for_military_protection_or_peacekeeping <-- Reduce_or_stop_military_assistance

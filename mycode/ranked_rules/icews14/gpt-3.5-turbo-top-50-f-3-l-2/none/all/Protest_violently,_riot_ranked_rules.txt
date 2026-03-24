@@ -1,0 +1,10 @@
+84	0.23931623931623933	3.652173913043478	5.6	Protest_violently,_riot <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Protest_violently,_riot <-- Obstruct_passage_to_demand_leadership_change, Threaten
+17	0.04843304843304843	0.3541666666666667	8.5	Protest_violently,_riot <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Protest_violently,_riot <-- Use_conventional_military_force, Arrest,_detain,_or_charge_with_legal_action
+17	0.04843304843304843	5.666666666666667	8.5	Protest_violently,_riot <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Protest_violently,_riot <-- Use_tactics_of_violent_repression
+351	1.0	3.0258620689655173	3.0258620689655173	Protest_violently,_riot <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Protest_violently,_riot <-- Engage_in_mass_expulsion
+2	0.005698005698005698	0.0024875621890547263	0.18181818181818182	Protest_violently,_riot <-- Use_conventional_military_force
+65	0.18518518518518517	0.2480916030534351	3.611111111111111	Protest_violently,_riot <-- Return,_release_person(s)

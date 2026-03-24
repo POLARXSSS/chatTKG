@@ -1,0 +1,34 @@
+7	0.022727272727272728	0.875	7.0	Provide_humanitarian_aid <-- Appeal_for_humanitarian_aid
+34	0.11038961038961038	0.7555555555555555	1.4782608695652173	Provide_humanitarian_aid <-- Express_intent_to_provide_humanitarian_aid
+37	0.12012987012987013	0.10393258426966293	0.30578512396694213	Provide_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Provide_humanitarian_aid <-- Use_conventional_military_force, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Provide_humanitarian_aid <-- Sexually_assault, Investigate
+71	0.2305194805194805	0.005959375524592916	0.049271339347675226	Provide_humanitarian_aid <-- Accuse, Make_an_appeal_or_request
+15	0.048701298701298704	0.05639097744360902	0.17857142857142858	Provide_humanitarian_aid <-- Express_intent_to_cooperate, Express_intent_to_provide_humanitarian_aid
+49	0.1590909090909091	0.3161290322580645	1.065217391304348	Provide_humanitarian_aid <-- Provide_aid
+15	0.048701298701298704	0.020380434782608696	0.08108108108108109	Provide_humanitarian_aid <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Provide_humanitarian_aid <-- Impose_blockade,_restrict_movement, Ease_administrative_sanctions
+16	0.05194805194805195	0.007508212106992022	0.019253910950661854	Provide_humanitarian_aid <-- Host_a_visit
+22	0.07142857142857142	0.010323791647114031	0.12021857923497267	Provide_humanitarian_aid <-- Make_a_visit
+0.0	0.0	0.0	0.0	Provide_humanitarian_aid <-- Physically_assault, Apologize
+13	0.04220779220779221	0.14444444444444443	0.7222222222222222	Provide_humanitarian_aid <-- Yield
+5	0.016233766233766232	0.0211864406779661	0.14705882352941177	Provide_humanitarian_aid <-- Threaten, Ease_administrative_sanctions
+3	0.00974025974025974	0.1111111111111111	0.75	Provide_humanitarian_aid <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Provide_humanitarian_aid <-- Mediate
+3	0.00974025974025974	0.003089598352214212	0.0297029702970297	Provide_humanitarian_aid <-- Protest_violently,_riot, Make_statement
+11	0.03571428571428571	0.02743142144638404	0.09166666666666666	Provide_humanitarian_aid <-- Engage_in_diplomatic_cooperation, Cooperate_militarily
+46	0.14935064935064934	0.007295796986518636	0.0638002773925104	Provide_humanitarian_aid <-- Consult
+7	0.022727272727272728	0.6363636363636364	1.1666666666666667	Provide_humanitarian_aid <-- Engage_in_judicial_cooperation
+69	0.22402597402597402	0.09126984126984126	0.42857142857142855	Provide_humanitarian_aid <-- Express_intent_to_cooperate
+11	0.03571428571428571	0.5789473684210527	1.375	Provide_humanitarian_aid <-- Provide_military_protection_or_peacekeeping
+11	0.03571428571428571	0.6470588235294118	3.6666666666666665	Provide_humanitarian_aid <-- Appeal_for_economic_cooperation
+87	0.2824675324675325	0.05987611837577426	0.36099585062240663	Provide_humanitarian_aid <-- Accuse
+77	0.25	0.14951456310679612	0.48125	Provide_humanitarian_aid <-- Investigate
+308	1.0	1.6559139784946237	1.6559139784946237	Provide_humanitarian_aid <-- Provide_humanitarian_aid
+34	0.11038961038961038	0.7555555555555555	1.4782608695652173	Provide_humanitarian_aid <-- Express_intent_to_provide_humanitarian_aid
+4	0.012987012987012988	0.057971014492753624	0.5714285714285714	Provide_humanitarian_aid <-- Make_statement, Accede_to_demands_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action, Mobilize_or_increase_police_power
+8	0.025974025974025976	0.005089058524173028	0.035555555555555556	Provide_humanitarian_aid <-- fight_with_small_arms_and_light_weapons, Make_statement
+3	0.00974025974025974	0.08571428571428572	0.2727272727272727	Provide_humanitarian_aid <-- Investigate, Demand_intelligence_cooperation
+16	0.05194805194805195	0.007508212106992022	0.019253910950661854	Provide_humanitarian_aid <-- Host_a_visit
+0.0	0.0	0.0	0.0	Provide_humanitarian_aid <-- Appeal_for_material_cooperation, Cooperate_militarily

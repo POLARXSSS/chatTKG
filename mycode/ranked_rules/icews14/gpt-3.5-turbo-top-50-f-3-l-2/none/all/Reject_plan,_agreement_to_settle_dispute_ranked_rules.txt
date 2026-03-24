@@ -1,0 +1,72 @@
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Violate_ceasefire
+2	0.028985507246376812	0.05405405405405406	0.3333333333333333	Reject_plan,_agreement_to_settle_dispute <-- Refuse_to_yield
+1	0.014492753623188406	0.02	0.5	Reject_plan,_agreement_to_settle_dispute <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Sign_formal_agreement, Violate_ceasefire
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Demand, Refuse_to_yield
+35	0.5072463768115942	0.05451713395638629	0.42168674698795183	Reject_plan,_agreement_to_settle_dispute <-- Reject
+10	0.14492753623188406	0.012437810945273632	0.2	Reject_plan,_agreement_to_settle_dispute <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Destroy_property
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Confiscate_property
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Arrest,_detain,_or_charge_with_legal_action
+7	0.10144927536231885	0.06363636363636363	0.5384615384615384	Reject_plan,_agreement_to_settle_dispute <-- Consult, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Appeal_to_others_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Provide_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+35	0.5072463768115942	0.0004372704330226631	0.00810560444650301	Reject_plan,_agreement_to_settle_dispute <-- Make_a_visit, Host_a_visit
+22	0.3188405797101449	0.08661417322834646	0.39285714285714285	Reject_plan,_agreement_to_settle_dispute <-- Express_intent_to_cooperate, Reject_plan,_agreement_to_settle_dispute
+9	0.13043478260869565	0.10714285714285714	3.0	Reject_plan,_agreement_to_settle_dispute <-- Mobilize_or_increase_armed_forces
+7	0.10144927536231885	0.1044776119402985	1.4	Reject_plan,_agreement_to_settle_dispute <-- Impose_embargo,_boycott,_or_sanctions
+28	0.4057971014492754	0.005116959064327485	0.07197943444730077	Reject_plan,_agreement_to_settle_dispute <-- Express_intent_to_meet_or_negotiate, Reject
+10	0.14492753623188406	0.13513513513513514	1.6666666666666667	Reject_plan,_agreement_to_settle_dispute <-- Threaten_with_military_force
+9	0.13043478260869565	0.03	0.15789473684210525	Reject_plan,_agreement_to_settle_dispute <-- Engage_in_negotiation, Halt_negotiations
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Share_intelligence_or_information, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Coerce
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Halt_mediation
+14	0.2028985507246377	0.5833333333333334	2.0	Reject_plan,_agreement_to_settle_dispute <-- Demonstrate_military_or_police_power
+2	0.028985507246376812	1.0	1.0	Reject_plan,_agreement_to_settle_dispute <-- Veto
+10	0.14492753623188406	0.2222222222222222	2.5	Reject_plan,_agreement_to_settle_dispute <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Mediate, Reject
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Kill_by_physical_assault
+28	0.4057971014492754	0.005116959064327485	0.07197943444730077	Reject_plan,_agreement_to_settle_dispute <-- Express_intent_to_meet_or_negotiate, Reject
+31	0.4492753623188406	0.003813976377952756	0.04952076677316294	Reject_plan,_agreement_to_settle_dispute <-- Consult, Accuse
+17	0.2463768115942029	0.09826589595375723	0.7727272727272727	Reject_plan,_agreement_to_settle_dispute <-- Deny_responsibility
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Reduce_or_stop_economic_assistance
+17	0.2463768115942029	0.003386454183266932	0.056291390728476824	Reject_plan,_agreement_to_settle_dispute <-- Make_statement, Threaten
+10	0.14492753623188406	0.13513513513513514	1.6666666666666667	Reject_plan,_agreement_to_settle_dispute <-- Threaten_with_military_force
+9	0.13043478260869565	0.34615384615384615	3.0	Reject_plan,_agreement_to_settle_dispute <-- Decline_comment
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Refuse_to_ease_administrative_sanctions
+14	0.2028985507246377	0.45161290322580644	1.2727272727272727	Reject_plan,_agreement_to_settle_dispute <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Destroy_property
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Demand, Refuse_to_release_persons_or_property
+4	0.057971014492753624	0.01098901098901099	0.04819277108433735	Reject_plan,_agreement_to_settle_dispute <-- Provide_military_aid, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Accuse_of_aggression
+5	0.07246376811594203	0.07352941176470588	0.35714285714285715	Reject_plan,_agreement_to_settle_dispute <-- Reduce_or_break_diplomatic_relations
+29	0.42028985507246375	0.01995870612525809	0.22137404580152673	Reject_plan,_agreement_to_settle_dispute <-- Accuse
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Appeal_to_others_to_settle_dispute, Reject
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Demand_rights
+7	0.10144927536231885	0.1044776119402985	1.4	Reject_plan,_agreement_to_settle_dispute <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Torture
+2	0.028985507246376812	0.05405405405405406	0.3333333333333333	Reject_plan,_agreement_to_settle_dispute <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Use_tactics_of_violent_repression
+35	0.5072463768115942	0.05451713395638629	0.42168674698795183	Reject_plan,_agreement_to_settle_dispute <-- Reject
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Ban_political_parties_or_politicians
+39	0.5652173913043478	0.020526315789473684	0.19597989949748743	Reject_plan,_agreement_to_settle_dispute <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Physically_assault
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Engage_in_negotiation, Violate_ceasefire
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Accuse_of_war_crimes
+16	0.2318840579710145	0.0110573600552868	0.0599250936329588	Reject_plan,_agreement_to_settle_dispute <-- Host_a_visit, Threaten
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Share_intelligence_or_information, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Obstruct_passage,_block
+10	0.14492753623188406	0.012437810945273632	0.2	Reject_plan,_agreement_to_settle_dispute <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Demand_policy_change
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Seize_or_damage_property
+23	0.3333333333333333	0.054373522458628844	0.5	Reject_plan,_agreement_to_settle_dispute <-- Threaten
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Reject_plan,_agreement_to_settle_dispute <-- Protest_violently,_riot
+10	0.14492753623188406	0.0847457627118644	1.6666666666666667	Reject_plan,_agreement_to_settle_dispute <-- Occupy_territory
+9	0.13043478260869565	0.10714285714285714	3.0	Reject_plan,_agreement_to_settle_dispute <-- Mobilize_or_increase_armed_forces

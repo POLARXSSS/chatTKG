@@ -1,0 +1,47 @@
+Threaten <-- Appeal_for_economic_cooperation, Reject
+Threaten <-- Impose_embargo,_boycott,_or_sanctions, Reduce_relations
+Threaten <-- Kill_by_physical_assault
+Threaten <-- Torture
+Threaten <-- Threaten_with_sanctions,_boycott,_embargo
+Threaten <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Threaten <-- Criticize_or_denounce
+Threaten <-- Give_ultimatum
+Threaten <-- Detonate_nuclear_weapons
+Threaten <-- Sexually_assault
+Threaten <-- Carry_out_car_bombing
+Threaten <-- Employ_aerial_weapons
+Threaten <-- Make_statement, Demand
+Threaten <-- Consult, Reject
+Threaten <-- Threaten_with_military_force
+Threaten <-- Threaten_non-force
+Threaten <-- Threaten_to_reduce_or_stop_aid
+Threaten <-- Threaten_with_political_dissent,_protest
+Threaten <-- Confiscate_property
+Threaten <-- Physically_assault
+Threaten <-- Express_intent_to_meet_or_negotiate, Reject_request_for_change_in_leadership
+Threaten <-- Occupy_territory
+Threaten <-- Carry_out_roadside_bombing
+Threaten <-- Threaten_with_repression
+Threaten <-- fight_with_small_arms_and_light_weapons
+Threaten <-- Threaten
+Threaten <-- Mobilize_or_increase_armed_forces
+Threaten <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+Threaten <-- fight_with_artillery_and_tanks
+Threaten <-- Accuse
+Threaten <-- Expel_or_withdraw
+Threaten <-- Accuse_of_human_rights_abuses
+Threaten <-- Use_unconventional_violence
+Threaten <-- Seize_or_damage_property
+Threaten <-- Complain_officially
+Threaten <-- Demand_that_target_yields
+Threaten <-- Increase_military_alert_status
+Threaten <-- Engage_in_mass_killings
+Threaten <-- Use_conventional_military_force
+Threaten <-- Refuse_to_yield
+Threaten <-- Accuse_of_war_crimes
+Threaten <-- Reject_plan,_agreement_to_settle_dispute
+Threaten <-- Use_chemical,_biological,_or_radiological_weapons
+Threaten <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Threaten <-- Impose_embargo,_boycott,_or_sanctions
+Threaten <-- Ban_political_parties_or_politicians
+Threaten <-- Reduce_relations

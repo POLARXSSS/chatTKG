@@ -1,0 +1,32 @@
+Appeal_for_rights <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_rights <-- Use_conventional_military_force, Accuse_of_human_rights_abuses
+Appeal_for_rights <-- fight_with_small_arms_and_light_weapons, Accuse_of_human_rights_abuses
+Appeal_for_rights <-- Reject_request_for_change_in_leadership, Demand_rights
+Appeal_for_rights <-- Engage_in_violent_protest_for_rights
+Appeal_for_rights <-- Impose_restrictions_on_political_freedoms
+Appeal_for_rights <-- fight_with_artillery_and_tanks, Accuse_of_human_rights_abuses
+Appeal_for_rights <-- Confiscate_property, Demand_release_of_persons_or_property
+Appeal_for_rights <-- Investigate, Demand_rights
+Appeal_for_rights <-- Protest_violently,_riot, Demand_rights
+Appeal_for_rights <-- Criticize_or_denounce, Demand_rights
+Appeal_for_rights <-- Use_tactics_of_violent_repression
+Appeal_for_rights <-- Complain_officially, Demand_rights
+Appeal_for_rights <-- Use_unconventional_violence, Accuse_of_human_rights_abuses
+Appeal_for_rights <-- Expel_or_deport_individuals, Demand_release_of_persons_or_property
+Appeal_for_rights <-- Accuse_of_human_rights_abuses
+Appeal_for_rights <-- Host_a_visit, Express_intent_to_meet_or_negotiate
+Appeal_for_rights <-- Demand_rights
+Appeal_for_rights <-- Consider_policy_option, Demand_rights
+Appeal_for_rights <-- Conduct_hunger_strike, Express_intent_to_meet_or_negotiate
+Appeal_for_rights <-- Abduct,_hijack,_or_take_hostage, Demand_release_of_persons_or_property
+Appeal_for_rights <-- Torture
+Appeal_for_rights <-- Threaten, Demand_rights
+Appeal_for_rights <-- Engage_in_mass_killings, Accuse_of_war_crimes
+Appeal_for_rights <-- Threaten_with_sanctions,_boycott,_embargo, Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+Appeal_for_rights <-- Make_statement, Demand_rights
+Appeal_for_rights <-- Kill_by_physical_assault
+Appeal_for_rights <-- Arrest,_detain,_or_charge_with_legal_action, Express_intent_to_release_persons_or_property
+Appeal_for_rights <-- Impose_state_of_emergency_or_martial_law, Demand_de-escalation_of_military_engagement
+Appeal_for_rights <-- Demonstrate_for_policy_change, Demand_rights
+Appeal_for_rights <-- Ban_political_parties_or_politicians, Demand_political_reform
+Appeal_for_rights <-- Refuse_to_yield, Demand_rights

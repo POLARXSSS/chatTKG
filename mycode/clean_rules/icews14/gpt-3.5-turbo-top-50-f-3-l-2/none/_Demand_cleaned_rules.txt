@@ -1,0 +1,50 @@
+Demand <-- Violate_ceasefire, Demand
+Demand <-- Express_accord, Demand
+Demand <-- Torture, Make_statement
+Demand <-- Expel_or_deport_individuals, Demand
+Demand <-- Make_an_appeal_or_request, Engage_in_material_cooperation
+Demand <-- Express_intent_to_meet_or_negotiate
+Demand <-- Yield
+Demand <-- Complain_officially, Demand
+Demand <-- Arrest,_detain,_or_charge_with_legal_action
+Demand <-- Impose_embargo,_boycott,_or_sanctions
+Demand <-- Give_ultimatum
+Demand <-- Mediate, Demand
+Demand <-- Occupy_territory, Demand
+Demand <-- Reduce_relations, Demand
+Demand <-- Use_conventional_military_force
+Demand <-- Declare_truce,_ceasefire, Demand
+Demand <-- Accuse
+Demand <-- Provide_humanitarian_aid, Demand
+Demand <-- Mobilize_or_increase_armed_forces, Demand
+Demand <-- Use_unconventional_violence, Make_statement
+Demand <-- Abduct,_hijack,_or_take_hostage
+Demand <-- Praise_or_endorse, Demand
+Demand <-- Receive_deployment_of_peacekeepers, Demand
+Demand <-- Reject, Make_an_appeal_or_request
+Demand <-- Grant_asylum, Demand
+Demand <-- Ban_political_parties_or_politicians, Demand
+Demand <-- Make_statement, Consult
+Demand <-- Confiscate_property, Return,_release_person(s)
+Demand <-- Demobilize_armed_forces, Demand
+Demand <-- Provide_aid
+Demand <-- Engage_in_diplomatic_cooperation
+Demand <-- Make_an_appeal_or_request
+Demand <-- Rally_opposition_against, Demand
+Demand <-- Share_intelligence_or_information, Demand
+Demand <-- Investigate, Demand
+Demand <-- Threaten
+Demand <-- Deny_responsibility, Demand
+Demand <-- Make_statement
+Demand <-- Defy_norms,_law, Demand
+Demand <-- Obstruct_passage,_block, Demand
+Demand <-- Refuse_to_yield
+Demand <-- Protest_violently,_riot
+Demand <-- Accuse, Criticize_or_denounce
+Demand <-- Conduct_strike_or_boycott, Demand
+Demand <-- Veto, Demand
+Demand <-- Halt_negotiations, Demand
+Demand <-- Sign_formal_agreement, Demand
+Demand <-- Make_a_visit, Make_statement
+Demand <-- Coerce, Demand
+Demand <-- Threaten, Express_intent_to_cooperate

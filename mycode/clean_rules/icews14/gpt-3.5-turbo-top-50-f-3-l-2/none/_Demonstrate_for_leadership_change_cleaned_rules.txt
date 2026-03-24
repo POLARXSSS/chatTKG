@@ -1,0 +1,50 @@
+Demonstrate_for_leadership_change <-- Destroy_property, Make_statement
+Demonstrate_for_leadership_change <-- Detonate_nuclear_weapons, Make_statement
+Demonstrate_for_leadership_change <-- Ban_political_parties_or_politicians
+Demonstrate_for_leadership_change <-- Impose_embargo,_boycott,_or_sanctions
+Demonstrate_for_leadership_change <-- Physically_assault, Make_statement
+Demonstrate_for_leadership_change <-- Demonstrate_or_rally
+Demonstrate_for_leadership_change <-- Use_conventional_military_force, Defend_verbally
+Demonstrate_for_leadership_change <-- fight_with_artillery_and_tanks, Make_statement
+Demonstrate_for_leadership_change <-- Increase_military_alert_status, Make_statement
+Demonstrate_for_leadership_change <-- Demand_that_target_yields, Refuse_to_yield
+Demonstrate_for_leadership_change <-- Conduct_strike_or_boycott
+Demonstrate_for_leadership_change <-- fight_with_small_arms_and_light_weapons, Make_statement
+Demonstrate_for_leadership_change <-- Sign_formal_agreement, Reject_plan,_agreement_to_settle_dispute
+Demonstrate_for_leadership_change <-- Veto, Make_statement
+Demonstrate_for_leadership_change <-- Obstruct_passage,_block
+Demonstrate_for_leadership_change <-- Threaten_with_military_force, Make_statement
+Demonstrate_for_leadership_change <-- Investigate_human_rights_abuses, Make_statement
+Demonstrate_for_leadership_change <-- Engage_in_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Demonstrate_for_leadership_change <-- Mobilize_or_increase_armed_forces, Make_statement
+Demonstrate_for_leadership_change <-- Discuss_by_telephone, Decline_comment
+Demonstrate_for_leadership_change <-- Expel_or_deport_individuals, Make_statement
+Demonstrate_for_leadership_change <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation
+Demonstrate_for_leadership_change <-- Carry_out_roadside_bombing, Make_statement
+Demonstrate_for_leadership_change <-- Use_chemical,_biological,_or_radiological_weapons, Make_statement
+Demonstrate_for_leadership_change <-- Arrest,_detain,_or_charge_with_legal_action, Make_statement
+Demonstrate_for_leadership_change <-- Kill_by_physical_assault, Make_statement
+Demonstrate_for_leadership_change <-- Use_tactics_of_violent_repression, Make_statement
+Demonstrate_for_leadership_change <-- Demonstrate_for_policy_change, Make_statement
+Demonstrate_for_leadership_change <-- Threaten_with_repression, Make_statement
+Demonstrate_for_leadership_change <-- Give_ultimatum, Reject
+Demonstrate_for_leadership_change <-- Increase_police_alert_status, Make_statement
+Demonstrate_for_leadership_change <-- Impose_state_of_emergency_or_martial_law
+Demonstrate_for_leadership_change <-- Employ_aerial_weapons, Make_statement
+Demonstrate_for_leadership_change <-- Attempt_to_assassinate, Make_statement
+Demonstrate_for_leadership_change <-- Appeal_for_change_in_leadership
+Demonstrate_for_leadership_change <-- Conduct_hunger_strike
+Demonstrate_for_leadership_change <-- Demonstrate_for_leadership_change, Praise_or_endorse
+Demonstrate_for_leadership_change <-- Sexually_assault, Make_statement
+Demonstrate_for_leadership_change <-- Express_intent_to_change_leadership
+Demonstrate_for_leadership_change <-- Carry_out_suicide_bombing, Make_statement
+Demonstrate_for_leadership_change <-- Torture, Make_statement
+Demonstrate_for_leadership_change <-- Mobilize_or_increase_police_power, Make_statement
+Demonstrate_for_leadership_change <-- Criticize_or_denounce
+Demonstrate_for_leadership_change <-- Complain_officially
+Demonstrate_for_leadership_change <-- Carry_out_car_bombing, Make_statement
+Demonstrate_for_leadership_change <-- Seize_or_damage_property, Make_statement
+Demonstrate_for_leadership_change <-- Use_as_human_shield, Make_statement
+Demonstrate_for_leadership_change <-- Demand_change_in_leadership
+Demonstrate_for_leadership_change <-- Protest_violently,_riot
+Demonstrate_for_leadership_change <-- Abduct,_hijack,_or_take_hostage, Make_statement

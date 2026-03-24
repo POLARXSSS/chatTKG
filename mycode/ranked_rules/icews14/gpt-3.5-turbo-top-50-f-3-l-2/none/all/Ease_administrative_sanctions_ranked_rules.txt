@@ -1,0 +1,50 @@
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+55	0.3021978021978022	0.07275132275132275	0.34375	Ease_administrative_sanctions <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Provide_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Express_intent_to_change_policy, Demand_rights
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Demand_easing_of_administrative_sanctions, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Engage_in_diplomatic_cooperation, Express_accord
+1	0.005494505494505495	0.05555555555555555	0.16666666666666666	Ease_administrative_sanctions <-- Appeal_for_easing_of_administrative_sanctions
+1	0.005494505494505495	0.015384615384615385	0.05263157894736842	Ease_administrative_sanctions <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+67	0.36813186813186816	0.25572519083969464	1.046875	Ease_administrative_sanctions <-- Return,_release_person(s)
+1	0.005494505494505495	0.015151515151515152	0.07142857142857142	Ease_administrative_sanctions <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Meet_at_a_'third'_location, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Demonstrate_or_rally, Defend_verbally
+2	0.01098901098901099	0.5	1.0	Ease_administrative_sanctions <-- Ease_curfew
+20	0.10989010989010989	0.015048908954100828	0.08733624454148471	Ease_administrative_sanctions <-- Investigate, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Express_intent_to_de-escalate_military_engagement, Engage_in_negotiation
+1	0.005494505494505495	0.1	0.3333333333333333	Ease_administrative_sanctions <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Apologize
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Abduct,_hijack,_or_take_hostage, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Express_intent_to_provide_material_aid, Engage_in_material_cooperation
+67	0.36813186813186816	0.25572519083969464	1.046875	Ease_administrative_sanctions <-- Return,_release_person(s)
+2	0.01098901098901099	0.5	1.0	Ease_administrative_sanctions <-- Ease_curfew
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Grant_diplomatic_recognition
+3	0.016483516483516484	0.2727272727272727	1.5	Ease_administrative_sanctions <-- Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Use_conventional_military_force, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Apologize
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Sign_formal_agreement
+38	0.2087912087912088	0.20430107526881722	0.926829268292683	Ease_administrative_sanctions <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Ease_military_blockade
+1	0.005494505494505495	0.010101010101010102	0.029411764705882353	Ease_administrative_sanctions <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Reduce_relations, Express_intent_to_engage_in_material_cooperation
+25	0.13736263736263737	0.0702247191011236	0.33783783783783783	Ease_administrative_sanctions <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+38	0.2087912087912088	0.5135135135135135	4.222222222222222	Ease_administrative_sanctions <-- Express_accord
+4	0.02197802197802198	0.044444444444444446	0.19047619047619047	Ease_administrative_sanctions <-- Yield
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Receive_inspectors
+3	0.016483516483516484	0.024390243902439025	0.16666666666666666	Ease_administrative_sanctions <-- Criticize_or_denounce, Apologize
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Ease_political_dissent
+1	0.005494505494505495	0.0008620689655172414	0.008064516129032258	Ease_administrative_sanctions <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Reject, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Make_an_appeal_or_request, Acknowledge_or_claim_responsibility
+1	0.005494505494505495	0.023809523809523808	0.1111111111111111	Ease_administrative_sanctions <-- Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Impose_restrictions_on_political_freedoms, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Ease_administrative_sanctions <-- Declare_truce,_ceasefire
+56	0.3076923076923077	0.04964539007092199	0.45161290322580644	Ease_administrative_sanctions <-- Make_an_appeal_or_request, Provide_humanitarian_aid
+13	0.07142857142857142	0.004561403508771929	0.04659498207885305	Ease_administrative_sanctions <-- Threaten, Express_intent_to_meet_or_negotiate
+1	0.005494505494505495	0.1	0.3333333333333333	Ease_administrative_sanctions <-- Ease_economic_sanctions,_boycott,_embargo
+4	0.02197802197802198	0.025806451612903226	0.125	Ease_administrative_sanctions <-- Provide_aid

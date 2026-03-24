@@ -1,0 +1,173 @@
+Express_intent_to_provide_economic_aid <-- Threaten, Make_statement
+Express_intent_to_provide_economic_aid <-- fight_with_artillery_and_tanks, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_economic_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Physically_assault, Make_statement
+Express_intent_to_provide_economic_aid <-- Ease_economic_sanctions,_boycott,_embargo, Express_intent_to_cooperate
+Express_intent_to_provide_economic_aid <-- Refuse_to_de-escalate_military_engagement, Make_statement
+Express_intent_to_provide_economic_aid <-- Accuse_of_war_crimes, Make_statement
+Express_intent_to_provide_economic_aid <-- Engage_in_mass_killings, Make_statement
+Express_intent_to_provide_economic_aid <-- Engage_in_political_dissent, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_military_protection_or_peacekeeping, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_material_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Provide_military_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Ease_political_dissent, Make_statement
+Express_intent_to_provide_economic_aid <-- Accede_to_requests_or_demands_for_political_reform, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_to_yield, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_change_in_institutions,_regime, Make_statement
+Express_intent_to_provide_economic_aid <-- Reject_plan,_agreement_to_settle_dispute, Make_statement
+Express_intent_to_provide_economic_aid <-- Cooperate_militarily, Make_statement
+Express_intent_to_provide_economic_aid <-- Refuse_to_ease_administrative_sanctions, Make_statement
+Express_intent_to_provide_economic_aid <-- Reject_material_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Threaten_to_reduce_or_break_relations, Make_statement
+Express_intent_to_provide_economic_aid <-- Expel_or_withdraw_peacekeepers, Make_statement
+Express_intent_to_provide_economic_aid <-- Demobilize_armed_forces, Make_statement
+Express_intent_to_provide_economic_aid <-- Use_chemical,_biological,_or_radiological_weapons, Make_statement
+Express_intent_to_provide_economic_aid <-- Provide_humanitarian_aid
+Express_intent_to_provide_economic_aid <-- Apologize
+Express_intent_to_provide_economic_aid <-- Demonstrate_for_policy_change, Make_statement
+Express_intent_to_provide_economic_aid <-- Engage_in_diplomatic_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Receive_inspectors, Make_statement
+Express_intent_to_provide_economic_aid <-- Threaten_with_military_force, Make_statement
+Express_intent_to_provide_economic_aid <-- Engage_in_symbolic_act, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_change_institutions,_regime, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_change_leadership, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Violate_ceasefire, Make_statement
+Express_intent_to_provide_economic_aid <-- Conduct_hunger_strike, Make_statement
+Express_intent_to_provide_economic_aid <-- Kill_by_physical_assault, Make_statement
+Express_intent_to_provide_economic_aid <-- Reduce_or_stop_material_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_cooperate_economically
+Express_intent_to_provide_economic_aid <-- Threaten_to_halt_negotiations, Make_statement
+Express_intent_to_provide_economic_aid <-- Bring_lawsuit_against, Make_statement
+Express_intent_to_provide_economic_aid <-- Threaten_with_political_dissent,_protest, Make_statement
+Express_intent_to_provide_economic_aid <-- Reject, Make_statement
+Express_intent_to_provide_economic_aid <-- Investigate_crime,_corruption, Make_statement
+Express_intent_to_provide_economic_aid <-- Receive_deployment_of_peacekeepers, Make_statement
+Express_intent_to_provide_economic_aid <-- Reduce_relations, Make_statement
+Express_intent_to_provide_economic_aid <-- Forgive
+Express_intent_to_provide_economic_aid <-- Impose_state_of_emergency_or_martial_law, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_cooperate_militarily, Make_statement
+Express_intent_to_provide_economic_aid <-- Carry_out_roadside_bombing, Make_statement
+Express_intent_to_provide_economic_aid <-- Yield
+Express_intent_to_provide_economic_aid <-- Threaten_to_halt_mediation, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Express_intent_to_provide_economic_aid <-- Reject_judicial_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Seize_or_damage_property, Make_statement
+Express_intent_to_provide_economic_aid <-- Provide_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_easing_of_administrative_sanctions, Make_statement
+Express_intent_to_provide_economic_aid <-- Obstruct_passage_to_demand_leadership_change, Make_statement
+Express_intent_to_provide_economic_aid <-- Reject_request_for_military_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Threaten_with_sanctions,_boycott,_embargo, Make_statement
+Express_intent_to_provide_economic_aid <-- Veto, Make_statement
+Express_intent_to_provide_economic_aid <-- Refuse_to_yield, Make_statement
+Express_intent_to_provide_economic_aid <-- Torture, Make_statement
+Express_intent_to_provide_economic_aid <-- Halt_negotiations, Make_statement
+Express_intent_to_provide_economic_aid <-- Ease_state_of_emergency_or_martial_law, Make_statement
+Express_intent_to_provide_economic_aid <-- Accuse_of_espionage,_treason, Make_statement
+Express_intent_to_provide_economic_aid <-- Mobilize_or_increase_police_power, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_military_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Reject_request_for_military_protection_or_peacekeeping, Make_statement
+Express_intent_to_provide_economic_aid <-- Impose_restrictions_on_political_freedoms, Make_statement
+Express_intent_to_provide_economic_aid <-- Conduct_strike_or_boycott, Make_empathetic_comment
+Express_intent_to_provide_economic_aid <-- Accede_to_demands_for_rights, Make_statement
+Express_intent_to_provide_economic_aid <-- fight_with_small_arms_and_light_weapons, Make_statement
+Express_intent_to_provide_economic_aid <-- Demonstrate_for_leadership_change, Make_statement
+Express_intent_to_provide_economic_aid <-- Give_ultimatum, Make_statement
+Express_intent_to_provide_economic_aid <-- Sexually_assault, Make_statement
+Express_intent_to_provide_economic_aid <-- Engage_in_material_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Threaten_to_reduce_or_stop_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_cooperate_on_intelligence, Make_statement
+Express_intent_to_provide_economic_aid <-- Acknowledge_or_claim_responsibility, Make_statement
+Express_intent_to_provide_economic_aid <-- Retreat_or_surrender_militarily, Make_statement
+Express_intent_to_provide_economic_aid <-- Increase_police_alert_status, Make_statement
+Express_intent_to_provide_economic_aid <-- Provide_economic_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_provide_military_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_humanitarian_aid, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Make_statement
+Express_intent_to_provide_economic_aid <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo, Make_statement
+Express_intent_to_provide_economic_aid <-- Complain_officially, Make_optimistic_comment
+Express_intent_to_provide_economic_aid <-- Ease_military_blockade, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_ease_administrative_sanctions, Make_statement
+Express_intent_to_provide_economic_aid <-- Reduce_or_stop_humanitarian_assistance, Make_statement
+Express_intent_to_provide_economic_aid <-- Impose_blockade,_restrict_movement, Make_statement
+Express_intent_to_provide_economic_aid <-- Praise_or_endorse
+Express_intent_to_provide_economic_aid <-- Investigate_war_crimes, Make_statement
+Express_intent_to_provide_economic_aid <-- Rally_support_on_behalf_of, Make_statement
+Express_intent_to_provide_economic_aid <-- Mediate
+Express_intent_to_provide_economic_aid <-- Express_intent_to_yield, Make_statement
+Express_intent_to_provide_economic_aid <-- Grant_asylum, Make_statement
+Express_intent_to_provide_economic_aid <-- Investigate, Make_statement
+Express_intent_to_provide_economic_aid <-- Refuse_to_release_persons_or_property, Make_statement
+Express_intent_to_provide_economic_aid <-- Employ_aerial_weapons, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_accept_mediation, Make_statement
+Express_intent_to_provide_economic_aid <-- Protest_violently,_riot, Make_an_appeal_or_request
+Express_intent_to_provide_economic_aid <-- Engage_in_violent_protest_for_rights, Make_statement
+Express_intent_to_provide_economic_aid <-- Engage_in_mass_expulsion, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_judicial_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_engage_in_material_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping, Make_statement
+Express_intent_to_provide_economic_aid <-- Threaten_with_repression, Make_statement
+Express_intent_to_provide_economic_aid <-- Confiscate_property, Make_statement
+Express_intent_to_provide_economic_aid <-- Reduce_or_stop_military_assistance, Make_statement
+Express_intent_to_provide_economic_aid <-- Provide_military_protection_or_peacekeeping, Make_statement
+Express_intent_to_provide_economic_aid <-- Attempt_to_assassinate, Make_statement
+Express_intent_to_provide_economic_aid <-- Impose_embargo,_boycott,_or_sanctions, Ease_economic_sanctions,_boycott,_embargo
+Express_intent_to_provide_economic_aid <-- Impose_administrative_sanctions, Make_statement
+Express_intent_to_provide_economic_aid <-- Carry_out_car_bombing, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_change_policy, Make_statement
+Express_intent_to_provide_economic_aid <-- Consult
+Express_intent_to_provide_economic_aid <-- Express_accord, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_to_others_to_meet_or_negotiate, Make_statement
+Express_intent_to_provide_economic_aid <-- Use_unconventional_violence, Make_statement
+Express_intent_to_provide_economic_aid <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+Express_intent_to_provide_economic_aid <-- Expel_or_withdraw, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_change_in_leadership, Make_statement
+Express_intent_to_provide_economic_aid <-- Threaten_non-force, Make_statement
+Express_intent_to_provide_economic_aid <-- Reject_economic_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_to_others_to_settle_dispute, Make_statement
+Express_intent_to_provide_economic_aid <-- Deny_responsibility, Make_statement
+Express_intent_to_provide_economic_aid <-- Accuse_of_aggression, Make_statement
+Express_intent_to_provide_economic_aid <-- Reject_military_cooperation, Make_statement
+Express_intent_to_provide_economic_aid <-- Use_as_human_shield, Make_statement
+Express_intent_to_provide_economic_aid <-- Investigate_human_rights_abuses, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_cooperate_on_judicial_matters, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_release_persons_or_property, Make_statement
+Express_intent_to_provide_economic_aid <-- Grant_diplomatic_recognition
+Express_intent_to_provide_economic_aid <-- Obstruct_passage,_block, Make_statement
+Express_intent_to_provide_economic_aid <-- Increase_military_alert_status, Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_institute_political_reform, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_de-escalation_of_military_engagement, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_to_engage_in_or_accept_mediation, Make_statement
+Express_intent_to_provide_economic_aid <-- Rally_opposition_against, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_rights, Make_statement
+Express_intent_to_provide_economic_aid <-- Sign_formal_agreement
+Express_intent_to_provide_economic_aid <-- Consider_policy_option
+Express_intent_to_provide_economic_aid <-- Express_intent_to_settle_dispute, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_intelligence, Make_statement
+Express_intent_to_provide_economic_aid <-- Detonate_nuclear_weapons, Make_statement
+Express_intent_to_provide_economic_aid <-- Accede_to_demands_for_change_in_policy
+Express_intent_to_provide_economic_aid <-- Ease_curfew, Make_statement
+Express_intent_to_provide_economic_aid <-- Accuse_of_crime,_corruption, Make_statement
+Express_intent_to_provide_economic_aid <-- Mobilize_or_increase_armed_forces, Express_intent_to_de-escalate_military_engagement
+Express_intent_to_provide_economic_aid <-- Demonstrate_military_or_police_power, Make_statement
+Express_intent_to_provide_economic_aid <-- Assassinate, Make_statement
+Express_intent_to_provide_economic_aid <-- Discuss_by_telephone
+Express_intent_to_provide_economic_aid <-- Defend_verbally
+Express_intent_to_provide_economic_aid <-- Appeal_for_release_of_persons_or_property, Make_statement
+Express_intent_to_provide_economic_aid <-- Decline_comment, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_target_to_allow_international_involvement_(non-mediation), Make_statement
+Express_intent_to_provide_economic_aid <-- Express_intent_to_mediate, Make_statement
+Express_intent_to_provide_economic_aid <-- Carry_out_suicide_bombing, Make_statement
+Express_intent_to_provide_economic_aid <-- Reduce_or_break_diplomatic_relations, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_political_reform, Make_statement
+Express_intent_to_provide_economic_aid <-- Destroy_property, Make_statement
+Express_intent_to_provide_economic_aid <-- Demonstrate_or_rally, Make_statement
+Express_intent_to_provide_economic_aid <-- Accuse_of_human_rights_abuses, Make_statement
+Express_intent_to_provide_economic_aid <-- Appeal_for_economic_aid
+Express_intent_to_provide_economic_aid <-- Conduct_suicide,_car,_or_other_non-military_bombing, Make_statement
+Express_intent_to_provide_economic_aid <-- Criticize_or_denounce, Make_an_appeal_or_request
+Express_intent_to_provide_economic_aid <-- Ban_political_parties_or_politicians, Make_statement
+Express_intent_to_provide_economic_aid <-- Threaten_with_administrative_sanctions, Make_statement
+Express_intent_to_provide_economic_aid <-- Halt_mediation, Make_statement
+Express_intent_to_provide_economic_aid <-- Demand_economic_aid
+Express_intent_to_provide_economic_aid <-- Appeal_for_policy_change, Make_statement

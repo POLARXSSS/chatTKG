@@ -1,0 +1,16 @@
+Accuse_of_human_rights_abuses <-- Return,_release_person(s), Make_statement
+Accuse_of_human_rights_abuses <-- Accuse_of_war_crimes
+Accuse_of_human_rights_abuses <-- Accuse_of_human_rights_abuses, Make_statement
+Accuse_of_human_rights_abuses <-- Make_an_appeal_or_request
+Accuse_of_human_rights_abuses <-- Accuse_of_human_rights_abuses
+Accuse_of_human_rights_abuses <-- Make_an_appeal_or_request, Make_statement
+Accuse_of_human_rights_abuses <-- Make_statement
+Accuse_of_human_rights_abuses <-- Engage_in_diplomatic_cooperation
+Accuse_of_human_rights_abuses <-- Criticize_or_denounce
+Accuse_of_human_rights_abuses <-- Use_conventional_military_force
+Accuse_of_human_rights_abuses <-- Accuse_of_war_crimes, Use_conventional_military_force
+Accuse_of_human_rights_abuses <-- Accuse
+Accuse_of_human_rights_abuses <-- Abduct,_hijack,_or_take_hostage
+Accuse_of_human_rights_abuses <-- Sign_formal_agreement
+Accuse_of_human_rights_abuses <-- Criticize_or_denounce, Make_statement
+Accuse_of_human_rights_abuses <-- Return,_release_person(s)

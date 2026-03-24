@@ -1,0 +1,4 @@
+Accuse_of_aggression <-- Accuse_of_aggression
+Accuse_of_aggression <-- Occupy_territory, Threaten_with_military_force
+Accuse_of_aggression <-- Discuss_by_telephone, Appeal_for_de-escalation_of_military_engagement
+Accuse_of_aggression <-- Violate_ceasefire

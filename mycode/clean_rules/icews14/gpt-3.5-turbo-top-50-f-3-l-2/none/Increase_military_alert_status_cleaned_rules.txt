@@ -1,0 +1,170 @@
+Increase_military_alert_status <-- Provide_military_aid
+Increase_military_alert_status <-- Criticize_or_denounce
+Increase_military_alert_status <-- Demand_rights, Cooperate_militarily
+Increase_military_alert_status <-- Express_intent_to_provide_military_aid, Cooperate_militarily
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_change_institutions,_regime
+Increase_military_alert_status <-- Demand_policy_change, Demonstrate_military_or_police_power
+Increase_military_alert_status <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+Increase_military_alert_status <-- Demand_rights, Yield
+Increase_military_alert_status <-- Demand_material_cooperation, Reject_military_cooperation
+Increase_military_alert_status <-- Demand_change_in_leadership, Reject_request_for_change_in_leadership
+Increase_military_alert_status <-- Threaten_with_military_force, Threaten_with_repression
+Increase_military_alert_status <-- Threaten_to_reduce_or_stop_aid, Reduce_or_stop_military_assistance
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate_militarily
+Increase_military_alert_status <-- Protest_violently,_riot
+Increase_military_alert_status <-- Threaten_to_reduce_or_break_relations, Reduce_or_break_diplomatic_relations
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_settle_dispute
+Increase_military_alert_status <-- Demand_material_aid, Reject_material_cooperation
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_engage_in_material_cooperation
+Increase_military_alert_status <-- Demand_rights, Provide_humanitarian_aid
+Increase_military_alert_status <-- Impose_restrictions_on_political_freedoms
+Increase_military_alert_status <-- Use_conventional_military_force, fight_with_artillery_and_tanks
+Increase_military_alert_status <-- Demand_rights, Sign_formal_agreement
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Increase_military_alert_status <-- Impose_state_of_emergency_or_martial_law
+Increase_military_alert_status <-- Confiscate_property
+Increase_military_alert_status <-- Engage_in_mass_killings
+Increase_military_alert_status <-- Increase_military_alert_status, Threaten_with_military_force
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_change_policy
+Increase_military_alert_status <-- Demand_change_in_leadership
+Increase_military_alert_status <-- Refuse_to_yield
+Increase_military_alert_status <-- Threaten_with_military_force
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_accept_mediation
+Increase_military_alert_status <-- Violate_ceasefire
+Increase_military_alert_status <-- Reject_plan,_agreement_to_settle_dispute
+Increase_military_alert_status <-- Demand_de-escalation_of_military_engagement, Refuse_to_de-escalate_military_engagement
+Increase_military_alert_status <-- Demand_rights, Share_intelligence_or_information
+Increase_military_alert_status <-- Demand_rights, Engage_in_diplomatic_cooperation
+Increase_military_alert_status <-- Demand_rights, Engage_in_judicial_cooperation
+Increase_military_alert_status <-- Arrest,_detain,_or_charge_with_legal_action
+Increase_military_alert_status <-- Detonate_nuclear_weapons
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_de-escalate_military_engagement
+Increase_military_alert_status <-- Threaten_with_military_force, Give_ultimatum
+Increase_military_alert_status <-- Threaten_with_political_dissent,_protest
+Increase_military_alert_status <-- Demand_rights, Grant_asylum
+Increase_military_alert_status <-- Threaten_to_halt_mediation
+Increase_military_alert_status <-- Accuse_of_war_crimes
+Increase_military_alert_status <-- Demand_intelligence_cooperation, Reject_military_cooperation
+Increase_military_alert_status <-- Demand_rights, Consult
+Increase_military_alert_status <-- Use_conventional_military_force
+Increase_military_alert_status <-- Halt_mediation
+Increase_military_alert_status <-- Demand_rights, Engage_in_violent_protest_for_rights
+Increase_military_alert_status <-- Threaten_to_reduce_or_stop_aid
+Increase_military_alert_status <-- Provide_military_protection_or_peacekeeping, Reject_request_for_military_protection_or_peacekeeping
+Increase_military_alert_status <-- Give_ultimatum
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_meet_or_negotiate
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_ease_administrative_sanctions
+Increase_military_alert_status <-- Carry_out_car_bombing
+Increase_military_alert_status <-- Appeal_for_military_protection_or_peacekeeping
+Increase_military_alert_status <-- fight_with_artillery_and_tanks
+Increase_military_alert_status <-- Express_intent_to_change_leadership, Protest_violently,_riot
+Increase_military_alert_status <-- Increase_military_alert_status, Violate_ceasefire
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_change_leadership
+Increase_military_alert_status <-- Seize_or_damage_property
+Increase_military_alert_status <-- Threaten_with_sanctions,_boycott,_embargo, Reduce_or_break_diplomatic_relations
+Increase_military_alert_status <-- Destroy_property
+Increase_military_alert_status <-- Demand_military_aid, Express_intent_to_provide_military_aid
+Increase_military_alert_status <-- Accuse_of_war_crimes, Impose_administrative_sanctions
+Increase_military_alert_status <-- Threaten_to_halt_negotiations, Halt_negotiations
+Increase_military_alert_status <-- Demand_change_in_institutions,_regime
+Increase_military_alert_status <-- Accuse_of_aggression
+Increase_military_alert_status <-- Demand_change_in_leadership, Coerce
+Increase_military_alert_status <-- Demand_rights, Engage_in_material_cooperation
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_yield
+Increase_military_alert_status <-- Cooperate_militarily
+Increase_military_alert_status <-- Demand_rights, Investigate_crime,_corruption
+Increase_military_alert_status <-- Accuse_of_aggression, Impose_embargo,_boycott,_or_sanctions
+Increase_military_alert_status <-- Occupy_territory, Seize_or_damage_property
+Increase_military_alert_status <-- Demand_rights, Consider_policy_option
+Increase_military_alert_status <-- Demand_rights, Forgive
+Increase_military_alert_status <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Increase_military_alert_status <-- Mobilize_or_increase_armed_forces
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_release_persons_or_property
+Increase_military_alert_status <-- Demand_rights, Return,_release_property
+Increase_military_alert_status <-- Demand_rights, Accuse_of_human_rights_abuses
+Increase_military_alert_status <-- Demand_rights, Engage_in_negotiation
+Increase_military_alert_status <-- Demand_rights, Discuss_by_telephone
+Increase_military_alert_status <-- Obstruct_passage,_block
+Increase_military_alert_status <-- Demand_settling_of_dispute, Reject_plan,_agreement_to_settle_dispute
+Increase_military_alert_status <-- Threaten_non-force
+Increase_military_alert_status <-- Threaten_with_sanctions,_boycott,_embargo
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_mediate
+Increase_military_alert_status <-- Demand_rights, Bring_lawsuit_against
+Increase_military_alert_status <-- Demand_that_target_yields, Refuse_to_yield
+Increase_military_alert_status <-- Demand_rights, Grant_diplomatic_recognition
+Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations, Threaten_with_military_force
+Increase_military_alert_status <-- Threaten_with_administrative_sanctions, Impose_administrative_sanctions
+Increase_military_alert_status <-- Express_intent_to_change_leadership
+Increase_military_alert_status <-- Ban_political_parties_or_politicians
+Increase_military_alert_status <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+Increase_military_alert_status <-- Complain_officially
+Increase_military_alert_status <-- Engage_in_mass_expulsion
+Increase_military_alert_status <-- Make_statement, Arrest,_detain,_or_charge_with_legal_action
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate_on_intelligence
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate_economically
+Increase_military_alert_status <-- Threaten_to_halt_negotiations
+Increase_military_alert_status <-- Reject_request_for_military_aid
+Increase_military_alert_status <-- Demand_easing_of_administrative_sanctions, Refuse_to_ease_administrative_sanctions
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_institute_political_reform
+Increase_military_alert_status <-- Threaten_to_reduce_or_break_relations
+Increase_military_alert_status <-- Express_intent_to_change_institutions,_regime
+Increase_military_alert_status <-- fight_with_small_arms_and_light_weapons
+Increase_military_alert_status <-- Demand_policy_change
+Increase_military_alert_status <-- Defy_norms,_law
+Increase_military_alert_status <-- Demand_rights, Provide_economic_aid
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_provide_economic_aid
+Increase_military_alert_status <-- Demand_rights, Investigate_human_rights_abuses
+Increase_military_alert_status <-- Receive_deployment_of_peacekeepers
+Increase_military_alert_status <-- Halt_negotiations
+Increase_military_alert_status <-- Coerce
+Increase_military_alert_status <-- Demand_rights, Return,_release_person(s)
+Increase_military_alert_status <-- Employ_aerial_weapons
+Increase_military_alert_status <-- Demand_military_aid
+Increase_military_alert_status <-- Demand_rights, Investigate_war_crimes
+Increase_military_alert_status <-- Threaten_with_repression
+Increase_military_alert_status <-- Demand_economic_aid, Reject_economic_cooperation
+Increase_military_alert_status <-- Threaten_with_military_force, Employ_aerial_weapons
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_provide_material_aid
+Increase_military_alert_status <-- Make_statement, Threaten_with_military_force
+Increase_military_alert_status <-- Demand_military_aid, Reject_request_for_military_aid
+Increase_military_alert_status <-- Occupy_territory
+Increase_military_alert_status <-- Impose_blockade,_restrict_movement
+Increase_military_alert_status <-- Host_a_visit, Threaten_with_military_force
+Increase_military_alert_status <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate_on_judicial_matters
+Increase_military_alert_status <-- Express_intent_to_provide_military_aid
+Increase_military_alert_status <-- Demand_that_target_yields
+Increase_military_alert_status <-- Threaten_to_halt_mediation, Halt_mediation
+Increase_military_alert_status <-- Demand_judicial_cooperation, Reject_judicial_cooperation
+Increase_military_alert_status <-- Expel_or_deport_individuals
+Increase_military_alert_status <-- Demand_rights, Apologize
+Increase_military_alert_status <-- Use_chemical,_biological,_or_radiological_weapons
+Increase_military_alert_status <-- Veto
+Increase_military_alert_status <-- Express_intent_to_provide_military_protection_or_peacekeeping
+Increase_military_alert_status <-- Demand_change_in_leadership, Protest_violently,_riot
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_provide_military_protection_or_peacekeeping
+Increase_military_alert_status <-- Demand_rights, Cooperate_economically
+Increase_military_alert_status <-- Threaten_with_administrative_sanctions
+Increase_military_alert_status <-- Express_intent_to_change_policy
+Increase_military_alert_status <-- Demand_political_reform
+Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations
+Increase_military_alert_status <-- Demand_rights, Meet_at_a_'third'_location
+Increase_military_alert_status <-- Expel_or_withdraw_peacekeepers
+Increase_military_alert_status <-- Increase_military_alert_status, Use_conventional_military_force
+Increase_military_alert_status <-- Demand_rights, Mediate
+Increase_military_alert_status <-- Impose_administrative_sanctions
+Increase_military_alert_status <-- Increase_military_alert_status
+Increase_military_alert_status <-- Threaten_with_military_force, Mobilize_or_increase_armed_forces
+Increase_military_alert_status <-- Reject_military_cooperation
+Increase_military_alert_status <-- Use_tactics_of_violent_repression
+Increase_military_alert_status <-- Make_a_visit, Refuse_to_yield
+Increase_military_alert_status <-- Assassinate
+Increase_military_alert_status <-- Violate_ceasefire, Use_conventional_military_force
+Increase_military_alert_status <-- Demand_rights, Express_intent_to_provide_humanitarian_aid
+Increase_military_alert_status <-- Obstruct_passage_to_demand_leadership_change
+Increase_military_alert_status <-- Increase_military_alert_status, Mobilize_or_increase_armed_forces
+Increase_military_alert_status <-- Impose_embargo,_boycott,_or_sanctions
+Increase_military_alert_status <-- Demand_change_in_institutions,_regime, Ban_political_parties_or_politicians
+Increase_military_alert_status <-- Kill_by_physical_assault
+Increase_military_alert_status <-- Torture

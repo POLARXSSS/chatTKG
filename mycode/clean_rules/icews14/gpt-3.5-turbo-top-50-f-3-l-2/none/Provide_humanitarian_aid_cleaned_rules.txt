@@ -1,0 +1,20 @@
+Provide_humanitarian_aid <-- Appeal_for_humanitarian_aid
+Provide_humanitarian_aid <-- Express_intent_to_provide_humanitarian_aid
+Provide_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Provide_humanitarian_aid <-- Use_conventional_military_force, Demobilize_armed_forces
+Provide_humanitarian_aid <-- Sexually_assault, Investigate
+Provide_humanitarian_aid <-- Accuse, Make_an_appeal_or_request
+Provide_humanitarian_aid <-- Express_intent_to_cooperate, Express_intent_to_provide_humanitarian_aid
+Provide_humanitarian_aid <-- Provide_aid
+Provide_humanitarian_aid <-- Sign_formal_agreement
+Provide_humanitarian_aid <-- Impose_blockade,_restrict_movement, Ease_administrative_sanctions
+Provide_humanitarian_aid <-- Host_a_visit
+Provide_humanitarian_aid <-- Make_a_visit
+Provide_humanitarian_aid <-- Physically_assault, Apologize
+Provide_humanitarian_aid <-- Yield
+Provide_humanitarian_aid <-- Threaten, Ease_administrative_sanctions
+Provide_humanitarian_aid <-- Declare_truce,_ceasefire
+Provide_humanitarian_aid <-- Mediate
+Provide_humanitarian_aid <-- Protest_violently,_riot, Make_statement
+Provide_humanitarian_aid <-- Engage_in_diplomatic_cooperation, Cooperate_militarily
+Provide_humanitarian_aid <-- Consult

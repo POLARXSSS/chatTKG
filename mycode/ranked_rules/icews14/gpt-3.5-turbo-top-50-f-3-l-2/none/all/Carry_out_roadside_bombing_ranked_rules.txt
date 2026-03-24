@@ -1,0 +1,104 @@
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Halt_mediation
+1	1.0	0.008620689655172414	1.0	Carry_out_roadside_bombing <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_change_in_leadership, Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demonstrate_military_or_police_power, Increase_police_alert_status
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Threaten_with_military_force, Threaten_with_repression
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Attempt_to_assassinate, Assassinate
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Share_intelligence_or_information, Consider_policy_option
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Kill_by_physical_assault, Physically_assault
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Violate_ceasefire, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Engage_in_violent_protest_for_rights, Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Destroy_property, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Employ_aerial_weapons, fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Use_conventional_military_force, Increase_military_alert_status
+1	1.0	0.001002004008016032	0.07692307692307693	Carry_out_roadside_bombing <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Use_tactics_of_violent_repression, Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Ban_political_parties_or_politicians, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Defy_norms,_law, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Threaten_with_sanctions,_boycott,_embargo, Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Reduce_relations, Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Provide_military_aid, Cooperate_militarily
+1	1.0	0.00980392156862745	0.25	Carry_out_roadside_bombing <-- Use_unconventional_violence, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Carry_out_car_bombing, Carry_out_suicide_bombing
+1	1.0	0.02040816326530612	1.0	Carry_out_roadside_bombing <-- Use_unconventional_violence, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Give_ultimatum, Refuse_to_yield
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Conduct_strike_or_boycott, Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Accuse_of_human_rights_abuses, Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Impose_embargo,_boycott,_or_sanctions, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_policy_change, Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Halt_mediation
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Provide_military_protection_or_peacekeeping, Reject_request_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Seize_or_damage_property
+1	1.0	0.001002004008016032	0.07692307692307693	Carry_out_roadside_bombing <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_intelligence_cooperation, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_change_in_leadership, Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Consider_policy_option, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_easing_of_administrative_sanctions, Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_de-escalation_of_military_engagement, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_rights, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_that_target_yields, Refuse_to_yield
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Expel_or_deport_individuals, Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+1	1.0	0.008620689655172414	1.0	Carry_out_roadside_bombing <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demonstrate_or_rally, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Praise_or_endorse, Criticize_or_denounce
+1	1.0	0.02040816326530612	1.0	Carry_out_roadside_bombing <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_mediation, Halt_mediation
+1	1.0	0.013513513513513514	1.0	Carry_out_roadside_bombing <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_rights, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_economic_aid, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Make_statement, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Share_intelligence_or_information, Investigate
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Make_an_appeal_or_request, Reject
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Impose_blockade,_restrict_movement, Obstruct_passage,_block
+1	1.0	0.002364066193853428	1.0	Carry_out_roadside_bombing <-- Threaten
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Sign_formal_agreement, Violate_ceasefire
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Engage_in_political_dissent, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Express_intent_to_yield, Refuse_to_yield
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Physically_assault
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Threaten_with_military_force, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Appeal_for_military_aid, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Torture
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_material_aid, Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Meet_at_a_'third'_location, Decline_comment
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_material_cooperation, Reject_judicial_cooperation
+1	1.0	0.02702702702702703	1.0	Carry_out_roadside_bombing <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_settling_of_dispute, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_judicial_cooperation, Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Engage_in_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_policy_change, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_military_aid, Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Express_intent_to_accept_mediation, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_material_cooperation, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Destroy_property
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Occupy_territory, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Demand_political_reform, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Carry_out_roadside_bombing <-- Grant_diplomatic_recognition, Reduce_or_break_diplomatic_relations

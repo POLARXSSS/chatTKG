@@ -1,0 +1,34 @@
+Provide_military_protection_or_peacekeeping(X0,X1,T1) <- Express_intent_to_provide_military_protection_or_peacekeeping(X0,X1,T0).
+Provide_military_protection_or_peacekeeping(X0,X1,T1) <- Provide_military_aid(X0,X1,T0).
+Provide_military_protection_or_peacekeeping(X0,X1,T1) <- Receive_deployment_of_peacekeepers(X0,X1,T0).
+Provide_military_protection_or_peacekeeping(X0,X1,T1) <- Declare_truce,_ceasefire(X0,X1,T0).
+Provide_military_protection_or_peacekeeping(X0,X1,T1) <- Engage_in_negotiation(X0,X1,T0).
+Provide_military_protection_or_peacekeeping(X0,X1,T1) <- Provide_humanitarian_aid(X0,X1,T0).
+Provide_military_protection_or_peacekeeping(X0,X1,T1) <- Praise_or_endorse(X0,X1,T0).
+Provide_military_protection_or_peacekeeping(X0,X1,T1) <- Retreat_or_surrender_militarily(X0,X1,T0).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Sign_formal_agreement(X0,X1,T0), Sign_formal_agreement(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Consult(X0,X1,T0), Consult(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Host_a_visit(X0,X1,T0), Host_a_visit(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Make_statement(X0,X1,T0), Make_statement(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Threaten(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Express_intent_to_provide_military_aid(X0,X1,T0), Engage_in_diplomatic_cooperation(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Cooperate_militarily(X0,X1,T0), Share_intelligence_or_information(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Mediate(X0,X2,T0), Express_intent_to_meet_or_negotiate(X2,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Appeal_for_military_protection_or_peacekeeping(X1,X0,T0), Express_intent_to_provide_military_protection_or_peacekeeping(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Consider_policy_option(X0,X1,T0), Mobilize_or_increase_armed_forces(X1,X2,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Threaten(X1,X0,T0), Use_conventional_military_force(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Discuss_by_telephone(X0,X1,T0), Discuss_by_telephone(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Make_optimistic_comment(X0,X1,T0), Express_intent_to_meet_or_negotiate(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Ease_economic_sanctions,_boycott,_embargo(X0,X1,T0), Demand_easing_of_economic_sanctions,_boycott,_or_embargo(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Yield(X0,X1,T0), Express_intent_to_yield(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Appeal_to_others_to_settle_dispute(X0,X1,T0), Demand_settling_of_dispute(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Occupy_territory(X1,X2,T0), Threaten(X2,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- fight_with_small_arms_and_light_weapons(X1,X2,T0), Provide_military_aid(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Employ_aerial_weapons(X0,X1,T0), Use_conventional_military_force(X1,X2,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Reject_request_for_military_protection_or_peacekeeping(X1,X0,T0), Express_intent_to_provide_military_protection_or_peacekeeping(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Investigate_war_crimes(X0,X1,T0), Demand_release_of_persons_or_property(X1,X0,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Acknowledge_or_claim_responsibility(X1,X0,T0), Make_statement(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Deny_responsibility(X1,X0,T0), Make_statement(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Engage_in_diplomatic_cooperation(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Make_an_appeal_or_request(X0,X1,T0), Provide_military_aid(X0,X1,T1).
+Provide_military_protection_or_peacekeeping(X0,X1,T3) <- Demand_military_aid(X1,X0,T0), Provide_military_aid(X0,X1,T1).

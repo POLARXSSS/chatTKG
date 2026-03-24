@@ -1,0 +1,29 @@
+Accuse <-- Abduct,_hijack,_or_take_hostage
+Accuse <-- Reject
+Accuse <-- Use_conventional_military_force
+Accuse <-- Demonstrate_or_rally
+Accuse <-- Return,_release_person(s)
+Accuse <-- Make_statement, Criticize_or_denounce
+Accuse <-- Make_an_appeal_or_request
+Accuse <-- Use_tactics_of_violent_repression
+Accuse <-- Make_statement
+Accuse <-- Arrest,_detain,_or_charge_with_legal_action
+Accuse <-- Make_statement, Demand
+Accuse <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+Accuse <-- Express_intent_to_meet_or_negotiate
+Accuse <-- Investigate
+Accuse <-- Appeal_for_material_cooperation
+Accuse <-- Make_an_appeal_or_request, Use_conventional_military_force
+Accuse <-- Accuse
+Accuse <-- Make_statement, Use_conventional_military_force
+Accuse <-- Demand
+Accuse <-- Express_intent_to_accept_mediation
+Accuse <-- Sexually_assault
+Accuse <-- Ease_administrative_sanctions
+Accuse <-- Complain_officially
+Accuse <-- Physically_assault
+Accuse <-- Express_intent_to_cooperate
+Accuse <-- Make_an_appeal_or_request, Demand
+Accuse <-- Make_statement, Make_empathetic_comment
+Accuse <-- Bring_lawsuit_against
+Accuse <-- Criticize_or_denounce

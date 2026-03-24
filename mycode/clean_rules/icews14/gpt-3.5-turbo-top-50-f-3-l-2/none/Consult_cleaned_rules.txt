@@ -1,0 +1,48 @@
+Consult <-- Receive_deployment_of_peacekeepers
+Consult <-- Make_optimistic_comment
+Consult <-- Express_intent_to_meet_or_negotiate
+Consult <-- Threaten, Express_intent_to_cooperate
+Consult <-- Host_a_visit
+Consult <-- Consider_policy_option
+Consult <-- Express_intent_to_de-escalate_military_engagement
+Consult <-- Provide_military_protection_or_peacekeeping
+Consult <-- Expel_or_withdraw
+Consult <-- Forgive
+Consult <-- Share_intelligence_or_information
+Consult <-- Consult, Consult
+Consult <-- Appeal_for_material_cooperation
+Consult <-- Engage_in_diplomatic_cooperation
+Consult <-- Complain_officially
+Consult <-- Meet_at_a_'third'_location
+Consult <-- Grant_diplomatic_recognition
+Consult <-- Cooperate_militarily
+Consult <-- Express_intent_to_yield
+Consult <-- Criticize_or_denounce, Praise_or_endorse
+Consult <-- Appeal_to_others_to_meet_or_negotiate
+Consult <-- Make_statement, Make_statement
+Consult <-- Impose_blockade,_restrict_movement, Express_intent_to_meet_or_negotiate
+Consult <-- Expel_or_withdraw_peacekeepers
+Consult <-- Investigate
+Consult <-- Sign_formal_agreement
+Consult <-- Yield
+Consult <-- Appeal_to_others_to_settle_dispute
+Consult <-- Defend_verbally
+Consult <-- Consult, Make_statement
+Consult <-- Express_intent_to_mediate
+Consult <-- Apologize
+Consult <-- Praise_or_endorse
+Consult <-- Make_statement
+Consult <-- Declare_truce,_ceasefire
+Consult <-- Ease_administrative_sanctions
+Consult <-- Discuss_by_telephone
+Consult <-- Express_intent_to_cooperate
+Consult <-- Cooperate_economically
+Consult <-- Engage_in_negotiation
+Consult <-- Express_intent_to_accept_mediation
+Consult <-- Mediate
+Consult <-- Reduce_or_break_diplomatic_relations
+Consult <-- Make_a_visit
+Consult <-- Ease_economic_sanctions,_boycott,_embargo
+Consult <-- Express_intent_to_engage_in_material_cooperation
+Consult <-- Demand_meeting,_negotiation
+Consult <-- Express_intent_to_settle_dispute

@@ -1,0 +1,53 @@
+7	0.22580645161290322	0.026717557251908396	0.4117647058823529	Declare_truce,_ceasefire <-- Return,_release_person(s)
+7	0.22580645161290322	0.0945945945945946	1.0	Declare_truce,_ceasefire <-- Express_accord
+9	0.2903225806451613	0.012228260869565218	0.23076923076923078	Declare_truce,_ceasefire <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Apologize
+3	0.0967741935483871	0.0003013863773357444	0.007792207792207792	Declare_truce,_ceasefire <-- Consult, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Demobilize_armed_forces
+1	0.03225806451612903	0.02857142857142857	0.3333333333333333	Declare_truce,_ceasefire <-- Retreat_or_surrender_militarily
+2	0.06451612903225806	0.022222222222222223	0.2	Declare_truce,_ceasefire <-- Yield
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Grant_diplomatic_recognition
+1	0.03225806451612903	0.0023923444976076554	0.037037037037037035	Declare_truce,_ceasefire <-- fight_with_small_arms_and_light_weapons
+31	1.0	1.1481481481481481	1.1481481481481481	Declare_truce,_ceasefire <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Forgive
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Mediate, Express_intent_to_accept_mediation
+1	0.03225806451612903	0.0002105263157894737	0.005813953488372093	Declare_truce,_ceasefire <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+13	0.41935483870967744	0.011206896551724138	0.16666666666666666	Declare_truce,_ceasefire <-- Engage_in_negotiation
+7	0.22580645161290322	0.026717557251908396	0.4117647058823529	Declare_truce,_ceasefire <-- Return,_release_person(s)
+2	0.06451612903225806	0.18181818181818182	1.0	Declare_truce,_ceasefire <-- Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Mobilize_or_increase_armed_forces, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Express_intent_to_yield
+1	0.03225806451612903	0.01694915254237288	0.14285714285714285	Declare_truce,_ceasefire <-- Cooperate_militarily, Cooperate_economically
+1	0.03225806451612903	0.03225806451612903	0.2	Declare_truce,_ceasefire <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Express_intent_to_provide_humanitarian_aid, Provide_humanitarian_aid
+2	0.06451612903225806	0.05405405405405406	0.5	Declare_truce,_ceasefire <-- Refuse_to_yield
+1	0.03225806451612903	0.06666666666666667	0.5	Declare_truce,_ceasefire <-- Express_intent_to_de-escalate_military_engagement
+9	0.2903225806451613	0.012228260869565218	0.23076923076923078	Declare_truce,_ceasefire <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Express_intent_to_cooperate_economically, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Express_intent_to_cooperate_on_intelligence, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Apologize
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Appeal_for_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Use_conventional_military_force, Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+1	0.03225806451612903	0.02857142857142857	0.3333333333333333	Declare_truce,_ceasefire <-- Retreat_or_surrender_militarily
+2	0.06451612903225806	0.022222222222222223	0.2	Declare_truce,_ceasefire <-- Yield
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Demand_that_target_yields, Yield
+2	0.06451612903225806	0.0002308136180034622	0.006269592476489028	Declare_truce,_ceasefire <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Express_intent_to_settle_dispute, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Ease_state_of_emergency_or_martial_law
+1	0.03225806451612903	0.0023923444976076554	0.037037037037037035	Declare_truce,_ceasefire <-- fight_with_small_arms_and_light_weapons
+31	1.0	1.1481481481481481	1.1481481481481481	Declare_truce,_ceasefire <-- Declare_truce,_ceasefire
+8	0.25806451612903225	0.0030429821224800305	0.05442176870748299	Declare_truce,_ceasefire <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Complain_officially
+1	0.03225806451612903	0.0004761904761904762	0.004784688995215311	Declare_truce,_ceasefire <-- Discuss_by_telephone, Engage_in_negotiation
+10	0.3225806451612903	0.013227513227513227	0.17857142857142858	Declare_truce,_ceasefire <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Declare_truce,_ceasefire <-- Accede_to_demands_for_change_in_leadership
+4	0.12903225806451613	0.0012418503570319776	0.02197802197802198	Declare_truce,_ceasefire <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+13	0.41935483870967744	0.00017339344306026088	0.00463788797716732	Declare_truce,_ceasefire <-- Consult, Consult

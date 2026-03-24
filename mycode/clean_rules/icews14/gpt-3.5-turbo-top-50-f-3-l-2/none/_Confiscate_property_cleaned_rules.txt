@@ -1,0 +1,10 @@
+Confiscate_property <-- Reject
+Confiscate_property <-- Seize_or_damage_property
+Confiscate_property <-- Demand
+Confiscate_property <-- Accuse
+Confiscate_property <-- Use_conventional_military_force
+Confiscate_property <-- Kill_by_physical_assault
+Confiscate_property <-- Torture
+Confiscate_property <-- Impose_restrictions_on_political_freedoms
+Confiscate_property <-- Threaten_with_military_force
+Confiscate_property <-- Arrest,_detain,_or_charge_with_legal_action

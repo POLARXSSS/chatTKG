@@ -1,0 +1,30 @@
+Provide_military_aid <-- Sign_formal_agreement
+Provide_military_aid <-- Receive_deployment_of_peacekeepers
+Provide_military_aid <-- Provide_military_protection_or_peacekeeping
+Provide_military_aid <-- Praise_or_endorse
+Provide_military_aid <-- Provide_humanitarian_aid
+Provide_military_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping, Provide_military_aid
+Provide_military_aid <-- Express_intent_to_engage_in_material_cooperation, Praise_or_endorse
+Provide_military_aid <-- Make_a_visit
+Provide_military_aid <-- Appeal_for_military_aid
+Provide_military_aid <-- Mobilize_or_increase_armed_forces, Express_intent_to_meet_or_negotiate
+Provide_military_aid <-- Provide_aid
+Provide_military_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping
+Provide_military_aid <-- Make_statement
+Provide_military_aid <-- Express_intent_to_engage_in_material_cooperation
+Provide_military_aid <-- Express_intent_to_provide_military_aid
+Provide_military_aid <-- Provide_economic_aid
+Provide_military_aid <-- Engage_in_negotiation
+Provide_military_aid <-- Employ_aerial_weapons, Make_statement
+Provide_military_aid <-- Use_conventional_military_force
+Provide_military_aid <-- Engage_in_diplomatic_cooperation
+Provide_military_aid <-- Occupy_territory, Engage_in_diplomatic_cooperation
+Provide_military_aid <-- Host_a_visit
+Provide_military_aid <-- Retreat_or_surrender_militarily, Make_an_appeal_or_request
+Provide_military_aid <-- Increase_military_alert_status
+Provide_military_aid <-- Express_intent_to_cooperate_militarily
+Provide_military_aid <-- Increase_police_alert_status, Make_an_appeal_or_request
+Provide_military_aid <-- Provide_military_aid
+Provide_military_aid <-- Cooperate_militarily
+Provide_military_aid <-- Threaten_with_military_force
+Provide_military_aid <-- Mobilize_or_increase_armed_forces

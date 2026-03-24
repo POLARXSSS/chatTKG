@@ -1,0 +1,5 @@
+Ease_economic_sanctions,_boycott,_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Ease_economic_sanctions,_boycott,_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Sign_formal_agreement
+Ease_economic_sanctions,_boycott,_embargo <-- Ease_economic_sanctions,_boycott,_embargo
+Ease_economic_sanctions,_boycott,_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Engage_in_diplomatic_cooperation
+Ease_economic_sanctions,_boycott,_embargo <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Consult

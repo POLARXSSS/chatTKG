@@ -1,0 +1,69 @@
+230	0.2975420439844761	0.10793054903801032	0.28151774785801714	Make_optimistic_comment <-- Make_a_visit
+124	0.16041397153945666	0.07110091743119266	0.13716814159292035	Make_optimistic_comment <-- Make_pessimistic_comment, Sign_formal_agreement
+2	0.00258732212160414	0.08695652173913043	0.2	Make_optimistic_comment <-- Refuse_to_yield, Yield
+207	0.2677878395860285	0.07873716241917078	0.18157894736842106	Make_optimistic_comment <-- Praise_or_endorse
+242	0.3130659767141009	0.027928447778418925	0.0648619673009917	Make_optimistic_comment <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Investigate_crime,_corruption, Engage_in_judicial_cooperation
+108	0.13971539456662355	0.14673913043478262	0.32047477744807124	Make_optimistic_comment <-- Sign_formal_agreement
+3	0.0038809831824062097	0.42857142857142855	0.42857142857142855	Make_optimistic_comment <-- Apologize, Grant_diplomatic_recognition
+15	0.019404915912031046	0.23076923076923078	0.6521739130434783	Make_optimistic_comment <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Express_intent_to_accept_mediation, Mediate
+323	0.4178525226390686	0.014744145706851692	0.05614462019815748	Make_optimistic_comment <-- Make_statement, Sign_formal_agreement
+111	0.14359637774902975	0.052088221492257156	0.09343434343434344	Make_optimistic_comment <-- Host_a_visit
+1	0.00129366106080207	0.0625	0.08333333333333333	Make_optimistic_comment <-- Share_intelligence_or_information, Cooperate_militarily
+331	0.4282018111254851	0.017885124547468524	0.04008719874046264	Make_optimistic_comment <-- Praise_or_endorse, Praise_or_endorse
+231	0.2988357050452781	0.07280176489127009	0.07280176489127009	Make_optimistic_comment <-- Make_optimistic_comment, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Retreat_or_surrender_militarily, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Appeal_for_humanitarian_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Express_intent_to_provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+279	0.36093143596377747	0.01957757350361378	0.04671801741460147	Make_optimistic_comment <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+3	0.0038809831824062097	0.09090909090909091	0.16666666666666666	Make_optimistic_comment <-- Ease_economic_sanctions,_boycott,_embargo, Cooperate_economically
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+41	0.05304010349288486	0.02603174603174603	0.10406091370558376	Make_optimistic_comment <-- Make_an_appeal_or_request, Yield
+284	0.36739974126778785	0.0304166220413409	0.07295145132288723	Make_optimistic_comment <-- Consult, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Complain_officially, Mediate
+295	0.3816300129366106	0.10982874162323157	0.22331566994700985	Make_optimistic_comment <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Reduce_or_stop_economic_assistance, Ease_economic_sanctions,_boycott,_embargo
+12	0.015523932729624839	0.75	1.0	Make_optimistic_comment <-- Yield, Express_intent_to_cooperate_economically
+122	0.15782664941785252	0.18429003021148035	0.3685800604229607	Make_optimistic_comment <-- Engage_in_diplomatic_cooperation
+356	0.46054333764553684	0.014080050624901124	0.03199424822503819	Make_optimistic_comment <-- Express_intent_to_meet_or_negotiate, Make_statement
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Threaten_non-force, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Declare_truce,_ceasefire, Mediate
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+34	0.04398447606727038	0.3434343434343434	0.6296296296296297	Make_optimistic_comment <-- Cooperate_economically
+28	0.03622250970245795	0.358974358974359	0.6666666666666666	Make_optimistic_comment <-- Provide_economic_aid
+39	0.050452781371280724	0.34210526315789475	0.5416666666666666	Make_optimistic_comment <-- Provide_military_protection_or_peacekeeping, Engage_in_diplomatic_cooperation
+3	0.0038809831824062097	0.2727272727272727	0.3	Make_optimistic_comment <-- Appeal_for_economic_cooperation, Cooperate_economically
+33	0.042690815006468305	0.2682926829268293	0.44	Make_optimistic_comment <-- Express_intent_to_cooperate_economically, Provide_economic_aid
+2	0.00258732212160414	0.06666666666666667	0.16666666666666666	Make_optimistic_comment <-- Express_intent_to_cooperate_militarily, Provide_military_aid
+26	0.03363518758085381	0.13978494623655913	0.5652173913043478	Make_optimistic_comment <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Express_intent_to_engage_in_material_cooperation, Engage_in_diplomatic_cooperation
+20	0.0258732212160414	0.2222222222222222	0.5128205128205128	Make_optimistic_comment <-- Yield
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Forgive
+207	0.2677878395860285	0.07873716241917078	0.18157894736842106	Make_optimistic_comment <-- Praise_or_endorse
+27	0.03492884864165589	0.39705882352941174	0.6923076923076923	Make_optimistic_comment <-- Provide_military_aid
+196	0.2535575679172057	0.05800532701982835	0.11701492537313433	Make_optimistic_comment <-- Sign_formal_agreement, Sign_formal_agreement
+2	0.00258732212160414	0.07407407407407407	0.2222222222222222	Make_optimistic_comment <-- Declare_truce,_ceasefire
+231	0.2988357050452781	0.036637589214908804	0.09673366834170855	Make_optimistic_comment <-- Consult
+34	0.04398447606727038	0.3434343434343434	0.6296296296296297	Make_optimistic_comment <-- Cooperate_economically
+5	0.00646830530401035	0.2631578947368421	0.45454545454545453	Make_optimistic_comment <-- Mediate
+16	0.02069857697283312	0.35555555555555557	0.6666666666666666	Make_optimistic_comment <-- Express_intent_to_provide_humanitarian_aid
+6	0.007761966364812419	0.1935483870967742	0.375	Make_optimistic_comment <-- Apologize
+64	0.08279430789133248	0.3404255319148936	0.5614035087719298	Make_optimistic_comment <-- Express_intent_to_cooperate_economically, Cooperate_economically
+295	0.3816300129366106	0.10982874162323157	0.22331566994700985	Make_optimistic_comment <-- Express_intent_to_meet_or_negotiate
+285	0.36869340232858994	0.004938827851523239	0.012629060132051225	Make_optimistic_comment <-- Express_intent_to_meet_or_negotiate, Host_a_visit
+23	0.029754204398447608	0.08778625954198473	0.3194444444444444	Make_optimistic_comment <-- Return,_release_person(s)
+2	0.00258732212160414	0.030303030303030304	0.08	Make_optimistic_comment <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+282	0.3648124191461837	0.0035231503460683143	0.011513023597615742	Make_optimistic_comment <-- Make_a_visit, Host_a_visit
+122	0.15782664941785252	0.18429003021148035	0.3685800604229607	Make_optimistic_comment <-- Engage_in_diplomatic_cooperation
+36	0.04657179818887452	3.6	7.2	Make_optimistic_comment <-- Ease_economic_sanctions,_boycott,_embargo
+148	0.19146183699870634	0.19576719576719576	0.38046272493573263	Make_optimistic_comment <-- Express_intent_to_cooperate
+15	0.019404915912031046	0.13392857142857142	0.375	Make_optimistic_comment <-- Ease_administrative_sanctions
+6	0.007761966364812419	0.08823529411764706	0.1935483870967742	Make_optimistic_comment <-- Express_intent_to_provide_material_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Make_optimistic_comment <-- Demobilize_armed_forces
+15	0.019404915912031046	0.23076923076923078	0.6521739130434783	Make_optimistic_comment <-- Grant_diplomatic_recognition
+4	0.00517464424320828	0.09090909090909091	0.11764705882352941	Make_optimistic_comment <-- Express_intent_to_provide_military_aid, Provide_military_aid
+230	0.2975420439844761	0.10793054903801032	0.28151774785801714	Make_optimistic_comment <-- Make_a_visit
+2	0.00258732212160414	0.03076923076923077	0.07692307692307693	Make_optimistic_comment <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+402	0.5200517464424321	0.005361858777709606	0.0156389807430461	Make_optimistic_comment <-- Consult, Consult
+111	0.14359637774902975	0.052088221492257156	0.09343434343434344	Make_optimistic_comment <-- Host_a_visit

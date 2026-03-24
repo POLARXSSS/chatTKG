@@ -1,0 +1,50 @@
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Sign_formal_agreement
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Discuss_by_telephone
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_meet_or_negotiate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Threaten, Make_statement
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_on_judicial_matters
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Kill_by_physical_assault
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Accuse
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Grant_diplomatic_recognition
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_provide_humanitarian_aid
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Protest_violently,_riot
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate, Make_statement
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Reduce_relations, Engage_in_diplomatic_cooperation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Demonstrate_or_rally
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Demand
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Obstruct_passage,_block, Threaten
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Threaten_with_military_force
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_economically
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_on_intelligence
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_negotiation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_an_appeal_or_request
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Halt_negotiations, Yield
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Mediate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Declare_truce,_ceasefire
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_judicial_cooperation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Apologize
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Criticize_or_denounce
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Host_a_visit, Consult
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Make_an_appeal_or_request
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Meet_at_a_'third'_location
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_an_appeal_or_request, Praise_or_endorse
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_a_visit
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_to_engage_in_or_accept_mediation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Consult
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate_militarily
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Use_conventional_military_force
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Ease_administrative_sanctions
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_material_cooperation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Host_a_visit
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Receive_inspectors
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Cooperate_militarily
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Provide_humanitarian_aid
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Share_intelligence_or_information
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Cooperate_economically
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_economic_cooperation

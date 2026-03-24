@@ -1,0 +1,43 @@
+Provide_military_aid <-- Express_intent_to_cooperate_militarily
+Provide_military_aid <-- Consult, Consult
+Provide_military_aid <-- Cooperate_militarily
+Provide_military_aid <-- Occupy_territory
+Provide_military_aid <-- Engage_in_diplomatic_cooperation, Engage_in_diplomatic_cooperation
+Provide_military_aid <-- Demand_military_aid
+Provide_military_aid <-- Appeal_to_others_to_meet_or_negotiate
+Provide_military_aid <-- Host_a_visit
+Provide_military_aid <-- Demand_change_in_institutions,_regime, Express_intent_to_cooperate_militarily
+Provide_military_aid <-- Provide_humanitarian_aid
+Provide_military_aid <-- Threaten_with_military_force
+Provide_military_aid <-- Engage_in_negotiation
+Provide_military_aid <-- Rally_opposition_against
+Provide_military_aid <-- Express_intent_to_provide_military_aid
+Provide_military_aid <-- Use_unconventional_violence
+Provide_military_aid <-- Express_intent_to_change_leadership
+Provide_military_aid <-- Rally_support_on_behalf_of
+Provide_military_aid <-- Demobilize_armed_forces
+Provide_military_aid <-- Appeal_for_military_aid
+Provide_military_aid <-- Consult
+Provide_military_aid <-- Accuse, Make_statement
+Provide_military_aid <-- Express_intent_to_provide_humanitarian_aid
+Provide_military_aid <-- Express_intent_to_meet_or_negotiate
+Provide_military_aid <-- Express_intent_to_engage_in_material_cooperation
+Provide_military_aid <-- Provide_aid
+Provide_military_aid <-- Yield
+Provide_military_aid <-- Declare_truce,_ceasefire
+Provide_military_aid <-- Demonstrate_military_or_police_power
+Provide_military_aid <-- Threaten_with_military_force, Mobilize_or_increase_armed_forces
+Provide_military_aid <-- Express_intent_to_provide_military_aid, Cooperate_militarily
+Provide_military_aid <-- Sign_formal_agreement
+Provide_military_aid <-- Make_a_visit
+Provide_military_aid <-- Express_intent_to_provide_military_aid, Express_intent_to_provide_military_aid
+Provide_military_aid <-- Use_unconventional_violence, Defend_verbally
+Provide_military_aid <-- Make_statement, Make_statement
+Provide_military_aid <-- Mobilize_or_increase_armed_forces
+Provide_military_aid <-- Provide_economic_aid
+Provide_military_aid <-- Mobilize_or_increase_armed_forces, Mobilize_or_increase_armed_forces
+Provide_military_aid <-- Demand_change_in_leadership
+Provide_military_aid <-- Retreat_or_surrender_militarily
+Provide_military_aid <-- Mediate
+Provide_military_aid <-- Praise_or_endorse
+Provide_military_aid <-- Engage_in_diplomatic_cooperation

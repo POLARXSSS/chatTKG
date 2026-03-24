@@ -1,0 +1,2 @@
+Investigate_crime,_corruption <-- Investigate_crime,_corruption
+Investigate_crime,_corruption <-- Accuse_of_crime,_corruption

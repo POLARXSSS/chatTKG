@@ -1,0 +1,10 @@
+1	0.07142857142857142	0.004291845493562232	0.16666666666666666	Appeal_for_policy_change <-- Engage_in_diplomatic_cooperation, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Appeal_for_policy_change <-- Engage_in_diplomatic_cooperation, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Appeal_for_policy_change <-- Reduce_or_break_diplomatic_relations, Reduce_or_break_diplomatic_relations
+1	0.07142857142857142	0.014705882352941176	0.5	Appeal_for_policy_change <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Appeal_for_policy_change <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_policy_change <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Appeal_for_policy_change <-- Use_conventional_military_force, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Appeal_for_policy_change <-- Reduce_or_break_diplomatic_relations, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Appeal_for_policy_change <-- Use_conventional_military_force
+14	1.0	1.0769230769230769	1.0769230769230769	Appeal_for_policy_change <-- Appeal_for_policy_change

@@ -1,0 +1,79 @@
+28	0.2857142857142857	0.010424422933730455	0.0975609756097561	Express_intent_to_provide_material_aid <-- Express_intent_to_meet_or_negotiate
+13	0.1326530612244898	0.13131313131313133	0.4642857142857143	Express_intent_to_provide_material_aid <-- Cooperate_economically
+98	1.0	1.380281690140845	1.380281690140845	Express_intent_to_provide_material_aid <-- Express_intent_to_provide_material_aid
+9	0.09183673469387756	0.12	0.2903225806451613	Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate_economically
+37	0.37755102040816324	0.011395133969818293	0.05826771653543307	Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate, Make_a_visit
+22	0.22448979591836735	0.3235294117647059	0.8148148148148148	Express_intent_to_provide_material_aid <-- Provide_military_aid
+45	0.45918367346938777	0.003444844216489321	0.026627218934911243	Express_intent_to_provide_material_aid <-- Criticize_or_denounce, Make_statement
+32	0.32653061224489793	0.04833836858006042	0.19161676646706588	Express_intent_to_provide_material_aid <-- Engage_in_diplomatic_cooperation
+5	0.05102040816326531	0.0013861935126143609	0.013123359580052493	Express_intent_to_provide_material_aid <-- Mobilize_or_increase_armed_forces, Host_a_visit
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Express_intent_to_engage_in_material_cooperation, Make_a_visit
+46	0.46938775510204084	0.0023610326951701483	0.026497695852534562	Express_intent_to_provide_material_aid <-- Make_an_appeal_or_request, Make_statement
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Threaten, Physically_assault
+28	0.2857142857142857	0.05156537753222836	0.2828282828282828	Express_intent_to_provide_material_aid <-- Make_optimistic_comment
+21	0.21428571428571427	0.009854528390427029	0.03626943005181347	Express_intent_to_provide_material_aid <-- Host_a_visit
+17	0.17346938775510204	0.3269230769230769	1.0	Express_intent_to_provide_material_aid <-- Express_intent_to_provide_military_aid
+2	0.02040816326530612	0.18181818181818182	0.6666666666666666	Express_intent_to_provide_material_aid <-- Appeal_for_material_cooperation
+32	0.32653061224489793	0.002245456459195846	0.024427480916030534	Express_intent_to_provide_material_aid <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+48	0.4897959183673469	0.0030520760475615184	0.016818500350385426	Express_intent_to_provide_material_aid <-- Host_a_visit, Make_statement
+18	0.1836734693877551	0.23076923076923078	0.72	Express_intent_to_provide_material_aid <-- Provide_economic_aid
+9	0.09183673469387756	0.03982300884955752	0.2647058823529412	Express_intent_to_provide_material_aid <-- Make_empathetic_comment
+4	0.04081632653061224	0.046511627906976744	0.2	Express_intent_to_provide_material_aid <-- Cooperate_militarily
+40	0.40816326530612246	0.015214910612400151	0.12121212121212122	Express_intent_to_provide_material_aid <-- Praise_or_endorse
+1	0.01020408163265306	0.006711409395973154	0.08333333333333333	Express_intent_to_provide_material_aid <-- Demand_intelligence_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Demand_material_aid
+27	0.2755102040816326	0.03571428571428571	0.17532467532467533	Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate
+6	0.061224489795918366	0.012024048096192385	0.0379746835443038	Express_intent_to_provide_material_aid <-- Share_intelligence_or_information, Consult
+24	0.24489795918367346	0.011262318160488035	0.1340782122905028	Express_intent_to_provide_material_aid <-- Make_a_visit
+28	0.2857142857142857	0.0044409199048374304	0.05714285714285714	Express_intent_to_provide_material_aid <-- Consult
+10	0.10204081632653061	0.5263157894736842	1.6666666666666667	Express_intent_to_provide_material_aid <-- Provide_military_protection_or_peacekeeping
+12	0.12244897959183673	0.12903225806451613	0.5217391304347826	Express_intent_to_provide_material_aid <-- Consider_policy_option
+1	0.01020408163265306	0.015384615384615385	0.058823529411764705	Express_intent_to_provide_material_aid <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+4	0.04081632653061224	0.10810810810810811	0.3076923076923077	Express_intent_to_provide_material_aid <-- Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Apologize
+1	0.01020408163265306	0.25	1.0	Express_intent_to_provide_material_aid <-- Demobilize_armed_forces
+40	0.40816326530612246	0.015214910612400151	0.12121212121212122	Express_intent_to_provide_material_aid <-- Praise_or_endorse
+12	0.12244897959183673	0.26666666666666666	0.6	Express_intent_to_provide_material_aid <-- Express_intent_to_provide_humanitarian_aid
+2	0.02040816326530612	0.0064516129032258064	0.046511627906976744	Express_intent_to_provide_material_aid <-- Meet_at_a_'third'_location
+3	0.030612244897959183	0.03333333333333333	0.1875	Express_intent_to_provide_material_aid <-- Yield
+27	0.2755102040816326	0.03571428571428571	0.17532467532467533	Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate
+20	0.20408163265306123	0.017241379310344827	0.12658227848101267	Express_intent_to_provide_material_aid <-- Engage_in_negotiation
+32	0.32653061224489793	0.04833836858006042	0.19161676646706588	Express_intent_to_provide_material_aid <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Ease_economic_sanctions,_boycott,_embargo
+37	0.37755102040816324	0.004561143984220907	0.08525345622119816	Express_intent_to_provide_material_aid <-- Make_statement
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Express_intent_to_engage_in_material_cooperation
+3	0.030612244897959183	0.2	0.6	Express_intent_to_provide_material_aid <-- Express_intent_to_de-escalate_military_engagement
+17	0.17346938775510204	0.3269230769230769	1.0	Express_intent_to_provide_material_aid <-- Express_intent_to_provide_military_aid
+1	0.01020408163265306	0.0196078431372549	0.125	Express_intent_to_provide_material_aid <-- Express_intent_to_release_persons_or_property
+24	0.24489795918367346	0.011262318160488035	0.1340782122905028	Express_intent_to_provide_material_aid <-- Make_a_visit
+2	0.02040816326530612	0.15384615384615385	0.3333333333333333	Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping
+13	0.1326530612244898	0.13131313131313133	0.4642857142857143	Express_intent_to_provide_material_aid <-- Cooperate_economically
+2	0.02040816326530612	0.0045662100456621	0.04878048780487805	Express_intent_to_provide_material_aid <-- Discuss_by_telephone
+3	0.030612244897959183	0.026785714285714284	0.2	Express_intent_to_provide_material_aid <-- Ease_administrative_sanctions
+27	0.2755102040816326	0.036684782608695655	0.17763157894736842	Express_intent_to_provide_material_aid <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Express_intent_to_ease_administrative_sanctions
+98	1.0	1.380281690140845	1.380281690140845	Express_intent_to_provide_material_aid <-- Express_intent_to_provide_material_aid
+9	0.09183673469387756	0.03982300884955752	0.2647058823529412	Express_intent_to_provide_material_aid <-- Make_empathetic_comment
+1	0.01020408163265306	0.047619047619047616	0.3333333333333333	Express_intent_to_provide_material_aid <-- Appeal_for_aid
+28	0.2857142857142857	0.010424422933730455	0.0975609756097561	Express_intent_to_provide_material_aid <-- Express_intent_to_meet_or_negotiate
+2	0.02040816326530612	1.0	2.0	Express_intent_to_provide_material_aid <-- Accede_to_demands_for_change_in_policy
+6	0.061224489795918366	0.022900763358778626	0.21428571428571427	Express_intent_to_provide_material_aid <-- Return,_release_person(s)
+28	0.2857142857142857	0.05156537753222836	0.2828282828282828	Express_intent_to_provide_material_aid <-- Make_optimistic_comment
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Express_intent_to_yield
+4	0.04081632653061224	0.046511627906976744	0.2	Express_intent_to_provide_material_aid <-- Cooperate_militarily
+2	0.02040816326530612	0.18181818181818182	0.6666666666666666	Express_intent_to_provide_material_aid <-- Appeal_for_material_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Receive_deployment_of_peacekeepers
+9	0.09183673469387756	0.10465116279069768	0.8181818181818182	Express_intent_to_provide_material_aid <-- Engage_in_material_cooperation
+19	0.19387755102040816	0.12258064516129032	0.59375	Express_intent_to_provide_material_aid <-- Provide_aid
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Mediate
+9	0.09183673469387756	0.12	0.2903225806451613	Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate_economically
+2	0.02040816326530612	0.047619047619047616	0.25	Express_intent_to_provide_material_aid <-- Share_intelligence_or_information
+21	0.21428571428571427	0.009854528390427029	0.03626943005181347	Express_intent_to_provide_material_aid <-- Host_a_visit
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Express_intent_to_accept_mediation
+28	0.2857142857142857	0.0044409199048374304	0.05714285714285714	Express_intent_to_provide_material_aid <-- Consult
+2	0.02040816326530612	0.07407407407407407	0.4	Express_intent_to_provide_material_aid <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Forgive
+0.0	0.0	0.0	0.0	Express_intent_to_provide_material_aid <-- Demand_material_aid
+1	0.01020408163265306	0.07142857142857142	1.0	Express_intent_to_provide_material_aid <-- Demand_material_cooperation

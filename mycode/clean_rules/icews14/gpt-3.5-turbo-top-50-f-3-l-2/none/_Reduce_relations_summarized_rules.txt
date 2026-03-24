@@ -1,0 +1,51 @@
+_Reduce_relations(X0,X1,T2) <- Kill_by_physical_assault(X0,X1,T0), Arrest,_detain,_or_charge_with_legal_action(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Yield(X0,X1,T0), Refuse_to_release_persons_or_property(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Conduct_hunger_strike(X0,X1,T0), Conduct_strike_or_boycott(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Expel_or_deport_individuals(X0,X1,T0).
+_Reduce_relations(X0,X1,T1) <- Reduce_or_stop_economic_assistance(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Make_pessimistic_comment(X0,X1,T0), Make_statement(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Criticize_or_denounce(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Use_unconventional_violence(X0,X1,T0), Use_tactics_of_violent_repression(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0), Reduce_relations(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Accuse(X0,X1,T0), Accuse(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Use_tactics_of_violent_repression(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Criticize_or_denounce(X0,X1,T0), Threaten(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Confiscate_property(X0,X1,T0), Seize_or_damage_property(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Complain_officially(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Provide_military_aid(X0,X1,T0), Use_conventional_military_force(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Reduce_or_break_diplomatic_relations(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Defend_verbally(X0,X1,T0), Threaten_non-force(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Kill_by_physical_assault(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Grant_diplomatic_recognition(X0,X1,T0), Deny_responsibility(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Expel_or_deport_individuals(X0,X1,T0), Ban_political_parties_or_politicians(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Violate_ceasefire(X0,X1,T0).
+_Reduce_relations(X0,X1,T1) <- Protest_violently,_riot(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Violate_ceasefire(X0,X1,T0), Protest_violently,_riot(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Engage_in_negotiation(X0,X1,T0), Halt_mediation(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Confiscate_property(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Occupy_territory(X0,X1,T0), Retreat_or_surrender_militarily(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Cooperate_economically(X0,X1,T0), Impose_administrative_sanctions(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Ban_political_parties_or_politicians(X0,X1,T0).
+_Reduce_relations(X0,X1,T1) <- Seize_or_damage_property(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Reject(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), Refuse_to_yield(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Destroy_property(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Share_intelligence_or_information(X0,X1,T0), Abduct,_hijack,_or_take_hostage(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Express_intent_to_provide_humanitarian_aid(X0,X1,T0), Reduce_or_stop_humanitarian_assistance(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Express_intent_to_cooperate_economically(X0,X1,T0), Reject_economic_cooperation(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Use_unconventional_violence(X0,X1,T0).
+_Reduce_relations(X0,X1,T1) <- Accuse(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Make_a_visit(X0,X1,T0), Threaten(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Reduce_relations(X0,X1,T0), Reduce_relations(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Host_a_visit(X0,X1,T0), Expel_or_deport_individuals(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Demand_that_target_yields(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Reduce_or_break_diplomatic_relations(X0,X1,T0), Reduce_or_stop_economic_assistance(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Increase_military_alert_status(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Reject(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Complain_officially(X0,X1,T0), Reject(X1,X0,T1).
+_Reduce_relations(X0,X1,T1) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0).
+_Reduce_relations(X0,X1,T1) <- Threaten(X0,X1,T0).
+_Reduce_relations(X0,X1,T1) <- Make_pessimistic_comment(X0,X1,T0).
+_Reduce_relations(X0,X1,T2) <- Mediate(X0,X1,T0), Halt_negotiations(X1,X0,T1).
+_Reduce_relations(X0,X1,T2) <- Sign_formal_agreement(X0,X1,T0), Violate_ceasefire(X1,X0,T1).

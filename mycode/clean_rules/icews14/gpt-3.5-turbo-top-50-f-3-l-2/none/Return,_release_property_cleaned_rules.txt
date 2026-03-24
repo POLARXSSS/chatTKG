@@ -1,0 +1,100 @@
+Return,_release_property <-- Reject
+Return,_release_property <-- Meet_at_a_'third'_location
+Return,_release_property <-- Impose_blockade,_restrict_movement
+Return,_release_property <-- Occupy_territory, Ease_administrative_sanctions
+Return,_release_property <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+Return,_release_property <-- Impose_restrictions_on_political_freedoms
+Return,_release_property <-- Sign_formal_agreement
+Return,_release_property <-- fight_with_artillery_and_tanks
+Return,_release_property <-- Threaten_to_reduce_or_stop_aid
+Return,_release_property <-- Threaten_with_repression
+Return,_release_property <-- Rally_support_on_behalf_of
+Return,_release_property <-- Expel_or_deport_individuals
+Return,_release_property <-- Return,_release_person(s)
+Return,_release_property <-- Express_intent_to_release_persons_or_property
+Return,_release_property <-- Express_intent_to_cooperate
+Return,_release_property <-- Demand_release_of_persons_or_property
+Return,_release_property <-- Reject_economic_cooperation
+Return,_release_property <-- Seize_or_damage_property
+Return,_release_property <-- Reject_material_cooperation
+Return,_release_property <-- Reduce_or_stop_material_aid, Provide_humanitarian_aid
+Return,_release_property <-- Impose_embargo,_boycott,_or_sanctions
+Return,_release_property <-- Engage_in_violent_protest_for_rights, Accede_to_demands_for_rights
+Return,_release_property <-- Grant_asylum, Grant_diplomatic_recognition
+Return,_release_property <-- Criticize_or_denounce, Defend_verbally
+Return,_release_property <-- Reject_military_cooperation
+Return,_release_property <-- Threaten_with_political_dissent,_protest
+Return,_release_property <-- Reduce_or_stop_military_assistance, Provide_military_aid
+Return,_release_property <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Return,_release_property <-- Express_intent_to_engage_in_material_cooperation, Engage_in_material_cooperation
+Return,_release_property <-- Destroy_property
+Return,_release_property <-- Ban_political_parties_or_politicians
+Return,_release_property <-- Deny_responsibility
+Return,_release_property <-- Make_an_appeal_or_request, Ease_administrative_sanctions
+Return,_release_property <-- Engage_in_political_dissent, Accede_to_requests_or_demands_for_political_reform
+Return,_release_property <-- Impose_state_of_emergency_or_martial_law
+Return,_release_property <-- Veto
+Return,_release_property <-- Complain_officially, Make_statement
+Return,_release_property <-- Refuse_to_release_persons_or_property
+Return,_release_property <-- Appeal_for_economic_cooperation, Cooperate_economically
+Return,_release_property <-- Conduct_strike_or_boycott, Ease_economic_sanctions,_boycott,_embargo
+Return,_release_property <-- Engage_in_negotiation
+Return,_release_property <-- Consult, Discuss_by_telephone
+Return,_release_property <-- Provide_aid, Engage_in_material_cooperation
+Return,_release_property <-- Mediate
+Return,_release_property <-- Apologize
+Return,_release_property <-- Reduce_or_stop_military_assistance, Provide_military_protection_or_peacekeeping
+Return,_release_property <-- Reject_request_for_military_aid
+Return,_release_property <-- Threaten_to_halt_negotiations
+Return,_release_property <-- Threaten_to_halt_mediation
+Return,_release_property <-- Reject_judicial_cooperation
+Return,_release_property <-- Engage_in_diplomatic_cooperation
+Return,_release_property <-- Obstruct_passage_to_demand_leadership_change
+Return,_release_property <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+Return,_release_property <-- Threaten_with_military_force, Yield
+Return,_release_property <-- Retreat_or_surrender_militarily
+Return,_release_property <-- Decline_comment
+Return,_release_property <-- Reduce_or_stop_economic_assistance, Provide_economic_aid
+Return,_release_property <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+Return,_release_property <-- Use_conventional_military_force
+Return,_release_property <-- Host_a_visit, Make_a_visit
+Return,_release_property <-- Appeal_for_release_of_persons_or_property
+Return,_release_property <-- Acknowledge_or_claim_responsibility
+Return,_release_property <-- fight_with_small_arms_and_light_weapons
+Return,_release_property <-- Declare_truce,_ceasefire
+Return,_release_property <-- Consider_policy_option
+Return,_release_property <-- Conduct_hunger_strike, Ease_state_of_emergency_or_martial_law
+Return,_release_property <-- Make_an_appeal_or_request
+Return,_release_property <-- Demobilize_armed_forces, Ease_state_of_emergency_or_martial_law
+Return,_release_property <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+Return,_release_property <-- Engage_in_mass_expulsion
+Return,_release_property <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+Return,_release_property <-- Ease_administrative_sanctions
+Return,_release_property <-- Bring_lawsuit_against, Engage_in_judicial_cooperation
+Return,_release_property <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Return,_release_property <-- Threaten_with_administrative_sanctions
+Return,_release_property <-- Rally_opposition_against
+Return,_release_property <-- Threaten
+Return,_release_property <-- Refuse_to_de-escalate_military_engagement
+Return,_release_property <-- Reject_request_for_military_protection_or_peacekeeping
+Return,_release_property <-- Reject_request_for_change_in_leadership
+Return,_release_property <-- Express_intent_to_yield, Yield
+Return,_release_property <-- Threaten_with_sanctions,_boycott,_embargo
+Return,_release_property <-- Threaten_to_reduce_or_break_relations
+Return,_release_property <-- Refuse_to_yield
+Return,_release_property <-- Demonstrate_or_rally, Ease_political_dissent
+Return,_release_property <-- Engage_in_mass_killings
+Return,_release_property <-- Threaten_non-force
+Return,_release_property <-- Praise_or_endorse, Forgive
+Return,_release_property <-- Give_ultimatum
+Return,_release_property <-- Yield
+Return,_release_property <-- Obstruct_passage,_block
+Return,_release_property <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+Return,_release_property <-- Ease_economic_sanctions,_boycott,_embargo
+Return,_release_property <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Return,_release_property <-- Reject_plan,_agreement_to_settle_dispute
+Return,_release_property <-- Confiscate_property
+Return,_release_property <-- Refuse_to_ease_administrative_sanctions
+Return,_release_property <-- Reduce_or_stop_humanitarian_assistance, Provide_humanitarian_aid
+Return,_release_property <-- Receive_inspectors, Engage_in_judicial_cooperation
+Return,_release_property <-- Express_intent_to_engage_in_material_cooperation, Engage_in_diplomatic_cooperation

@@ -1,0 +1,40 @@
+Make_an_appeal_or_request <-- Express_intent_to_cooperate
+Make_an_appeal_or_request <-- Praise_or_endorse, Ban_political_parties_or_politicians
+Make_an_appeal_or_request <-- Yield
+Make_an_appeal_or_request <-- Engage_in_negotiation
+Make_an_appeal_or_request <-- Threaten
+Make_an_appeal_or_request <-- Make_a_visit, Obstruct_passage,_block
+Make_an_appeal_or_request <-- Make_a_visit
+Make_an_appeal_or_request <-- Sign_formal_agreement, Violate_ceasefire
+Make_an_appeal_or_request <-- Arrest,_detain,_or_charge_with_legal_action, Bring_lawsuit_against
+Make_an_appeal_or_request <-- Make_an_appeal_or_request
+Make_an_appeal_or_request <-- Complain_officially
+Make_an_appeal_or_request <-- Engage_in_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Make_an_appeal_or_request <-- Consult
+Make_an_appeal_or_request <-- Sign_formal_agreement
+Make_an_appeal_or_request <-- Provide_aid, Reduce_or_stop_economic_assistance
+Make_an_appeal_or_request <-- Mediate, Halt_mediation
+Make_an_appeal_or_request <-- Complain_officially, Impose_administrative_sanctions
+Make_an_appeal_or_request <-- Praise_or_endorse
+Make_an_appeal_or_request <-- Yield, Demand
+Make_an_appeal_or_request <-- Engage_in_diplomatic_cooperation, Reduce_relations
+Make_an_appeal_or_request <-- Provide_aid
+Make_an_appeal_or_request <-- Consult, Reject_judicial_cooperation
+Make_an_appeal_or_request <-- Demand
+Make_an_appeal_or_request <-- Accuse
+Make_an_appeal_or_request <-- Host_a_visit
+Make_an_appeal_or_request <-- Investigate
+Make_an_appeal_or_request <-- Arrest,_detain,_or_charge_with_legal_action
+Make_an_appeal_or_request <-- Threaten, Engage_in_negotiation
+Make_an_appeal_or_request <-- Make_an_appeal_or_request, Reject
+Make_an_appeal_or_request <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+Make_an_appeal_or_request <-- Accuse, Reject
+Make_an_appeal_or_request <-- Mediate
+Make_an_appeal_or_request <-- Investigate, Deny_responsibility
+Make_an_appeal_or_request <-- Make_statement
+Make_an_appeal_or_request <-- Host_a_visit, Expel_or_deport_individuals
+Make_an_appeal_or_request <-- Engage_in_diplomatic_cooperation
+Make_an_appeal_or_request <-- Meet_at_a_'third'_location
+Make_an_appeal_or_request <-- Demand, Refuse_to_yield
+Make_an_appeal_or_request <-- Make_statement, Criticize_or_denounce
+Make_an_appeal_or_request <-- Meet_at_a_'third'_location, Halt_negotiations

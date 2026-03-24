@@ -1,0 +1,105 @@
+41	0.07750472589792061	0.041082164328657314	0.22527472527472528	Engage_in_symbolic_act <-- Use_unconventional_violence
+31	0.05860113421550094	0.03855721393034826	0.22302158273381295	Engage_in_symbolic_act <-- Use_conventional_military_force
+75	0.14177693761814744	0.011895321173671689	0.03793626707132018	Engage_in_symbolic_act <-- Consult
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Consider_policy_option
+11	0.020793950850661626	0.01661631419939577	0.041353383458646614	Engage_in_symbolic_act <-- Engage_in_diplomatic_cooperation
+18	0.034026465028355386	0.024456521739130436	0.0661764705882353	Engage_in_symbolic_act <-- Sign_formal_agreement
+21	0.03969754253308128	0.13548387096774195	0.35	Engage_in_symbolic_act <-- Provide_aid
+56	0.10586011342155009	0.08722741433021806	0.26291079812206575	Engage_in_symbolic_act <-- Reject
+26	0.04914933837429111	0.022413793103448276	0.053169734151329244	Engage_in_symbolic_act <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Defend_verbally
+112	0.21172022684310018	0.07708189951823813	0.24295010845986983	Engage_in_symbolic_act <-- Accuse
+14	0.026465028355387523	0.15217391304347827	0.35	Engage_in_symbolic_act <-- Complain_officially
+5	0.00945179584120983	0.04310344827586207	0.13157894736842105	Engage_in_symbolic_act <-- Protest_violently,_riot
+38	0.07183364839319471	0.12794612794612795	0.31932773109243695	Engage_in_symbolic_act <-- Demonstrate_or_rally
+70	0.1323251417769376	0.008629191321499015	0.042656916514320534	Engage_in_symbolic_act <-- Make_statement
+1	0.001890359168241966	0.017857142857142856	0.07692307692307693	Engage_in_symbolic_act <-- Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Appeal_for_material_cooperation
+182	0.3440453686200378	0.05664488017429194	0.16883116883116883	Engage_in_symbolic_act <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Forgive
+12	0.022684310018903593	0.14634146341463414	0.3870967741935484	Engage_in_symbolic_act <-- Coerce
+79	0.14933837429111532	0.08586956521739131	0.23723723723723725	Engage_in_symbolic_act <-- Demand
+19	0.035916824196597356	0.37254901960784315	0.8260869565217391	Engage_in_symbolic_act <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Mobilize_or_increase_armed_forces
+13	0.024574669187145556	0.09352517985611511	0.40625	Engage_in_symbolic_act <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Retreat_or_surrender_militarily
+19	0.035916824196597356	0.10674157303370786	0.2835820895522388	Engage_in_symbolic_act <-- Reduce_relations
+2	0.003780718336483932	0.023255813953488372	0.11764705882352941	Engage_in_symbolic_act <-- Engage_in_material_cooperation
+26	0.04914933837429111	0.012200844673862036	0.03768115942028986	Engage_in_symbolic_act <-- Make_a_visit
+47	0.0888468809073724	0.2079646017699115	0.44339622641509435	Engage_in_symbolic_act <-- Make_empathetic_comment
+529	1.0	1.319201995012469	1.319201995012469	Engage_in_symbolic_act <-- Engage_in_symbolic_act
+8	0.015122873345935728	0.16	0.6666666666666666	Engage_in_symbolic_act <-- Give_ultimatum
+9	0.017013232514177693	0.1	0.24324324324324326	Engage_in_symbolic_act <-- Yield
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Mediate
+1	0.001890359168241966	0.03225806451612903	0.1	Engage_in_symbolic_act <-- Apologize
+5	0.00945179584120983	0.03571428571428571	0.16129032258064516	Engage_in_symbolic_act <-- Physically_assault
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Decline_comment
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Engage_in_political_dissent
+87	0.16446124763705103	0.11507936507936507	0.2492836676217765	Engage_in_symbolic_act <-- Express_intent_to_cooperate
+40	0.07561436672967864	0.07766990291262135	0.449438202247191	Engage_in_symbolic_act <-- Investigate
+70	0.1323251417769376	0.170316301703163	0.3867403314917127	Engage_in_symbolic_act <-- Make_pessimistic_comment
+2	0.003780718336483932	0.020202020202020204	0.04878048780487805	Engage_in_symbolic_act <-- Cooperate_economically
+40	0.07561436672967864	0.030627871362940276	0.1606425702811245	Engage_in_symbolic_act <-- Arrest,_detain,_or_charge_with_legal_action
+90	0.17013232514177692	0.034233548877900345	0.09594882729211088	Engage_in_symbolic_act <-- Praise_or_endorse
+123	0.23251417769376181	0.06473684210526316	0.19339622641509435	Engage_in_symbolic_act <-- Criticize_or_denounce
+53	0.1001890359168242	0.12529550827423167	0.29608938547486036	Engage_in_symbolic_act <-- Threaten
+64	0.12098298676748583	0.11786372007366483	0.24334600760456274	Engage_in_symbolic_act <-- Make_optimistic_comment
+7	0.013232514177693762	0.25	0.7777777777777778	Engage_in_symbolic_act <-- Conduct_strike_or_boycott
+1	0.001890359168241966	0.015384615384615385	0.05263157894736842	Engage_in_symbolic_act <-- Grant_diplomatic_recognition
+16	0.030245746691871456	0.007508212106992022	0.01557935735150925	Engage_in_symbolic_act <-- Host_a_visit
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Make_pessimistic_comment, Express_intent_to_yield
+32	0.06049149338374291	0.01990049751243781	0.05306799336650083	Engage_in_symbolic_act <-- Threaten, Demand
+2	0.003780718336483932	0.009900990099009901	0.07407407407407407	Engage_in_symbolic_act <-- Use_unconventional_violence, Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Defend_verbally, Forgive
+123	0.23251417769376181	0.06473684210526316	0.19339622641509435	Engage_in_symbolic_act <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Engage_in_mass_killings, Engage_in_mass_expulsion
+112	0.21172022684310018	0.07708189951823813	0.24295010845986983	Engage_in_symbolic_act <-- Accuse
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Conduct_strike_or_boycott, Conduct_hunger_strike
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Consider_policy_option, Decline_comment
+19	0.035916824196597356	0.37254901960784315	0.8260869565217391	Engage_in_symbolic_act <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Acknowledge_or_claim_responsibility, Deny_responsibility
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Assassinate, Attempt_to_assassinate
+90	0.17013232514177692	0.034233548877900345	0.09594882729211088	Engage_in_symbolic_act <-- Praise_or_endorse
+1	0.001890359168241966	0.022222222222222223	0.038461538461538464	Engage_in_symbolic_act <-- Share_intelligence_or_information, Investigate
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Use_as_human_shield, fight_with_small_arms_and_light_weapons
+79	0.14933837429111532	0.08586956521739131	0.23723723723723725	Engage_in_symbolic_act <-- Demand
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Ban_political_parties_or_politicians, Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Engage_in_political_dissent, Demonstrate_or_rally
+118	0.22306238185255198	0.04393149664929263	0.11184834123222749	Engage_in_symbolic_act <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Ease_curfew, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Confiscate_property, Expel_or_deport_individuals
+18	0.034026465028355386	0.12413793103448276	0.4	Engage_in_symbolic_act <-- Arrest,_detain,_or_charge_with_legal_action, Investigate
+1	0.001890359168241966	0.03125	0.07692307692307693	Engage_in_symbolic_act <-- Return,_release_person(s), Return,_release_property
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Grant_diplomatic_recognition, Reduce_relations
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Destroy_property, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Carry_out_roadside_bombing, Carry_out_suicide_bombing
+25	0.04725897920604915	0.0028851702250432777	0.007793017456359103	Engage_in_symbolic_act <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Increase_military_alert_status, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Consult, Mediate
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Torture, Sexually_assault
+5	0.00945179584120983	0.026455026455026454	0.05952380952380952	Engage_in_symbolic_act <-- Sign_formal_agreement, Yield
+11	0.020793950850661626	0.012600229095074456	0.03536977491961415	Engage_in_symbolic_act <-- Discuss_by_telephone, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Abduct,_hijack,_or_take_hostage, Physically_assault
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Give_ultimatum, Coerce
+2	0.003780718336483932	0.125	0.3333333333333333	Engage_in_symbolic_act <-- Occupy_territory, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Employ_aerial_weapons, fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Detonate_nuclear_weapons, Use_chemical,_biological,_or_radiological_weapons
+14	0.026465028355387523	0.017114914425427872	0.034653465346534656	Engage_in_symbolic_act <-- Make_empathetic_comment, Make_optimistic_comment
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Cooperate_militarily, Engage_in_diplomatic_cooperation
+2	0.003780718336483932	0.007936507936507936	0.0625	Engage_in_symbolic_act <-- Use_conventional_military_force, Threaten_with_military_force
+100	0.1890359168241966	0.011914690813773382	0.03812428516965307	Engage_in_symbolic_act <-- Accuse, Make_statement
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Protest_violently,_riot, Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Declare_truce,_ceasefire, Violate_ceasefire
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Apologize, Express_accord
+99	0.18714555765595464	0.006194081211286993	0.03279231533620404	Engage_in_symbolic_act <-- Make_statement, Express_intent_to_cooperate
+2	0.003780718336483932	0.0045871559633027525	0.008695652173913044	Engage_in_symbolic_act <-- Express_intent_to_cooperate, Cooperate_economically
+182	0.3440453686200378	0.05664488017429194	0.16883116883116883	Engage_in_symbolic_act <-- Make_an_appeal_or_request
+7	0.013232514177693762	0.07368421052631578	0.2413793103448276	Engage_in_symbolic_act <-- Complain_officially, Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Rally_opposition_against, Rally_support_on_behalf_of
+53	0.1001890359168242	0.12529550827423167	0.29608938547486036	Engage_in_symbolic_act <-- Threaten
+5	0.00945179584120983	0.07575757575757576	0.2	Engage_in_symbolic_act <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+5	0.00945179584120983	0.041666666666666664	0.10416666666666667	Engage_in_symbolic_act <-- Reject, Refuse_to_yield
+0.0	0.0	0.0	0.0	Engage_in_symbolic_act <-- Refuse_to_yield, Reject
+70	0.1323251417769376	0.008629191321499015	0.042656916514320534	Engage_in_symbolic_act <-- Make_statement

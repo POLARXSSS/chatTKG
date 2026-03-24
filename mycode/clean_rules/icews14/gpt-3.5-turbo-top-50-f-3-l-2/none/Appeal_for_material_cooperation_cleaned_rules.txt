@@ -1,0 +1,7 @@
+Appeal_for_material_cooperation <-- Reduce_or_stop_material_aid
+Appeal_for_material_cooperation <-- Reduce_or_stop_economic_assistance
+Appeal_for_material_cooperation <-- Appeal_for_intelligence
+Appeal_for_material_cooperation <-- Provide_economic_aid
+Appeal_for_material_cooperation <-- Consider_policy_option
+Appeal_for_material_cooperation <-- Reject_military_cooperation
+Appeal_for_material_cooperation <-- Sign_formal_agreement

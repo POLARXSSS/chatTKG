@@ -1,0 +1,14 @@
+Impose_blockade,_restrict_movement <-- Threaten_with_military_force
+Impose_blockade,_restrict_movement <-- Mobilize_or_increase_armed_forces
+Impose_blockade,_restrict_movement <-- Impose_state_of_emergency_or_martial_law
+Impose_blockade,_restrict_movement <-- Impose_embargo,_boycott,_or_sanctions
+Impose_blockade,_restrict_movement <-- Reject
+Impose_blockade,_restrict_movement <-- Express_intent_to_engage_in_material_cooperation, Reject
+Impose_blockade,_restrict_movement <-- Use_conventional_military_force, Arrest,_detain,_or_charge_with_legal_action
+Impose_blockade,_restrict_movement <-- Obstruct_passage,_block
+Impose_blockade,_restrict_movement <-- Express_intent_to_engage_in_material_cooperation, Defy_norms,_law
+Impose_blockade,_restrict_movement <-- Use_conventional_military_force
+Impose_blockade,_restrict_movement <-- Impose_administrative_sanctions
+Impose_blockade,_restrict_movement <-- Use_unconventional_violence
+Impose_blockade,_restrict_movement <-- Increase_military_alert_status
+Impose_blockade,_restrict_movement <-- Use_unconventional_violence, Mobilize_or_increase_armed_forces

@@ -1,0 +1,14 @@
+Physically_assault <-- fight_with_small_arms_and_light_weapons
+Physically_assault <-- Physically_assault, Physically_assault
+Physically_assault <-- Arrest,_detain,_or_charge_with_legal_action, Use_unconventional_violence
+Physically_assault <-- fight_with_artillery_and_tanks
+Physically_assault <-- Torture
+Physically_assault <-- Threaten, Use_unconventional_violence
+Physically_assault <-- Abduct,_hijack,_or_take_hostage
+Physically_assault <-- Use_tactics_of_violent_repression
+Physically_assault <-- Kill_by_physical_assault
+Physically_assault <-- Protest_violently,_riot, Use_conventional_military_force
+Physically_assault <-- Use_conventional_military_force
+Physically_assault <-- Physically_assault
+Physically_assault <-- Sexually_assault
+Physically_assault <-- Threaten

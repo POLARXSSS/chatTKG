@@ -1,0 +1,19 @@
+Appeal_for_intelligence <-- Make_an_appeal_or_request
+Appeal_for_intelligence <-- Make_statement, Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_intelligence <-- Appeal_for_policy_change
+Appeal_for_intelligence <-- Coerce
+Appeal_for_intelligence <-- Make_a_visit
+Appeal_for_intelligence <-- Use_unconventional_violence
+Appeal_for_intelligence <-- Express_intent_to_meet_or_negotiate
+Appeal_for_intelligence <-- Return,_release_person(s), Make_statement
+Appeal_for_intelligence <-- Demand_release_of_persons_or_property, Make_statement
+Appeal_for_intelligence <-- Kill_by_physical_assault, Make_statement
+Appeal_for_intelligence <-- Appeal_for_intelligence
+Appeal_for_intelligence <-- Accuse
+Appeal_for_intelligence <-- Use_conventional_military_force
+Appeal_for_intelligence <-- Torture
+Appeal_for_intelligence <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_intelligence <-- Make_statement, Make_an_appeal_or_request
+Appeal_for_intelligence <-- Confiscate_property
+Appeal_for_intelligence <-- Threaten_with_sanctions,_boycott,_embargo
+Appeal_for_intelligence <-- Make_statement, Investigate

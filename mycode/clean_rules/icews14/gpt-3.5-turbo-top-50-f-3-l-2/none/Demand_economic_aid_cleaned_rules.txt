@@ -1,0 +1,15 @@
+Demand_economic_aid <-- Demand_political_reform, Accede_to_demands_for_rights
+Demand_economic_aid <-- Use_conventional_military_force
+Demand_economic_aid <-- Conduct_strike_or_boycott, Appeal_for_economic_aid
+Demand_economic_aid <-- Declare_truce,_ceasefire, Express_intent_to_cooperate_economically
+Demand_economic_aid <-- Ease_economic_sanctions,_boycott,_embargo, Express_intent_to_provide_economic_aid
+Demand_economic_aid <-- Demand_material_aid, Provide_economic_aid
+Demand_economic_aid <-- Reduce_or_stop_economic_assistance
+Demand_economic_aid <-- Engage_in_negotiation, Express_intent_to_cooperate_economically
+Demand_economic_aid <-- Engage_in_mass_killings, Appeal_for_humanitarian_aid
+Demand_economic_aid <-- Defy_norms,_law, Threaten_with_military_force
+Demand_economic_aid <-- Provide_economic_aid, Reduce_or_stop_economic_assistance
+Demand_economic_aid <-- Threaten_with_sanctions,_boycott,_embargo, Coerce
+Demand_economic_aid <-- Impose_embargo,_boycott,_or_sanctions
+Demand_economic_aid <-- Appeal_for_economic_aid
+Demand_economic_aid <-- Sign_formal_agreement, Reject_plan,_agreement_to_settle_dispute

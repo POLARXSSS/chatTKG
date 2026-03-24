@@ -1,0 +1,4 @@
+3	1.0	3.0	3.0	Demand_military_aid <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Demand_military_aid <-- Reject_request_for_military_aid, Demand_military_aid
+0.0	0.0	0.0	0.0	Demand_military_aid <-- Use_conventional_military_force, Demand_military_aid
+3	1.0	3.0	3.0	Demand_military_aid <-- Demand_military_aid

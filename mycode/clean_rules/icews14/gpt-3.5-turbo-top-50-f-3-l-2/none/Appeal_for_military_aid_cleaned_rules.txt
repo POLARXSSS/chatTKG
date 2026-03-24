@@ -1,0 +1,18 @@
+Appeal_for_military_aid <-- Engage_in_material_cooperation
+Appeal_for_military_aid <-- Praise_or_endorse
+Appeal_for_military_aid <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Appeal_for_military_aid <-- Threaten
+Appeal_for_military_aid <-- Appeal_for_military_aid
+Appeal_for_military_aid <-- Meet_at_a_'third'_location
+Appeal_for_military_aid <-- Appeal_for_aid, Express_intent_to_meet_or_negotiate
+Appeal_for_military_aid <-- Express_intent_to_release_persons_or_property
+Appeal_for_military_aid <-- Express_intent_to_cooperate, Accede_to_demands_for_change_in_leadership
+Appeal_for_military_aid <-- Make_an_appeal_or_request
+Appeal_for_military_aid <-- Threaten_with_military_force
+Appeal_for_military_aid <-- Use_conventional_military_force
+Appeal_for_military_aid <-- Appeal_for_military_protection_or_peacekeeping, Receive_deployment_of_peacekeepers
+Appeal_for_military_aid <-- Obstruct_passage,_block
+Appeal_for_military_aid <-- Demand, Make_statement
+Appeal_for_military_aid <-- Accede_to_demands_for_change_in_leadership
+Appeal_for_military_aid <-- Make_pessimistic_comment
+Appeal_for_military_aid <-- fight_with_small_arms_and_light_weapons

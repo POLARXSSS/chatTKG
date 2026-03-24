@@ -1,0 +1,6 @@
+Express_accord <-- Apologize
+Express_accord <-- Express_accord
+Express_accord <-- Forgive
+Express_accord <-- Grant_diplomatic_recognition
+Express_accord <-- Yield
+Express_accord <-- Sign_formal_agreement

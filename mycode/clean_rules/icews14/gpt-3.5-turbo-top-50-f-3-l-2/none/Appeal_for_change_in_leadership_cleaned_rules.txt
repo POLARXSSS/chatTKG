@@ -1,0 +1,15 @@
+Appeal_for_change_in_leadership <-- fight_with_small_arms_and_light_weapons
+Appeal_for_change_in_leadership <-- Deny_responsibility
+Appeal_for_change_in_leadership <-- Return,_release_person(s)
+Appeal_for_change_in_leadership <-- Criticize_or_denounce
+Appeal_for_change_in_leadership <-- Demonstrate_or_rally, Reject
+Appeal_for_change_in_leadership <-- Demand
+Appeal_for_change_in_leadership <-- Demonstrate_or_rally
+Appeal_for_change_in_leadership <-- Engage_in_diplomatic_cooperation
+Appeal_for_change_in_leadership <-- Praise_or_endorse, Demand
+Appeal_for_change_in_leadership <-- Arrest,_detain,_or_charge_with_legal_action, Appeal_to_yield
+Appeal_for_change_in_leadership <-- Accuse
+Appeal_for_change_in_leadership <-- Make_an_appeal_or_request
+Appeal_for_change_in_leadership <-- Sexually_assault
+Appeal_for_change_in_leadership <-- Demand_material_cooperation
+Appeal_for_change_in_leadership <-- Appeal_for_change_in_leadership

@@ -1,0 +1,28 @@
+Seize_or_damage_property <-- Occupy_territory
+Seize_or_damage_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Seize_or_damage_property <-- Physically_assault, Destroy_property
+Seize_or_damage_property <-- Kill_by_physical_assault, Confiscate_property
+Seize_or_damage_property <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Seize_or_damage_property <-- Reject, Confiscate_property
+Seize_or_damage_property <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+Seize_or_damage_property <-- Use_conventional_military_force, Confiscate_property
+Seize_or_damage_property <-- Accuse_of_crime,_corruption, Arrest,_detain,_or_charge_with_legal_action
+Seize_or_damage_property <-- Threaten_with_sanctions,_boycott,_embargo, Impose_embargo,_boycott,_or_sanctions
+Seize_or_damage_property <-- Demonstrate_military_or_police_power, Confiscate_property
+Seize_or_damage_property <-- Reduce_or_break_diplomatic_relations, Confiscate_property
+Seize_or_damage_property <-- Increase_military_alert_status, Use_conventional_military_force
+Seize_or_damage_property <-- Arrest,_detain,_or_charge_with_legal_action, Confiscate_property
+Seize_or_damage_property <-- Coerce, Confiscate_property
+Seize_or_damage_property <-- Impose_embargo,_boycott,_or_sanctions, Confiscate_property
+Seize_or_damage_property <-- Carry_out_car_bombing
+Seize_or_damage_property <-- Engage_in_violent_protest_for_rights, Use_conventional_military_force
+Seize_or_damage_property <-- Seize_or_damage_property
+Seize_or_damage_property <-- Impose_restrictions_on_political_freedoms, Confiscate_property
+Seize_or_damage_property <-- Protest_violently,_riot, Use_conventional_military_force
+Seize_or_damage_property <-- Torture, Confiscate_property
+Seize_or_damage_property <-- Confiscate_property
+Seize_or_damage_property <-- Impose_state_of_emergency_or_martial_law, Confiscate_property
+Seize_or_damage_property <-- Destroy_property
+Seize_or_damage_property <-- Expel_or_deport_individuals, Confiscate_property
+Seize_or_damage_property <-- Veto, Confiscate_property
+Seize_or_damage_property <-- Obstruct_passage,_block, Confiscate_property

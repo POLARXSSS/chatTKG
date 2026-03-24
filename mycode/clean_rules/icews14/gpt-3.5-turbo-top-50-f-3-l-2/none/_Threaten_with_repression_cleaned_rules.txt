@@ -1,0 +1,40 @@
+Threaten_with_repression <-- Kill_by_physical_assault
+Threaten_with_repression <-- Demand, Refuse_to_yield
+Threaten_with_repression <-- Impose_state_of_emergency_or_martial_law
+Threaten_with_repression <-- Threaten_with_military_force
+Threaten_with_repression <-- Ban_political_parties_or_politicians
+Threaten_with_repression <-- Torture
+Threaten_with_repression <-- Threaten_with_sanctions,_boycott,_embargo
+Threaten_with_repression <-- Declare_truce,_ceasefire, Violate_ceasefire
+Threaten_with_repression <-- Appeal_for_release_of_persons_or_property, Refuse_to_release_persons_or_property
+Threaten_with_repression <-- Engage_in_negotiation, Reject_plan,_agreement_to_settle_dispute
+Threaten_with_repression <-- Physically_assault
+Threaten_with_repression <-- Confiscate_property
+Threaten_with_repression <-- Abduct,_hijack,_or_take_hostage
+Threaten_with_repression <-- Carry_out_suicide_bombing
+Threaten_with_repression <-- Threaten_with_repression
+Threaten_with_repression <-- Give_ultimatum
+Threaten_with_repression <-- Arrest,_detain,_or_charge_with_legal_action
+Threaten_with_repression <-- Defy_norms,_law, Impose_restrictions_on_political_freedoms
+Threaten_with_repression <-- Attempt_to_assassinate
+Threaten_with_repression <-- Expel_or_deport_individuals
+Threaten_with_repression <-- Engage_in_mass_expulsion
+Threaten_with_repression <-- Demonstrate_or_rally, Mobilize_or_increase_police_power
+Threaten_with_repression <-- Increase_military_alert_status
+Threaten_with_repression <-- Threaten_with_political_dissent,_protest
+Threaten_with_repression <-- Occupy_territory
+Threaten_with_repression <-- Impose_restrictions_on_political_freedoms
+Threaten_with_repression <-- Protest_violently,_riot, Use_conventional_military_force
+Threaten_with_repression <-- Increase_police_alert_status
+Threaten_with_repression <-- Use_tactics_of_violent_repression
+Threaten_with_repression <-- Destroy_property
+Threaten_with_repression <-- Sexually_assault
+Threaten_with_repression <-- Threaten_with_administrative_sanctions
+Threaten_with_repression <-- Demand_economic_aid, Reduce_or_stop_economic_assistance
+Threaten_with_repression <-- Engage_in_mass_killings
+Threaten_with_repression <-- Mobilize_or_increase_armed_forces
+Threaten_with_repression <-- fight_with_artillery_and_tanks
+Threaten_with_repression <-- Employ_aerial_weapons
+Threaten_with_repression <-- Seize_or_damage_property
+Threaten_with_repression <-- Use_chemical,_biological,_or_radiological_weapons
+Threaten_with_repression <-- Criticize_or_denounce, Arrest,_detain,_or_charge_with_legal_action

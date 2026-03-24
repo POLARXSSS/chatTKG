@@ -1,0 +1,21 @@
+Occupy_territory <-- Use_conventional_military_force, Use_tactics_of_violent_repression
+Occupy_territory <-- Violate_ceasefire, Use_conventional_military_force
+Occupy_territory <-- Threaten_with_military_force, Use_conventional_military_force
+Occupy_territory <-- Increase_military_alert_status
+Occupy_territory <-- Threaten_with_military_force
+Occupy_territory <-- Use_conventional_military_force
+Occupy_territory <-- Give_ultimatum, Use_conventional_military_force
+Occupy_territory <-- Occupy_territory, Increase_military_alert_status
+Occupy_territory <-- Abduct,_hijack,_or_take_hostage, Confiscate_property
+Occupy_territory <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Occupy_territory <-- Impose_state_of_emergency_or_martial_law
+Occupy_territory <-- Expel_or_deport_individuals, Use_conventional_military_force
+Occupy_territory <-- Carry_out_suicide_bombing
+Occupy_territory <-- Occupy_territory
+Occupy_territory <-- Employ_aerial_weapons
+Occupy_territory <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+Occupy_territory <-- Conduct_suicide,_car,_or_other_non-military_bombing, Use_unconventional_violence
+Occupy_territory <-- Mobilize_or_increase_armed_forces
+Occupy_territory <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Occupy_territory <-- Express_intent_to_change_leadership, Use_conventional_military_force
+Occupy_territory <-- Coerce, Use_conventional_military_force

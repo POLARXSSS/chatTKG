@@ -1,0 +1,19 @@
+48	0.5517241379310345	0.014939309056956116	0.11822660098522167	Appeal_for_intelligence <-- Make_an_appeal_or_request
+10	0.11494252873563218	0.00041218416388442357	0.006578947368421052	Appeal_for_intelligence <-- Make_statement, Arrest,_detain,_or_charge_with_legal_action
+1	0.011494252873563218	0.07692307692307693	0.5	Appeal_for_intelligence <-- Appeal_for_policy_change
+8	0.09195402298850575	0.0975609756097561	0.5714285714285714	Appeal_for_intelligence <-- Coerce
+11	0.12643678160919541	0.005161895823557016	0.06918238993710692	Appeal_for_intelligence <-- Make_a_visit
+7	0.08045977011494253	0.0070140280561122245	0.19444444444444445	Appeal_for_intelligence <-- Use_unconventional_violence
+30	0.3448275862068966	0.011169024571854059	0.14925373134328357	Appeal_for_intelligence <-- Express_intent_to_meet_or_negotiate
+11	0.12643678160919541	0.023255813953488372	0.16417910447761194	Appeal_for_intelligence <-- Return,_release_person(s), Make_statement
+1	0.011494252873563218	0.03571428571428571	0.125	Appeal_for_intelligence <-- Demand_release_of_persons_or_property, Make_statement
+7	0.08045977011494253	0.029535864978902954	0.14	Appeal_for_intelligence <-- Kill_by_physical_assault, Make_statement
+87	1.0	1.359375	1.359375	Appeal_for_intelligence <-- Appeal_for_intelligence
+36	0.41379310344827586	0.02477632484514797	0.19889502762430938	Appeal_for_intelligence <-- Accuse
+11	0.12643678160919541	0.013681592039800995	0.20754716981132076	Appeal_for_intelligence <-- Use_conventional_military_force
+1	0.011494252873563218	0.038461538461538464	0.3333333333333333	Appeal_for_intelligence <-- Torture
+10	0.11494252873563218	0.007656967840735069	0.09345794392523364	Appeal_for_intelligence <-- Arrest,_detain,_or_charge_with_legal_action
+40	0.45977011494252873	0.0012988699831146902	0.023487962419260128	Appeal_for_intelligence <-- Make_statement, Make_an_appeal_or_request
+8	0.09195402298850575	0.0851063829787234	0.8	Appeal_for_intelligence <-- Confiscate_property
+1	0.011494252873563218	0.25	1.0	Appeal_for_intelligence <-- Threaten_with_sanctions,_boycott,_embargo
+17	0.19540229885057472	0.0025003677011325195	0.0368763557483731	Appeal_for_intelligence <-- Make_statement, Investigate

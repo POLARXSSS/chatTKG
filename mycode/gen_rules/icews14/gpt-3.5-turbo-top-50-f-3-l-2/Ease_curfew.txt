@@ -1,0 +1,20 @@
+Ease_curfew(X0,X1,T1) <- Ease_administrative_sanctions(X0,X1,T0).
+Ease_curfew(X0,X1,T2) <- Ease_curfew(X0,X1,T0), Ease_administrative_sanctions(X1,X2,T1).
+Ease_curfew(X0,X1,T2) <- Demobilize_armed_forces(X0,X1,T0), Declare_truce,_ceasefire(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Engage_in_negotiation(X0,X1,T0), Make_statement(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Make_an_appeal_or_request(X0,X1,T0), Yield(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Return,_release_person(s)(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1).
+Ease_curfew(X0,X1,T3) <- Host_a_visit(X0,X1,T0), Make_statement(X1,X0,T1), Ease_administrative_sanctions(X0,X1,T2).
+Ease_curfew(X0,X1,T3) <- Ease_curfew(X0,X1,T0), Cooperate_militarily(X1,X2,T1), Mediate(X2,X0,T2).
+Ease_curfew(X0,X1,T2) <- Demand_change_in_leadership(X0,X1,T0), Accede_to_demands_for_change_in_leadership(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Express_intent_to_de-escalate_military_engagement(X0,X1,T0), Demobilize_armed_forces(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Engage_in_symbolic_act(X0,X1,T0), Praise_or_endorse(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Investigate_human_rights_abuses(X0,X1,T0), Accede_to_demands_for_rights(X1,X0,T1).
+Ease_curfew(X0,X2,T3) <- Ease_curfew(X0,X1,T0), Ease_administrative_sanctions(X1,X2,T1), Make_statement(X2,X0,T2).
+Ease_curfew(X0,X1,T2) <- Meet_at_a_'third'_location(X0,X1,T0), Sign_formal_agreement(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Ease_economic_sanctions,_boycott,_embargo(X0,X1,T0), Cooperate_economically(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Appeal_for_easing_of_administrative_sanctions(X0,X1,T0), Ease_administrative_sanctions(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Express_intent_to_ease_administrative_sanctions(X0,X1,T0), Ease_administrative_sanctions(X1,X0,T1).
+Ease_curfew(X0,X1,T2) <- Provide_humanitarian_aid(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1).
+Ease_curfew(X0,X1,T3) <- Ease_curfew(X0,X1,T0), Demobilize_armed_forces(X1,X2,T1), Cooperate_militarily(X2,X0,T2).
+Ease_curfew(X0,X1,T2) <- Consult(X0,X1,T0), Express_intent_to_cooperate(X1,X0,T1).

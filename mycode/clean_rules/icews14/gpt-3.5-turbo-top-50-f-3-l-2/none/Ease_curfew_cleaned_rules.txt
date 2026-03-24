@@ -1,0 +1,16 @@
+Ease_curfew <-- Consult, Express_intent_to_cooperate
+Ease_curfew <-- Engage_in_negotiation, Make_statement
+Ease_curfew <-- Express_intent_to_de-escalate_military_engagement, Demobilize_armed_forces
+Ease_curfew <-- Engage_in_symbolic_act, Praise_or_endorse
+Ease_curfew <-- Return,_release_person(s), Express_intent_to_cooperate
+Ease_curfew <-- Demand_change_in_leadership, Accede_to_demands_for_change_in_leadership
+Ease_curfew <-- Ease_curfew, Ease_administrative_sanctions
+Ease_curfew <-- Make_an_appeal_or_request, Yield
+Ease_curfew <-- Ease_administrative_sanctions
+Ease_curfew <-- Demobilize_armed_forces, Declare_truce,_ceasefire
+Ease_curfew <-- Investigate_human_rights_abuses, Accede_to_demands_for_rights
+Ease_curfew <-- Provide_humanitarian_aid, Express_intent_to_cooperate
+Ease_curfew <-- Meet_at_a_'third'_location, Sign_formal_agreement
+Ease_curfew <-- Ease_economic_sanctions,_boycott,_embargo, Cooperate_economically
+Ease_curfew <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+Ease_curfew <-- Appeal_for_easing_of_administrative_sanctions, Ease_administrative_sanctions

@@ -1,0 +1,28 @@
+3	0.13043478260869565	0.04411764705882353	0.6	Appeal_for_change_in_institutions,_regime <-- Provide_military_aid
+1	0.043478260869565216	0.08333333333333333	0.25	Appeal_for_change_in_institutions,_regime <-- Appeal_for_release_of_persons_or_property, Mobilize_or_increase_armed_forces
+23	1.0	1.2777777777777777	1.2777777777777777	Appeal_for_change_in_institutions,_regime <-- Appeal_for_change_in_institutions,_regime
+1	0.043478260869565216	0.25	1.0	Appeal_for_change_in_institutions,_regime <-- Rally_support_on_behalf_of, Appeal_for_change_in_institutions,_regime
+3	0.13043478260869565	0.008875739644970414	0.046875	Appeal_for_change_in_institutions,_regime <-- Appeal_for_release_of_persons_or_property, Praise_or_endorse
+1	0.043478260869565216	0.08333333333333333	0.3333333333333333	Appeal_for_change_in_institutions,_regime <-- Appeal_for_release_of_persons_or_property, Occupy_territory
+2	0.08695652173913043	0.044444444444444446	2.0	Appeal_for_change_in_institutions,_regime <-- Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Threaten_non-force, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Impose_embargo,_boycott,_or_sanctions
+7	0.30434782608695654	0.0036842105263157894	0.0546875	Appeal_for_change_in_institutions,_regime <-- Criticize_or_denounce
+1	0.043478260869565216	0.010869565217391304	0.0625	Appeal_for_change_in_institutions,_regime <-- Complain_officially
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Demand_military_aid
+4	0.17391304347826086	0.0034482758620689655	0.05714285714285714	Appeal_for_change_in_institutions,_regime <-- Engage_in_negotiation
+3	0.13043478260869565	0.04411764705882353	0.6	Appeal_for_change_in_institutions,_regime <-- Provide_military_aid
+3	0.13043478260869565	0.0070921985815602835	0.07317073170731707	Appeal_for_change_in_institutions,_regime <-- Threaten
+1	0.043478260869565216	0.0032258064516129032	0.03333333333333333	Appeal_for_change_in_institutions,_regime <-- Meet_at_a_'third'_location
+9	0.391304347826087	0.0011094674556213018	0.04891304347826087	Appeal_for_change_in_institutions,_regime <-- Make_statement
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Engage_in_violent_protest_for_rights
+2	0.08695652173913043	0.023809523809523808	1.0	Appeal_for_change_in_institutions,_regime <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Accuse_of_crime,_corruption
+23	1.0	1.2777777777777777	1.2777777777777777	Appeal_for_change_in_institutions,_regime <-- Appeal_for_change_in_institutions,_regime
+8	0.34782608695652173	0.0012688342585249802	0.03187250996015936	Appeal_for_change_in_institutions,_regime <-- Consult
+1	0.043478260869565216	0.14285714285714285	0.5	Appeal_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Appeal_for_change_in_institutions,_regime <-- Threaten_with_repression

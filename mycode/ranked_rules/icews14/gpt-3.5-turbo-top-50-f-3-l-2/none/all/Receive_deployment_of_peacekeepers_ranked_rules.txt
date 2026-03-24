@@ -1,0 +1,18 @@
+4	0.12121212121212122	0.3076923076923077	2.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Cooperate_economically, Veto
+33	1.0	1.736842105263158	1.736842105263158	Receive_deployment_of_peacekeepers <-- Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_de-escalate_military_engagement, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Express_intent_to_provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Make_an_appeal_or_request, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Receive_deployment_of_peacekeepers <-- Receive_deployment_of_peacekeepers, Provide_military_protection_or_peacekeeping

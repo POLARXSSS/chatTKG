@@ -1,0 +1,20 @@
+Refuse_to_release_persons_or_property <-- Use_tactics_of_violent_repression, Demonstrate_or_rally
+Refuse_to_release_persons_or_property <-- Refuse_to_release_persons_or_property
+Refuse_to_release_persons_or_property <-- Give_ultimatum
+Refuse_to_release_persons_or_property <-- Investigate_crime,_corruption, Accuse_of_crime,_corruption
+Refuse_to_release_persons_or_property <-- Reduce_relations, Expel_or_deport_individuals
+Refuse_to_release_persons_or_property <-- Demand_release_of_persons_or_property
+Refuse_to_release_persons_or_property <-- Abduct,_hijack,_or_take_hostage
+Refuse_to_release_persons_or_property <-- Appeal_for_release_of_persons_or_property, Reject
+Refuse_to_release_persons_or_property <-- Impose_administrative_sanctions, Refuse_to_ease_administrative_sanctions
+Refuse_to_release_persons_or_property <-- Arrest,_detain,_or_charge_with_legal_action, Bring_lawsuit_against
+Refuse_to_release_persons_or_property <-- Demand_change_in_leadership, Refuse_to_ease_administrative_sanctions
+Refuse_to_release_persons_or_property <-- Accuse_of_human_rights_abuses, Deny_responsibility
+Refuse_to_release_persons_or_property <-- Complain_officially, Reject
+Refuse_to_release_persons_or_property <-- Arrest,_detain,_or_charge_with_legal_action, Accuse_of_crime,_corruption
+Refuse_to_release_persons_or_property <-- Violate_ceasefire, Use_conventional_military_force
+Refuse_to_release_persons_or_property <-- Engage_in_negotiation, Halt_negotiations
+Refuse_to_release_persons_or_property <-- Use_conventional_military_force, Mobilize_or_increase_armed_forces
+Refuse_to_release_persons_or_property <-- Threaten_with_military_force, Increase_military_alert_status
+Refuse_to_release_persons_or_property <-- Accuse, Threaten
+Refuse_to_release_persons_or_property <-- Refuse_to_yield

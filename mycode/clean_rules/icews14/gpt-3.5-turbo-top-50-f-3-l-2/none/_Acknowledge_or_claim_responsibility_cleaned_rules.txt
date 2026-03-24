@@ -1,0 +1,25 @@
+Acknowledge_or_claim_responsibility <-- Make_statement, Accuse
+Acknowledge_or_claim_responsibility <-- Threaten_with_military_force, Yield
+Acknowledge_or_claim_responsibility <-- Grant_diplomatic_recognition, Engage_in_diplomatic_cooperation
+Acknowledge_or_claim_responsibility <-- Host_a_visit, Occupy_territory
+Acknowledge_or_claim_responsibility <-- Complain_officially, Mediate
+Acknowledge_or_claim_responsibility <-- Provide_humanitarian_aid, Engage_in_material_cooperation
+Acknowledge_or_claim_responsibility <-- Investigate_war_crimes, Confiscate_property
+Acknowledge_or_claim_responsibility <-- Kill_by_physical_assault
+Acknowledge_or_claim_responsibility <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+Acknowledge_or_claim_responsibility <-- Use_conventional_military_force, Arrest,_detain,_or_charge_with_legal_action
+Acknowledge_or_claim_responsibility <-- Use_unconventional_violence
+Acknowledge_or_claim_responsibility <-- Detonate_nuclear_weapons
+Acknowledge_or_claim_responsibility <-- fight_with_small_arms_and_light_weapons
+Acknowledge_or_claim_responsibility <-- Abduct,_hijack,_or_take_hostage, Return,_release_person(s)
+Acknowledge_or_claim_responsibility <-- Declare_truce,_ceasefire, Express_intent_to_yield
+Acknowledge_or_claim_responsibility <-- Accuse_of_war_crimes, Defend_verbally
+Acknowledge_or_claim_responsibility <-- Carry_out_suicide_bombing
+Acknowledge_or_claim_responsibility <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+Acknowledge_or_claim_responsibility <-- Impose_embargo,_boycott,_or_sanctions, Ease_economic_sanctions,_boycott,_embargo
+Acknowledge_or_claim_responsibility <-- Engage_in_negotiation, Sign_formal_agreement
+Acknowledge_or_claim_responsibility <-- Threaten_non-force, Refuse_to_yield
+Acknowledge_or_claim_responsibility <-- Apologize
+Acknowledge_or_claim_responsibility <-- Express_intent_to_cooperate, Cooperate_militarily
+Acknowledge_or_claim_responsibility <-- Mobilize_or_increase_armed_forces, Demobilize_armed_forces
+Acknowledge_or_claim_responsibility <-- Retreat_or_surrender_militarily

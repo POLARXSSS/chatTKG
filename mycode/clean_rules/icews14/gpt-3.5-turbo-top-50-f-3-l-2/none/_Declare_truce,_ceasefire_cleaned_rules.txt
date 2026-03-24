@@ -1,0 +1,41 @@
+Declare_truce,_ceasefire <-- Provide_military_aid
+Declare_truce,_ceasefire <-- Mediate, Express_intent_to_accept_mediation
+Declare_truce,_ceasefire <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+Declare_truce,_ceasefire <-- Engage_in_negotiation
+Declare_truce,_ceasefire <-- Return,_release_person(s)
+Declare_truce,_ceasefire <-- Demand_de-escalation_of_military_engagement
+Declare_truce,_ceasefire <-- Mobilize_or_increase_armed_forces, Demobilize_armed_forces
+Declare_truce,_ceasefire <-- Express_intent_to_yield
+Declare_truce,_ceasefire <-- Cooperate_militarily, Cooperate_economically
+Declare_truce,_ceasefire <-- Halt_negotiations
+Declare_truce,_ceasefire <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+Declare_truce,_ceasefire <-- Ease_economic_sanctions,_boycott,_embargo
+Declare_truce,_ceasefire <-- Express_intent_to_provide_humanitarian_aid, Provide_humanitarian_aid
+Declare_truce,_ceasefire <-- Refuse_to_yield
+Declare_truce,_ceasefire <-- Express_intent_to_de-escalate_military_engagement
+Declare_truce,_ceasefire <-- Sign_formal_agreement
+Declare_truce,_ceasefire <-- Express_intent_to_cooperate_economically, Express_intent_to_cooperate_militarily
+Declare_truce,_ceasefire <-- Express_intent_to_cooperate_on_intelligence, Share_intelligence_or_information
+Declare_truce,_ceasefire <-- Express_intent_to_cooperate_on_judicial_matters
+Declare_truce,_ceasefire <-- Apologize
+Declare_truce,_ceasefire <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+Declare_truce,_ceasefire <-- Appeal_for_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+Declare_truce,_ceasefire <-- Demobilize_armed_forces
+Declare_truce,_ceasefire <-- Use_conventional_military_force, Demand_de-escalation_of_military_engagement
+Declare_truce,_ceasefire <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+Declare_truce,_ceasefire <-- Retreat_or_surrender_militarily
+Declare_truce,_ceasefire <-- Yield
+Declare_truce,_ceasefire <-- Grant_diplomatic_recognition
+Declare_truce,_ceasefire <-- Demand_that_target_yields, Yield
+Declare_truce,_ceasefire <-- Host_a_visit, Make_a_visit
+Declare_truce,_ceasefire <-- Express_intent_to_settle_dispute, Demand_settling_of_dispute
+Declare_truce,_ceasefire <-- Ease_state_of_emergency_or_martial_law
+Declare_truce,_ceasefire <-- fight_with_small_arms_and_light_weapons
+Declare_truce,_ceasefire <-- Declare_truce,_ceasefire
+Declare_truce,_ceasefire <-- Praise_or_endorse
+Declare_truce,_ceasefire <-- Complain_officially
+Declare_truce,_ceasefire <-- Discuss_by_telephone, Engage_in_negotiation
+Declare_truce,_ceasefire <-- Express_intent_to_cooperate
+Declare_truce,_ceasefire <-- Accede_to_demands_for_change_in_leadership
+Declare_truce,_ceasefire <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+Declare_truce,_ceasefire <-- Consult, Consult

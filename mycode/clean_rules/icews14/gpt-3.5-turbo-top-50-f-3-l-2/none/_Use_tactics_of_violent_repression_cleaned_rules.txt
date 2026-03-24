@@ -1,0 +1,37 @@
+Use_tactics_of_violent_repression <-- Demonstrate_or_rally
+Use_tactics_of_violent_repression <-- Protest_violently,_riot
+Use_tactics_of_violent_repression <-- Refuse_to_yield, Protest_violently,_riot
+Use_tactics_of_violent_repression <-- Use_tactics_of_violent_repression, Protest_violently,_riot
+Use_tactics_of_violent_repression <-- Express_intent_to_cooperate, Refuse_to_yield
+Use_tactics_of_violent_repression <-- Refuse_to_yield
+Use_tactics_of_violent_repression <-- Threaten
+Use_tactics_of_violent_repression <-- Investigate
+Use_tactics_of_violent_repression <-- Make_statement, Threaten
+Use_tactics_of_violent_repression <-- Carry_out_car_bombing
+Use_tactics_of_violent_repression <-- Use_unconventional_violence
+Use_tactics_of_violent_repression <-- Kill_by_physical_assault
+Use_tactics_of_violent_repression <-- Impose_administrative_sanctions
+Use_tactics_of_violent_repression <-- fight_with_small_arms_and_light_weapons
+Use_tactics_of_violent_repression <-- Torture
+Use_tactics_of_violent_repression <-- Engage_in_negotiation, Refuse_to_yield
+Use_tactics_of_violent_repression <-- Arrest,_detain,_or_charge_with_legal_action
+Use_tactics_of_violent_repression <-- Obstruct_passage,_block
+Use_tactics_of_violent_repression <-- Use_unconventional_violence, fight_with_small_arms_and_light_weapons
+Use_tactics_of_violent_repression <-- Use_conventional_military_force, Protest_violently,_riot
+Use_tactics_of_violent_repression <-- Physically_assault
+Use_tactics_of_violent_repression <-- Attempt_to_assassinate
+Use_tactics_of_violent_repression <-- Criticize_or_denounce
+Use_tactics_of_violent_repression <-- Use_conventional_military_force
+Use_tactics_of_violent_repression <-- Ban_political_parties_or_politicians
+Use_tactics_of_violent_repression <-- Demonstrate_or_rally, Use_tactics_of_violent_repression
+Use_tactics_of_violent_repression <-- Abduct,_hijack,_or_take_hostage
+Use_tactics_of_violent_repression <-- Use_tactics_of_violent_repression
+Use_tactics_of_violent_repression <-- Expel_or_deport_individuals
+Use_tactics_of_violent_repression <-- Protest_violently,_riot, Use_conventional_military_force
+Use_tactics_of_violent_repression <-- Destroy_property
+Use_tactics_of_violent_repression <-- Defy_norms,_law
+Use_tactics_of_violent_repression <-- Conduct_strike_or_boycott
+Use_tactics_of_violent_repression <-- Obstruct_passage,_block, Use_conventional_military_force
+Use_tactics_of_violent_repression <-- Mobilize_or_increase_armed_forces
+Use_tactics_of_violent_repression <-- Impose_state_of_emergency_or_martial_law
+Use_tactics_of_violent_repression <-- Mobilize_or_increase_police_power

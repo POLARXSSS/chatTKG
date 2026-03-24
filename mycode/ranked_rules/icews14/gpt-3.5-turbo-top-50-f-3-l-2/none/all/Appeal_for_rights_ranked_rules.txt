@@ -1,0 +1,182 @@
+3	0.2727272727272727	0.0020646937370956643	0.09090909090909091	Appeal_for_rights <-- Accuse
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_engage_in_material_cooperation, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Carry_out_car_bombing, Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_humanitarian_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Carry_out_roadside_bombing
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_to_engage_in_or_accept_mediation, Demand_mediation
+1	0.09090909090909091	0.05263157894736842	0.25	Appeal_for_rights <-- fight_with_artillery_and_tanks
+1	0.09090909090909091	0.0019230769230769232	0.041666666666666664	Appeal_for_rights <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_provide_economic_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_policy_change, Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_to_others_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Impose_blockade,_restrict_movement, Ease_curfew
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_change_in_institutions,_regime, Accede_to_demands_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_mediate, Mediate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Assassinate
+6	0.5454545454545454	0.003157894736842105	0.10714285714285714	Appeal_for_rights <-- Criticize_or_denounce
+2	0.18181818181818182	0.021739130434782608	0.3333333333333333	Appeal_for_rights <-- Complain_officially
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Halt_mediation, Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Halt_negotiations, Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Engage_in_political_dissent
+1	0.09090909090909091	0.0023923444976076554	0.1111111111111111	Appeal_for_rights <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_judicial_cooperation, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Demonstrate_for_policy_change, Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_de-escalate_military_engagement, Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_engage_in_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_easing_of_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Accuse_of_crime,_corruption
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+3	0.2727272727272727	0.0025252525252525255	0.030303030303030304	Appeal_for_rights <-- Use_conventional_military_force, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_de-escalation_of_military_engagement, Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Refuse_to_yield, Appeal_to_yield
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+1	0.09090909090909091	0.00847457627118644	0.14285714285714285	Appeal_for_rights <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_political_reform, Demand_political_reform
+2	0.18181818181818182	0.007434944237918215	0.03636363636363636	Appeal_for_rights <-- fight_with_artillery_and_tanks, Consult
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_provide_material_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Physically_assault
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Occupy_territory
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_settle_dispute, Mediate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Demand_military_aid, Provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Accuse_of_aggression
+1	0.09090909090909091	0.014925373134328358	0.05	Appeal_for_rights <-- Provide_economic_aid, Cooperate_economically
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Bring_lawsuit_against, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Demand_rights, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_institute_political_reform, Demand_political_reform
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Share_intelligence_or_information, Receive_inspectors
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_aid, Provide_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+1	0.09090909090909091	0.018518518518518517	0.25	Appeal_for_rights <-- Appeal_for_release_of_persons_or_property, Return,_release_person(s)
+2	0.18181818181818182	0.001272264631043257	0.023255813953488372	Appeal_for_rights <-- fight_with_small_arms_and_light_weapons, Make_statement
+1	0.09090909090909091	0.08333333333333333	0.25	Appeal_for_rights <-- Appeal_to_yield, Yield
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Engage_in_political_dissent, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_yield, Demand_that_target_yields
+1	0.09090909090909091	0.006134969325153374	0.07142857142857142	Appeal_for_rights <-- Decline_comment, Make_statement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Conduct_strike_or_boycott
+1	0.09090909090909091	0.0011876484560570072	0.010638297872340425	Appeal_for_rights <-- Grant_diplomatic_recognition, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Threaten_to_reduce_or_stop_aid, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Reduce_or_stop_humanitarian_assistance, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Forgive, Express_accord
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Confiscate_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Destroy_property
+2	0.18181818181818182	0.010638297872340425	0.08	Appeal_for_rights <-- Express_intent_to_cooperate_economically, Cooperate_economically
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Engage_in_mass_killings
+1	0.09090909090909091	0.002242152466367713	0.03125	Appeal_for_rights <-- Threaten_with_military_force, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_target_to_allow_international_involvement_(non-mediation), Mediate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Reject_plan,_agreement_to_settle_dispute, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Apologize, Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_change_policy, Demand_policy_change
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Provide_military_protection_or_peacekeeping, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Retreat_or_surrender_militarily, Yield
+1	0.09090909090909091	0.0022271714922048997	0.02040816326530612	Appeal_for_rights <-- Make_optimistic_comment, Make_empathetic_comment
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_accept_mediation, Appeal_to_engage_in_or_accept_mediation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Accede_to_demands_for_rights, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_material_cooperation, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_to_others_to_settle_dispute, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Return,_release_person(s), Return,_release_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Reduce_or_stop_military_assistance, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Attempt_to_assassinate
+2	0.18181818181818182	0.010810810810810811	0.10526315789473684	Appeal_for_rights <-- Make_pessimistic_comment, Consider_policy_option
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Threaten_with_sanctions,_boycott,_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Deny_responsibility, Investigate
+3	0.2727272727272727	0.0004192872117400419	0.007009345794392523	Appeal_for_rights <-- Host_a_visit, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_intelligence, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Mediate, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_provide_military_aid, Provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_release_persons_or_property, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Increase_military_alert_status
+4	0.36363636363636365	0.0004018485031143259	0.0163265306122449	Appeal_for_rights <-- Consult, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Violate_ceasefire, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Reduce_or_stop_material_aid, Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Investigate_human_rights_abuses, Make_statement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_provide_humanitarian_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Conduct_strike_or_boycott, Demand_political_reform
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_change_institutions,_regime, Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Accuse_of_espionage,_treason
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_political_reform, Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Threaten_non-force, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Sexually_assault
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Investigate_war_crimes, Make_statement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Refuse_to_yield, Give_ultimatum
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_change_in_leadership, Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_release_of_persons_or_property, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Torture
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Receive_deployment_of_peacekeepers, Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_economic_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_policy_change, Demand_policy_change
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_military_aid, Provide_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Investigate_crime,_corruption, Investigate_human_rights_abuses
+4	0.36363636363636365	0.0008421052631578948	0.025157232704402517	Appeal_for_rights <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Provide_military_aid, Cooperate_militarily
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Demand_mediation, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_for_economic_cooperation, Cooperate_economically
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Defend_verbally, Praise_or_endorse
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Appeal_to_others_to_meet_or_negotiate, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Ease_state_of_emergency_or_martial_law, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Express_intent_to_change_leadership, Demand_change_in_leadership
+1	0.09090909090909091	0.25	0.25	Appeal_for_rights <-- Express_intent_to_cooperate_on_intelligence, Share_intelligence_or_information
+2	0.18181818181818182	0.004651162790697674	0.030303030303030304	Appeal_for_rights <-- Reduce_relations, Express_intent_to_cooperate
+2	0.18181818181818182	0.0024875621890547263	0.25	Appeal_for_rights <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Impose_embargo,_boycott,_or_sanctions, Demand_economic_aid
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+5	0.45454545454545453	0.0002566339886054509	0.01016260162601626	Appeal_for_rights <-- Make_an_appeal_or_request, Make_statement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Use_conventional_military_force, Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- fight_with_small_arms_and_light_weapons, Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Reject_request_for_change_in_leadership, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- fight_with_artillery_and_tanks, Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Confiscate_property, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Investigate, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Protest_violently,_riot, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Criticize_or_denounce, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Complain_officially, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Use_unconventional_violence, Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Expel_or_deport_individuals, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Accuse_of_human_rights_abuses
+3	0.2727272727272727	0.00024040387851590673	0.004379562043795621	Appeal_for_rights <-- Host_a_visit, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Consider_policy_option, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Conduct_hunger_strike, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Abduct,_hijack,_or_take_hostage, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Torture
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Threaten, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Engage_in_mass_killings, Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Threaten_with_sanctions,_boycott,_embargo, Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Make_statement, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Arrest,_detain,_or_charge_with_legal_action, Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Impose_state_of_emergency_or_martial_law, Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Demonstrate_for_policy_change, Demand_rights
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Ban_political_parties_or_politicians, Demand_political_reform
+0.0	0.0	0.0	0.0	Appeal_for_rights <-- Refuse_to_yield, Demand_rights

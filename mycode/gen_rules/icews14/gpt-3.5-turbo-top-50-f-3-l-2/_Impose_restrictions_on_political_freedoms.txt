@@ -1,0 +1,50 @@
+_Impose_restrictions_on_political_freedoms(X0,X1,T1) <- _Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+_Impose_restrictions_on_political_freedoms(X0,X1,T1) <- _Impose_state_of_emergency_or_martial_law(X0,X1,T0).
+_Impose_restrictions_on_political_freedoms(X0,X1,T1) <- _Obstruct_passage,_block(X0,X1,T0).
+_Impose_restrictions_on_political_freedoms(X0,X1,T1) <- _Mobilize_or_increase_armed_forces(X0,X1,T0).
+_Impose_restrictions_on_political_freedoms(X0,X1,T1) <- _Reduce_or_stop_humanitarian_assistance(X0,X1,T0).
+_Impose_restrictions_on_political_freedoms(X0,X1,T1) <- _Make_statement(X0,X1,T0).
+_Impose_restrictions_on_political_freedoms(X0,X1,T1) <- _Return,_release_person(s)(X0,X1,T0).
+_Impose_restrictions_on_political_freedoms(X0,X1,T1) <- _Make_an_appeal_or_request(X0,X1,T0).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Impose_restrictions_on_political_freedoms(X0,X1,T0), _Criticize_or_denounce(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T2) <- _Accuse(X0,X1,T0), _Criticize_or_denounce(X1,X2,T1).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Demand(X0,X1,T0), _Make_an_appeal_or_request(X1,X2,T1), _Express_intent_to_mediate(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Protest_violently,_riot(X0,X1,T0), _Defy_norms,_law(X1,X0,T1), _Use_tactics_of_violent_repression(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Impose_administrative_sanctions(X0,X1,T0), _Accuse(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Mobilize_or_increase_armed_forces(X0,X1,T0), _Mobilize_or_increase_armed_forces(X1,X0,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Occupy_territory(X0,X1,T0), _Complain_officially(X1,X2,T1), _Reject_proposal_to_meet,_discuss,_or_negotiate(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Abduct,_hijack,_or_take_hostage(X0,X1,T0), _Threaten(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Investigate_crime,_corruption(X0,X1,T0), _Make_an_appeal_or_request(X1,X2,T1), _Demand(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Express_intent_to_change_leadership(X0,X1,T0), _Make_statement(X1,X0,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Engage_in_political_dissent(X0,X1,T0), _Criticize_or_denounce(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Conduct_strike_or_boycott(X0,X1,T0), _Make_an_appeal_or_request(X1,X0,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Host_a_visit(X0,X1,T0), _Make_a_visit(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Express_intent_to_cooperate_militarily(X0,X1,T0), _Cooperate_militarily(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Threaten_with_military_force(X0,X1,T0), _Use_conventional_military_force(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Reduce_or_stop_economic_assistance(X0,X1,T0), _Appeal_for_economic_aid(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Expel_or_deport_individuals(X0,X1,T0), _Complain_officially(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Confiscate_property(X0,X1,T0), _Demand_release_of_persons_or_property(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Destroy_property(X0,X1,T0), _Seize_or_damage_property(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Torture(X0,X1,T0), _Physically_assault(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Violate_ceasefire(X0,X1,T0), _Declare_truce,_ceasefire(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Sign_formal_agreement(X0,X1,T0), _Halt_mediation(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Veto(X0,X1,T0), _Reject_plan,_agreement_to_settle_dispute(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Grant_diplomatic_recognition(X0,X1,T0), _Reduce_or_break_diplomatic_relations(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Provide_military_aid(X0,X1,T0), _Receive_inspectors(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Share_intelligence_or_information(X0,X1,T0), _Appeal_for_intelligence(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Employ_aerial_weapons(X0,X1,T0), _Detonate_nuclear_weapons(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Carry_out_car_bombing(X0,X1,T0), _Carry_out_suicide_bombing(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Assassinate(X0,X1,T0), _Attempt_to_assassinate(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Use_chemical,_biological,_or_radiological_weapons(X0,X1,T0), _Use_as_human_shield(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Engage_in_mass_killings(X0,X1,T0), _Engage_in_mass_expulsion(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Yield(X0,X1,T0), _Refuse_to_yield(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Give_ultimatum(X0,X1,T0), _Refuse_to_yield(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Apologize(X0,X1,T0), _Forgive(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Praise_or_endorse(X0,X1,T0), _Defend_verbally(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Decline_comment(X0,X1,T0), _Make_pessimistic_comment(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Consult(X0,X1,T0), _Discuss_by_telephone(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Meet_at_a_'third'_location(X0,X1,T0), _Engage_in_negotiation(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Rally_opposition_against(X0,X1,T0), _Rally_support_on_behalf_of(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Demonstrate_for_leadership_change(X0,X1,T0), _Demonstrate_for_policy_change(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).
+_Impose_restrictions_on_political_freedoms(X0,X1,T3) <- _Increase_military_alert_status(X0,X1,T0), _Increase_police_alert_status(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X2,X1,T2).
+_Impose_restrictions_on_political_freedoms(X0,X2,T3) <- _Ease_political_dissent(X0,X1,T0), _Ease_curfew(X1,X2,T1), _Impose_restrictions_on_political_freedoms(X0,X2,T2).

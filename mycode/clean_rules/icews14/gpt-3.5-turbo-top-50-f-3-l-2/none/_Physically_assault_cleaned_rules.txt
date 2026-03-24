@@ -1,0 +1,10 @@
+Physically_assault <-- Protest_violently,_riot
+Physically_assault <-- Arrest,_detain,_or_charge_with_legal_action
+Physically_assault <-- Accuse
+Physically_assault <-- fight_with_small_arms_and_light_weapons
+Physically_assault <-- Threaten
+Physically_assault <-- Use_tactics_of_violent_repression
+Physically_assault <-- Use_unconventional_violence
+Physically_assault <-- Sexually_assault
+Physically_assault <-- Use_conventional_military_force
+Physically_assault <-- Kill_by_physical_assault

@@ -1,0 +1,28 @@
+Host_a_visit <-- Express_intent_to_meet_or_negotiate
+Host_a_visit <-- Make_statement, Make_statement
+Host_a_visit <-- Express_intent_to_meet_or_negotiate, Make_a_visit
+Host_a_visit <-- Demand, Demand
+Host_a_visit <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+Host_a_visit <-- Appeal_for_aid, Make_a_visit
+Host_a_visit <-- Make_a_visit, Make_a_visit
+Host_a_visit <-- Meet_at_a_'third'_location, Meet_at_a_'third'_location
+Host_a_visit <-- Praise_or_endorse
+Host_a_visit <-- Consult
+Host_a_visit <-- Make_a_visit, Consult
+Host_a_visit <-- Consult, Express_intent_to_meet_or_negotiate
+Host_a_visit <-- Make_a_visit
+Host_a_visit <-- Consult, Consult
+Host_a_visit <-- Cooperate_economically, Cooperate_economically
+Host_a_visit <-- Discuss_by_telephone, Discuss_by_telephone
+Host_a_visit <-- Demand, Make_a_visit
+Host_a_visit <-- Appeal_for_material_cooperation
+Host_a_visit <-- Sign_formal_agreement
+Host_a_visit <-- Provide_economic_aid, Make_a_visit
+Host_a_visit <-- Make_statement, Make_a_visit
+Host_a_visit <-- Express_intent_to_cooperate
+Host_a_visit <-- Mediate
+Host_a_visit <-- Engage_in_negotiation
+Host_a_visit <-- Cooperate_militarily, Make_a_visit
+Host_a_visit <-- Mediate, Make_a_visit
+Host_a_visit <-- Sign_formal_agreement, Make_a_visit
+Host_a_visit <-- Demand_meeting,_negotiation

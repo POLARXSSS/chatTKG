@@ -1,0 +1,369 @@
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_repression
+2	0.0273972602739726	0.024691358024691357	0.16666666666666666	Defy_norms,_law <-- Sexually_assault
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Complain_officially, Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_material_cooperation, Reject_military_cooperation
+2	0.0273972602739726	0.024096385542168676	0.15384615384615385	Defy_norms,_law <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+26	0.3561643835616438	0.040498442367601244	0.30952380952380953	Defy_norms,_law <-- Reject
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_repression, Demonstrate_or_rally
+1	0.0136986301369863	0.012195121951219513	0.1	Defy_norms,_law <-- Coerce
+6	0.0821917808219178	2.0	3.0	Defy_norms,_law <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_policy_change, Demand_political_reform
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_change_in_institutions,_regime, Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_mass_killings
+1	0.0136986301369863	0.015625	0.06666666666666667	Defy_norms,_law <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Attempt_to_assassinate, Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Employ_aerial_weapons
+6	0.0821917808219178	0.014184397163120567	0.11320754716981132	Defy_norms,_law <-- Threaten
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Expel_or_withdraw
+1	0.0136986301369863	0.015384615384615385	0.07692307692307693	Defy_norms,_law <-- Accuse_of_crime,_corruption
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_to_halt_negotiations, Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Destroy_property
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- fight_with_artillery_and_tanks, fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_to_reduce_or_stop_aid, Demand_that_target_yields
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Conduct_hunger_strike, Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Conduct_hunger_strike
+2	0.0273972602739726	0.02631578947368421	0.13333333333333333	Defy_norms,_law <-- Rally_opposition_against
+6	0.0821917808219178	0.2608695652173913	0.5	Defy_norms,_law <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Use_conventional_military_force, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Obstruct_passage,_block, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_yield, Violate_ceasefire
+1	0.0136986301369863	0.0007656967840735069	0.011627906976744186	Defy_norms,_law <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_administrative_sanctions, Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_mass_killings, Engage_in_mass_expulsion
+2	0.0273972602739726	0.04	0.2857142857142857	Defy_norms,_law <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_break_diplomatic_relations, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Impose_embargo,_boycott,_or_sanctions, Reduce_relations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_release_persons_or_property, Bring_lawsuit_against
+3	0.0410958904109589	0.03260869565217391	0.10714285714285714	Defy_norms,_law <-- Complain_officially
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_rights
+1	0.0136986301369863	0.5	1.0	Defy_norms,_law <-- Demand_policy_change
+7	0.0958904109589041	0.01674641148325359	0.25925925925925924	Defy_norms,_law <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_request_for_military_protection_or_peacekeeping
+9	0.1232876712328767	0.06870229007633588	0.34615384615384615	Defy_norms,_law <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_change_institutions,_regime, Express_intent_to_change_leadership
+1	0.0136986301369863	0.0035335689045936395	0.058823529411764705	Defy_norms,_law <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demonstrate_for_leadership_change
+7	0.0958904109589041	0.0945945945945946	0.5833333333333334	Defy_norms,_law <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demonstrate_for_policy_change, Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Sexually_assault, Kill_by_physical_assault
+5	0.0684931506849315	0.10204081632653061	2.5	Defy_norms,_law <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Conduct_suicide,_car,_or_other_non-military_bombing, Carry_out_roadside_bombing
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_material_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Accuse_of_crime,_corruption, Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_military_assistance, Expel_or_withdraw
+2	0.0273972602739726	0.0024875621890547263	0.06666666666666667	Defy_norms,_law <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_military_assistance
+34	0.4657534246575342	0.017894736842105262	0.14107883817427386	Defy_norms,_law <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_political_dissent, Engage_in_violent_protest_for_rights
+1	0.0136986301369863	0.05263157894736842	0.25	Defy_norms,_law <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Veto
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Rally_opposition_against, Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demonstrate_for_policy_change
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Assassinate
+1	0.0136986301369863	0.125	1.0	Defy_norms,_law <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Impose_state_of_emergency_or_martial_law
+2	0.0273972602739726	0.014285714285714285	0.1	Defy_norms,_law <-- Physically_assault
+5	0.0684931506849315	0.07462686567164178	2.5	Defy_norms,_law <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_sanctions,_boycott,_embargo
+1	0.0136986301369863	0.020833333333333332	0.2	Defy_norms,_law <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Torture
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_release_of_persons_or_property, Demand_rights
+1	0.0136986301369863	0.02	0.2	Defy_norms,_law <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Give_ultimatum, Coerce
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_humanitarian_assistance, Reduce_or_stop_material_aid
+1	0.0136986301369863	0.03225806451612903	0.2	Defy_norms,_law <-- Halt_negotiations
+1	0.0136986301369863	1.0	1.0	Defy_norms,_law <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_judicial_cooperation
+18	0.2465753424657534	0.06060606060606061	0.2535211267605634	Defy_norms,_law <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Halt_mediation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Expel_or_withdraw_peacekeepers, Halt_negotiations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Confiscate_property
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Carry_out_suicide_bombing, Physically_assault
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Halt_mediation, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten, Threaten_non-force
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Seize_or_damage_property
+1	0.0136986301369863	0.011904761904761904	0.3333333333333333	Defy_norms,_law <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_change_in_institutions,_regime, Demand_change_in_leadership
+12	0.1643835616438356	0.003068268984914344	0.0345821325648415	Defy_norms,_law <-- Reject, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Veto, Deny_responsibility
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Carry_out_roadside_bombing
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_request_for_military_aid, Reject_request_for_military_protection_or_peacekeeping
+1	0.0136986301369863	0.017857142857142856	0.14285714285714285	Defy_norms,_law <-- Appeal_for_change_in_leadership
+8	0.1095890410958904	0.046242774566473986	0.3076923076923077	Defy_norms,_law <-- Deny_responsibility
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_political_dissent,_protest, Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Use_as_human_shield, Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Use_chemical,_biological,_or_radiological_weapons
+6	0.0821917808219178	0.05172413793103448	0.18181818181818182	Defy_norms,_law <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_change_policy, Express_intent_to_institute_political_reform
+6	0.0821917808219178	0.033707865168539325	0.24	Defy_norms,_law <-- Reduce_relations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_ease_administrative_sanctions, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_economic_assistance
+1	0.0136986301369863	0.02702702702702703	0.14285714285714285	Defy_norms,_law <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Refuse_to_de-escalate_military_engagement
+7	0.0958904109589041	0.059322033898305086	0.7	Defy_norms,_law <-- Occupy_territory
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_request_for_change_in_leadership
+1	0.0136986301369863	0.5	1.0	Defy_norms,_law <-- Reject_economic_cooperation
+5	0.0684931506849315	0.17857142857142858	1.25	Defy_norms,_law <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_to_reduce_or_break_relations
+1	0.0136986301369863	0.5	1.0	Defy_norms,_law <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Detonate_nuclear_weapons, Assassinate
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Carry_out_car_bombing, Occupy_territory
+2	0.0273972602739726	0.08333333333333333	0.2	Defy_norms,_law <-- Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_economic_cooperation, Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Impose_restrictions_on_political_freedoms, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_mass_expulsion
+6	0.0821917808219178	0.2608695652173913	0.5	Defy_norms,_law <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_provide_military_protection_or_peacekeeping
+9	0.1232876712328767	0.005569306930693069	0.06293706293706294	Defy_norms,_law <-- Threaten, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_institute_political_reform
+1	0.0136986301369863	0.034482758620689655	0.3333333333333333	Defy_norms,_law <-- Accede_to_demands_for_change_in_leadership
+18	0.2465753424657534	0.06060606060606061	0.2535211267605634	Defy_norms,_law <-- Demonstrate_or_rally
+1	0.0136986301369863	0.05263157894736842	0.25	Defy_norms,_law <-- fight_with_artillery_and_tanks
+1	0.0136986301369863	0.022222222222222223	0.25	Defy_norms,_law <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Ease_curfew, Criticize_or_denounce
+1	0.0136986301369863	0.008928571428571428	0.07692307692307693	Defy_norms,_law <-- Ease_administrative_sanctions
+14	0.1917808219178082	0.0340632603406326	0.25	Defy_norms,_law <-- Make_pessimistic_comment
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_material_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Ease_military_blockade
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_change_institutions,_regime
+1	0.0136986301369863	0.14285714285714285	0.3333333333333333	Defy_norms,_law <-- Demand_settling_of_dispute
+7	0.0958904109589041	0.1891891891891892	0.7	Defy_norms,_law <-- Demonstrate_or_rally, Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Provide_military_aid
+1	0.0136986301369863	0.5	1.0	Defy_norms,_law <-- Demand_policy_change
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_rights
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_engage_in_material_cooperation
+3	0.0410958904109589	0.3	1.5	Defy_norms,_law <-- Express_intent_to_accept_mediation
+17	0.2328767123287671	0.017034068136272545	0.18681318681318682	Defy_norms,_law <-- Use_unconventional_violence
+5	0.0684931506849315	1.25	5.0	Defy_norms,_law <-- Ease_curfew
+1	0.0136986301369863	1.0	1.0	Defy_norms,_law <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_cooperate_on_judicial_matters
+1	0.0136986301369863	0.012195121951219513	0.1	Defy_norms,_law <-- Coerce
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_to_reduce_or_stop_aid
+6	0.0821917808219178	0.014184397163120567	0.11320754716981132	Defy_norms,_law <-- Threaten
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_judicial_cooperation
+73	1.0	1.4313725490196079	1.4313725490196079	Defy_norms,_law <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_economic_aid
+2	0.0273972602739726	0.13333333333333333	1.0	Defy_norms,_law <-- Increase_police_alert_status
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_political_dissent
+1	0.0136986301369863	0.017857142857142856	0.3333333333333333	Defy_norms,_law <-- Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Receive_deployment_of_peacekeepers
+1	0.0136986301369863	0.07692307692307693	0.5	Defy_norms,_law <-- Express_intent_to_cooperate_militarily
+5	0.0684931506849315	0.15625	1.0	Defy_norms,_law <-- Appeal_to_others_to_meet_or_negotiate
+9	0.1232876712328767	0.06870229007633588	0.34615384615384615	Defy_norms,_law <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_to_halt_mediation
+2	0.0273972602739726	0.03125	0.3333333333333333	Defy_norms,_law <-- Appeal_for_intelligence
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_political_dissent,_protest
+7	0.0958904109589041	0.059322033898305086	0.7	Defy_norms,_law <-- Occupy_territory
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_release_of_persons_or_property
+26	0.3561643835616438	0.040498442367601244	0.30952380952380953	Defy_norms,_law <-- Reject
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Receive_inspectors
+2	0.0273972602739726	0.014285714285714285	0.1	Defy_norms,_law <-- Physically_assault
+1	0.0136986301369863	0.005376344086021506	0.1	Defy_norms,_law <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Halt_mediation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_economic_assistance
+5	0.0684931506849315	0.004310344827586207	0.05319148936170213	Defy_norms,_law <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Expel_or_withdraw_peacekeepers
+6	0.0821917808219178	0.05172413793103448	0.18181818181818182	Defy_norms,_law <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_mediation
+1	0.0136986301369863	0.05555555555555555	0.16666666666666666	Defy_norms,_law <-- Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demonstrate_for_policy_change
+13	0.1780821917808219	0.02394106813996317	0.20634920634920634	Defy_norms,_law <-- Make_optimistic_comment
+4	0.0547945205479452	0.037383177570093455	0.4	Defy_norms,_law <-- Rally_support_on_behalf_of
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_release_persons_or_property
+6	0.0821917808219178	0.2	0.6666666666666666	Defy_norms,_law <-- Appeal_for_judicial_cooperation
+1	0.0136986301369863	0.03225806451612903	0.2	Defy_norms,_law <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Arrest,_detain,_or_charge_with_legal_action, Express_intent_to_de-escalate_military_engagement
+32	0.4383561643835616	0.009959539371304078	0.11149825783972125	Defy_norms,_law <-- Make_an_appeal_or_request
+2	0.0273972602739726	0.024096385542168676	0.15384615384615385	Defy_norms,_law <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+1	0.0136986301369863	0.047619047619047616	0.5	Defy_norms,_law <-- Appeal_for_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Accuse_of_aggression
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Impose_blockade,_restrict_movement
+7	0.0958904109589041	0.0945945945945946	0.5833333333333334	Defy_norms,_law <-- Threaten_with_military_force
+5	0.0684931506849315	0.07462686567164178	2.5	Defy_norms,_law <-- Impose_embargo,_boycott,_or_sanctions
+2	0.0273972602739726	0.024691358024691357	0.16666666666666666	Defy_norms,_law <-- Sexually_assault
+2	0.0273972602739726	0.04	0.2857142857142857	Defy_norms,_law <-- Reject_plan,_agreement_to_settle_dispute
+1	0.0136986301369863	0.015384615384615385	0.07692307692307693	Defy_norms,_law <-- Accuse_of_crime,_corruption
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Defend_verbally
+3	0.0410958904109589	0.005825242718446602	0.15	Defy_norms,_law <-- Investigate
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Assassinate
+5	0.0684931506849315	0.17857142857142858	1.25	Defy_norms,_law <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_request_for_military_aid
+3	0.0410958904109589	0.04054054054054054	0.42857142857142855	Defy_norms,_law <-- Express_accord
+13	0.1780821917808219	0.017195767195767195	0.13978494623655913	Defy_norms,_law <-- Express_intent_to_cooperate
+4	0.0547945205479452	0.006042296072507553	0.046511627906976744	Defy_norms,_law <-- Engage_in_diplomatic_cooperation
+1	0.0136986301369863	0.013333333333333334	0.07692307692307693	Defy_norms,_law <-- Express_intent_to_cooperate_economically
+1	0.0136986301369863	0.125	0.3333333333333333	Defy_norms,_law <-- Appeal_to_yield
+2	0.0273972602739726	0.08333333333333333	0.2	Defy_norms,_law <-- Demonstrate_military_or_police_power
+20	0.273972602739726	0.0006494349915573451	0.022753128555176336	Defy_norms,_law <-- Make_statement, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_break_diplomatic_relations
+3	0.0410958904109589	0.0014077897700610043	0.011363636363636364	Defy_norms,_law <-- Host_a_visit
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+1	0.0136986301369863	0.09090909090909091	1.0	Defy_norms,_law <-- Appeal_for_material_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_material_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_ease_administrative_sanctions
+1	0.0136986301369863	1.0	1.0	Defy_norms,_law <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+11	0.1506849315068493	0.0017038413878562577	0.03081232492997199	Defy_norms,_law <-- Make_an_appeal_or_request, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Obstruct_passage_to_demand_leadership_change
+1	0.0136986301369863	0.5	1.0	Defy_norms,_law <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Seize_or_damage_property
+1	0.0136986301369863	0.011904761904761904	0.3333333333333333	Defy_norms,_law <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Mediate
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Ease_curfew, Use_unconventional_violence
+3	0.0410958904109589	0.16666666666666666	0.5	Defy_norms,_law <-- Appeal_for_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_repression
+1	0.0136986301369863	0.0007656967840735069	0.011627906976744186	Defy_norms,_law <-- Arrest,_detain,_or_charge_with_legal_action
+1	0.0136986301369863	0.020833333333333332	0.2	Defy_norms,_law <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Return,_release_property
+2	0.0273972602739726	0.05714285714285714	0.4	Defy_norms,_law <-- Appeal_to_engage_in_or_accept_mediation
+1	0.0136986301369863	0.5	1.0	Defy_norms,_law <-- Reject_economic_cooperation
+1	0.0136986301369863	0.02	0.2	Defy_norms,_law <-- Give_ultimatum
+3	0.0410958904109589	0.004076086956521739	0.04054054054054054	Defy_norms,_law <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_military_protection_or_peacekeeping
+8	0.1095890410958904	0.4	1.6	Defy_norms,_law <-- Appeal_for_military_aid
+23	0.3150684931506849	0.025	0.25555555555555554	Defy_norms,_law <-- Demand
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_to_others_to_settle_dispute
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Carry_out_car_bombing
+20	0.273972602739726	0.002465483234714004	0.09523809523809523	Defy_norms,_law <-- Make_statement
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Torture
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reject_material_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_humanitarian_aid
+1	0.0136986301369863	0.0010090817356205853	0.0035335689045936395	Defy_norms,_law <-- Engage_in_symbolic_act, Host_a_visit
+1	0.0136986301369863	0.06666666666666667	0.3333333333333333	Defy_norms,_law <-- Accuse_of_espionage,_treason
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_provide_economic_aid
+8	0.1095890410958904	0.046242774566473986	0.3076923076923077	Defy_norms,_law <-- Deny_responsibility
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_target_to_allow_international_involvement_(non-mediation)
+1	0.0136986301369863	0.010752688172043012	0.1	Defy_norms,_law <-- Consider_policy_option
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Confiscate_property
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Investigate_war_crimes
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demonstrate_for_leadership_change
+14	0.1917808219178082	0.009635237439779766	0.07446808510638298	Defy_norms,_law <-- Accuse
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_judicial_cooperation
+2	0.0273972602739726	0.008849557522123894	0.13333333333333333	Defy_norms,_law <-- Make_empathetic_comment
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Ease_political_dissent
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Use_as_human_shield
+1	0.0136986301369863	0.06666666666666667	0.5	Defy_norms,_law <-- Express_intent_to_mediate
+1	0.0136986301369863	0.058823529411764705	0.3333333333333333	Defy_norms,_law <-- Appeal_for_economic_cooperation
+1	0.0136986301369863	0.0196078431372549	0.2	Defy_norms,_law <-- Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Veto
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_de-escalation_of_military_engagement
+2	0.0273972602739726	0.0024875621890547263	0.06666666666666667	Defy_norms,_law <-- Use_conventional_military_force
+13	0.1780821917808219	0.032418952618453865	0.18840579710144928	Defy_norms,_law <-- Engage_in_symbolic_act
+3	0.0410958904109589	0.03260869565217391	0.10714285714285714	Defy_norms,_law <-- Complain_officially
+1	0.0136986301369863	0.015625	0.06666666666666667	Defy_norms,_law <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Accede_to_demands_for_change_in_policy
+1	0.0136986301369863	0.125	1.0	Defy_norms,_law <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Retreat_or_surrender_militarily
+2	0.0273972602739726	0.11764705882352941	0.5	Defy_norms,_law <-- Appeal_for_economic_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_material_cooperation
+1	0.0136986301369863	0.017857142857142856	0.14285714285714285	Defy_norms,_law <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Threaten_non-force
+14	0.1917808219178082	0.005325218714340053	0.1076923076923077	Defy_norms,_law <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_provide_military_aid
+1	0.0136986301369863	0.03225806451612903	0.5	Defy_norms,_law <-- Apologize
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_political_reform
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Accede_to_demands_for_change_in_institutions,_regime
+3	0.0410958904109589	0.02158273381294964	0.375	Defy_norms,_law <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Provide_economic_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_change_leadership
+3	0.0410958904109589	0.03333333333333333	0.16666666666666666	Defy_norms,_law <-- Yield
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Expel_or_withdraw
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_yield
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Appeal_for_change_in_institutions,_regime
+30	0.410958904109589	0.011169024571854059	0.15306122448979592	Defy_norms,_law <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Grant_asylum
+6	0.0821917808219178	0.033707865168539325	0.24	Defy_norms,_law <-- Reduce_relations
+11	0.1506849315068493	0.0017446471054718478	0.0421455938697318	Defy_norms,_law <-- Consult
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_change_in_institutions,_regime
+7	0.0958904109589041	0.01674641148325359	0.25925925925925924	Defy_norms,_law <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demobilize_armed_forces
+2	0.0273972602739726	0.25	1.0	Defy_norms,_law <-- Appeal_for_humanitarian_aid
+1	0.0136986301369863	0.037037037037037035	0.25	Defy_norms,_law <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Express_intent_to_cooperate_on_intelligence
+6	0.0821917808219178	0.4	6.0	Defy_norms,_law <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Demand_intelligence_cooperation
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Accede_to_requests_or_demands_for_political_reform
+34	0.4657534246575342	0.017894736842105262	0.14107883817427386	Defy_norms,_law <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Destroy_property
+1	0.0136986301369863	0.003816793893129771	0.03571428571428571	Defy_norms,_law <-- Return,_release_person(s)
+1	0.0136986301369863	0.009009009009009009	0.125	Defy_norms,_law <-- Conduct_strike_or_boycott, Criticize_or_denounce
+6	0.0821917808219178	2.0	3.0	Defy_norms,_law <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Meet_at_a_'third'_location
+2	0.0273972602739726	0.02631578947368421	0.13333333333333333	Defy_norms,_law <-- Rally_opposition_against
+2	0.0273972602739726	0.07692307692307693	0.2857142857142857	Defy_norms,_law <-- Decline_comment
+0.0	0.0	0.0	0.0	Defy_norms,_law <-- Cooperate_militarily

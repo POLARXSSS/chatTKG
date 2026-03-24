@@ -1,0 +1,2 @@
+Carry_out_suicide_bombing <-- Conduct_suicide,_car,_or_other_non-military_bombing, Use_conventional_military_force
+Carry_out_suicide_bombing <-- Carry_out_suicide_bombing

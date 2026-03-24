@@ -1,0 +1,140 @@
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reduce_or_break_diplomatic_relations, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Conduct_suicide,_car,_or_other_non-military_bombing, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Arrest,_detain,_or_charge_with_legal_action, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demand_change_in_leadership, Use_conventional_military_force
+1	0.010309278350515464	0.006896551724137931	0.0625	Kill_by_physical_assault <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_plan,_agreement_to_settle_dispute, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Use_as_human_shield, Use_conventional_military_force
+6	0.061855670103092786	0.001344688480502017	0.031413612565445025	Kill_by_physical_assault <-- Accuse, Use_unconventional_violence
+4	0.041237113402061855	0.001893043066729768	0.018779342723004695	Kill_by_physical_assault <-- Threaten, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Seize_or_damage_property, Use_tactics_of_violent_repression
+2	0.020618556701030927	0.0006997900629811056	0.022988505747126436	Kill_by_physical_assault <-- Make_an_appeal_or_request, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Engage_in_mass_killings, Use_unconventional_violence
+38	0.3917525773195876	0.2714285714285714	0.8636363636363636	Kill_by_physical_assault <-- Physically_assault
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Expel_or_withdraw_peacekeepers, Use_conventional_military_force
+6	0.061855670103092786	0.004788507581803671	0.01948051948051948	Kill_by_physical_assault <-- Abduct,_hijack,_or_take_hostage, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Impose_restrictions_on_political_freedoms, Use_tactics_of_violent_repression
+13	0.13402061855670103	0.18571428571428572	0.6842105263157895	Kill_by_physical_assault <-- Abduct,_hijack,_or_take_hostage, Provide_humanitarian_aid
+3	0.030927835051546393	0.003115264797507788	0.07692307692307693	Kill_by_physical_assault <-- Use_conventional_military_force, fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Kill_by_physical_assault, Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Attempt_to_assassinate, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Refuse_to_yield, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Torture, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Conduct_strike_or_boycott, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Impose_embargo,_boycott,_or_sanctions, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Mobilize_or_increase_police_power, Use_tactics_of_violent_repression
+1	0.010309278350515464	0.002680965147453083	0.043478260869565216	Kill_by_physical_assault <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Give_ultimatum, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Violate_ceasefire, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Use_unconventional_violence
+97	1.0	1.5396825396825398	1.5396825396825398	Kill_by_physical_assault <-- Kill_by_physical_assault
+52	0.5360824742268041	0.052104208416833664	0.20634920634920634	Kill_by_physical_assault <-- Use_unconventional_violence
+2	0.020618556701030927	0.024096385542168676	0.2857142857142857	Kill_by_physical_assault <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- fight_with_artillery_and_tanks
+2	0.020618556701030927	0.07692307692307693	1.0	Kill_by_physical_assault <-- Torture
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Violate_ceasefire
+2	0.020618556701030927	0.03571428571428571	0.15384615384615385	Kill_by_physical_assault <-- Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demand_rights
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Accuse_of_espionage,_treason
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Appeal_for_change_in_institutions,_regime
+24	0.24742268041237114	0.08480565371024736	0.39344262295081966	Kill_by_physical_assault <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Investigate_crime,_corruption
+1	0.010309278350515464	0.02040816326530612	0.2	Kill_by_physical_assault <-- Conduct_suicide,_car,_or_other_non-military_bombing
+10	0.10309278350515463	0.08620689655172414	0.5555555555555556	Kill_by_physical_assault <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Use_chemical,_biological,_or_radiological_weapons
+1	0.010309278350515464	0.08333333333333333	0.5	Kill_by_physical_assault <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Provide_military_aid
+1	0.010309278350515464	0.005780346820809248	0.058823529411764705	Kill_by_physical_assault <-- Deny_responsibility
+3	0.030927835051546393	0.025423728813559324	0.16666666666666666	Kill_by_physical_assault <-- Occupy_territory
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Halt_mediation
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Rally_support_on_behalf_of
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Mobilize_or_increase_armed_forces
+4	0.041237113402061855	0.013468013468013467	0.09523809523809523	Kill_by_physical_assault <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Express_intent_to_change_policy
+8	0.08247422680412371	0.09876543209876543	0.32	Kill_by_physical_assault <-- Sexually_assault
+1	0.010309278350515464	0.010638297872340425	0.2	Kill_by_physical_assault <-- Confiscate_property
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Investigate_war_crimes
+8	0.08247422680412371	0.0004956015363647627	0.015503875968992248	Kill_by_physical_assault <-- Make_an_appeal_or_request, Praise_or_endorse
+38	0.3917525773195876	0.2714285714285714	0.8636363636363636	Kill_by_physical_assault <-- Physically_assault
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Assassinate
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Rally_opposition_against
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_material_cooperation
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demand_policy_change
+2	0.020618556701030927	0.03571428571428571	0.2857142857142857	Kill_by_physical_assault <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Appeal_for_political_reform
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Appeal_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Obstruct_passage_to_demand_leadership_change
+32	0.32989690721649484	0.07655502392344497	0.5333333333333333	Kill_by_physical_assault <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Accuse_of_aggression
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demonstrate_for_policy_change
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Threaten_to_reduce_or_stop_aid
+10	0.10309278350515463	0.13513513513513514	0.43478260869565216	Kill_by_physical_assault <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Appeal_for_military_aid
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demand_military_aid
+97	1.0	1.5396825396825398	1.5396825396825398	Kill_by_physical_assault <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Veto
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Reject_request_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Demonstrate_for_leadership_change
+11	0.1134020618556701	0.06179775280898876	0.4782608695652174	Kill_by_physical_assault <-- Reduce_relations
+52	0.5360824742268041	0.052104208416833664	0.20634920634920634	Kill_by_physical_assault <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Kill_by_physical_assault <-- Employ_aerial_weapons

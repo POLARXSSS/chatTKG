@@ -1,0 +1,76 @@
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Appeal_for_humanitarian_aid, Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Demand_that_target_yields, Refuse_to_yield
+2	0.022988505747126436	0.07142857142857142	0.2857142857142857	Rally_opposition_against <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Engage_in_mass_expulsion
+6	0.06896551724137931	0.09375	0.375	Rally_opposition_against <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Accuse_of_war_crimes
+1	0.011494252873563218	0.013513513513513514	0.07142857142857142	Rally_opposition_against <-- Threaten_with_military_force
+25	0.28735632183908044	0.003331556503198294	0.0327653997378768	Rally_opposition_against <-- Make_an_appeal_or_request, Reject
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Halt_mediation, Threaten
+4	0.04597701149425287	0.009569377990430622	0.12903225806451613	Rally_opposition_against <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Use_conventional_military_force, Make_statement
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Destroy_property
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Threaten_non-force
+1	0.011494252873563218	0.020833333333333332	0.14285714285714285	Rally_opposition_against <-- Impose_restrictions_on_political_freedoms
+22	0.25287356321839083	0.05200945626477541	0.23157894736842105	Rally_opposition_against <-- Threaten
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Accuse_of_espionage,_treason
+14	0.16091954022988506	0.034912718204488775	0.1414141414141414	Rally_opposition_against <-- Engage_in_symbolic_act
+3	0.034482758620689655	0.06	0.375	Rally_opposition_against <-- Give_ultimatum
+1	0.011494252873563218	0.0009633911368015414	0.008695652173913044	Rally_opposition_against <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+1	0.011494252873563218	0.038461538461538464	1.0	Rally_opposition_against <-- Torture
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Use_as_human_shield
+1	0.011494252873563218	0.012195121951219513	0.09090909090909091	Rally_opposition_against <-- Coerce
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Reduce_or_break_diplomatic_relations
+7	0.08045977011494253	0.0070140280561122245	0.0625	Rally_opposition_against <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Carry_out_roadside_bombing
+2	0.022988505747126436	0.007067137809187279	0.1111111111111111	Rally_opposition_against <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Impose_state_of_emergency_or_martial_law
+25	0.28735632183908044	0.008726003490401396	0.05518763796909492	Rally_opposition_against <-- Criticize_or_denounce, Threaten
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Detonate_nuclear_weapons
+8	0.09195402298850575	0.0449438202247191	0.21052631578947367	Rally_opposition_against <-- Reduce_relations
+3	0.034482758620689655	0.02142857142857143	0.14285714285714285	Rally_opposition_against <-- Physically_assault
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Obstruct_passage_to_demand_leadership_change
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Employ_aerial_weapons
+1	0.011494252873563218	0.038461538461538464	1.0	Rally_opposition_against <-- Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Conduct_suicide,_car,_or_other_non-military_bombing
+17	0.19540229885057472	0.18478260869565216	0.4857142857142857	Rally_opposition_against <-- Complain_officially
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Veto
+2	0.022988505747126436	0.0392156862745098	0.15384615384615385	Rally_opposition_against <-- Defy_norms,_law
+8	0.09195402298850575	0.09876543209876543	0.5333333333333333	Rally_opposition_against <-- Sexually_assault
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Investigate_war_crimes
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Appeal_to_others_to_settle_dispute, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Confiscate_property
+10	0.11494252873563218	0.07633587786259542	0.2702702702702703	Rally_opposition_against <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Conduct_hunger_strike
+5	0.05747126436781609	0.006218905472636816	0.15151515151515152	Rally_opposition_against <-- Use_conventional_military_force
+2	0.022988505747126436	0.029850746268656716	0.07142857142857142	Rally_opposition_against <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Threaten_with_administrative_sanctions
+10	0.11494252873563218	0.007656967840735069	0.12987012987012986	Rally_opposition_against <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Occupy_territory
+1	0.011494252873563218	0.043478260869565216	0.125	Rally_opposition_against <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Expel_or_withdraw
+10	0.11494252873563218	0.03367003367003367	0.14084507042253522	Rally_opposition_against <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Threaten_with_repression
+5	0.05747126436781609	0.0423728813559322	0.5	Rally_opposition_against <-- Expel_or_deport_individuals
+2	0.022988505747126436	0.017241379310344827	0.07142857142857142	Rally_opposition_against <-- Protest_violently,_riot
+38	0.4367816091954023	0.02615278733654508	0.13013698630136986	Rally_opposition_against <-- Accuse
+11	0.12643678160919541	0.004763967085318319	0.026829268292682926	Rally_opposition_against <-- Demand, Reject
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Halt_negotiations, Threaten
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Rally_opposition_against <-- Use_chemical,_biological,_or_radiological_weapons

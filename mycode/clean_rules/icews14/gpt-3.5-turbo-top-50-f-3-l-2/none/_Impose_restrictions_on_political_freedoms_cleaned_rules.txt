@@ -1,0 +1,9 @@
+Impose_restrictions_on_political_freedoms <-- Accuse, Criticize_or_denounce
+Impose_restrictions_on_political_freedoms <-- Return,_release_person(s)
+Impose_restrictions_on_political_freedoms <-- Make_statement
+Impose_restrictions_on_political_freedoms <-- Obstruct_passage,_block
+Impose_restrictions_on_political_freedoms <-- Arrest,_detain,_or_charge_with_legal_action
+Impose_restrictions_on_political_freedoms <-- Mobilize_or_increase_armed_forces
+Impose_restrictions_on_political_freedoms <-- Impose_state_of_emergency_or_martial_law
+Impose_restrictions_on_political_freedoms <-- Make_an_appeal_or_request
+Impose_restrictions_on_political_freedoms <-- Reduce_or_stop_humanitarian_assistance

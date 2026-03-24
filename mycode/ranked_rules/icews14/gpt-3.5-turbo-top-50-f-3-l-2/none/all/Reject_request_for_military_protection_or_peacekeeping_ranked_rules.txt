@@ -1,0 +1,73 @@
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Sexually_assault
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Accuse_of_espionage,_treason
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Reject
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Physically_assault
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Carry_out_roadside_bombing
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Torture
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Assassinate
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Veto
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Confiscate_property
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Occupy_territory
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Destroy_property
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Accuse_of_aggression
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Complain_officially
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Threaten
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Accuse_of_war_crimes, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Appeal_to_others_to_settle_dispute, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Provide_military_protection_or_peacekeeping, Engage_in_diplomatic_cooperation
+1	1.0	0.0015105740181268882	0.0625	Reject_request_for_military_protection_or_peacekeeping <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Consult, Engage_in_judicial_cooperation
+1	1.0	8.01346261719689e-05	0.004098360655737705	Reject_request_for_military_protection_or_peacekeeping <-- Host_a_visit, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Sign_formal_agreement, Reduce_relations
+1	1.0	0.03571428571428571	0.5	Reject_request_for_military_protection_or_peacekeeping <-- Grant_diplomatic_recognition, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Receive_deployment_of_peacekeepers, Provide_economic_aid
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Make_an_appeal_or_request, Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Express_intent_to_provide_military_aid, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Criticize_or_denounce, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Return,_release_property, Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Threaten_with_military_force, Refuse_to_yield
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Express_intent_to_cooperate_economically, Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Declare_truce,_ceasefire, Violate_ceasefire
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Mediate, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Reject_request_for_military_protection_or_peacekeeping <-- Impose_embargo,_boycott,_or_sanctions, Ease_economic_sanctions,_boycott,_embargo

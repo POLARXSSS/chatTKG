@@ -1,0 +1,30 @@
+35	0.2536231884057971	0.03804347826086957	0.4861111111111111	Sexually_assault <-- Demand
+0.0	0.0	0.0	0.0	Sexually_assault <-- Coerce, Use_conventional_military_force
+12	0.08695652173913043	0.19047619047619047	0.7058823529411765	Sexually_assault <-- Kill_by_physical_assault
+10	0.07246376811594203	0.02865329512893983	0.38461538461538464	Sexually_assault <-- Coerce, Use_unconventional_violence
+28	0.2028985507246377	0.2	0.5833333333333334	Sexually_assault <-- Physically_assault
+12	0.08695652173913043	0.0380952380952381	0.10714285714285714	Sexually_assault <-- Physically_assault, Threaten
+4	0.028985507246376812	0.04878048780487805	1.3333333333333333	Sexually_assault <-- Coerce
+3	0.021739130434782608	0.11538461538461539	0.75	Sexually_assault <-- Torture
+33	0.2391304347826087	0.07894736842105263	0.42857142857142855	Sexually_assault <-- fight_with_small_arms_and_light_weapons
+28	0.2028985507246377	0.03482587064676617	0.35	Sexually_assault <-- Use_conventional_military_force
+35	0.2536231884057971	0.08274231678486997	0.7291666666666666	Sexually_assault <-- Threaten
+5	0.036231884057971016	0.009057971014492754	0.09433962264150944	Sexually_assault <-- Arrest,_detain,_or_charge_with_legal_action, Use_conventional_military_force
+18	0.13043478260869565	0.0636042402826855	0.6	Sexually_assault <-- Abduct,_hijack,_or_take_hostage
+15	0.10869565217391304	0.048859934853420196	0.2777777777777778	Sexually_assault <-- fight_with_small_arms_and_light_weapons, Physically_assault
+0.0	0.0	0.0	0.0	Sexually_assault <-- Abduct,_hijack,_or_take_hostage, Kill_by_physical_assault
+4	0.028985507246376812	0.2857142857142857	4.0	Sexually_assault <-- Demand_material_cooperation
+34	0.2463768115942029	0.03406813627254509	0.20481927710843373	Sexually_assault <-- Use_unconventional_violence
+138	1.0	1.7037037037037037	1.7037037037037037	Sexually_assault <-- Sexually_assault
+10	0.07246376811594203	0.08928571428571429	1.4285714285714286	Sexually_assault <-- Ease_administrative_sanctions
+28	0.2028985507246377	0.2	0.5833333333333334	Sexually_assault <-- Physically_assault
+33	0.2391304347826087	0.1774193548387097	2.75	Sexually_assault <-- Provide_humanitarian_aid
+20	0.14492753623188406	0.0023829381627546767	0.04728132387706856	Sexually_assault <-- Accuse, Make_statement
+26	0.18840579710144928	0.0018119729597881385	0.0959409594095941	Sexually_assault <-- Consult, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Sexually_assault <-- Return,_release_person(s), Refuse_to_yield
+21	0.15217391304347827	0.22826086956521738	0.84	Sexually_assault <-- Complain_officially
+19	0.13768115942028986	0.036893203883495145	0.37254901960784315	Sexually_assault <-- Investigate
+23	0.16666666666666666	0.0011805163475850742	0.033873343151693665	Sexually_assault <-- Make_an_appeal_or_request, Make_statement
+10	0.07246376811594203	0.006238303181534623	0.09615384615384616	Sexually_assault <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+7	0.050724637681159424	0.004189108318372232	0.04964539007092199	Sexually_assault <-- Arrest,_detain,_or_charge_with_legal_action, Reject
+31	0.2246376811594203	0.1183206106870229	1.4090909090909092	Sexually_assault <-- Return,_release_person(s)

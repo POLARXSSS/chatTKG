@@ -1,0 +1,5 @@
+Accuse_of_espionage,_treason <-- Criticize_or_denounce, Abduct,_hijack,_or_take_hostage
+Accuse_of_espionage,_treason <-- Demand_change_in_leadership, Express_intent_to_meet_or_negotiate
+Accuse_of_espionage,_treason <-- Engage_in_diplomatic_cooperation, Abduct,_hijack,_or_take_hostage
+Accuse_of_espionage,_treason <-- Express_intent_to_meet_or_negotiate, Demand_change_in_leadership
+Accuse_of_espionage,_treason <-- Impose_embargo,_boycott,_or_sanctions, Make_statement

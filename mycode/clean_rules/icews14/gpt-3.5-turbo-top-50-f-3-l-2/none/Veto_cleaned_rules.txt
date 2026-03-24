@@ -1,0 +1,4 @@
+Veto <-- Make_a_visit, Make_a_visit
+Veto <-- Threaten, Impose_embargo,_boycott,_or_sanctions
+Veto <-- Veto
+Veto <-- Threaten, Reduce_relations

@@ -1,0 +1,16 @@
+Accuse_of_war_crimes <-- Ease_administrative_sanctions, Use_unconventional_violence
+Accuse_of_war_crimes <-- Express_intent_to_meet_or_negotiate, Reject
+Accuse_of_war_crimes <-- fight_with_small_arms_and_light_weapons, Use_unconventional_violence
+Accuse_of_war_crimes <-- Criticize_or_denounce, Reject
+Accuse_of_war_crimes <-- Criticize_or_denounce, Use_unconventional_violence
+Accuse_of_war_crimes <-- Accuse, Use_unconventional_violence
+Accuse_of_war_crimes <-- Reject, Employ_aerial_weapons
+Accuse_of_war_crimes <-- Provide_humanitarian_aid, Reject
+Accuse_of_war_crimes <-- fight_with_small_arms_and_light_weapons
+Accuse_of_war_crimes <-- Engage_in_diplomatic_cooperation, Reject
+Accuse_of_war_crimes <-- Express_intent_to_meet_or_negotiate, Engage_in_diplomatic_cooperation
+Accuse_of_war_crimes <-- Provide_humanitarian_aid, Ease_administrative_sanctions
+Accuse_of_war_crimes <-- Ease_administrative_sanctions, Employ_aerial_weapons
+Accuse_of_war_crimes <-- Employ_aerial_weapons
+Accuse_of_war_crimes <-- Use_unconventional_violence
+Accuse_of_war_crimes <-- Engage_in_diplomatic_cooperation, Use_unconventional_violence

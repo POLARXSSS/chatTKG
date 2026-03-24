@@ -1,0 +1,55 @@
+Engage_in_symbolic_act <-- Make_pessimistic_comment, Express_intent_to_yield
+Engage_in_symbolic_act <-- Threaten, Demand
+Engage_in_symbolic_act <-- Use_unconventional_violence, Kill_by_physical_assault
+Engage_in_symbolic_act <-- Defend_verbally, Forgive
+Engage_in_symbolic_act <-- Criticize_or_denounce
+Engage_in_symbolic_act <-- Engage_in_mass_killings, Engage_in_mass_expulsion
+Engage_in_symbolic_act <-- Accuse
+Engage_in_symbolic_act <-- Conduct_strike_or_boycott, Conduct_hunger_strike
+Engage_in_symbolic_act <-- Consider_policy_option, Decline_comment
+Engage_in_symbolic_act <-- Defy_norms,_law
+Engage_in_symbolic_act <-- Acknowledge_or_claim_responsibility, Deny_responsibility
+Engage_in_symbolic_act <-- Assassinate, Attempt_to_assassinate
+Engage_in_symbolic_act <-- Praise_or_endorse
+Engage_in_symbolic_act <-- Share_intelligence_or_information, Investigate
+Engage_in_symbolic_act <-- Use_as_human_shield, fight_with_small_arms_and_light_weapons
+Engage_in_symbolic_act <-- Demand
+Engage_in_symbolic_act <-- Ban_political_parties_or_politicians, Impose_state_of_emergency_or_martial_law
+Engage_in_symbolic_act <-- Engage_in_political_dissent, Demonstrate_or_rally
+Engage_in_symbolic_act <-- Express_intent_to_meet_or_negotiate
+Engage_in_symbolic_act <-- Ease_curfew, Ease_administrative_sanctions
+Engage_in_symbolic_act <-- Confiscate_property, Expel_or_deport_individuals
+Engage_in_symbolic_act <-- Arrest,_detain,_or_charge_with_legal_action, Investigate
+Engage_in_symbolic_act <-- Return,_release_person(s), Return,_release_property
+Engage_in_symbolic_act <-- Grant_diplomatic_recognition, Reduce_relations
+Engage_in_symbolic_act <-- Destroy_property, Seize_or_damage_property
+Engage_in_symbolic_act <-- Carry_out_roadside_bombing, Carry_out_suicide_bombing
+Engage_in_symbolic_act <-- Host_a_visit, Make_a_visit
+Engage_in_symbolic_act <-- Increase_military_alert_status, Mobilize_or_increase_armed_forces
+Engage_in_symbolic_act <-- Consult, Mediate
+Engage_in_symbolic_act <-- Torture, Sexually_assault
+Engage_in_symbolic_act <-- Sign_formal_agreement, Yield
+Engage_in_symbolic_act <-- Discuss_by_telephone, Meet_at_a_'third'_location
+Engage_in_symbolic_act <-- Abduct,_hijack,_or_take_hostage, Physically_assault
+Engage_in_symbolic_act <-- Give_ultimatum, Coerce
+Engage_in_symbolic_act <-- Occupy_territory, Impose_restrictions_on_political_freedoms
+Engage_in_symbolic_act <-- Employ_aerial_weapons, fight_with_artillery_and_tanks
+Engage_in_symbolic_act <-- Detonate_nuclear_weapons, Use_chemical,_biological,_or_radiological_weapons
+Engage_in_symbolic_act <-- Make_empathetic_comment, Make_optimistic_comment
+Engage_in_symbolic_act <-- Cooperate_militarily, Engage_in_diplomatic_cooperation
+Engage_in_symbolic_act <-- Use_conventional_military_force, Threaten_with_military_force
+Engage_in_symbolic_act <-- Accuse, Make_statement
+Engage_in_symbolic_act <-- Protest_violently,_riot, Engage_in_violent_protest_for_rights
+Engage_in_symbolic_act <-- Mobilize_or_increase_armed_forces
+Engage_in_symbolic_act <-- Declare_truce,_ceasefire, Violate_ceasefire
+Engage_in_symbolic_act <-- Apologize, Express_accord
+Engage_in_symbolic_act <-- Make_statement, Express_intent_to_cooperate
+Engage_in_symbolic_act <-- Express_intent_to_cooperate, Cooperate_economically
+Engage_in_symbolic_act <-- Make_an_appeal_or_request
+Engage_in_symbolic_act <-- Complain_officially, Bring_lawsuit_against
+Engage_in_symbolic_act <-- Rally_opposition_against, Rally_support_on_behalf_of
+Engage_in_symbolic_act <-- Threaten
+Engage_in_symbolic_act <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+Engage_in_symbolic_act <-- Reject, Refuse_to_yield
+Engage_in_symbolic_act <-- Refuse_to_yield, Reject
+Engage_in_symbolic_act <-- Make_statement

@@ -1,0 +1,20 @@
+Meet_at_a_'third'_location <-- Host_a_visit
+Meet_at_a_'third'_location <-- Make_a_visit
+Meet_at_a_'third'_location <-- Cooperate_economically, Cooperate_militarily
+Meet_at_a_'third'_location <-- Sign_formal_agreement
+Meet_at_a_'third'_location <-- Express_intent_to_meet_or_negotiate, Consult
+Meet_at_a_'third'_location <-- Investigate_crime,_corruption, Share_intelligence_or_information
+Meet_at_a_'third'_location <-- Mediate
+Meet_at_a_'third'_location <-- Engage_in_negotiation
+Meet_at_a_'third'_location <-- Discuss_by_telephone, Engage_in_diplomatic_cooperation
+Meet_at_a_'third'_location <-- Demand_meeting,_negotiation, Express_intent_to_de-escalate_military_engagement
+Meet_at_a_'third'_location <-- Express_intent_to_meet_or_negotiate
+Meet_at_a_'third'_location <-- Discuss_by_telephone
+Meet_at_a_'third'_location <-- Praise_or_endorse, Make_statement
+Meet_at_a_'third'_location <-- Appeal_to_engage_in_or_accept_mediation
+Meet_at_a_'third'_location <-- Grant_diplomatic_recognition, Reduce_relations
+Meet_at_a_'third'_location <-- Express_intent_to_cooperate
+Meet_at_a_'third'_location <-- Provide_military_aid, Receive_deployment_of_peacekeepers
+Meet_at_a_'third'_location <-- Threaten_with_political_dissent,_protest, Ease_state_of_emergency_or_martial_law
+Meet_at_a_'third'_location <-- Consult
+Meet_at_a_'third'_location <-- Make_optimistic_comment, Make_pessimistic_comment

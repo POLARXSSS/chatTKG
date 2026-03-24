@@ -1,0 +1,50 @@
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Use_unconventional_violence(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Physically_assault(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Kill_by_physical_assault(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Carry_out_suicide_bombing(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Assassinate(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Sexually_assault(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Use_tactics_of_violent_repression(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Confiscate_property(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Seize_or_damage_property(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Destroy_property(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Increase_military_alert_status(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Increase_police_alert_status(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Mobilize_or_increase_armed_forces(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Threaten_with_military_force(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Threaten_non-force(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T1) <- Threaten_with_political_dissent,_protest(X0,X1,T0).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- fight_with_small_arms_and_light_weapons(X0,X1,T0), _fight_with_small_arms_and_light_weapons(X1,X0,T1), fight_with_small_arms_and_light_weapons(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0), _Use_conventional_military_force(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Use_unconventional_violence(X0,X1,T0), _Use_unconventional_violence(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Physically_assault(X0,X1,T0), _Physically_assault(X1,X0,T1), Physically_assault(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0), _Abduct,_hijack,_or_take_hostage(X1,X0,T1), Abduct,_hijack,_or_take_hostage(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Accuse(X0,X1,T0), _Accuse(X1,X0,T1), Accuse(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Make_statement(X0,X1,T0), _Make_statement(X1,X0,T1), Make_statement(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Demonstrate_or_rally(X0,X1,T0), _Demonstrate_or_rally(X1,X0,T1), Demonstrate_or_rally(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Demand_change_in_leadership(X0,X1,T0), _Demand_change_in_leadership(X1,X0,T1), Demand_change_in_leadership(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Refuse_to_yield(X0,X1,T0), _Refuse_to_yield(X1,X0,T1), Refuse_to_yield(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), _Express_intent_to_meet_or_negotiate(X1,X0,T1), Express_intent_to_meet_or_negotiate(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Engage_in_material_cooperation(X0,X1,T0), _Engage_in_material_cooperation(X1,X0,T1), Engage_in_material_cooperation(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Investigate(X0,X1,T0), _Investigate(X1,X0,T1), Investigate(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Provide_humanitarian_aid(X0,X1,T0), _Provide_humanitarian_aid(X1,X0,T1), Provide_humanitarian_aid(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Appeal_for_humanitarian_aid(X0,X1,T0), _Appeal_for_humanitarian_aid(X1,X0,T1), Appeal_for_humanitarian_aid(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Criticize_or_denounce(X0,X1,T0), _Criticize_or_denounce(X1,X0,T1), Criticize_or_denounce(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Obstruct_passage,_block(X0,X1,T0), _Obstruct_passage,_block(X1,X0,T1), Obstruct_passage,_block(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Impose_administrative_sanctions(X0,X1,T0), _Impose_administrative_sanctions(X1,X0,T1), Impose_administrative_sanctions(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0), _Impose_embargo,_boycott,_or_sanctions(X1,X0,T1), Impose_embargo,_boycott,_or_sanctions(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Violate_ceasefire(X0,X1,T0), _Violate_ceasefire(X1,X0,T1), Violate_ceasefire(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), _Protest_violently,_riot(X1,X0,T1), Protest_violently,_riot(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Use_tactics_of_violent_repression(X0,X1,T0), _Use_tactics_of_violent_repression(X1,X0,T1), Use_tactics_of_violent_repression(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Expel_or_deport_individuals(X0,X1,T0), _Expel_or_deport_individuals(X1,X0,T1), Expel_or_deport_individuals(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Reduce_or_break_diplomatic_relations(X0,X1,T0), _Reduce_or_break_diplomatic_relations(X1,X0,T1), Reduce_or_break_diplomatic_relations(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T0), _Reject_proposal_to_meet,_discuss,_or_negotiate(X1,X0,T1), Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Threaten_with_sanctions,_boycott,_embargo(X0,X1,T0), _Threaten_with_sanctions,_boycott,_embargo(X1,X0,T1), Threaten_with_sanctions,_boycott,_embargo(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X0,X1,T0), _Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X0,T1), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Demand_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T0), _Demand_easing_of_economic_sanctions,_boycott,_or_embargo(X1,X0,T1), Demand_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Cooperate_economically(X0,X1,T0), _Cooperate_economically(X1,X0,T1), Cooperate_economically(X0,X1,T2).
+fight_with_small_arms_and_light_weapons(X0,X1,T3) <- Sign_formal_agreement(X0,X1,T0), _Sign_formal_agreement(X1,X0,T1), Sign_formal_agreement(X0,X1,T2).

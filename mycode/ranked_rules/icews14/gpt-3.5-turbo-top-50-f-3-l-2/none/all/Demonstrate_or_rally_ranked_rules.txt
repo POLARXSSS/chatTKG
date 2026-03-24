@@ -1,0 +1,10 @@
+97	0.15275590551181104	0.10543478260869565	0.5950920245398773	Demonstrate_or_rally <-- Demand
+149	0.2346456692913386	0.07842105263157895	0.369727047146402	Demonstrate_or_rally <-- Criticize_or_denounce
+17	0.026771653543307086	0.12142857142857143	0.5151515151515151	Demonstrate_or_rally <-- Physically_assault
+0.0	0.0	0.0	0.0	Demonstrate_or_rally <-- Arrest,_detain,_or_charge_with_legal_action
+11	0.01732283464566929	0.13580246913580246	0.6875	Demonstrate_or_rally <-- Sexually_assault
+216	0.3401574803149606	0.06722689075630252	0.3850267379679144	Demonstrate_or_rally <-- Make_an_appeal_or_request
+75	0.11811023622047244	0.1773049645390071	0.7352941176470589	Demonstrate_or_rally <-- Threaten
+283	0.4456692913385827	2.439655172413793	3.5375	Demonstrate_or_rally <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demonstrate_or_rally <-- Use_tactics_of_violent_repression
+1	0.0015748031496062992	0.00847457627118644	0.5	Demonstrate_or_rally <-- Expel_or_deport_individuals

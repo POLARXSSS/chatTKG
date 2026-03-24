@@ -1,0 +1,150 @@
+Appeal_for_rights <-- Accuse
+Appeal_for_rights <-- Express_intent_to_engage_in_material_cooperation, Engage_in_material_cooperation
+Appeal_for_rights <-- Employ_aerial_weapons
+Appeal_for_rights <-- Carry_out_car_bombing, Demand_de-escalation_of_military_engagement
+Appeal_for_rights <-- Appeal_for_humanitarian_aid, Provide_humanitarian_aid
+Appeal_for_rights <-- Carry_out_roadside_bombing
+Appeal_for_rights <-- Appeal_to_engage_in_or_accept_mediation, Demand_mediation
+Appeal_for_rights <-- fight_with_artillery_and_tanks
+Appeal_for_rights <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+Appeal_for_rights <-- Express_intent_to_provide_economic_aid, Provide_economic_aid
+Appeal_for_rights <-- Appeal_for_policy_change, Accede_to_demands_for_change_in_policy
+Appeal_for_rights <-- Carry_out_car_bombing
+Appeal_for_rights <-- Appeal_to_others_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+Appeal_for_rights <-- Impose_blockade,_restrict_movement, Ease_curfew
+Appeal_for_rights <-- Appeal_for_change_in_institutions,_regime, Accede_to_demands_for_change_in_institutions,_regime
+Appeal_for_rights <-- Express_intent_to_mediate, Mediate
+Appeal_for_rights <-- Ban_political_parties_or_politicians
+Appeal_for_rights <-- Assassinate
+Appeal_for_rights <-- Criticize_or_denounce
+Appeal_for_rights <-- Complain_officially
+Appeal_for_rights <-- Halt_mediation, Threaten_to_halt_mediation
+Appeal_for_rights <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+Appeal_for_rights <-- Halt_negotiations, Threaten_to_halt_negotiations
+Appeal_for_rights <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+Appeal_for_rights <-- Engage_in_political_dissent
+Appeal_for_rights <-- fight_with_small_arms_and_light_weapons
+Appeal_for_rights <-- Appeal_for_judicial_cooperation, Engage_in_judicial_cooperation
+Appeal_for_rights <-- Demonstrate_for_policy_change, Express_intent_to_change_policy
+Appeal_for_rights <-- Engage_in_mass_expulsion
+Appeal_for_rights <-- Express_intent_to_de-escalate_military_engagement, Demand_de-escalation_of_military_engagement
+Appeal_for_rights <-- Express_intent_to_engage_in_material_cooperation, Engage_in_diplomatic_cooperation
+Appeal_for_rights <-- Appeal_for_easing_of_administrative_sanctions, Ease_administrative_sanctions
+Appeal_for_rights <-- Accuse_of_crime,_corruption
+Appeal_for_rights <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+Appeal_for_rights <-- Use_conventional_military_force, Engage_in_diplomatic_cooperation
+Appeal_for_rights <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+Appeal_for_rights <-- Appeal_for_de-escalation_of_military_engagement, Demand_de-escalation_of_military_engagement
+Appeal_for_rights <-- Refuse_to_yield, Appeal_to_yield
+Appeal_for_rights <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+Appeal_for_rights <-- Expel_or_deport_individuals
+Appeal_for_rights <-- Obstruct_passage,_block
+Appeal_for_rights <-- Appeal_for_political_reform, Demand_political_reform
+Appeal_for_rights <-- fight_with_artillery_and_tanks, Consult
+Appeal_for_rights <-- Threaten_with_military_force
+Appeal_for_rights <-- Express_intent_to_provide_material_aid, Provide_humanitarian_aid
+Appeal_for_rights <-- Physically_assault
+Appeal_for_rights <-- Occupy_territory
+Appeal_for_rights <-- Express_intent_to_settle_dispute, Mediate
+Appeal_for_rights <-- Use_as_human_shield
+Appeal_for_rights <-- Demand_military_aid, Provide_military_aid
+Appeal_for_rights <-- Accuse_of_aggression
+Appeal_for_rights <-- Provide_economic_aid, Cooperate_economically
+Appeal_for_rights <-- Bring_lawsuit_against, Engage_in_judicial_cooperation
+Appeal_for_rights <-- Violate_ceasefire
+Appeal_for_rights <-- Demand_rights, Sign_formal_agreement
+Appeal_for_rights <-- Express_intent_to_institute_political_reform, Demand_political_reform
+Appeal_for_rights <-- Share_intelligence_or_information, Receive_inspectors
+Appeal_for_rights <-- Appeal_for_aid, Provide_aid
+Appeal_for_rights <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Appeal_for_rights <-- Appeal_for_release_of_persons_or_property, Return,_release_person(s)
+Appeal_for_rights <-- fight_with_small_arms_and_light_weapons, Make_statement
+Appeal_for_rights <-- Appeal_to_yield, Yield
+Appeal_for_rights <-- Engage_in_political_dissent, Express_intent_to_cooperate
+Appeal_for_rights <-- Express_intent_to_yield, Demand_that_target_yields
+Appeal_for_rights <-- Decline_comment, Make_statement
+Appeal_for_rights <-- Conduct_strike_or_boycott
+Appeal_for_rights <-- Grant_diplomatic_recognition, Engage_in_diplomatic_cooperation
+Appeal_for_rights <-- Use_tactics_of_violent_repression
+Appeal_for_rights <-- Threaten_to_reduce_or_stop_aid, Reduce_or_stop_economic_assistance
+Appeal_for_rights <-- Mobilize_or_increase_armed_forces
+Appeal_for_rights <-- Reduce_or_stop_humanitarian_assistance, Provide_humanitarian_aid
+Appeal_for_rights <-- Accuse_of_war_crimes
+Appeal_for_rights <-- Forgive, Express_accord
+Appeal_for_rights <-- Confiscate_property
+Appeal_for_rights <-- Carry_out_suicide_bombing
+Appeal_for_rights <-- Destroy_property
+Appeal_for_rights <-- Express_intent_to_cooperate_economically, Cooperate_economically
+Appeal_for_rights <-- Accuse_of_human_rights_abuses
+Appeal_for_rights <-- Engage_in_mass_killings
+Appeal_for_rights <-- Threaten_with_military_force, Express_intent_to_meet_or_negotiate
+Appeal_for_rights <-- Appeal_for_target_to_allow_international_involvement_(non-mediation), Mediate
+Appeal_for_rights <-- Reject_plan,_agreement_to_settle_dispute, Demand_settling_of_dispute
+Appeal_for_rights <-- Apologize, Acknowledge_or_claim_responsibility
+Appeal_for_rights <-- Express_intent_to_change_policy, Demand_policy_change
+Appeal_for_rights <-- Provide_military_protection_or_peacekeeping, Receive_deployment_of_peacekeepers
+Appeal_for_rights <-- Retreat_or_surrender_militarily, Yield
+Appeal_for_rights <-- Make_optimistic_comment, Make_empathetic_comment
+Appeal_for_rights <-- Express_intent_to_accept_mediation, Appeal_to_engage_in_or_accept_mediation
+Appeal_for_rights <-- Express_intent_to_provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+Appeal_for_rights <-- Accede_to_demands_for_rights, Demand_rights
+Appeal_for_rights <-- Appeal_for_material_cooperation, Engage_in_material_cooperation
+Appeal_for_rights <-- Appeal_to_others_to_settle_dispute, Express_intent_to_settle_dispute
+Appeal_for_rights <-- Kill_by_physical_assault
+Appeal_for_rights <-- Impose_restrictions_on_political_freedoms
+Appeal_for_rights <-- Return,_release_person(s), Return,_release_property
+Appeal_for_rights <-- Reduce_or_stop_military_assistance, Express_intent_to_provide_military_aid
+Appeal_for_rights <-- Attempt_to_assassinate
+Appeal_for_rights <-- Make_pessimistic_comment, Consider_policy_option
+Appeal_for_rights <-- Use_chemical,_biological,_or_radiological_weapons
+Appeal_for_rights <-- Threaten_with_sanctions,_boycott,_embargo, Ease_economic_sanctions,_boycott,_embargo
+Appeal_for_rights <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+Appeal_for_rights <-- Deny_responsibility, Investigate
+Appeal_for_rights <-- Host_a_visit, Engage_in_negotiation
+Appeal_for_rights <-- Protest_violently,_riot
+Appeal_for_rights <-- Appeal_for_intelligence, Share_intelligence_or_information
+Appeal_for_rights <-- Mediate, Engage_in_diplomatic_cooperation
+Appeal_for_rights <-- Express_intent_to_provide_military_aid, Provide_military_aid
+Appeal_for_rights <-- Express_intent_to_release_persons_or_property, Refuse_to_release_persons_or_property
+Appeal_for_rights <-- Increase_military_alert_status
+Appeal_for_rights <-- Consult, Express_intent_to_cooperate
+Appeal_for_rights <-- Violate_ceasefire, Declare_truce,_ceasefire
+Appeal_for_rights <-- Reduce_or_stop_material_aid, Express_intent_to_provide_material_aid
+Appeal_for_rights <-- Investigate_human_rights_abuses, Make_statement
+Appeal_for_rights <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_rights <-- Express_intent_to_provide_humanitarian_aid, Provide_humanitarian_aid
+Appeal_for_rights <-- Conduct_strike_or_boycott, Demand_political_reform
+Appeal_for_rights <-- Express_intent_to_change_institutions,_regime, Demand_change_in_institutions,_regime
+Appeal_for_rights <-- Accuse_of_espionage,_treason
+Appeal_for_rights <-- Appeal_for_political_reform, Accede_to_requests_or_demands_for_political_reform
+Appeal_for_rights <-- Threaten_non-force, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Appeal_for_rights <-- Sexually_assault
+Appeal_for_rights <-- Investigate_war_crimes, Make_statement
+Appeal_for_rights <-- Refuse_to_yield, Give_ultimatum
+Appeal_for_rights <-- Appeal_for_change_in_leadership, Accede_to_demands_for_change_in_leadership
+Appeal_for_rights <-- Seize_or_damage_property
+Appeal_for_rights <-- Appeal_for_release_of_persons_or_property, Demand_release_of_persons_or_property
+Appeal_for_rights <-- Demonstrate_or_rally
+Appeal_for_rights <-- Torture
+Appeal_for_rights <-- Receive_deployment_of_peacekeepers, Expel_or_withdraw_peacekeepers
+Appeal_for_rights <-- Appeal_for_economic_aid, Provide_economic_aid
+Appeal_for_rights <-- Appeal_for_policy_change, Demand_policy_change
+Appeal_for_rights <-- Appeal_for_military_aid, Provide_military_aid
+Appeal_for_rights <-- Investigate_crime,_corruption, Investigate_human_rights_abuses
+Appeal_for_rights <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+Appeal_for_rights <-- Provide_military_aid, Cooperate_militarily
+Appeal_for_rights <-- Appeal_for_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+Appeal_for_rights <-- Demand_mediation, Express_intent_to_accept_mediation
+Appeal_for_rights <-- Appeal_for_economic_cooperation, Cooperate_economically
+Appeal_for_rights <-- Detonate_nuclear_weapons
+Appeal_for_rights <-- Defend_verbally, Praise_or_endorse
+Appeal_for_rights <-- Appeal_to_others_to_meet_or_negotiate, Discuss_by_telephone
+Appeal_for_rights <-- Ease_state_of_emergency_or_martial_law, Demobilize_armed_forces
+Appeal_for_rights <-- Express_intent_to_change_leadership, Demand_change_in_leadership
+Appeal_for_rights <-- Express_intent_to_cooperate_on_intelligence, Share_intelligence_or_information
+Appeal_for_rights <-- Reduce_relations, Express_intent_to_cooperate
+Appeal_for_rights <-- Use_conventional_military_force
+Appeal_for_rights <-- Impose_state_of_emergency_or_martial_law
+Appeal_for_rights <-- Impose_embargo,_boycott,_or_sanctions, Demand_economic_aid
+Appeal_for_rights <-- Provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+Appeal_for_rights <-- Make_an_appeal_or_request, Make_statement

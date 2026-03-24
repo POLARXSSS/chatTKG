@@ -1,0 +1,7 @@
+Conduct_strike_or_boycott <-- Conduct_suicide,_car,_or_other_non-military_bombing, Assassinate
+Conduct_strike_or_boycott <-- Obstruct_passage,_block, Reduce_relations
+Conduct_strike_or_boycott <-- Conduct_strike_or_boycott
+Conduct_strike_or_boycott <-- Reduce_or_break_diplomatic_relations
+Conduct_strike_or_boycott <-- Rally_opposition_against, Accuse
+Conduct_strike_or_boycott <-- Violate_ceasefire, Engage_in_violent_protest_for_rights
+Conduct_strike_or_boycott <-- Occupy_territory, Assassinate

@@ -1,0 +1,8 @@
+Return,_release_person(s) <-- Sign_formal_agreement
+Return,_release_person(s) <-- Engage_in_negotiation
+Return,_release_person(s) <-- Yield
+Return,_release_person(s) <-- Express_intent_to_meet_or_negotiate
+Return,_release_person(s) <-- Accede_to_demands_for_rights
+Return,_release_person(s) <-- Mediate
+Return,_release_person(s) <-- Express_intent_to_release_persons_or_property
+Return,_release_person(s) <-- Express_intent_to_accept_mediation

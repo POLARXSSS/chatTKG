@@ -1,0 +1,36 @@
+Make_statement <-- Accuse
+Make_statement <-- Threaten
+Make_statement <-- Engage_in_diplomatic_cooperation, Refuse_to_de-escalate_military_engagement
+Make_statement <-- Praise_or_endorse, Engage_in_negotiation
+Make_statement <-- fight_with_small_arms_and_light_weapons
+Make_statement <-- Express_intent_to_cooperate
+Make_statement <-- Use_unconventional_violence
+Make_statement <-- Threaten_to_reduce_or_break_relations, Make_statement
+Make_statement <-- Criticize_or_denounce, Make_optimistic_comment
+Make_statement <-- Engage_in_diplomatic_cooperation, Make_statement
+Make_statement <-- Make_statement
+Make_statement <-- Confiscate_property, Make_statement
+Make_statement <-- Host_a_visit
+Make_statement <-- Consult
+Make_statement <-- Impose_administrative_sanctions, Make_statement
+Make_statement <-- Protest_violently,_riot, Make_statement
+Make_statement <-- Demonstrate_or_rally, Make_statement
+Make_statement <-- Coerce, Make_statement
+Make_statement <-- Deny_responsibility, Acknowledge_or_claim_responsibility
+Make_statement <-- Physically_assault, Make_optimistic_comment
+Make_statement <-- Make_statement, Make_statement
+Make_statement <-- Arrest,_detain,_or_charge_with_legal_action, Investigate
+Make_statement <-- Cooperate_militarily, Make_statement
+Make_statement <-- Mobilize_or_increase_armed_forces, Make_statement
+Make_statement <-- Defend_verbally, Make_statement
+Make_statement <-- Discuss_by_telephone, Express_intent_to_cooperate
+Make_statement <-- Appeal_for_material_cooperation, Make_statement
+Make_statement <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Conduct_suicide,_car,_or_other_non-military_bombing
+Make_statement <-- Demand
+Make_statement <-- Criticize_or_denounce
+Make_statement <-- Occupy_territory, Make_statement
+Make_statement <-- Give_ultimatum, Demand
+Make_statement <-- Complain_officially, Make_statement
+Make_statement <-- Use_conventional_military_force
+Make_statement <-- Make_statement, Express_intent_to_cooperate
+Make_statement <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Make_statement

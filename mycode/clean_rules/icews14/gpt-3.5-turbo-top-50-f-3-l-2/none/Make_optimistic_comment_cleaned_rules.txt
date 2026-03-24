@@ -1,0 +1,39 @@
+Make_optimistic_comment <-- Make_a_visit
+Make_optimistic_comment <-- Make_pessimistic_comment, Sign_formal_agreement
+Make_optimistic_comment <-- Refuse_to_yield, Yield
+Make_optimistic_comment <-- Praise_or_endorse
+Make_optimistic_comment <-- Host_a_visit, Make_a_visit
+Make_optimistic_comment <-- Investigate_crime,_corruption, Engage_in_judicial_cooperation
+Make_optimistic_comment <-- Sign_formal_agreement
+Make_optimistic_comment <-- Apologize, Grant_diplomatic_recognition
+Make_optimistic_comment <-- Grant_diplomatic_recognition
+Make_optimistic_comment <-- Express_intent_to_accept_mediation, Mediate
+Make_optimistic_comment <-- Make_statement, Sign_formal_agreement
+Make_optimistic_comment <-- Host_a_visit
+Make_optimistic_comment <-- Share_intelligence_or_information, Cooperate_militarily
+Make_optimistic_comment <-- Praise_or_endorse, Praise_or_endorse
+Make_optimistic_comment <-- Make_optimistic_comment, Sign_formal_agreement
+Make_optimistic_comment <-- Retreat_or_surrender_militarily, Declare_truce,_ceasefire
+Make_optimistic_comment <-- Appeal_for_humanitarian_aid, Provide_humanitarian_aid
+Make_optimistic_comment <-- Express_intent_to_provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+Make_optimistic_comment <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+Make_optimistic_comment <-- Ease_economic_sanctions,_boycott,_embargo, Cooperate_economically
+Make_optimistic_comment <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+Make_optimistic_comment <-- Make_an_appeal_or_request, Yield
+Make_optimistic_comment <-- Consult, Engage_in_diplomatic_cooperation
+Make_optimistic_comment <-- Complain_officially, Mediate
+Make_optimistic_comment <-- Express_intent_to_meet_or_negotiate
+Make_optimistic_comment <-- Reduce_or_stop_economic_assistance, Ease_economic_sanctions,_boycott,_embargo
+Make_optimistic_comment <-- Yield, Express_intent_to_cooperate_economically
+Make_optimistic_comment <-- Engage_in_diplomatic_cooperation
+Make_optimistic_comment <-- Express_intent_to_meet_or_negotiate, Make_statement
+Make_optimistic_comment <-- Threaten_non-force, Express_intent_to_meet_or_negotiate
+Make_optimistic_comment <-- Declare_truce,_ceasefire, Mediate
+Make_optimistic_comment <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+Make_optimistic_comment <-- Cooperate_economically
+Make_optimistic_comment <-- Provide_economic_aid
+Make_optimistic_comment <-- Provide_military_protection_or_peacekeeping, Engage_in_diplomatic_cooperation
+Make_optimistic_comment <-- Appeal_for_economic_cooperation, Cooperate_economically
+Make_optimistic_comment <-- Express_intent_to_cooperate_economically, Provide_economic_aid
+Make_optimistic_comment <-- Express_intent_to_cooperate_militarily, Provide_military_aid
+Make_optimistic_comment <-- Provide_humanitarian_aid

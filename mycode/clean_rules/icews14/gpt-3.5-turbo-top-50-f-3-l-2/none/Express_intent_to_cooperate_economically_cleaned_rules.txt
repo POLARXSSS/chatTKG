@@ -1,0 +1,27 @@
+Express_intent_to_cooperate_economically <-- Consult, Consult
+Express_intent_to_cooperate_economically <-- Consult
+Express_intent_to_cooperate_economically <-- Make_a_visit
+Express_intent_to_cooperate_economically <-- Sign_formal_agreement
+Express_intent_to_cooperate_economically <-- Express_intent_to_engage_in_material_cooperation
+Express_intent_to_cooperate_economically <-- Praise_or_endorse, Praise_or_endorse
+Express_intent_to_cooperate_economically <-- Engage_in_negotiation
+Express_intent_to_cooperate_economically <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Criticize_or_denounce
+Express_intent_to_cooperate_economically <-- Make_a_visit, Host_a_visit
+Express_intent_to_cooperate_economically <-- Engage_in_diplomatic_cooperation
+Express_intent_to_cooperate_economically <-- Express_intent_to_cooperate
+Express_intent_to_cooperate_economically <-- Express_intent_to_provide_economic_aid
+Express_intent_to_cooperate_economically <-- Express_intent_to_cooperate_economically
+Express_intent_to_cooperate_economically <-- Express_intent_to_meet_or_negotiate
+Express_intent_to_cooperate_economically <-- Meet_at_a_'third'_location
+Express_intent_to_cooperate_economically <-- Provide_economic_aid
+Express_intent_to_cooperate_economically <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+Express_intent_to_cooperate_economically <-- Praise_or_endorse
+Express_intent_to_cooperate_economically <-- Cooperate_economically
+Express_intent_to_cooperate_economically <-- Make_statement
+Express_intent_to_cooperate_economically <-- Make_statement, Praise_or_endorse
+Express_intent_to_cooperate_economically <-- Make_optimistic_comment
+Express_intent_to_cooperate_economically <-- Host_a_visit
+Express_intent_to_cooperate_economically <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo, Demand
+Express_intent_to_cooperate_economically <-- Discuss_by_telephone
+Express_intent_to_cooperate_economically <-- Appeal_for_economic_cooperation
+Express_intent_to_cooperate_economically <-- Make_statement, Make_statement

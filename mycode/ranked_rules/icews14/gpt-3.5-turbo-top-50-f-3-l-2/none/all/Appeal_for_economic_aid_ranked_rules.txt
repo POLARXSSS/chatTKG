@@ -1,0 +1,32 @@
+10	0.43478260869565216	0.02364066193853428	0.3333333333333333	Appeal_for_economic_aid <-- Threaten
+4	0.17391304347826086	0.0030627871362940277	0.06557377049180328	Appeal_for_economic_aid <-- Arrest,_detain,_or_charge_with_legal_action
+9	0.391304347826087	0.0006889688432978642	0.01956521739130435	Appeal_for_economic_aid <-- Criticize_or_denounce, Make_statement
+8	0.34782608695652173	0.012461059190031152	0.2222222222222222	Appeal_for_economic_aid <-- Reject
+23	1.0	1.3529411764705883	1.3529411764705883	Appeal_for_economic_aid <-- Appeal_for_economic_aid
+4	0.17391304347826086	0.0019559902200488996	0.06666666666666667	Appeal_for_economic_aid <-- Criticize_or_denounce, Demonstrate_or_rally
+10	0.43478260869565216	0.010869565217391304	0.16393442622950818	Appeal_for_economic_aid <-- Demand
+11	0.4782608695652174	0.0027610441767068274	0.06077348066298342	Appeal_for_economic_aid <-- Engage_in_symbolic_act, Make_an_appeal_or_request
+12	0.5217391304347826	0.003734827264239029	0.06060606060606061	Appeal_for_economic_aid <-- Make_an_appeal_or_request
+10	0.43478260869565216	0.0011984659635666348	0.024509803921568627	Appeal_for_economic_aid <-- Demand, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Threaten_non-force
+10	0.43478260869565216	0.0014803849000740192	0.02544529262086514	Appeal_for_economic_aid <-- Express_intent_to_cooperate, Make_statement
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Express_intent_to_cooperate_economically, Make_an_appeal_or_request
+12	0.5217391304347826	0.0010072183985227463	0.035398230088495575	Appeal_for_economic_aid <-- Accuse, Make_an_appeal_or_request
+2	0.08695652173913043	0.0007173601147776184	0.014598540145985401	Appeal_for_economic_aid <-- Discuss_by_telephone, Make_an_appeal_or_request
+3	0.13043478260869565	0.006880733944954129	0.1875	Appeal_for_economic_aid <-- Express_intent_to_cooperate, Cooperate_economically
+8	0.34782608695652173	0.004471771939631079	0.09090909090909091	Appeal_for_economic_aid <-- Engage_in_symbolic_act, Praise_or_endorse
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Threaten_non-force, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Halt_mediation, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Engage_in_mass_killings, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Express_intent_to_engage_in_material_cooperation, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Threaten_with_sanctions,_boycott,_embargo, Defy_norms,_law
+1	0.043478260869565216	0.0017452006980802793	0.014705882352941176	Appeal_for_economic_aid <-- Expel_or_deport_individuals, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+1	0.043478260869565216	0.0012610340479192938	0.01639344262295082	Appeal_for_economic_aid <-- Coerce, Make_an_appeal_or_request
+2	0.08695652173913043	0.0035398230088495575	0.05128205128205128	Appeal_for_economic_aid <-- Arrest,_detain,_or_charge_with_legal_action, Complain_officially
+23	1.0	1.3529411764705883	1.3529411764705883	Appeal_for_economic_aid <-- Appeal_for_economic_aid
+1	0.043478260869565216	0.008547008547008548	0.041666666666666664	Appeal_for_economic_aid <-- Demand_economic_aid, Reject
+12	0.5217391304347826	0.003734827264239029	0.06060606060606061	Appeal_for_economic_aid <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Use_conventional_military_force, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Reduce_or_stop_economic_assistance, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_aid <-- Impose_embargo,_boycott,_or_sanctions, Express_intent_to_cooperate_economically

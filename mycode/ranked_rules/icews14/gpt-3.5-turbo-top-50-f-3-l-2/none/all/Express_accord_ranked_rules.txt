@@ -1,0 +1,6 @@
+0.0	0.0	0.0	0.0	Express_accord <-- Apologize
+95	1.0	1.2837837837837838	1.2837837837837838	Express_accord <-- Express_accord
+0.0	0.0	0.0	0.0	Express_accord <-- Forgive
+0.0	0.0	0.0	0.0	Express_accord <-- Grant_diplomatic_recognition
+1	0.010526315789473684	0.011111111111111112	0.05555555555555555	Express_accord <-- Yield
+16	0.16842105263157894	0.021739130434782608	0.13793103448275862	Express_accord <-- Sign_formal_agreement

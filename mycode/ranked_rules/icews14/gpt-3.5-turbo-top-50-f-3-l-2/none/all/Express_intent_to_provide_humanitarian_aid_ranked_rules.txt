@@ -1,0 +1,89 @@
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Grant_diplomatic_recognition
+5	0.08064516129032258	0.044642857142857144	0.29411764705882354	Express_intent_to_provide_humanitarian_aid <-- Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Defend_verbally
+17	0.27419354838709675	0.002095660749506903	0.038288288288288286	Express_intent_to_provide_humanitarian_aid <-- Make_statement
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Impose_embargo,_boycott,_or_sanctions, Ease_administrative_sanctions
+10	0.16129032258064516	0.056179775280898875	0.4166666666666667	Express_intent_to_provide_humanitarian_aid <-- Reduce_relations
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Forgive
+22	0.3548387096774194	0.008368200836820083	0.07236842105263158	Express_intent_to_provide_humanitarian_aid <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Threaten, Apologize
+6	0.0967741935483871	0.06521739130434782	0.6666666666666666	Express_intent_to_provide_humanitarian_aid <-- Complain_officially
+22	0.3548387096774194	0.008190618019359643	0.09322033898305085	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Acknowledge_or_claim_responsibility
+1	0.016129032258064516	0.03225806451612903	0.2	Express_intent_to_provide_humanitarian_aid <-- Apologize
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Demand_humanitarian_aid
+14	0.22580645161290322	0.02578268876611418	0.15053763440860216	Express_intent_to_provide_humanitarian_aid <-- Make_optimistic_comment
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Receive_inspectors
+5	0.08064516129032258	0.5555555555555556	1.0	Express_intent_to_provide_humanitarian_aid <-- Reduce_or_stop_military_assistance
+18	0.2903225806451613	0.023809523809523808	0.14173228346456693	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_cooperate
+17	0.27419354838709675	0.0028867379860757344	0.02866779089376054	Express_intent_to_provide_humanitarian_aid <-- Accuse, Praise_or_endorse
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Grant_asylum
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Confiscate_property, Return,_release_person(s)
+19	0.3064516129032258	0.10215053763440861	0.5757575757575758	Express_intent_to_provide_humanitarian_aid <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Ease_administrative_sanctions, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Demobilize_armed_forces
+10	0.16129032258064516	0.004692632566870014	0.015313935681470138	Express_intent_to_provide_humanitarian_aid <-- Host_a_visit
+2	0.03225806451612903	0.13333333333333333	0.5	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Conduct_hunger_strike
+14	0.22580645161290322	0.061946902654867256	0.42424242424242425	Express_intent_to_provide_humanitarian_aid <-- Make_empathetic_comment
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Use_conventional_military_force, Declare_truce,_ceasefire
+25	0.4032258064516129	0.0020297150280100674	0.042444821731748725	Express_intent_to_provide_humanitarian_aid <-- Make_statement, Make_optimistic_comment
+15	0.24193548387096775	0.0070389488503050214	0.10067114093959731	Express_intent_to_provide_humanitarian_aid <-- Make_a_visit
+7	0.11290322580645161	0.019662921348314606	0.21875	Express_intent_to_provide_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+7	0.11290322580645161	0.07777777777777778	0.5384615384615384	Express_intent_to_provide_humanitarian_aid <-- Yield
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- fight_with_small_arms_and_light_weapons, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Declare_truce,_ceasefire
+1	0.016129032258064516	0.03225806451612903	0.2	Express_intent_to_provide_humanitarian_aid <-- Apologize
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Increase_police_alert_status
+14	0.22580645161290322	0.19718309859154928	0.4375	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_provide_material_aid
+3	0.04838709677419355	1.5	1.5	Express_intent_to_provide_humanitarian_aid <-- Halt_mediation
+24	0.3870967741935484	0.016517549896765314	0.25	Express_intent_to_provide_humanitarian_aid <-- Accuse
+22	0.3548387096774194	0.008190618019359643	0.09322033898305085	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_meet_or_negotiate
+13	0.20967741935483872	0.11016949152542373	0.5416666666666666	Express_intent_to_provide_humanitarian_aid <-- Expel_or_deport_individuals
+7	0.11290322580645161	0.07777777777777778	0.5384615384615384	Express_intent_to_provide_humanitarian_aid <-- Yield
+14	0.22580645161290322	0.017412935323383085	0.2857142857142857	Express_intent_to_provide_humanitarian_aid <-- Use_conventional_military_force
+6	0.0967741935483871	0.06382978723404255	1.5	Express_intent_to_provide_humanitarian_aid <-- Confiscate_property
+3	0.04838709677419355	0.16666666666666666	1.0	Express_intent_to_provide_humanitarian_aid <-- Mobilize_or_increase_police_power
+18	0.2903225806451613	0.023809523809523808	0.14173228346456693	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_cooperate
+1	0.016129032258064516	0.0035335689045936395	0.14285714285714285	Express_intent_to_provide_humanitarian_aid <-- Abduct,_hijack,_or_take_hostage
+11	0.1774193548387097	0.0017446471054718478	0.025821596244131457	Express_intent_to_provide_humanitarian_aid <-- Consult
+2	0.03225806451612903	0.05714285714285714	0.6666666666666666	Express_intent_to_provide_humanitarian_aid <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Accede_to_demands_for_change_in_leadership
+4	0.06451612903225806	0.047619047619047616	0.5	Express_intent_to_provide_humanitarian_aid <-- Mobilize_or_increase_armed_forces
+1	0.016129032258064516	0.03225806451612903	0.16666666666666666	Express_intent_to_provide_humanitarian_aid <-- Halt_negotiations
+10	0.16129032258064516	0.07633587786259542	1.25	Express_intent_to_provide_humanitarian_aid <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Mediate
+19	0.3064516129032258	0.029595015576323987	0.3220338983050847	Express_intent_to_provide_humanitarian_aid <-- Reject
+11	0.1774193548387097	0.22916666666666666	0.6875	Express_intent_to_provide_humanitarian_aid <-- Impose_restrictions_on_political_freedoms
+13	0.20967741935483872	0.009954058192955589	0.09285714285714286	Express_intent_to_provide_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action
+5	0.08064516129032258	0.5555555555555556	1.0	Express_intent_to_provide_humanitarian_aid <-- Reduce_or_stop_military_assistance
+24	0.3870967741935484	0.058394160583941604	0.4444444444444444	Express_intent_to_provide_humanitarian_aid <-- Make_pessimistic_comment
+6	0.0967741935483871	0.06521739130434782	0.6666666666666666	Express_intent_to_provide_humanitarian_aid <-- Complain_officially
+1	0.016129032258064516	0.038461538461538464	0.5	Express_intent_to_provide_humanitarian_aid <-- Torture
+19	0.3064516129032258	0.10215053763440861	0.5757575757575758	Express_intent_to_provide_humanitarian_aid <-- Provide_humanitarian_aid
+8	0.12903225806451613	0.010869565217391304	0.05161290322580645	Express_intent_to_provide_humanitarian_aid <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Demand_military_aid
+19	0.3064516129032258	0.028700906344410877	0.1043956043956044	Express_intent_to_provide_humanitarian_aid <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Protest_violently,_riot
+9	0.14516129032258066	0.17307692307692307	0.47368421052631576	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Grant_asylum
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Appeal_for_humanitarian_aid
+33	0.532258064516129	0.01027077497665733	0.1506849315068493	Express_intent_to_provide_humanitarian_aid <-- Make_an_appeal_or_request
+6	0.0967741935483871	0.07317073170731707	0.2857142857142857	Express_intent_to_provide_humanitarian_aid <-- Coerce
+5	0.08064516129032258	0.044642857142857144	0.29411764705882354	Express_intent_to_provide_humanitarian_aid <-- Ease_administrative_sanctions
+1	0.016129032258064516	0.017857142857142856	0.09090909090909091	Express_intent_to_provide_humanitarian_aid <-- Employ_aerial_weapons
+24	0.3870967741935484	0.05673758865248227	0.5217391304347826	Express_intent_to_provide_humanitarian_aid <-- Threaten
+22	0.3548387096774194	0.008368200836820083	0.07236842105263158	Express_intent_to_provide_humanitarian_aid <-- Praise_or_endorse
+26	0.41935483870967744	0.01368421052631579	0.14689265536723164	Express_intent_to_provide_humanitarian_aid <-- Criticize_or_denounce
+13	0.20967741935483872	0.18571428571428572	0.4642857142857143	Express_intent_to_provide_humanitarian_aid <-- Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Declare_truce,_ceasefire
+2	0.03225806451612903	0.01694915254237288	0.4	Express_intent_to_provide_humanitarian_aid <-- Occupy_territory
+0.0	0.0	0.0	0.0	Express_intent_to_provide_humanitarian_aid <-- Discuss_by_telephone
+1	0.016129032258064516	0.041666666666666664	0.5	Express_intent_to_provide_humanitarian_aid <-- Increase_military_alert_status
+2	0.03225806451612903	0.0064516129032258064	0.043478260869565216	Express_intent_to_provide_humanitarian_aid <-- Meet_at_a_'third'_location
+17	0.27419354838709675	0.002095660749506903	0.038288288288288286	Express_intent_to_provide_humanitarian_aid <-- Make_statement
+8	0.12903225806451613	0.21621621621621623	0.8888888888888888	Express_intent_to_provide_humanitarian_aid <-- Refuse_to_yield

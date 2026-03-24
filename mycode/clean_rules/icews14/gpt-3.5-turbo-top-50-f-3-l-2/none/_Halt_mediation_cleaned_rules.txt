@@ -1,0 +1,35 @@
+Halt_mediation <-- Accuse_of_human_rights_abuses
+Halt_mediation <-- Use_conventional_military_force
+Halt_mediation <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Halt_mediation <-- Provide_aid, Reduce_or_stop_material_aid
+Halt_mediation <-- Share_intelligence_or_information, Accuse_of_espionage,_treason
+Halt_mediation <-- Appeal_for_military_aid, Reject_request_for_military_aid
+Halt_mediation <-- Express_intent_to_release_persons_or_property, Refuse_to_release_persons_or_property
+Halt_mediation <-- Protest_violently,_riot
+Halt_mediation <-- Mobilize_or_increase_armed_forces
+Halt_mediation <-- Make_an_appeal_or_request, Reject
+Halt_mediation <-- Engage_in_violent_protest_for_rights
+Halt_mediation <-- Refuse_to_yield
+Halt_mediation <-- Demand_mediation, Reject
+Halt_mediation <-- Arrest,_detain,_or_charge_with_legal_action
+Halt_mediation <-- Express_intent_to_accept_mediation, Reject
+Halt_mediation <-- Kill_by_physical_assault
+Halt_mediation <-- Sign_formal_agreement, Violate_ceasefire
+Halt_mediation <-- Abduct,_hijack,_or_take_hostage
+Halt_mediation <-- Threaten_with_sanctions,_boycott,_embargo, Impose_embargo,_boycott,_or_sanctions
+Halt_mediation <-- Threaten_to_halt_mediation
+Halt_mediation <-- Demand_change_in_institutions,_regime
+Halt_mediation <-- Accuse_of_war_crimes
+Halt_mediation <-- Torture
+Halt_mediation <-- Appeal_for_economic_aid, Reduce_or_stop_economic_assistance
+Halt_mediation <-- Demand_change_in_leadership
+Halt_mediation <-- Express_intent_to_de-escalate_military_engagement, Refuse_to_de-escalate_military_engagement
+Halt_mediation <-- Express_intent_to_cooperate, Refuse_to_yield
+Halt_mediation <-- Detonate_nuclear_weapons
+Halt_mediation <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Halt_mediation <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Halt_mediation <-- Threaten_with_military_force
+Halt_mediation <-- Use_chemical,_biological,_or_radiological_weapons
+Halt_mediation <-- Violate_ceasefire
+Halt_mediation <-- Engage_in_diplomatic_cooperation, Reduce_or_break_diplomatic_relations
+Halt_mediation <-- Cooperate_militarily, Reject_military_cooperation

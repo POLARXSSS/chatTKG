@@ -1,0 +1,61 @@
+0.0	0.0	0.0	0.0	Demand_rights <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Demand_rights <-- Engage_in_political_dissent
+2	1.0	0.0013764624913971094	0.4	Demand_rights <-- Accuse
+1	0.5	0.0010869565217391304	0.3333333333333333	Demand_rights <-- Demand
+0.0	0.0	0.0	0.0	Demand_rights <-- Demand_policy_change
+0.0	0.0	0.0	0.0	Demand_rights <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_rights <-- Protest_violently,_riot, Demand
+1	0.5	0.07692307692307693	1.0	Demand_rights <-- Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Demand_rights <-- Complain_officially
+0.0	0.0	0.0	0.0	Demand_rights <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Demand_rights <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demand_rights <-- Appeal_for_political_reform
+0.0	0.0	0.0	0.0	Demand_rights <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Demand_rights <-- Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_rights <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Demand_rights <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_rights <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Demand_rights <-- Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Demand_rights <-- Engage_in_political_dissent, Complain_officially
+0.0	0.0	0.0	0.0	Demand_rights <-- Express_intent_to_change_policy
+1	0.5	0.0005263157894736842	0.14285714285714285	Demand_rights <-- Criticize_or_denounce
+1	0.5	0.0003112356053532524	0.16666666666666666	Demand_rights <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Demand_rights <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_rights <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Demand_rights <-- Demand, Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Demand_rights <-- Demonstrate_for_policy_change
+0.0	0.0	0.0	0.0	Demand_rights <-- Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Demand_rights <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Demand_rights <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Demand_rights <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Demand_rights <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Demand_rights <-- Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_rights <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Demand_rights <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Demand_rights <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Demand_rights <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Demand_rights <-- Torture
+0.0	0.0	0.0	0.0	Demand_rights <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Demand_rights <-- Threaten_with_military_force, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_rights <-- Criticize_or_denounce, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_rights <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Demand_rights <-- Express_intent_to_change_institutions,_regime, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Demand_rights <-- Physically_assault, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_rights <-- Appeal_for_material_cooperation, Reduce_relations
+0.0	0.0	0.0	0.0	Demand_rights <-- Conduct_strike_or_boycott, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Demand_rights <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Demand_rights <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Demand_rights <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Demand_rights <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Demand_rights <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Demand_rights <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Demand_rights <-- Appeal_for_rights, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_rights <-- Occupy_territory, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Demand_rights <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demand_rights <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_rights <-- Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Demand_rights <-- Demonstrate_or_rally, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Demand_rights <-- Seize_or_damage_property, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_rights <-- Engage_in_violent_protest_for_rights, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_rights <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Demand_rights <-- Complain_officially, Refuse_to_ease_administrative_sanctions

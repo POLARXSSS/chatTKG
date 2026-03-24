@@ -1,0 +1,7 @@
+Give_ultimatum <-- Demand
+Give_ultimatum <-- Make_pessimistic_comment
+Give_ultimatum <-- Use_tactics_of_violent_repression
+Give_ultimatum <-- Protest_violently,_riot
+Give_ultimatum <-- Bring_lawsuit_against
+Give_ultimatum <-- Reduce_or_break_diplomatic_relations
+Give_ultimatum <-- Give_ultimatum

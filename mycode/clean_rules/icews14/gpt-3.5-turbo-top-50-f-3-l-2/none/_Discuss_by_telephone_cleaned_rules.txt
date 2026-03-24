@@ -1,0 +1,10 @@
+Discuss_by_telephone <-- Consult
+Discuss_by_telephone <-- Make_statement
+Discuss_by_telephone <-- Praise_or_endorse
+Discuss_by_telephone <-- Engage_in_negotiation
+Discuss_by_telephone <-- Express_intent_to_meet_or_negotiate
+Discuss_by_telephone <-- Host_a_visit
+Discuss_by_telephone <-- Meet_at_a_'third'_location
+Discuss_by_telephone <-- Sign_formal_agreement
+Discuss_by_telephone <-- Appeal_for_material_cooperation
+Discuss_by_telephone <-- Demand

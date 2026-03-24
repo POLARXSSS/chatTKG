@@ -1,0 +1,101 @@
+3	0.01282051282051282	0.00804289544235925	0.037037037037037035	Reduce_relations <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+29	0.12393162393162394	0.01360863444392304	0.029804727646454265	Reduce_relations <-- Host_a_visit
+4	0.017094017094017096	0.034482758620689655	0.16	Reduce_relations <-- Protest_violently,_riot
+82	0.3504273504273504	0.0431578947368421	0.16367265469061876	Reduce_relations <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Reduce_relations <-- Violate_ceasefire
+4	0.017094017094017096	0.04040404040404041	0.10526315789473684	Reduce_relations <-- Cooperate_economically
+37	0.1581196581196581	0.055891238670694864	0.13261648745519714	Reduce_relations <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Reduce_relations <-- Destroy_property
+0.0	0.0	0.0	0.0	Reduce_relations <-- Threaten_with_administrative_sanctions
+5	0.021367521367521368	0.17857142857142858	0.7142857142857143	Reduce_relations <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Reduce_relations <-- Expel_or_deport_individuals, Confiscate_property
+62	0.26495726495726496	0.09657320872274143	0.3563218390804598	Reduce_relations <-- Reject
+4	0.017094017094017096	0.02072538860103627	0.07272727272727272	Reduce_relations <-- Threaten, Impose_administrative_sanctions
+2	0.008547008547008548	0.02127659574468085	0.15384615384615385	Reduce_relations <-- Confiscate_property
+73	0.31196581196581197	0.05024088093599449	0.19210526315789472	Reduce_relations <-- Accuse
+59	0.25213675213675213	0.0641304347826087	0.271889400921659	Reduce_relations <-- Demand
+0.0	0.0	0.0	0.0	Reduce_relations <-- Violate_ceasefire, Refuse_to_yield
+6	0.02564102564102564	0.056074766355140186	0.17647058823529413	Reduce_relations <-- Rally_support_on_behalf_of
+10	0.042735042735042736	0.23809523809523808	0.7142857142857143	Reduce_relations <-- Share_intelligence_or_information
+29	0.12393162393162394	0.017704517704517704	0.07591623036649214	Reduce_relations <-- Reject, Demand
+8	0.03418803418803419	0.09523809523809523	0.5	Reduce_relations <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Reduce_relations <-- Ban_political_parties_or_politicians, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Reduce_relations <-- Increase_military_alert_status, Increase_police_alert_status
+15	0.0641025641025641	0.01503006012024048	0.10344827586206896	Reduce_relations <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Reduce_relations <-- Obstruct_passage,_block
+2	0.008547008547008548	0.0273972602739726	0.125	Reduce_relations <-- Use_tactics_of_violent_repression
+9	0.038461538461538464	0.06428571428571428	0.2727272727272727	Reduce_relations <-- Physically_assault
+6	0.02564102564102564	0.07407407407407407	0.3157894736842105	Reduce_relations <-- Sexually_assault
+0.0	0.0	0.0	0.0	Reduce_relations <-- Kill_by_physical_assault, Arrest,_detain,_or_charge_with_legal_action
+43	0.18376068376068377	0.1016548463356974	0.3706896551724138	Reduce_relations <-- Threaten
+25	0.10683760683760683	0.08064516129032258	0.3048780487804878	Reduce_relations <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Reduce_relations <-- Threaten_with_repression
+68	0.2905982905982906	0.007770540509656039	0.04718945176960444	Reduce_relations <-- Accuse, Criticize_or_denounce
+3	0.01282051282051282	0.00684931506849315	0.03529411764705882	Reduce_relations <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Reduce_relations <-- Threaten_with_political_dissent,_protest
+27	0.11538461538461539	0.033582089552238806	0.24324324324324326	Reduce_relations <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reduce_relations <-- Conduct_hunger_strike
+0.0	0.0	0.0	0.0	Reduce_relations <-- Refuse_to_ease_administrative_sanctions
+21	0.08974358974358974	0.2441860465116279	0.9130434782608695	Reduce_relations <-- Engage_in_material_cooperation
+7	0.029914529914529916	0.1044776119402985	0.19444444444444445	Reduce_relations <-- Impose_embargo,_boycott,_or_sanctions
+36	0.15384615384615385	0.01689347724073205	0.11764705882352941	Reduce_relations <-- Make_a_visit
+0.0	0.0	0.0	0.0	Reduce_relations <-- Seize_or_damage_property
+4	0.017094017094017096	0.05405405405405406	0.21052631578947367	Reduce_relations <-- Threaten_with_military_force
+8	0.03418803418803419	0.05755395683453238	0.25806451612903225	Reduce_relations <-- Impose_administrative_sanctions
+6	0.02564102564102564	0.05084745762711865	0.11764705882352941	Reduce_relations <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Reduce_relations <-- Protest_violently,_riot, Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Reduce_relations <-- Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Reduce_relations <-- Threaten_with_sanctions,_boycott,_embargo
+14	0.05982905982905983	0.010719754977029096	0.04844290657439446	Reduce_relations <-- Arrest,_detain,_or_charge_with_legal_action
+4	0.017094017094017096	0.06349206349206349	0.2857142857142857	Reduce_relations <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Reduce_relations <-- Kill_by_physical_assault, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Reduce_relations <-- Yield, Refuse_to_release_persons_or_property
+14	0.05982905982905983	0.010719754977029096	0.04844290657439446	Reduce_relations <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Reduce_relations <-- Conduct_hunger_strike, Conduct_strike_or_boycott
+6	0.02564102564102564	0.05084745762711865	0.11764705882352941	Reduce_relations <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Reduce_relations <-- Reduce_or_stop_economic_assistance
+53	0.2264957264957265	0.014058355437665782	0.04588744588744589	Reduce_relations <-- Make_pessimistic_comment, Make_statement
+82	0.3504273504273504	0.0431578947368421	0.16367265469061876	Reduce_relations <-- Criticize_or_denounce
+1	0.004273504273504274	0.006289308176100629	0.06666666666666667	Reduce_relations <-- Use_unconventional_violence, Use_tactics_of_violent_repression
+5	0.021367521367521368	0.11904761904761904	0.29411764705882354	Reduce_relations <-- Impose_embargo,_boycott,_or_sanctions, Reduce_relations
+56	0.23931623931623933	0.006691360975026885	0.041979010494752625	Reduce_relations <-- Accuse, Accuse
+2	0.008547008547008548	0.0273972602739726	0.125	Reduce_relations <-- Use_tactics_of_violent_repression
+34	0.1452991452991453	0.0118673647469459	0.07423580786026202	Reduce_relations <-- Criticize_or_denounce, Threaten
+0.0	0.0	0.0	0.0	Reduce_relations <-- Confiscate_property, Seize_or_damage_property
+28	0.11965811965811966	0.30434782608695654	0.875	Reduce_relations <-- Complain_officially
+4	0.017094017094017096	0.01098901098901099	0.026845637583892617	Reduce_relations <-- Provide_military_aid, Use_conventional_military_force
+15	0.0641025641025641	0.22058823529411764	0.5357142857142857	Reduce_relations <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Reduce_relations <-- Defend_verbally, Threaten_non-force
+4	0.017094017094017096	0.06349206349206349	0.2857142857142857	Reduce_relations <-- Kill_by_physical_assault
+8	0.03418803418803419	0.10810810810810811	0.20512820512820512	Reduce_relations <-- Grant_diplomatic_recognition, Deny_responsibility
+0.0	0.0	0.0	0.0	Reduce_relations <-- Expel_or_deport_individuals, Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Reduce_relations <-- Violate_ceasefire
+4	0.017094017094017096	0.034482758620689655	0.16	Reduce_relations <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Reduce_relations <-- Violate_ceasefire, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Reduce_relations <-- Engage_in_negotiation, Halt_mediation
+2	0.008547008547008548	0.02127659574468085	0.15384615384615385	Reduce_relations <-- Confiscate_property
+0.0	0.0	0.0	0.0	Reduce_relations <-- Occupy_territory, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Reduce_relations <-- Cooperate_economically, Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Reduce_relations <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Reduce_relations <-- Seize_or_damage_property
+43	0.18376068376068377	0.018984547461368653	0.07557117750439367	Reduce_relations <-- Express_intent_to_cooperate, Reject
+2	0.008547008547008548	0.003838771593090211	0.01904761904761905	Reduce_relations <-- Express_intent_to_meet_or_negotiate, Refuse_to_yield
+0.0	0.0	0.0	0.0	Reduce_relations <-- Destroy_property
+0.0	0.0	0.0	0.0	Reduce_relations <-- Share_intelligence_or_information, Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Reduce_relations <-- Express_intent_to_provide_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Reduce_relations <-- Express_intent_to_cooperate_economically, Reject_economic_cooperation
+15	0.0641025641025641	0.01503006012024048	0.10344827586206896	Reduce_relations <-- Use_unconventional_violence
+73	0.31196581196581197	0.05024088093599449	0.19210526315789472	Reduce_relations <-- Accuse
+22	0.09401709401709402	0.01071602532878714	0.06470588235294118	Reduce_relations <-- Make_a_visit, Threaten
+2	0.008547008547008548	0.012578616352201259	0.012578616352201259	Reduce_relations <-- Reduce_relations, Reduce_relations
+2	0.008547008547008548	0.007194244604316547	0.014285714285714285	Reduce_relations <-- Host_a_visit, Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Reduce_relations <-- Appeal_for_material_cooperation, Demand_that_target_yields
+0.0	0.0	0.0	0.0	Reduce_relations <-- Reduce_or_break_diplomatic_relations, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Reduce_relations <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+62	0.26495726495726496	0.09657320872274143	0.3563218390804598	Reduce_relations <-- Reject
+16	0.06837606837606838	0.04597701149425287	0.15384615384615385	Reduce_relations <-- Complain_officially, Reject
+7	0.029914529914529916	0.1044776119402985	0.19444444444444445	Reduce_relations <-- Impose_embargo,_boycott,_or_sanctions
+43	0.18376068376068377	0.1016548463356974	0.3706896551724138	Reduce_relations <-- Threaten
+41	0.1752136752136752	0.09975669099756691	0.3203125	Reduce_relations <-- Make_pessimistic_comment
+0.0	0.0	0.0	0.0	Reduce_relations <-- Mediate, Halt_negotiations
+0.0	0.0	0.0	0.0	Reduce_relations <-- Sign_formal_agreement, Violate_ceasefire

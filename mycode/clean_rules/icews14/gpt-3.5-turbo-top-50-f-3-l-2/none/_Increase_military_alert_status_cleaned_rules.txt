@@ -1,0 +1,104 @@
+Increase_military_alert_status <-- Use_unconventional_violence
+Increase_military_alert_status <-- Accuse_of_war_crimes, Increase_military_alert_status
+Increase_military_alert_status <-- Host_a_visit, Make_a_visit
+Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations, Expel_or_deport_individuals
+Increase_military_alert_status <-- Impose_state_of_emergency_or_martial_law, Increase_military_alert_status
+Increase_military_alert_status <-- Make_a_visit, Host_a_visit
+Increase_military_alert_status <-- Violate_ceasefire
+Increase_military_alert_status <-- Refuse_to_de-escalate_military_engagement, Threaten_with_military_force
+Increase_military_alert_status <-- Arrest,_detain,_or_charge_with_legal_action, Increase_military_alert_status
+Increase_military_alert_status <-- Use_chemical,_biological,_or_radiological_weapons
+Increase_military_alert_status <-- Increase_military_alert_status
+Increase_military_alert_status <-- Provide_military_aid, Increase_military_alert_status
+Increase_military_alert_status <-- Demand_military_aid, Increase_military_alert_status
+Increase_military_alert_status <-- Engage_in_mass_killings, Accuse_of_war_crimes
+Increase_military_alert_status <-- Use_tactics_of_violent_repression, Increase_military_alert_status
+Increase_military_alert_status <-- Criticize_or_denounce
+Increase_military_alert_status <-- Seize_or_damage_property
+Increase_military_alert_status <-- Kill_by_physical_assault
+Increase_military_alert_status <-- Abduct,_hijack,_or_take_hostage, Coerce
+Increase_military_alert_status <-- Arrest,_detain,_or_charge_with_legal_action
+Increase_military_alert_status <-- Engage_in_mass_killings
+Increase_military_alert_status <-- Assassinate
+Increase_military_alert_status <-- Demonstrate_military_or_police_power
+Increase_military_alert_status <-- Use_chemical,_biological,_or_radiological_weapons, Increase_military_alert_status
+Increase_military_alert_status <-- Kill_by_physical_assault, Protest_violently,_riot
+Increase_military_alert_status <-- Carry_out_car_bombing
+Increase_military_alert_status <-- Engage_in_violent_protest_for_rights, Demonstrate_military_or_police_power
+Increase_military_alert_status <-- fight_with_small_arms_and_light_weapons
+Increase_military_alert_status <-- Impose_blockade,_restrict_movement
+Increase_military_alert_status <-- Mobilize_or_increase_armed_forces
+Increase_military_alert_status <-- Demonstrate_military_or_police_power, Mobilize_or_increase_armed_forces
+Increase_military_alert_status <-- Detonate_nuclear_weapons, Use_chemical,_biological,_or_radiological_weapons
+Increase_military_alert_status <-- Demonstrate_military_or_police_power, Increase_military_alert_status
+Increase_military_alert_status <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Increase_military_alert_status <-- Torture, Increase_military_alert_status
+Increase_military_alert_status <-- Reject_military_cooperation, Increase_military_alert_status
+Increase_military_alert_status <-- Refuse_to_de-escalate_military_engagement
+Increase_military_alert_status <-- Attempt_to_assassinate, Increase_military_alert_status
+Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations
+Increase_military_alert_status <-- Confiscate_property, Increase_military_alert_status
+Increase_military_alert_status <-- Detonate_nuclear_weapons
+Increase_military_alert_status <-- Destroy_property, Occupy_territory
+Increase_military_alert_status <-- Accuse_of_aggression, Increase_military_alert_status
+Increase_military_alert_status <-- Carry_out_suicide_bombing, Increase_military_alert_status
+Increase_military_alert_status <-- Criticize_or_denounce, Increase_military_alert_status
+Increase_military_alert_status <-- Coerce
+Increase_military_alert_status <-- Violate_ceasefire, Increase_military_alert_status
+Increase_military_alert_status <-- Impose_state_of_emergency_or_martial_law
+Increase_military_alert_status <-- Violate_ceasefire, Use_conventional_military_force
+Increase_military_alert_status <-- Destroy_property, Increase_military_alert_status
+Increase_military_alert_status <-- Carry_out_car_bombing, Use_unconventional_violence
+Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations, Increase_military_alert_status
+Increase_military_alert_status <-- Detonate_nuclear_weapons, Increase_military_alert_status
+Increase_military_alert_status <-- Threaten_with_military_force, Increase_military_alert_status
+Increase_military_alert_status <-- Kill_by_physical_assault, Increase_military_alert_status
+Increase_military_alert_status <-- Arrest,_detain,_or_charge_with_legal_action, Expel_or_deport_individuals
+Increase_military_alert_status <-- Coerce, Increase_military_alert_status
+Increase_military_alert_status <-- Provide_military_aid
+Increase_military_alert_status <-- Assassinate, Increase_military_alert_status
+Increase_military_alert_status <-- Accuse_of_aggression
+Increase_military_alert_status <-- Use_conventional_military_force, Increase_military_alert_status
+Increase_military_alert_status <-- Carry_out_car_bombing, Increase_military_alert_status
+Increase_military_alert_status <-- Confiscate_property, Seize_or_damage_property
+Increase_military_alert_status <-- Host_a_visit, Reduce_or_break_diplomatic_relations
+Increase_military_alert_status <-- Threaten_with_military_force, Mobilize_or_increase_armed_forces
+Increase_military_alert_status <-- Attempt_to_assassinate
+Increase_military_alert_status <-- Torture, Use_tactics_of_violent_repression
+Increase_military_alert_status <-- Accuse_of_human_rights_abuses, Impose_embargo,_boycott,_or_sanctions
+Increase_military_alert_status <-- Confiscate_property
+Increase_military_alert_status <-- fight_with_artillery_and_tanks
+Increase_military_alert_status <-- Seize_or_damage_property, Increase_military_alert_status
+Increase_military_alert_status <-- Use_tactics_of_violent_repression
+Increase_military_alert_status <-- Torture
+Increase_military_alert_status <-- Employ_aerial_weapons
+Increase_military_alert_status <-- Engage_in_violent_protest_for_rights
+Increase_military_alert_status <-- Demand_military_aid, Provide_military_aid
+Increase_military_alert_status <-- Engage_in_mass_killings, Increase_military_alert_status
+Increase_military_alert_status <-- Use_conventional_military_force
+Increase_military_alert_status <-- Protest_violently,_riot, Increase_military_alert_status
+Increase_military_alert_status <-- Accuse_of_war_crimes
+Increase_military_alert_status <-- Reject_military_cooperation
+Increase_military_alert_status <-- Carry_out_suicide_bombing
+Increase_military_alert_status <-- Refuse_to_de-escalate_military_engagement, Increase_military_alert_status
+Increase_military_alert_status <-- Expel_or_deport_individuals, Increase_military_alert_status
+Increase_military_alert_status <-- Demand_military_aid
+Increase_military_alert_status <-- Abduct,_hijack,_or_take_hostage, Increase_military_alert_status
+Increase_military_alert_status <-- Expel_or_deport_individuals
+Increase_military_alert_status <-- fight_with_small_arms_and_light_weapons, Increase_military_alert_status
+Increase_military_alert_status <-- Impose_embargo,_boycott,_or_sanctions
+Increase_military_alert_status <-- Threaten_with_military_force
+Increase_military_alert_status <-- Protest_violently,_riot
+Increase_military_alert_status <-- Assassinate, Threaten_with_military_force
+Increase_military_alert_status <-- Employ_aerial_weapons, Increase_military_alert_status
+Increase_military_alert_status <-- Impose_blockade,_restrict_movement, Increase_military_alert_status
+Increase_military_alert_status <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+Increase_military_alert_status <-- fight_with_artillery_and_tanks, Increase_military_alert_status
+Increase_military_alert_status <-- Occupy_territory, Impose_blockade,_restrict_movement
+Increase_military_alert_status <-- Impose_embargo,_boycott,_or_sanctions, Increase_military_alert_status
+Increase_military_alert_status <-- Destroy_property
+Increase_military_alert_status <-- Abduct,_hijack,_or_take_hostage
+Increase_military_alert_status <-- Occupy_territory
+Increase_military_alert_status <-- fight_with_artillery_and_tanks, fight_with_small_arms_and_light_weapons
+Increase_military_alert_status <-- Occupy_territory, Increase_military_alert_status
+Increase_military_alert_status <-- Engage_in_violent_protest_for_rights, Increase_military_alert_status

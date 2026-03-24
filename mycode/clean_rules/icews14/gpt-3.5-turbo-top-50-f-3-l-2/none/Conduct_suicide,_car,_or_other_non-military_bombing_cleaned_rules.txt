@@ -1,0 +1,27 @@
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Defy_norms,_law, Use_unconventional_violence
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Violate_ceasefire, Threaten_with_military_force
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Sign_formal_agreement, Violate_ceasefire
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Demonstrate_or_rally, Use_tactics_of_violent_repression
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Coerce, Refuse_to_yield
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Expel_or_deport_individuals, Demand_rights
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Carry_out_car_bombing
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Carry_out_roadside_bombing
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Use_as_human_shield, Threaten_with_military_force
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Arrest,_detain,_or_charge_with_legal_action, Protest_violently,_riot
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Give_ultimatum, Refuse_to_yield
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Use_unconventional_violence, Use_conventional_military_force
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Threaten_to_halt_negotiations, Engage_in_negotiation
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Occupy_territory, Demand_release_of_persons_or_property
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Mobilize_or_increase_armed_forces, Express_intent_to_cooperate_militarily
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Threaten_with_military_force, Reject_proposal_to_meet,_discuss,_or_negotiate
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Accuse_of_war_crimes, Refuse_to_yield
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Abduct,_hijack,_or_take_hostage, Demand_change_in_leadership
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Acknowledge_or_claim_responsibility
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Attempt_to_assassinate, Threaten_with_military_force
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Torture, Demand_change_in_institutions,_regime
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Reduce_or_stop_humanitarian_assistance, Appeal_for_humanitarian_aid
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Employ_aerial_weapons, Host_a_visit
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Seize_or_damage_property, Demand_release_of_persons_or_property
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Impose_embargo,_boycott,_or_sanctions, Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Carry_out_suicide_bombing
+Conduct_suicide,_car,_or_other_non-military_bombing <-- Reduce_or_break_diplomatic_relations, Express_intent_to_meet_or_negotiate

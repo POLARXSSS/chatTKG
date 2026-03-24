@@ -1,0 +1,38 @@
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Express_intent_to_cooperate, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Appeal_for_material_cooperation, Appeal_for_military_aid
+3	0.16666666666666666	0.003260869565217391	0.043478260869565216	Appeal_for_easing_of_administrative_sanctions <-- Demand
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Acknowledge_or_claim_responsibility, Impose_restrictions_on_political_freedoms
+2	0.1111111111111111	0.0006985679357317499	0.016260162601626018	Appeal_for_easing_of_administrative_sanctions <-- Demand, Engage_in_diplomatic_cooperation
+3	0.16666666666666666	0.0072992700729927005	0.08108108108108109	Appeal_for_easing_of_administrative_sanctions <-- Make_pessimistic_comment
+3	0.16666666666666666	0.00031078421216202215	0.018404907975460124	Appeal_for_easing_of_administrative_sanctions <-- Engage_in_diplomatic_cooperation, Consult
+6	0.3333333333333333	0.0002533783783783784	0.006322444678609062	Appeal_for_easing_of_administrative_sanctions <-- Make_an_appeal_or_request, Consult
+2	0.1111111111111111	0.04	0.6666666666666666	Appeal_for_easing_of_administrative_sanctions <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Investigate, Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Impose_restrictions_on_political_freedoms
+9	0.5	0.0028011204481792717	0.036585365853658534	Appeal_for_easing_of_administrative_sanctions <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Engage_in_diplomatic_cooperation, Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Ease_administrative_sanctions, Impose_restrictions_on_political_freedoms
+5	0.2777777777777778	0.006613756613756613	0.08620689655172414	Appeal_for_easing_of_administrative_sanctions <-- Express_intent_to_cooperate
+3	0.16666666666666666	0.15	0.75	Appeal_for_easing_of_administrative_sanctions <-- Appeal_for_military_aid
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Impose_administrative_sanctions, Complain_officially
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Share_intelligence_or_information, Make_statement
+11	0.6111111111111112	0.0007236842105263158	0.021526418786692758	Appeal_for_easing_of_administrative_sanctions <-- Criticize_or_denounce, Make_an_appeal_or_request
+2	0.1111111111111111	0.003745318352059925	0.07692307692307693	Appeal_for_easing_of_administrative_sanctions <-- Reject_plan,_agreement_to_settle_dispute, Make_an_appeal_or_request
+1	0.05555555555555555	0.0012345679012345679	0.02631578947368421	Appeal_for_easing_of_administrative_sanctions <-- fight_with_small_arms_and_light_weapons, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Impose_restrictions_on_political_freedoms, Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Investigate_human_rights_abuses, Complain_officially
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Threaten_with_administrative_sanctions, Refuse_to_yield
+1	0.05555555555555555	0.006024096385542169	0.1	Appeal_for_easing_of_administrative_sanctions <-- Refuse_to_ease_administrative_sanctions, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Express_intent_to_ease_administrative_sanctions, Sign_formal_agreement
+3	0.16666666666666666	0.00043956043956043956	0.022058823529411766	Appeal_for_easing_of_administrative_sanctions <-- Engage_in_diplomatic_cooperation, Make_statement
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Coerce, Make_empathetic_comment
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Accede_to_demands_for_rights, Deny_responsibility
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Express_intent_to_cooperate_economically, Cooperate_economically
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Appeal_for_target_to_allow_international_involvement_(non-mediation), Mediate
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Use_unconventional_violence, Demand_rights
+3	0.16666666666666666	0.00046026388462718626	0.019736842105263157	Appeal_for_easing_of_administrative_sanctions <-- Arrest,_detain,_or_charge_with_legal_action, Make_an_appeal_or_request
+5	0.2777777777777778	0.006613756613756613	0.08620689655172414	Appeal_for_easing_of_administrative_sanctions <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_easing_of_administrative_sanctions <-- Demand_meeting,_negotiation, Express_intent_to_meet_or_negotiate
+4	0.2222222222222222	0.0025575447570332483	0.036036036036036036	Appeal_for_easing_of_administrative_sanctions <-- Demonstrate_or_rally, Praise_or_endorse
+2	0.1111111111111111	0.00021561017680034498	0.012578616352201259	Appeal_for_easing_of_administrative_sanctions <-- Make_statement, Demand

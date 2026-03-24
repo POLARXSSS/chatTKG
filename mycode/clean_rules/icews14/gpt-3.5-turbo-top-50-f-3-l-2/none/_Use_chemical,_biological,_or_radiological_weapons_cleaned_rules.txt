@@ -1,0 +1,25 @@
+Use_chemical,_biological,_or_radiological_weapons <-- Employ_aerial_weapons
+Use_chemical,_biological,_or_radiological_weapons <-- Use_tactics_of_violent_repression
+Use_chemical,_biological,_or_radiological_weapons <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+Use_chemical,_biological,_or_radiological_weapons <-- Increase_police_alert_status
+Use_chemical,_biological,_or_radiological_weapons <-- Violate_ceasefire
+Use_chemical,_biological,_or_radiological_weapons <-- Torture
+Use_chemical,_biological,_or_radiological_weapons <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Use_chemical,_biological,_or_radiological_weapons <-- Mobilize_or_increase_armed_forces
+Use_chemical,_biological,_or_radiological_weapons <-- Kill_by_physical_assault
+Use_chemical,_biological,_or_radiological_weapons <-- Accuse_of_war_crimes, Criticize_or_denounce
+Use_chemical,_biological,_or_radiological_weapons <-- Carry_out_car_bombing
+Use_chemical,_biological,_or_radiological_weapons <-- Refuse_to_de-escalate_military_engagement
+Use_chemical,_biological,_or_radiological_weapons <-- fight_with_small_arms_and_light_weapons
+Use_chemical,_biological,_or_radiological_weapons <-- fight_with_artillery_and_tanks
+Use_chemical,_biological,_or_radiological_weapons <-- Seize_or_damage_property
+Use_chemical,_biological,_or_radiological_weapons <-- Detonate_nuclear_weapons
+Use_chemical,_biological,_or_radiological_weapons <-- Obstruct_passage,_block
+Use_chemical,_biological,_or_radiological_weapons <-- Defy_norms,_law
+Use_chemical,_biological,_or_radiological_weapons <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+Use_chemical,_biological,_or_radiological_weapons <-- Use_unconventional_violence
+Use_chemical,_biological,_or_radiological_weapons <-- Threaten_with_military_force, Threaten_with_sanctions,_boycott,_embargo
+Use_chemical,_biological,_or_radiological_weapons <-- Engage_in_mass_killings
+Use_chemical,_biological,_or_radiological_weapons <-- Use_conventional_military_force, Increase_military_alert_status
+Use_chemical,_biological,_or_radiological_weapons <-- Give_ultimatum, Refuse_to_yield
+Use_chemical,_biological,_or_radiological_weapons <-- Threaten, Use_conventional_military_force

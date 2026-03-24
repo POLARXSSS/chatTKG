@@ -1,0 +1,30 @@
+Demand_de-escalation_of_military_engagement <-- Engage_in_negotiation
+Demand_de-escalation_of_military_engagement <-- Make_an_appeal_or_request
+Demand_de-escalation_of_military_engagement <-- Demobilize_armed_forces
+Demand_de-escalation_of_military_engagement <-- Kill_by_physical_assault
+Demand_de-escalation_of_military_engagement <-- Sign_formal_agreement
+Demand_de-escalation_of_military_engagement <-- Impose_embargo,_boycott,_or_sanctions
+Demand_de-escalation_of_military_engagement <-- Demonstrate_or_rally
+Demand_de-escalation_of_military_engagement <-- Appeal_for_humanitarian_aid, Use_conventional_military_force
+Demand_de-escalation_of_military_engagement <-- Threaten_with_military_force
+Demand_de-escalation_of_military_engagement <-- Use_unconventional_violence
+Demand_de-escalation_of_military_engagement <-- Increase_military_alert_status, Mobilize_or_increase_armed_forces
+Demand_de-escalation_of_military_engagement <-- Declare_truce,_ceasefire
+Demand_de-escalation_of_military_engagement <-- Express_accord
+Demand_de-escalation_of_military_engagement <-- Abduct,_hijack,_or_take_hostage
+Demand_de-escalation_of_military_engagement <-- Criticize_or_denounce
+Demand_de-escalation_of_military_engagement <-- Express_intent_to_cooperate, fight_with_small_arms_and_light_weapons
+Demand_de-escalation_of_military_engagement <-- Accuse_of_war_crimes
+Demand_de-escalation_of_military_engagement <-- Defy_norms,_law
+Demand_de-escalation_of_military_engagement <-- Appeal_to_engage_in_or_accept_mediation
+Demand_de-escalation_of_military_engagement <-- Mediate
+Demand_de-escalation_of_military_engagement <-- Appeal_for_military_protection_or_peacekeeping
+Demand_de-escalation_of_military_engagement <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+Demand_de-escalation_of_military_engagement <-- Violate_ceasefire
+Demand_de-escalation_of_military_engagement <-- Retreat_or_surrender_militarily
+Demand_de-escalation_of_military_engagement <-- Express_intent_to_de-escalate_military_engagement
+Demand_de-escalation_of_military_engagement <-- Use_conventional_military_force
+Demand_de-escalation_of_military_engagement <-- Yield
+Demand_de-escalation_of_military_engagement <-- Reduce_relations
+Demand_de-escalation_of_military_engagement <-- Complain_officially
+Demand_de-escalation_of_military_engagement <-- Carry_out_car_bombing

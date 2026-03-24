@@ -1,0 +1,32 @@
+Demand_rights <-- Conduct_strike_or_boycott
+Demand_rights <-- Engage_in_political_dissent
+Demand_rights <-- Accuse
+Demand_rights <-- Demand
+Demand_rights <-- Demand_policy_change
+Demand_rights <-- Appeal_for_change_in_leadership
+Demand_rights <-- Protest_violently,_riot, Demand
+Demand_rights <-- Appeal_for_policy_change
+Demand_rights <-- Complain_officially
+Demand_rights <-- Threaten_with_political_dissent,_protest
+Demand_rights <-- Protest_violently,_riot
+Demand_rights <-- Appeal_for_political_reform
+Demand_rights <-- Bring_lawsuit_against
+Demand_rights <-- Express_intent_to_change_institutions,_regime
+Demand_rights <-- Defy_norms,_law
+Demand_rights <-- Demand_change_in_leadership
+Demand_rights <-- Appeal_for_rights
+Demand_rights <-- Demonstrate_for_leadership_change
+Demand_rights <-- Engage_in_political_dissent, Complain_officially
+Demand_rights <-- Express_intent_to_change_policy
+Demand_rights <-- Criticize_or_denounce
+Demand_rights <-- Make_an_appeal_or_request
+Demand_rights <-- Demand_change_in_institutions,_regime
+Demand_rights <-- Engage_in_violent_protest_for_rights
+Demand_rights <-- Demand, Accuse_of_human_rights_abuses
+Demand_rights <-- Demonstrate_for_policy_change
+Demand_rights <-- Appeal_for_release_of_persons_or_property
+Demand_rights <-- Demand_political_reform
+Demand_rights <-- Demand_release_of_persons_or_property
+Demand_rights <-- Express_intent_to_change_leadership
+Demand_rights <-- Accuse_of_human_rights_abuses
+Demand_rights <-- Appeal_for_change_in_institutions,_regime

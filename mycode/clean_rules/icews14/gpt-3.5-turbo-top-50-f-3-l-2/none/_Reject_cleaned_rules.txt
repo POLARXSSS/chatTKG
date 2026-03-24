@@ -1,0 +1,38 @@
+Reject <-- Use_conventional_military_force
+Reject <-- Use_unconventional_violence
+Reject <-- Accuse
+Reject <-- Occupy_territory
+Reject <-- Provide_aid, Provide_aid
+Reject <-- Destroy_property
+Reject <-- Engage_in_mass_killings
+Reject <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+Reject <-- Provide_aid, Demand
+Reject <-- Threaten
+Reject <-- Host_a_visit, Host_a_visit
+Reject <-- Arrest,_detain,_or_charge_with_legal_action
+Reject <-- Confiscate_property
+Reject <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+Reject <-- Appeal_for_material_cooperation, Reduce_relations
+Reject <-- Make_statement, Criticize_or_denounce
+Reject <-- Threaten, Use_conventional_military_force
+Reject <-- Kill_by_physical_assault
+Reject <-- Impose_administrative_sanctions
+Reject <-- Accuse_of_crime,_corruption
+Reject <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+Reject <-- Complain_officially
+Reject <-- Make_statement, Make_statement
+Reject <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+Reject <-- Seize_or_damage_property
+Reject <-- Accuse, Accuse_of_war_crimes
+Reject <-- Make_an_appeal_or_request, Refuse_to_ease_administrative_sanctions
+Reject <-- Express_intent_to_cooperate_economically, Reject_economic_cooperation
+Reject <-- Make_pessimistic_comment, Deny_responsibility
+Reject <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+Reject <-- Torture
+Reject <-- Host_a_visit, Make_statement
+Reject <-- Make_optimistic_comment, Threaten
+Reject <-- Impose_blockade,_restrict_movement
+Reject <-- Demand, Demand
+Reject <-- Criticize_or_denounce, Criticize_or_denounce
+Reject <-- Demand_change_in_leadership
+Reject <-- Expel_or_deport_individuals

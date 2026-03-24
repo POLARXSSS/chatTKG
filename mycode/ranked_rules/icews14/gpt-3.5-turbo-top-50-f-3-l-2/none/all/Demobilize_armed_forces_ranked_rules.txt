@@ -1,0 +1,68 @@
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Appeal_for_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Impose_embargo,_boycott,_or_sanctions
+1	0.25	0.05263157894736842	1.0	Demobilize_armed_forces <-- Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Appeal_to_others_to_settle_dispute
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Accede_to_demands_for_change_in_institutions,_regime
+1	0.25	0.02857142857142857	1.0	Demobilize_armed_forces <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Yield
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Apologize
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Consult
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Ease_state_of_emergency_or_martial_law
+1	0.25	0.06666666666666667	1.0	Demobilize_armed_forces <-- Express_intent_to_de-escalate_military_engagement
+1	0.25	0.0008620689655172414	0.1	Demobilize_armed_forces <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Expel_or_withdraw
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Meet_at_a_'third'_location
+1	0.25	0.001358695652173913	0.25	Demobilize_armed_forces <-- Sign_formal_agreement
+1	0.25	0.1111111111111111	1.0	Demobilize_armed_forces <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Forgive
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Share_intelligence_or_information, Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_accept_mediation, Mediate
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_change_institutions,_regime, Accede_to_demands_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_institute_political_reform, Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Engage_in_negotiation, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Sign_formal_agreement, Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Forgive, Praise_or_endorse
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_provide_military_protection_or_peacekeeping, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Receive_deployment_of_peacekeepers, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_engage_in_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_cooperate_economically, Cooperate_economically
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Demand_settling_of_dispute, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Cooperate_militarily, Express_intent_to_cooperate_militarily
+1	0.25	1.665806000233213e-05	0.00558659217877095	Demobilize_armed_forces <-- Make_statement, Make_statement
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_change_policy, Accede_to_demands_for_change_in_policy
+1	0.25	0.02857142857142857	1.0	Demobilize_armed_forces <-- Retreat_or_surrender_militarily
+1	0.25	1.3337957158481607e-05	0.003048780487804878	Demobilize_armed_forces <-- Consult, Consult
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Demand_policy_change, Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Accede_to_demands_for_change_in_leadership, Yield
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_provide_military_aid, Provide_military_aid
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Mediate, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+1	0.25	4.5429765582409596e-05	0.006172839506172839	Demobilize_armed_forces <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Demand_de-escalation_of_military_engagement, Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Ease_economic_sanctions,_boycott,_embargo, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Appeal_for_military_aid, Provide_military_aid
+1	0.25	0.0001154068090017311	0.0125	Demobilize_armed_forces <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_yield, Yield
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Return,_release_person(s), Apologize
+1	0.25	0.001145475372279496	0.022727272727272728	Demobilize_armed_forces <-- Meet_at_a_'third'_location, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_engage_in_material_cooperation, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Declare_truce,_ceasefire, Ease_state_of_emergency_or_martial_law
+1	0.25	0.1111111111111111	1.0	Demobilize_armed_forces <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_change_leadership, Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demobilize_armed_forces <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo

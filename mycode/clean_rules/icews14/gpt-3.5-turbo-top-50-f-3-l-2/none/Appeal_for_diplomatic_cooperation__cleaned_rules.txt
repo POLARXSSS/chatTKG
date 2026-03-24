@@ -1,0 +1,23 @@
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- fight_with_small_arms_and_light_weapons, Use_unconventional_violence
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Discuss_by_telephone
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Accuse
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Bring_lawsuit_against
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_material_cooperation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_optimistic_comment
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_cooperate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Consult, Praise_or_endorse
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_an_appeal_or_request, Make_statement
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Demand
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_pessimistic_comment, Engage_in_negotiation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Impose_administrative_sanctions
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_statement, Express_intent_to_meet_or_negotiate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- fight_with_small_arms_and_light_weapons
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Make_an_appeal_or_request
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Protest_violently,_riot, Criticize_or_denounce
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Express_intent_to_meet_or_negotiate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Engage_in_diplomatic_cooperation
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Criticize_or_denounce, Mobilize_or_increase_police_power
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Mediate
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Provide_humanitarian_aid
+Appeal_for_diplomatic_cooperation_(such_as_policy_support) <-- Appeal_for_change_in_institutions,_regime

@@ -1,0 +1,116 @@
+5	0.1282051282051282	0.004816955684007707	0.053763440860215055	Halt_negotiations <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Engage_in_mass_killings
+1	0.02564102564102564	1.0	1.0	Halt_negotiations <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Make_a_visit, Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Seize_or_damage_property
+1	0.02564102564102564	0.5	0.5	Halt_negotiations <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Assassinate
+3	0.07692307692307693	0.007058823529411765	0.06818181818181818	Halt_negotiations <-- Host_a_visit, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Destroy_property
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Coerce
+3	0.07692307692307693	0.0036275695284159614	0.0410958904109589	Halt_negotiations <-- Threaten, Use_conventional_military_force
+6	0.15384615384615385	0.12	0.75	Halt_negotiations <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Conduct_hunger_strike
+1	0.02564102564102564	0.0032258064516129032	0.05263157894736842	Halt_negotiations <-- Praise_or_endorse, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Impose_state_of_emergency_or_martial_law
+9	0.23076923076923078	0.1323529411764706	0.9	Halt_negotiations <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Impose_restrictions_on_political_freedoms
+1	0.02564102564102564	0.025	0.16666666666666666	Halt_negotiations <-- Engage_in_negotiation, fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Demand_change_in_leadership, Refuse_to_yield
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Meet_at_a_'third'_location, Occupy_territory
+39	1.0	1.2580645161290323	1.2580645161290323	Halt_negotiations <-- Halt_negotiations
+2	0.05128205128205128	0.007067137809187279	0.5	Halt_negotiations <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Express_intent_to_cooperate, Reject_economic_cooperation
+1	0.02564102564102564	0.0196078431372549	0.3333333333333333	Halt_negotiations <-- Defy_norms,_law
+1	0.02564102564102564	0.00847457627118644	1.0	Halt_negotiations <-- Occupy_territory
+1	0.02564102564102564	0.0012437810945273632	0.1111111111111111	Halt_negotiations <-- Use_conventional_military_force
+1	0.02564102564102564	0.0056179775280898875	0.1	Halt_negotiations <-- Reduce_relations
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Use_tactics_of_violent_repression, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Halt_negotiations, Threaten_with_sanctions,_boycott,_embargo
+1	0.02564102564102564	0.011904761904761904	0.5	Halt_negotiations <-- Mobilize_or_increase_armed_forces
+3	0.07692307692307693	0.024193548387096774	0.21428571428571427	Halt_negotiations <-- Consult, Veto
+3	0.07692307692307693	0.15789473684210525	1.0	Halt_negotiations <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Confiscate_property
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Make_an_appeal_or_request, Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Sexually_assault
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Appeal_for_political_reform, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Sign_formal_agreement, Violate_ceasefire
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Torture
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Appeal_for_material_cooperation, Reduce_relations
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Express_intent_to_yield, Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Yield, Threaten_with_military_force
+3	0.07692307692307693	0.03614457831325301	0.2727272727272727	Halt_negotiations <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Make_optimistic_comment, Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Physically_assault
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Threaten_with_political_dissent,_protest
+18	0.46153846153846156	0.0008442380751371887	0.016230838593327322	Halt_negotiations <-- Make_statement, Criticize_or_denounce
+2	0.05128205128205128	0.029850746268656716	0.2857142857142857	Halt_negotiations <-- Impose_embargo,_boycott,_or_sanctions
+6	0.15384615384615385	0.014184397163120567	0.17647058823529413	Halt_negotiations <-- Threaten
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Retreat_or_surrender_militarily
+2	0.05128205128205128	0.029850746268656716	0.2857142857142857	Halt_negotiations <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Demand_meeting,_negotiation
+26	0.6666666666666666	0.004123711340206186	0.04513888888888889	Halt_negotiations <-- Consult
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Sexually_assault
+1	0.02564102564102564	1.0	1.0	Halt_negotiations <-- Threaten_to_halt_negotiations
+9	0.23076923076923078	0.1323529411764706	0.9	Halt_negotiations <-- Reduce_or_break_diplomatic_relations
+2	0.05128205128205128	0.10526315789473684	0.6666666666666666	Halt_negotiations <-- Mediate
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Physically_assault
+3	0.07692307692307693	0.15789473684210525	1.0	Halt_negotiations <-- fight_with_artillery_and_tanks
+2	0.05128205128205128	0.1111111111111111	0.6666666666666666	Halt_negotiations <-- Appeal_for_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Detonate_nuclear_weapons
+1	0.02564102564102564	0.0012437810945273632	0.1111111111111111	Halt_negotiations <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Arrest,_detain,_or_charge_with_legal_action
+15	0.38461538461538464	0.007894736842105263	0.16853932584269662	Halt_negotiations <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Obstruct_passage,_block
+1	0.02564102564102564	0.00847457627118644	1.0	Halt_negotiations <-- Occupy_territory
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Violate_ceasefire
+6	0.15384615384615385	0.014184397163120567	0.17647058823529413	Halt_negotiations <-- Threaten
+24	0.6153846153846154	0.0029585798816568047	0.05896805896805897	Halt_negotiations <-- Make_statement
+1	0.02564102564102564	0.011904761904761904	0.5	Halt_negotiations <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Refuse_to_yield
+2	0.05128205128205128	0.07407407407407407	0.6666666666666666	Halt_negotiations <-- Declare_truce,_ceasefire
+1	0.02564102564102564	0.1	0.5	Halt_negotiations <-- Ease_economic_sanctions,_boycott,_embargo
+3	0.07692307692307693	0.010101010101010102	0.15789473684210525	Halt_negotiations <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Give_ultimatum
+3	0.07692307692307693	0.03614457831325301	0.2727272727272727	Halt_negotiations <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+23	0.5897435897435898	0.008562918838421444	0.06990881458966565	Halt_negotiations <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Carry_out_car_bombing
+14	0.358974358974359	0.018518518518518517	0.18181818181818182	Halt_negotiations <-- Express_intent_to_cooperate
+11	0.28205128205128205	0.014945652173913044	0.24444444444444444	Halt_negotiations <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Seize_or_damage_property
+13	0.3333333333333333	0.006100422336931018	0.06842105263157895	Halt_negotiations <-- Make_a_visit
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Halt_mediation
+13	0.3333333333333333	0.006100422336931018	0.08125	Halt_negotiations <-- Host_a_visit
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Coerce
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Increase_military_alert_status
+6	0.15384615384615385	0.12	0.75	Halt_negotiations <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Assassinate
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Destroy_property
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Confiscate_property
+3	0.07692307692307693	0.03333333333333333	0.375	Halt_negotiations <-- Yield
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Torture
+0.0	0.0	0.0	0.0	Halt_negotiations <-- Employ_aerial_weapons

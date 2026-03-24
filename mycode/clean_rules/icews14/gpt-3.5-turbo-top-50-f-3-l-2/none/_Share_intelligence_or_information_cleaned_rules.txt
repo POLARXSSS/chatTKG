@@ -1,0 +1,17 @@
+Share_intelligence_or_information <-- Grant_diplomatic_recognition
+Share_intelligence_or_information <-- Provide_military_aid
+Share_intelligence_or_information <-- Meet_at_a_'third'_location
+Share_intelligence_or_information <-- Express_intent_to_cooperate_militarily
+Share_intelligence_or_information <-- Express_intent_to_cooperate_economically
+Share_intelligence_or_information <-- Discuss_by_telephone
+Share_intelligence_or_information <-- Demand_intelligence_cooperation
+Share_intelligence_or_information <-- Express_intent_to_cooperate_on_intelligence
+Share_intelligence_or_information <-- Declare_truce,_ceasefire
+Share_intelligence_or_information <-- Cooperate_militarily
+Share_intelligence_or_information <-- Mediate
+Share_intelligence_or_information <-- Appeal_for_military_protection_or_peacekeeping
+Share_intelligence_or_information <-- Express_intent_to_cooperate_on_judicial_matters
+Share_intelligence_or_information <-- Cooperate_economically
+Share_intelligence_or_information <-- Appeal_for_material_cooperation
+Share_intelligence_or_information <-- Appeal_for_judicial_cooperation
+Share_intelligence_or_information <-- Engage_in_judicial_cooperation

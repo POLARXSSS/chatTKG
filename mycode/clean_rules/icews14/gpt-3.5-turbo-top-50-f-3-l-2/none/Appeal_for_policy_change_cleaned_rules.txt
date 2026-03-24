@@ -1,0 +1,10 @@
+Appeal_for_policy_change <-- Engage_in_diplomatic_cooperation, Reduce_or_break_diplomatic_relations
+Appeal_for_policy_change <-- Engage_in_diplomatic_cooperation, Use_unconventional_violence
+Appeal_for_policy_change <-- Reduce_or_break_diplomatic_relations, Reduce_or_break_diplomatic_relations
+Appeal_for_policy_change <-- Reduce_or_break_diplomatic_relations
+Appeal_for_policy_change <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+Appeal_for_policy_change <-- Use_unconventional_violence
+Appeal_for_policy_change <-- Use_conventional_military_force, Reduce_or_break_diplomatic_relations
+Appeal_for_policy_change <-- Reduce_or_break_diplomatic_relations, Use_unconventional_violence
+Appeal_for_policy_change <-- Use_conventional_military_force
+Appeal_for_policy_change <-- Appeal_for_policy_change

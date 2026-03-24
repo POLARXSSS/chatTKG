@@ -1,0 +1,50 @@
+21	0.9130434782608695	2.1	10.5	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Impose_embargo,_boycott,_or_sanctions, Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Express_accord
+20	0.8695652173913043	3.3333333333333335	10.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Provide_economic_aid, Reduce_or_stop_economic_assistance
+22	0.9565217391304348	0.06748466257668712	0.9166666666666666	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Engage_in_negotiation, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_provide_material_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Complain_officially, Defend_verbally
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_cooperate, Yield
+22	0.9565217391304348	0.029891304347826088	0.3548387096774194	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Share_intelligence_or_information, Cooperate_militarily
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Demand_political_reform, Express_intent_to_institute_political_reform
+23	1.0	0.009203681472589036	0.13529411764705881	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Engage_in_diplomatic_cooperation, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Appeal_for_de-escalation_of_military_engagement, Decline_comment
+1	0.043478260869565216	0.0008802816901408451	0.01639344262295082	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Demand, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Reject_plan,_agreement_to_settle_dispute, Demand_settling_of_dispute
+20	0.8695652173913043	0.06451612903225806	1.1111111111111112	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Meet_at_a_'third'_location
+22	0.9565217391304348	0.0007143784907130797	0.045174537987679675	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Make_statement, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ban_political_parties_or_politicians, Ease_political_dissent
+22	0.9565217391304348	0.008368200836820083	0.1456953642384106	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Accede_to_demands_for_change_in_policy, Demand_policy_change
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Demonstrate_for_policy_change, Refuse_to_yield
+22	0.9565217391304348	0.01896551724137931	0.36666666666666664	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Engage_in_negotiation
+23	1.0	0.002654356607039815	0.04831932773109244	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Host_a_visit, Make_a_visit
+22	0.9565217391304348	0.008190618019359643	0.21782178217821782	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Provide_humanitarian_aid, Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Yield
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Investigate_human_rights_abuses, Grant_asylum
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Apologize
+1	0.043478260869565216	0.010101010101010102	0.1	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Declare_truce,_ceasefire, Halt_mediation
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Express_intent_to_change_policy, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- fight_with_artillery_and_tanks, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Appeal_for_humanitarian_aid, Receive_inspectors
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Appeal_for_economic_aid, Consider_policy_option
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Discuss_by_telephone
+22	0.9565217391304348	0.007488087134104833	0.2716049382716049	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Criticize_or_denounce, Make_pessimistic_comment
+1	0.043478260869565216	0.05263157894736842	0.5	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Mediate
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Return,_release_person(s)
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Forgive
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_curfew
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Yield
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_political_dissent
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Demand_policy_change
+21	0.9130434782608695	2.1	10.5	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_military_blockade
+0.0	0.0	0.0	0.0	Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo <-- Ease_state_of_emergency_or_martial_law

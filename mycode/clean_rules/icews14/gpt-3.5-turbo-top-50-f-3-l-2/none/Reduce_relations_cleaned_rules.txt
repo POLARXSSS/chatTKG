@@ -1,0 +1,50 @@
+Reduce_relations <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Reduce_relations <-- Host_a_visit
+Reduce_relations <-- Protest_violently,_riot
+Reduce_relations <-- Criticize_or_denounce
+Reduce_relations <-- Violate_ceasefire
+Reduce_relations <-- Cooperate_economically
+Reduce_relations <-- Engage_in_diplomatic_cooperation
+Reduce_relations <-- Destroy_property
+Reduce_relations <-- Threaten_with_administrative_sanctions
+Reduce_relations <-- Conduct_strike_or_boycott
+Reduce_relations <-- Expel_or_deport_individuals, Confiscate_property
+Reduce_relations <-- Reject
+Reduce_relations <-- Threaten, Impose_administrative_sanctions
+Reduce_relations <-- Confiscate_property
+Reduce_relations <-- Accuse
+Reduce_relations <-- Demand
+Reduce_relations <-- Violate_ceasefire, Refuse_to_yield
+Reduce_relations <-- Rally_support_on_behalf_of
+Reduce_relations <-- Share_intelligence_or_information
+Reduce_relations <-- Reject, Demand
+Reduce_relations <-- Mobilize_or_increase_armed_forces
+Reduce_relations <-- Ban_political_parties_or_politicians, Impose_restrictions_on_political_freedoms
+Reduce_relations <-- Increase_military_alert_status, Increase_police_alert_status
+Reduce_relations <-- Use_unconventional_violence
+Reduce_relations <-- Obstruct_passage,_block
+Reduce_relations <-- Use_tactics_of_violent_repression
+Reduce_relations <-- Physically_assault
+Reduce_relations <-- Sexually_assault
+Reduce_relations <-- Kill_by_physical_assault, Arrest,_detain,_or_charge_with_legal_action
+Reduce_relations <-- Threaten
+Reduce_relations <-- Meet_at_a_'third'_location
+Reduce_relations <-- Threaten_with_repression
+Reduce_relations <-- Accuse, Criticize_or_denounce
+Reduce_relations <-- Discuss_by_telephone
+Reduce_relations <-- Threaten_with_political_dissent,_protest
+Reduce_relations <-- Use_conventional_military_force
+Reduce_relations <-- Conduct_hunger_strike
+Reduce_relations <-- Refuse_to_ease_administrative_sanctions
+Reduce_relations <-- Engage_in_material_cooperation
+Reduce_relations <-- Impose_embargo,_boycott,_or_sanctions
+Reduce_relations <-- Make_a_visit
+Reduce_relations <-- Seize_or_damage_property
+Reduce_relations <-- Threaten_with_military_force
+Reduce_relations <-- Impose_administrative_sanctions
+Reduce_relations <-- Expel_or_deport_individuals
+Reduce_relations <-- Protest_violently,_riot, Conduct_strike_or_boycott
+Reduce_relations <-- Engage_in_judicial_cooperation
+Reduce_relations <-- Threaten_with_sanctions,_boycott,_embargo
+Reduce_relations <-- Arrest,_detain,_or_charge_with_legal_action
+Reduce_relations <-- Kill_by_physical_assault

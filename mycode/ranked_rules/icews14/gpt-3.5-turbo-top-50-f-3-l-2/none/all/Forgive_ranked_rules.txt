@@ -1,0 +1,15 @@
+0.0	0.0	0.0	0.0	Forgive <-- Express_intent_to_yield, Demand_settling_of_dispute, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Forgive <-- Receive_deployment_of_peacekeepers, Express_intent_to_provide_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Forgive <-- Provide_military_aid, Express_intent_to_provide_military_aid, Cooperate_militarily
+0.0	0.0	0.0	0.0	Forgive <-- Grant_diplomatic_recognition, Express_intent_to_cooperate, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Forgive <-- Apologize, Acknowledge_or_claim_responsibility, Return,_release_property
+0.0	0.0	0.0	0.0	Forgive <-- Demobilize_armed_forces, Express_intent_to_release_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Forgive <-- Demobilize_armed_forces, Appeal_for_humanitarian_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Forgive <-- Ease_economic_sanctions,_boycott,_embargo, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Cooperate_economically
+0.0	0.0	0.0	0.0	Forgive <-- Return,_release_person(s), Express_intent_to_release_persons_or_property, Praise_or_endorse
+0.0	0.0	0.0	0.0	Forgive <-- Retreat_or_surrender_militarily, Express_intent_to_de-escalate_military_engagement, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Forgive <-- Mediate, Express_intent_to_accept_mediation, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Forgive <-- Demobilize_armed_forces, Engage_in_material_cooperation, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Forgive <-- Consult, Discuss_by_telephone, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Forgive <-- Declare_truce,_ceasefire, Express_intent_to_cooperate, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Forgive <-- Yield, Express_intent_to_yield, Sign_formal_agreement

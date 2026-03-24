@@ -1,0 +1,100 @@
+3	0.010344827586206896	0.07142857142857142	0.2727272727272727	Make_empathetic_comment <-- Share_intelligence_or_information
+7	0.02413793103448276	0.059322033898305086	0.21875	Make_empathetic_comment <-- Expel_or_deport_individuals
+20	0.06896551724137931	0.038834951456310676	0.22727272727272727	Make_empathetic_comment <-- Investigate
+12	0.041379310344827586	0.0916030534351145	0.4	Make_empathetic_comment <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Mediate
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Destroy_property
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Violate_ceasefire
+6	0.020689655172413793	0.06666666666666667	0.2727272727272727	Make_empathetic_comment <-- Yield
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Carry_out_roadside_bombing
+53	0.18275862068965518	0.0364762560220234	0.16307692307692306	Make_empathetic_comment <-- Accuse
+4	0.013793103448275862	0.15384615384615385	0.4	Make_empathetic_comment <-- Decline_comment
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Mobilize_or_increase_police_power
+21	0.07241379310344828	0.026119402985074626	0.2625	Make_empathetic_comment <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Carry_out_car_bombing
+8	0.027586206896551724	0.08695652173913043	0.3333333333333333	Make_empathetic_comment <-- Complain_officially
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Forgive
+4	0.013793103448275862	0.047619047619047616	0.3333333333333333	Make_empathetic_comment <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Conduct_strike_or_boycott
+7	0.02413793103448276	0.059322033898305086	0.5	Make_empathetic_comment <-- Occupy_territory
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Use_as_human_shield
+29	0.1	0.06855791962174941	0.23770491803278687	Make_empathetic_comment <-- Threaten
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Torture
+5	0.017241379310344827	0.4166666666666667	0.8333333333333334	Make_empathetic_comment <-- Return,_release_property
+4	0.013793103448275862	0.12903225806451613	0.4444444444444444	Make_empathetic_comment <-- Apologize
+1	0.0034482758620689655	0.015384615384615385	0.058823529411764705	Make_empathetic_comment <-- Grant_diplomatic_recognition
+1	0.0034482758620689655	0.0625	0.3333333333333333	Make_empathetic_comment <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Use_chemical,_biological,_or_radiological_weapons
+51	0.17586206896551723	0.05543478260869565	0.21074380165289255	Make_empathetic_comment <-- Demand
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Conduct_suicide,_car,_or_other_non-military_bombing
+4	0.013793103448275862	0.0425531914893617	0.2	Make_empathetic_comment <-- Confiscate_property
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Attempt_to_assassinate
+12	0.041379310344827586	0.06936416184971098	0.24	Make_empathetic_comment <-- Deny_responsibility
+24	0.08275862068965517	0.018376722817764167	0.12307692307692308	Make_empathetic_comment <-- Arrest,_detain,_or_charge_with_legal_action
+3	0.010344827586206896	0.2	1.0	Make_empathetic_comment <-- Increase_police_alert_status
+3	0.010344827586206896	0.3	1.5	Make_empathetic_comment <-- Ease_economic_sanctions,_boycott,_embargo
+4	0.013793103448275862	0.04938271604938271	0.36363636363636365	Make_empathetic_comment <-- Sexually_assault
+11	0.03793103448275862	0.09821428571428571	0.4230769230769231	Make_empathetic_comment <-- Ease_administrative_sanctions
+7	0.02413793103448276	0.04516129032258064	0.1794871794871795	Make_empathetic_comment <-- Provide_aid
+15	0.05172413793103448	0.08064516129032258	0.45454545454545453	Make_empathetic_comment <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Assassinate
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Conduct_hunger_strike
+11	0.03793103448275862	0.14864864864864866	0.8461538461538461	Make_empathetic_comment <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Engage_in_mass_expulsion
+3	0.010344827586206896	0.03488372093023256	0.23076923076923078	Make_empathetic_comment <-- Cooperate_militarily
+10	0.034482758620689655	0.10752688172043011	0.23255813953488372	Make_empathetic_comment <-- Consider_policy_option
+2	0.006896551724137931	0.020202020202020204	0.06896551724137931	Make_empathetic_comment <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Receive_deployment_of_peacekeepers
+4	0.013793103448275862	0.0091324200913242	0.02877697841726619	Make_empathetic_comment <-- Discuss_by_telephone
+31	0.10689655172413794	0.048286604361370715	0.21379310344827587	Make_empathetic_comment <-- Reject
+2	0.006896551724137931	0.0273972602739726	0.2	Make_empathetic_comment <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Carry_out_suicide_bombing
+16	0.05517241379310345	0.061068702290076333	0.32653061224489793	Make_empathetic_comment <-- Return,_release_person(s)
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Demobilize_armed_forces
+7	0.02413793103448276	0.14583333333333334	0.3888888888888889	Make_empathetic_comment <-- Impose_restrictions_on_political_freedoms
+1	0.0034482758620689655	0.015873015873015872	0.16666666666666666	Make_empathetic_comment <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Increase_military_alert_status
+4	0.013793103448275862	0.02857142857142857	0.21052631578947367	Make_empathetic_comment <-- Physically_assault
+6	0.020689655172413793	0.11764705882352941	0.46153846153846156	Make_empathetic_comment <-- Defy_norms,_law
+7	0.02413793103448276	0.02258064516129032	0.05223880597014925	Make_empathetic_comment <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Receive_inspectors
+11	0.03793103448275862	0.014945652173913044	0.05392156862745098	Make_empathetic_comment <-- Sign_formal_agreement
+47	0.16206896551724137	0.008234057463209531	0.02290448343079922	Make_empathetic_comment <-- Make_optimistic_comment, Praise_or_endorse
+3	0.010344827586206896	0.125	0.1875	Make_empathetic_comment <-- Reject_plan,_agreement_to_settle_dispute, Express_intent_to_settle_dispute
+18	0.06206896551724138	0.034482758620689655	0.14634146341463414	Make_empathetic_comment <-- Demand, Yield
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Grant_diplomatic_recognition, Share_intelligence_or_information
+15	0.05172413793103448	0.08064516129032258	0.45454545454545453	Make_empathetic_comment <-- Provide_humanitarian_aid
+6	0.020689655172413793	0.0025041736227045075	0.00847457627118644	Make_empathetic_comment <-- Host_a_visit, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Threaten, Defend_verbally
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Cooperate_economically, Cooperate_militarily
+2	0.006896551724137931	0.0023148148148148147	0.013333333333333334	Make_empathetic_comment <-- Provide_humanitarian_aid, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Investigate, Acknowledge_or_claim_responsibility
+19	0.06551724137931035	0.012063492063492064	0.06529209621993128	Make_empathetic_comment <-- Make_an_appeal_or_request, Yield
+22	0.07586206896551724	0.005960444324031428	0.01752988047808765	Make_empathetic_comment <-- Engage_in_negotiation, Sign_formal_agreement
+8	0.027586206896551724	0.02247191011235955	0.125	Make_empathetic_comment <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+4	0.013793103448275862	0.12903225806451613	0.4444444444444444	Make_empathetic_comment <-- Apologize
+21	0.07241379310344828	0.01810344827586207	0.05426356589147287	Make_empathetic_comment <-- Engage_in_negotiation
+16	0.05517241379310345	0.061068702290076333	0.32653061224489793	Make_empathetic_comment <-- Return,_release_person(s)
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Protest_violently,_riot, Conduct_hunger_strike
+47	0.16206896551724137	0.062169312169312166	0.17938931297709923	Make_empathetic_comment <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Use_conventional_military_force, Retreat_or_surrender_militarily
+28	0.09655172413793103	0.005894736842105263	0.021374045801526718	Make_empathetic_comment <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Declare_truce,_ceasefire, Demobilize_armed_forces
+49	0.16896551724137931	0.018638265500190185	0.06298200514138817	Make_empathetic_comment <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Mediate
+1	0.0034482758620689655	0.006172839506172839	0.014492753623188406	Make_empathetic_comment <-- Apologize, Make_statement
+0.0	0.0	0.0	0.0	Make_empathetic_comment <-- Impose_restrictions_on_political_freedoms, Ease_political_dissent
+4	0.013793103448275862	0.014652014652014652	0.06557377049180328	Make_empathetic_comment <-- Bring_lawsuit_against, Reject
+51	0.17586206896551723	0.00628698224852071	0.03632478632478633	Make_empathetic_comment <-- Make_statement
+1	0.0034482758620689655	0.014285714285714285	0.05555555555555555	Make_empathetic_comment <-- Accuse, Apologize
+13	0.04482758620689655	0.006100422336931018	0.016883116883116882	Make_empathetic_comment <-- Host_a_visit
+35	0.1206896551724138	0.0055511498810467885	0.021315468940316686	Make_empathetic_comment <-- Consult

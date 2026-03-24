@@ -1,0 +1,64 @@
+546	0.08713692946058091	2.935483870967742	4.439024390243903	Make_an_appeal_or_request <-- Provide_humanitarian_aid
+3396	0.5419725502713054	0.12490804766808886	0.12490804766808886	Make_an_appeal_or_request <-- Make_an_appeal_or_request, Make_an_appeal_or_request
+622	0.0992658793488669	0.6308316430020284	0.845108695652174	Make_an_appeal_or_request <-- Reduce_relations, Criticize_or_denounce
+291	0.046441110756463455	3.383720930232558	4.932203389830509	Make_an_appeal_or_request <-- Engage_in_material_cooperation
+1455	0.23220555378231728	0.17936390532544377	0.30924548352816156	Make_an_appeal_or_request <-- Make_statement
+765	0.12208745611235237	0.5165428764348413	0.6364392678868552	Make_an_appeal_or_request <-- Make_optimistic_comment, Demand
+2353	0.3755186721991701	0.19749874097700185	0.2611832611832612	Make_an_appeal_or_request <-- Accuse, Make_an_appeal_or_request
+186	0.02968400893712097	0.4376470588235294	0.5181058495821727	Make_an_appeal_or_request <-- Host_a_visit, Reduce_or_break_diplomatic_relations
+511	0.08155122885413342	1.7867132867132867	2.7180851063829787	Make_an_appeal_or_request <-- Make_statement, Sexually_assault
+939	0.14985636769869135	0.2976228209191759	0.5293122886133033	Make_an_appeal_or_request <-- Make_statement, Reduce_relations
+1329	0.21209703159910628	3.141843971631206	4.101851851851852	Make_an_appeal_or_request <-- Threaten
+232	0.03702521544845196	0.4594059405940594	0.5296803652968036	Make_an_appeal_or_request <-- Engage_in_material_cooperation, Make_an_appeal_or_request
+45	0.0071816150654324925	0.3488372093023256	0.3488372093023256	Make_an_appeal_or_request <-- Appeal_for_intelligence, Use_unconventional_violence
+1979	0.3158314714331312	2.151086956521739	2.8474820143884894	Make_an_appeal_or_request <-- Demand
+538	0.08586019789339291	1.8114478114478114	2.574162679425837	Make_an_appeal_or_request <-- Demonstrate_or_rally
+91	0.014522821576763486	0.7338709677419355	1.0	Make_an_appeal_or_request <-- Provide_humanitarian_aid, Provide_humanitarian_aid
+354	0.056495371848068944	0.1661191928671985	0.19876473891072433	Make_an_appeal_or_request <-- Host_a_visit
+1984	0.31662942866262367	0.15187935390032917	0.20449391877963308	Make_an_appeal_or_request <-- Criticize_or_denounce, Make_statement
+469	0.07484838812639642	0.4973488865323436	0.8375	Make_an_appeal_or_request <-- Make_statement, Appeal_for_intelligence
+2033	0.3244494095116502	1.3991741225051617	1.8702851885924563	Make_an_appeal_or_request <-- Accuse
+471	0.07516757101819342	2.3668341708542715	2.3668341708542715	Make_an_appeal_or_request <-- Make_an_appeal_or_request, Appeal_for_material_cooperation
+1632	0.26045323970635176	2.1587301587301586	2.6623164763458402	Make_an_appeal_or_request <-- Express_intent_to_cooperate
+745	0.11889562719438238	0.11429886468241791	0.16985864113087096	Make_an_appeal_or_request <-- Arrest,_detain,_or_charge_with_legal_action, Make_an_appeal_or_request
+275	0.04388764762208745	25.0	27.5	Make_an_appeal_or_request <-- Appeal_for_material_cooperation
+1632	0.26045323970635176	2.1587301587301586	2.6623164763458402	Make_an_appeal_or_request <-- Express_intent_to_cooperate
+76	0.012128949888285988	5.846153846153846	8.444444444444445	Make_an_appeal_or_request <-- Praise_or_endorse, Ban_political_parties_or_politicians
+396	0.06319821257580593	4.4	6.1875	Make_an_appeal_or_request <-- Yield
+468	0.07468879668049792	0.40344827586206894	0.5518867924528302	Make_an_appeal_or_request <-- Engage_in_negotiation
+1329	0.21209703159910628	3.141843971631206	4.101851851851852	Make_an_appeal_or_request <-- Threaten
+0.0	0.0	0.0	0.0	Make_an_appeal_or_request <-- Make_a_visit, Obstruct_passage,_block
+540	0.08617938078518991	0.25340215861098075	0.41033434650455924	Make_an_appeal_or_request <-- Make_a_visit
+0.0	0.0	0.0	0.0	Make_an_appeal_or_request <-- Sign_formal_agreement, Violate_ceasefire
+92	0.014682413022661985	0.09881847475832438	0.14241486068111456	Make_an_appeal_or_request <-- Arrest,_detain,_or_charge_with_legal_action, Bring_lawsuit_against
+6266	1.0	1.9502023031434796	1.9502023031434796	Make_an_appeal_or_request <-- Make_an_appeal_or_request
+416	0.06639004149377593	4.521739130434782	5.698630136986301	Make_an_appeal_or_request <-- Complain_officially
+244	0.03894031279923396	0.5041322314049587	0.6472148541114059	Make_an_appeal_or_request <-- Engage_in_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+1235	0.1970954356846473	0.1958762886597938	0.29766208724993976	Make_an_appeal_or_request <-- Consult
+392	0.06255984679221194	0.532608695652174	0.7983706720977597	Make_an_appeal_or_request <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Make_an_appeal_or_request <-- Provide_aid, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Make_an_appeal_or_request <-- Mediate, Halt_mediation
+10	0.0015959144589849984	0.3333333333333333	0.3333333333333333	Make_an_appeal_or_request <-- Complain_officially, Impose_administrative_sanctions
+1490	0.23779125438876475	0.5667554203119056	0.7938199254128929	Make_an_appeal_or_request <-- Praise_or_endorse
+295	0.04707947654005745	1.9536423841059603	2.4583333333333335	Make_an_appeal_or_request <-- Yield, Demand
+300	0.047877433769549956	0.5494505494505495	0.6818181818181818	Make_an_appeal_or_request <-- Engage_in_diplomatic_cooperation, Reduce_relations
+325	0.05186721991701245	2.096774193548387	2.9279279279279278	Make_an_appeal_or_request <-- Provide_aid
+78	0.012448132780082987	3.391304347826087	4.875	Make_an_appeal_or_request <-- Consult, Reject_judicial_cooperation
+1979	0.3158314714331312	2.151086956521739	2.8474820143884894	Make_an_appeal_or_request <-- Demand
+2033	0.3244494095116502	1.3991741225051617	1.8702851885924563	Make_an_appeal_or_request <-- Accuse
+354	0.056495371848068944	0.1661191928671985	0.19876473891072433	Make_an_appeal_or_request <-- Host_a_visit
+642	0.1024577082668369	1.2466019417475729	1.927927927927928	Make_an_appeal_or_request <-- Investigate
+604	0.09639323332269391	0.46248085758039814	0.8	Make_an_appeal_or_request <-- Arrest,_detain,_or_charge_with_legal_action
+315	0.05027130545802745	0.2175414364640884	0.29745042492917845	Make_an_appeal_or_request <-- Threaten, Engage_in_negotiation
+2149	0.34296201723587616	0.28638059701492535	0.28638059701492535	Make_an_appeal_or_request <-- Make_an_appeal_or_request, Reject
+851	0.13581232045962335	0.26420366345855323	0.3169459962756052	Make_an_appeal_or_request <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+1322	0.2109798914778168	0.40182370820668695	0.5389319200978394	Make_an_appeal_or_request <-- Accuse, Reject
+10	0.0015959144589849984	0.5263157894736842	0.5882352941176471	Make_an_appeal_or_request <-- Mediate
+215	0.03431216086817747	0.6304985337243402	0.8269230769230769	Make_an_appeal_or_request <-- Investigate, Deny_responsibility
+1455	0.23220555378231728	0.17936390532544377	0.30924548352816156	Make_an_appeal_or_request <-- Make_statement
+1	0.00015959144589849984	0.0035971223021582736	0.004201680672268907	Make_an_appeal_or_request <-- Host_a_visit, Expel_or_deport_individuals
+680	0.1085221832109799	1.027190332326284	1.3333333333333333	Make_an_appeal_or_request <-- Engage_in_diplomatic_cooperation
+212	0.033833386530481964	0.6838709677419355	0.8548387096774194	Make_an_appeal_or_request <-- Meet_at_a_'third'_location
+289	0.04612192786466646	1.3076923076923077	1.553763440860215	Make_an_appeal_or_request <-- Demand, Refuse_to_yield
+2403	0.38349824449409514	0.11270578303081469	0.19487470602546428	Make_an_appeal_or_request <-- Make_statement, Criticize_or_denounce
+82	0.013086498563676987	0.7068965517241379	0.8631578947368421	Make_an_appeal_or_request <-- Meet_at_a_'third'_location, Halt_negotiations

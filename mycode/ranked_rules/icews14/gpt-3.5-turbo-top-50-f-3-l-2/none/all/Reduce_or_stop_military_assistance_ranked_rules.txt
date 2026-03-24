@@ -1,0 +1,35 @@
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Expel_or_withdraw_peacekeepers, Reduce_or_stop_military_assistance
+3	0.3	0.04	0.15	Reduce_or_stop_military_assistance <-- Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Sign_formal_agreement, Reduce_or_stop_military_assistance
+10	1.0	1.1111111111111112	1.1111111111111112	Reduce_or_stop_military_assistance <-- Reduce_or_stop_military_assistance
+3	0.3	0.002586206896551724	0.024390243902439025	Reduce_or_stop_military_assistance <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Demand_de-escalation_of_military_engagement, Refuse_to_de-escalate_military_engagement
+1	0.1	0.011111111111111112	0.1	Reduce_or_stop_military_assistance <-- Yield
+3	0.3	0.0008542141230068337	0.02702702702702703	Reduce_or_stop_military_assistance <-- Make_a_visit, Make_pessimistic_comment
+1	0.1	0.1	0.3333333333333333	Reduce_or_stop_military_assistance <-- Reduce_or_stop_economic_assistance
+4	0.4	0.009732360097323601	0.125	Reduce_or_stop_military_assistance <-- Make_pessimistic_comment
+3	0.3	0.0027726432532347504	0.02459016393442623	Reduce_or_stop_military_assistance <-- Engage_in_diplomatic_cooperation, Make_pessimistic_comment
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Reduce_or_break_diplomatic_relations
+3	0.3	0.0015789473684210526	0.03614457831325301	Reduce_or_stop_military_assistance <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Reduce_relations
+3	0.3	0.016129032258064516	0.2727272727272727	Reduce_or_stop_military_assistance <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Make_pessimistic_comment, Reduce_relations
+5	0.5	0.006218905472636816	0.1724137931034483	Reduce_or_stop_military_assistance <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Provide_military_aid, Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- fight_with_artillery_and_tanks, fight_with_small_arms_and_light_weapons
+3	0.3	0.03571428571428571	0.6	Reduce_or_stop_military_assistance <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Threaten_with_military_force, Use_conventional_military_force
+3	0.3	0.004076086956521739	0.0297029702970297	Reduce_or_stop_military_assistance <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Appeal_for_military_aid, Refuse_to_yield
+1	0.1	0.013513513513513514	0.5	Reduce_or_stop_military_assistance <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Express_intent_to_cooperate_economically, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Express_intent_to_cooperate_economically, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Violate_ceasefire, Halt_mediation
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Engage_in_negotiation, Declare_truce,_ceasefire
+6	0.6	0.0013094718463553033	0.011278195488721804	Reduce_or_stop_military_assistance <-- Host_a_visit, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Express_intent_to_provide_military_aid, Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Reduce_or_stop_military_assistance <-- Express_intent_to_accept_mediation, Mediate

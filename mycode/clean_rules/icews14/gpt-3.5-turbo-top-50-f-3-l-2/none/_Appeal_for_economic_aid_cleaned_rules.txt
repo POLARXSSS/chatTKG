@@ -1,0 +1,20 @@
+Appeal_for_economic_aid <-- Express_intent_to_cooperate_economically, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Accuse, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Discuss_by_telephone, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Express_intent_to_cooperate, Cooperate_economically
+Appeal_for_economic_aid <-- Engage_in_symbolic_act, Praise_or_endorse
+Appeal_for_economic_aid <-- Threaten_non-force, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Halt_mediation, Meet_at_a_'third'_location
+Appeal_for_economic_aid <-- Engage_in_mass_killings, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Express_intent_to_engage_in_material_cooperation, Use_conventional_military_force
+Appeal_for_economic_aid <-- Threaten_with_sanctions,_boycott,_embargo, Defy_norms,_law
+Appeal_for_economic_aid <-- Expel_or_deport_individuals, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+Appeal_for_economic_aid <-- Coerce, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Arrest,_detain,_or_charge_with_legal_action, Complain_officially
+Appeal_for_economic_aid <-- Appeal_for_economic_aid
+Appeal_for_economic_aid <-- Demand_economic_aid, Reject
+Appeal_for_economic_aid <-- Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Use_conventional_military_force, Engage_in_negotiation
+Appeal_for_economic_aid <-- Reduce_or_stop_economic_assistance, Make_an_appeal_or_request
+Appeal_for_economic_aid <-- Impose_embargo,_boycott,_or_sanctions, Express_intent_to_cooperate_economically

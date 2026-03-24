@@ -1,0 +1,10 @@
+Accede_to_requests_or_demands_for_political_reform <-- Halt_mediation
+Accede_to_requests_or_demands_for_political_reform <-- Halt_negotiations
+Accede_to_requests_or_demands_for_political_reform <-- Ease_state_of_emergency_or_martial_law
+Accede_to_requests_or_demands_for_political_reform <-- Threaten_non-force
+Accede_to_requests_or_demands_for_political_reform <-- Give_ultimatum
+Accede_to_requests_or_demands_for_political_reform <-- Demand_political_reform
+Accede_to_requests_or_demands_for_political_reform <-- Sign_formal_agreement
+Accede_to_requests_or_demands_for_political_reform <-- Investigate_human_rights_abuses
+Accede_to_requests_or_demands_for_political_reform <-- Impose_administrative_sanctions
+Accede_to_requests_or_demands_for_political_reform <-- Threaten_with_repression

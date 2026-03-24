@@ -1,0 +1,175 @@
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Torture, Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Kill_by_physical_assault, Demand_policy_change
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Seize_or_damage_property, Demand_material_cooperation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Increase_police_alert_status, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Mediate, Reject
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Threaten_with_military_force, Demand_rights
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Occupy_territory, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Refuse_to_release_persons_or_property, Make_statement
+2	0.25	0.0012903225806451613	0.029411764705882353	Demand_release_of_persons_or_property <-- Arrest,_detain,_or_charge_with_legal_action, Make_statement
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Conduct_hunger_strike, Demand_rights
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Abduct,_hijack,_or_take_hostage, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Ban_political_parties_or_politicians, Demand_political_reform
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Protest_violently,_riot, Demand_economic_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Expel_or_deport_individuals, Demand_material_cooperation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_release_persons_or_property, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Confiscate_property, Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Engage_in_mass_killings, Appeal_for_aid
+1	0.125	0.02127659574468085	0.1111111111111111	Demand_release_of_persons_or_property <-- Impose_state_of_emergency_or_martial_law, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Investigate_crime,_corruption, Demand_material_cooperation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Complain_officially, Demand_judicial_cooperation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Veto, Demand_policy_change
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_military_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Use_unconventional_violence, Threaten
+5	0.625	0.002631578947368421	0.1	Demand_release_of_persons_or_property <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Torture
+3	0.375	0.0003698224852071006	0.016304347826086956	Demand_release_of_persons_or_property <-- Make_statement
+1	0.125	0.2	1.0	Demand_release_of_persons_or_property <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Rally_support_on_behalf_of
+1	0.125	0.001941747572815534	0.09090909090909091	Demand_release_of_persons_or_property <-- Investigate
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_provide_economic_aid
+1	0.125	0.003816793893129771	0.2	Demand_release_of_persons_or_property <-- Return,_release_person(s)
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Yield
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Consider_policy_option
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_economic_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Sexually_assault
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Rally_opposition_against
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_change_institutions,_regime
+8	1.0	1.1428571428571428	1.1428571428571428	Demand_release_of_persons_or_property <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_accord
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Investigate_war_crimes
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Physically_assault
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_material_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demonstrate_military_or_police_power
+1	0.125	0.038461538461538464	0.5	Demand_release_of_persons_or_property <-- Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Grant_asylum
+1	0.125	0.038461538461538464	0.125	Demand_release_of_persons_or_property <-- Express_intent_to_mediate, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_economic_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Host_a_visit
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_material_cooperation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_to_yield
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Carry_out_roadside_bombing
+1	0.125	0.02	1.0	Demand_release_of_persons_or_property <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Defend_verbally
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Declare_truce,_ceasefire
+1	0.125	0.0136986301369863	0.5	Demand_release_of_persons_or_property <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Expel_or_withdraw
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_judicial_cooperation
+2	0.25	0.0007607455306200076	0.030303030303030304	Demand_release_of_persons_or_property <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Accede_to_demands_for_rights
+1	0.125	0.0035335689045936395	0.2	Demand_release_of_persons_or_property <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Return,_release_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Impose_blockade,_restrict_movement
+2	0.25	0.004866180048661801	0.1	Demand_release_of_persons_or_property <-- Make_pessimistic_comment
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Consult
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Apologize
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Confiscate_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_request_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reduce_relations
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Increase_military_alert_status
+2	0.25	0.004728132387706856	0.11764705882352941	Demand_release_of_persons_or_property <-- Threaten
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_material_cooperation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_rights
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Assassinate
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Complain_officially
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Forgive
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Threaten_with_military_force, Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Conduct_hunger_strike
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Mobilize_or_increase_armed_forces
+1	0.125	0.012195121951219513	0.3333333333333333	Demand_release_of_persons_or_property <-- Coerce
+1	0.125	0.0004692632566870014	0.013157894736842105	Demand_release_of_persons_or_property <-- Make_a_visit
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Receive_inspectors
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_yield
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Conduct_strike_or_boycott
+3	0.375	0.002297090352220521	0.06818181818181818	Demand_release_of_persons_or_property <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Deny_responsibility
+1	0.125	0.0012437810945273632	0.0625	Demand_release_of_persons_or_property <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Halt_mediation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Increase_police_alert_status
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Decline_comment
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Accuse_of_crime,_corruption, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Refuse_to_release_persons_or_property, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Use_tactics_of_violent_repression, Threaten
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Obstruct_passage,_block
+1	0.125	0.001841620626151013	0.06666666666666667	Demand_release_of_persons_or_property <-- Make_optimistic_comment
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Retreat_or_surrender_militarily
+1	0.125	0.020833333333333332	0.2	Demand_release_of_persons_or_property <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Make_empathetic_comment
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demonstrate_for_leadership_change
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Engage_in_symbolic_act
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Destroy_property
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Demand_release_of_persons_or_property <-- Refuse_to_de-escalate_military_engagement

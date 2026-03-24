@@ -1,0 +1,12 @@
+Declare_truce,_ceasefire <-- Return,_release_person(s)
+Declare_truce,_ceasefire <-- Express_accord
+Declare_truce,_ceasefire <-- Sign_formal_agreement
+Declare_truce,_ceasefire <-- Apologize
+Declare_truce,_ceasefire <-- Consult, Express_intent_to_cooperate
+Declare_truce,_ceasefire <-- Demobilize_armed_forces
+Declare_truce,_ceasefire <-- Retreat_or_surrender_militarily
+Declare_truce,_ceasefire <-- Yield
+Declare_truce,_ceasefire <-- Grant_diplomatic_recognition
+Declare_truce,_ceasefire <-- fight_with_small_arms_and_light_weapons
+Declare_truce,_ceasefire <-- Declare_truce,_ceasefire
+Declare_truce,_ceasefire <-- Forgive

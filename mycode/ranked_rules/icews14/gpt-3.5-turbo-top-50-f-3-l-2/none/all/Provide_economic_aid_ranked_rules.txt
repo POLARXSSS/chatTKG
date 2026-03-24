@@ -1,0 +1,364 @@
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_de-escalation_of_military_engagement, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_easing_of_administrative_sanctions, Ease_administrative_sanctions
+1	0.01020408163265306	0.008264462809917356	0.013333333333333334	Provide_economic_aid <-- Express_intent_to_cooperate_militarily, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_change_in_leadership, Demand_change_in_leadership
+15	0.15306122448979592	0.020380434782608696	0.08064516129032258	Provide_economic_aid <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_to_reduce_or_stop_aid, Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Provide_humanitarian_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Provide_military_protection_or_peacekeeping, Provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Conduct_hunger_strike, Demand_rights
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reduce_or_stop_humanitarian_assistance, Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_provide_economic_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Use_tactics_of_violent_repression, Ease_political_dissent
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Ease_political_dissent, Express_intent_to_cooperate
+6	0.061224489795918366	0.17142857142857143	0.17142857142857143	Provide_economic_aid <-- Provide_economic_aid, Provide_economic_aid
+3	0.030612244897959183	0.01327433628318584	0.1875	Provide_economic_aid <-- Express_accord, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+3	0.030612244897959183	0.002976190476190476	0.03409090909090909	Provide_economic_aid <-- Discuss_by_telephone, Express_intent_to_cooperate
+13	0.1326530612244898	0.028199566160520606	0.12037037037037036	Provide_economic_aid <-- Grant_diplomatic_recognition, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_change_leadership, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_material_aid, Provide_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_to_yield, Yield
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_yield, Yield
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Violate_ceasefire, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Obstruct_passage,_block, Ease_military_blockade
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_to_others_to_settle_dispute, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_change_institutions,_regime, Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_release_of_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_engage_in_material_cooperation, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reduce_or_break_diplomatic_relations, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reduce_relations, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_with_political_dissent,_protest, Ease_political_dissent
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_economic_cooperation, Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_de-escalation_of_military_engagement, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Ease_curfew, Ease_political_dissent
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reduce_or_stop_military_assistance, Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_military_aid, Provide_military_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Kill_by_physical_assault, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_humanitarian_aid, Provide_humanitarian_aid
+13	0.1326530612244898	0.025096525096525095	0.10655737704918032	Provide_economic_aid <-- Consider_policy_option, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Refuse_to_release_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reduce_or_stop_economic_assistance, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+25	0.25510204081632654	0.002511553144464537	0.02927400468384075	Provide_economic_aid <-- Consult, Express_intent_to_cooperate
+34	0.3469387755102041	0.0021618872003560754	0.009264305177111716	Provide_economic_aid <-- Host_a_visit, Make_statement
+13	0.1326530612244898	0.16666666666666666	0.203125	Provide_economic_aid <-- Return,_release_property, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Arrest,_detain,_or_charge_with_legal_action, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Ease_military_blockade, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping, Provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_judicial_cooperation, Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_to_engage_in_or_accept_mediation, Mediate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Mediate, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reduce_or_stop_material_aid, Demand_material_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_provide_material_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_with_sanctions,_boycott,_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- fight_with_small_arms_and_light_weapons, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Ban_political_parties_or_politicians, Ease_political_dissent
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Protest_violently,_riot, Demonstrate_for_policy_change
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_target_to_allow_international_involvement_(non-mediation), Appeal_for_target_to_allow_international_involvement_(non-mediation)
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_accept_mediation, Mediate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+1	0.01020408163265306	0.07692307692307693	0.3333333333333333	Provide_economic_aid <-- Demand_meeting,_negotiation, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Refuse_to_de-escalate_military_engagement, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Abduct,_hijack,_or_take_hostage, Refuse_to_release_persons_or_property
+4	0.04081632653061224	0.025157232704402517	0.25	Provide_economic_aid <-- Reduce_relations, Reduce_relations
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- fight_with_artillery_and_tanks, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Investigate_crime,_corruption, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_settling_of_dispute, Demand_settling_of_dispute
+2	0.02040816326530612	0.14285714285714285	2.0	Provide_economic_aid <-- Express_intent_to_provide_humanitarian_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_judicial_cooperation, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Engage_in_violent_protest_for_rights, Demand_rights
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Acknowledge_or_claim_responsibility, Express_intent_to_cooperate
+7	0.07142857142857142	0.007172131147540984	0.06542056074766354	Provide_economic_aid <-- Make_empathetic_comment, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Impose_state_of_emergency_or_martial_law, Ease_state_of_emergency_or_martial_law
+1	0.01020408163265306	0.00980392156862745	0.041666666666666664	Provide_economic_aid <-- Yield, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_request_for_military_protection_or_peacekeeping, Provide_military_protection_or_peacekeeping
+3	0.030612244897959183	0.014285714285714285	0.15	Provide_economic_aid <-- Ease_administrative_sanctions, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accede_to_demands_for_rights, Demand_rights
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_institute_political_reform, Demand_political_reform
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_economic_aid, Express_intent_to_cooperate
+1	0.01020408163265306	0.125	0.5	Provide_economic_aid <-- Express_intent_to_provide_military_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_mediate, Mediate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Bring_lawsuit_against, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Mobilize_or_increase_armed_forces, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_material_cooperation, Engage_in_material_cooperation
+4	0.04081632653061224	0.21052631578947367	0.2857142857142857	Provide_economic_aid <-- Provide_military_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_change_in_leadership, Demand_change_in_leadership
+23	0.23469387755102042	0.009345794392523364	0.052752293577981654	Provide_economic_aid <-- Make_optimistic_comment, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_rights, Demand_rights
+21	0.21428571428571427	0.0014735808013472739	0.014553014553014554	Provide_economic_aid <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_that_target_yields, Yield
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Carry_out_car_bombing, Halt_negotiations
+4	0.04081632653061224	0.0008421052631578948	0.008849557522123894	Provide_economic_aid <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Expel_or_withdraw_peacekeepers, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accede_to_demands_for_change_in_institutions,_regime, Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+12	0.12244897959183673	0.07741935483870968	0.2553191489361702	Provide_economic_aid <-- Provide_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_change_in_institutions,_regime, Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Increase_military_alert_status, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Increase_police_alert_status, Increase_police_alert_status
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_economic_cooperation, Cooperate_economically
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_military_aid, Provide_military_aid
+1	0.01020408163265306	0.08333333333333333	0.5	Provide_economic_aid <-- Confiscate_property, Return,_release_property
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Destroy_property, Destroy_property
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Impose_blockade,_restrict_movement, Ease_military_blockade
+3	0.030612244897959183	0.0066518847006651885	0.07692307692307693	Provide_economic_aid <-- Return,_release_person(s), Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_political_reform, Demand_political_reform
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_request_for_military_aid, Provide_military_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Torture, Torture
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Impose_embargo,_boycott,_or_sanctions, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Declare_truce,_ceasefire, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Provide_aid, Provide_economic_aid
+2	0.02040816326530612	0.031746031746031744	0.14285714285714285	Provide_economic_aid <-- Ease_economic_sanctions,_boycott,_embargo, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Defend_verbally, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Conduct_strike_or_boycott, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Refuse_to_yield, Yield
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Engage_in_mass_expulsion, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Physically_assault, Apologize
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_mediation, Mediate
+9	0.09183673469387756	0.02040816326530612	0.06164383561643835	Provide_economic_aid <-- Express_intent_to_cooperate, Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_rights, Demand_rights
+11	0.11224489795918367	0.15714285714285714	0.3333333333333333	Provide_economic_aid <-- Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_economic_aid, Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Seize_or_damage_property, Return,_release_property
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_material_cooperation, Engage_in_diplomatic_cooperation
+29	0.29591836734693877	0.00111469864698647	0.017597087378640776	Provide_economic_aid <-- Make_a_visit, Praise_or_endorse
+7	0.07142857142857142	0.012589928057553957	0.04697986577181208	Provide_economic_aid <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Express_intent_to_meet_or_negotiate
+14	0.14285714285714285	0.043478260869565216	0.12727272727272726	Provide_economic_aid <-- Complain_officially, Express_intent_to_cooperate
+1	0.01020408163265306	0.015873015873015872	0.2	Provide_economic_aid <-- Use_conventional_military_force, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Use_unconventional_violence, Refuse_to_de-escalate_military_engagement
+9	0.09183673469387756	0.24324324324324326	0.24324324324324326	Provide_economic_aid <-- Express_intent_to_cooperate_on_intelligence, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_settle_dispute, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Refuse_to_ease_administrative_sanctions, Ease_administrative_sanctions
+18	0.1836734693877551	0.01646843549862763	0.06428571428571428	Provide_economic_aid <-- Meet_at_a_'third'_location, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Carry_out_roadside_bombing, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_to_others_to_meet_or_negotiate, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_military_cooperation, Express_intent_to_cooperate_militarily
+10	0.10204081632653061	0.07874015748031496	0.13333333333333333	Provide_economic_aid <-- Share_intelligence_or_information, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demonstrate_military_or_police_power, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demonstrate_for_leadership_change, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accede_to_requests_or_demands_for_political_reform, Demand_political_reform
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_with_administrative_sanctions, Ease_administrative_sanctions
+2	0.02040816326530612	0.08333333333333333	0.15384615384615385	Provide_economic_aid <-- Reject_plan,_agreement_to_settle_dispute, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_with_repression, Ease_political_dissent
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_intelligence, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accede_to_demands_for_change_in_leadership, Demand_change_in_leadership
+18	0.1836734693877551	0.030456852791878174	0.07627118644067797	Provide_economic_aid <-- Express_intent_to_cooperate_economically, Express_intent_to_cooperate
+4	0.04081632653061224	0.04040404040404041	0.125	Provide_economic_aid <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Mobilize_or_increase_police_power, Ease_political_dissent
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Apologize, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_aid, Provide_aid
+5	0.05102040816326531	0.05813953488372093	0.35714285714285715	Provide_economic_aid <-- Engage_in_material_cooperation
+7	0.07142857142857142	0.09333333333333334	0.22580645161290322	Provide_economic_aid <-- Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_material_cooperation, Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_release_persons_or_property, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demonstrate_or_rally, Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_de-escalate_military_engagement, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_change_in_institutions,_regime, Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_material_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Acknowledge_or_claim_responsibility
+1	0.01020408163265306	0.14285714285714285	0.5	Provide_economic_aid <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Use_tactics_of_violent_repression
+1	0.01020408163265306	0.14285714285714285	1.0	Provide_economic_aid <-- Refuse_to_de-escalate_military_engagement
+2	0.02040816326530612	0.02127659574468085	0.4	Provide_economic_aid <-- Confiscate_property
+1	0.01020408163265306	0.05555555555555555	0.3333333333333333	Provide_economic_aid <-- Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_economic_aid
+11	0.11224489795918367	0.020257826887661142	0.12087912087912088	Provide_economic_aid <-- Make_optimistic_comment
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_to_engage_in_or_accept_mediation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Rally_opposition_against
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_rights
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_to_yield
+3	0.030612244897959183	0.03225806451612903	0.13043478260869565	Provide_economic_aid <-- Consider_policy_option
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_material_cooperation
+2	0.02040816326530612	0.15384615384615385	0.25	Provide_economic_aid <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_that_target_yields
+7	0.07142857142857142	0.09333333333333334	0.22580645161290322	Provide_economic_aid <-- Express_intent_to_cooperate_economically
+1	0.01020408163265306	0.5	0.5	Provide_economic_aid <-- Halt_mediation
+2	0.02040816326530612	0.2	0.6666666666666666	Provide_economic_aid <-- Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_to_others_to_meet_or_negotiate
+1	0.01020408163265306	0.007194244604316547	0.05263157894736842	Provide_economic_aid <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Attempt_to_assassinate
+12	0.12244897959183673	0.00631578947368421	0.08391608391608392	Provide_economic_aid <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_material_cooperation
+22	0.22448979591836735	0.008368200836820083	0.06489675516224189	Provide_economic_aid <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_easing_of_administrative_sanctions
+25	0.25510204081632654	0.003081854043392505	0.052083333333333336	Provide_economic_aid <-- Make_statement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_political_reform
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_engage_in_material_cooperation
+1	0.01020408163265306	0.06666666666666667	0.25	Provide_economic_aid <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Conduct_hunger_strike
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping
+98	1.0	1.2564102564102564	1.2564102564102564	Provide_economic_aid <-- Provide_economic_aid
+8	0.08163265306122448	0.006896551724137931	0.047058823529411764	Provide_economic_aid <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_economic_aid
+6	0.061224489795918366	0.009345794392523364	0.09836065573770492	Provide_economic_aid <-- Reject
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accuse_of_crime,_corruption
+1	0.01020408163265306	0.020833333333333332	0.25	Provide_economic_aid <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_cooperate_on_judicial_matters
+3	0.030612244897959183	0.03614457831325301	0.21428571428571427	Provide_economic_aid <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+3	0.030612244897959183	0.07142857142857142	0.3	Provide_economic_aid <-- Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Protest_violently,_riot
+1	0.01020408163265306	0.09090909090909091	0.3333333333333333	Provide_economic_aid <-- Appeal_for_rights
+18	0.1836734693877551	0.023809523809523808	0.12857142857142856	Provide_economic_aid <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_to_others_to_settle_dispute
+1	0.01020408163265306	0.041666666666666664	0.2	Provide_economic_aid <-- Defend_verbally
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_request_for_change_in_leadership
+2	0.02040816326530612	0.03571428571428571	0.18181818181818182	Provide_economic_aid <-- Employ_aerial_weapons
+8	0.08163265306122448	0.11267605633802817	0.2857142857142857	Provide_economic_aid <-- Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_accord
+1	0.01020408163265306	0.02	0.5	Provide_economic_aid <-- Give_ultimatum
+7	0.07142857142857142	0.0170316301703163	0.1346153846153846	Provide_economic_aid <-- Make_pessimistic_comment
+8	0.08163265306122448	0.009950248756218905	0.16666666666666666	Provide_economic_aid <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Use_as_human_shield
+2	0.02040816326530612	0.05405405405405406	0.3333333333333333	Provide_economic_aid <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- fight_with_artillery_and_tanks
+2	0.02040816326530612	0.0045662100456621	0.06896551724137931	Provide_economic_aid <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_judicial_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_judicial_cooperation
+2	0.02040816326530612	0.4	1.0	Provide_economic_aid <-- Reduce_or_stop_material_aid
+3	0.030612244897959183	0.03571428571428571	0.25	Provide_economic_aid <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_military_aid
+2	0.02040816326530612	0.01694915254237288	0.07692307692307693	Provide_economic_aid <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Assassinate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accede_to_demands_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Refuse_to_ease_administrative_sanctions
+1	0.01020408163265306	0.004424778761061947	0.043478260869565216	Provide_economic_aid <-- Make_empathetic_comment
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Investigate_war_crimes
+1	0.01020408163265306	0.0196078431372549	0.2	Provide_economic_aid <-- Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Torture
+10	0.10204081632653061	0.004692632566870014	0.05263157894736842	Provide_economic_aid <-- Make_a_visit
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Veto
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_change_in_leadership
+1	0.01020408163265306	0.03225806451612903	0.125	Provide_economic_aid <-- Appeal_for_release_of_persons_or_property
+15	0.15306122448979592	0.020380434782608696	0.08064516129032258	Provide_economic_aid <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_material_cooperation
+5	0.05102040816326531	0.009708737864077669	0.09615384615384616	Provide_economic_aid <-- Investigate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_ease_administrative_sanctions
+3	0.030612244897959183	0.017341040462427744	0.23076923076923078	Provide_economic_aid <-- Deny_responsibility
+1	0.01020408163265306	0.125	1.0	Provide_economic_aid <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Receive_inspectors
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accuse_of_espionage,_treason
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Decline_comment
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_policy_change
+2	0.02040816326530612	0.021739130434782608	0.16666666666666666	Provide_economic_aid <-- Complain_officially
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Carry_out_car_bombing
+1	0.01020408163265306	0.007633587786259542	0.16666666666666666	Provide_economic_aid <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_accept_mediation
+2	0.02040816326530612	0.05714285714285714	0.5	Provide_economic_aid <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Obstruct_passage_to_demand_leadership_change
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Sexually_assault
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_policy_change
+2	0.02040816326530612	0.022222222222222223	0.16666666666666666	Provide_economic_aid <-- Yield
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Increase_police_alert_status
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Carry_out_roadside_bombing
+3	0.030612244897959183	0.125	0.375	Provide_economic_aid <-- Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accede_to_demands_for_change_in_leadership
+11	0.11224489795918367	0.15714285714285714	0.3333333333333333	Provide_economic_aid <-- Express_intent_to_provide_economic_aid
+4	0.04081632653061224	0.02247191011235955	0.15384615384615385	Provide_economic_aid <-- Reduce_relations
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Forgive
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accuse_of_human_rights_abuses
+10	0.10204081632653061	0.003112356053532524	0.044642857142857144	Provide_economic_aid <-- Make_an_appeal_or_request
+2	0.02040816326530612	0.018691588785046728	0.11764705882352941	Provide_economic_aid <-- Rally_support_on_behalf_of
+3	0.030612244897959183	0.057692307692307696	0.17647058823529413	Provide_economic_aid <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_request_for_military_aid
+16	0.16326530612244897	0.02416918429003021	0.07960199004975124	Provide_economic_aid <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accuse_of_aggression
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Threaten_to_halt_negotiations
+3	0.030612244897959183	0.25	0.6	Provide_economic_aid <-- Return,_release_property
+2	0.02040816326530612	0.004728132387706856	0.058823529411764705	Provide_economic_aid <-- Threaten
+1	0.01020408163265306	0.02	0.09090909090909091	Provide_economic_aid <-- Reject_plan,_agreement_to_settle_dispute
+4	0.04081632653061224	0.04040404040404041	0.125	Provide_economic_aid <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_de-escalation_of_military_engagement
+1	0.01020408163265306	1.0	1.0	Provide_economic_aid <-- Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Ease_economic_sanctions,_boycott,_embargo
+4	0.04081632653061224	0.012903225806451613	0.07272727272727272	Provide_economic_aid <-- Meet_at_a_'third'_location
+2	0.02040816326530612	0.010752688172043012	0.07142857142857142	Provide_economic_aid <-- Provide_humanitarian_aid
+1	0.01020408163265306	0.2	0.5	Provide_economic_aid <-- Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Engage_in_political_dissent
+1	0.01020408163265306	0.003816793893129771	0.037037037037037035	Provide_economic_aid <-- Return,_release_person(s)
+2	0.02040816326530612	0.004784688995215311	0.2	Provide_economic_aid <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_target_to_allow_international_involvement_(non-mediation)
+3	0.030612244897959183	0.3333333333333333	0.6	Provide_economic_aid <-- Reduce_or_stop_military_assistance
+15	0.15306122448979592	0.0070389488503050214	0.020804438280166437	Provide_economic_aid <-- Host_a_visit
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_intelligence_cooperation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Grant_asylum
+1	0.01020408163265306	0.007142857142857143	1.0	Provide_economic_aid <-- Physically_assault
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Mediate
+22	0.22448979591836735	0.0034892942109436957	0.042801556420233464	Provide_economic_aid <-- Consult
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+5	0.05102040816326531	0.13513513513513514	0.35714285714285715	Provide_economic_aid <-- Express_intent_to_settle_dispute
+1	0.01020408163265306	0.00847457627118644	0.2	Provide_economic_aid <-- Occupy_territory
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reject_request_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_yield
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_change_policy
+1	0.01020408163265306	0.25	0.25	Provide_economic_aid <-- Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_humanitarian_aid
+1	0.01020408163265306	0.012195121951219513	0.058823529411764705	Provide_economic_aid <-- Coerce
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Apologize
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_mediation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Accede_to_requests_or_demands_for_political_reform
+2	0.02040816326530612	0.03076923076923077	0.1	Provide_economic_aid <-- Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Appeal_for_intelligence
+2	0.02040816326530612	0.044444444444444446	0.11764705882352941	Provide_economic_aid <-- Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+2	0.02040816326530612	0.004987531172069825	0.05714285714285714	Provide_economic_aid <-- Engage_in_symbolic_act
+20	0.20408163265306123	0.007446016381236039	0.07168458781362007	Provide_economic_aid <-- Express_intent_to_meet_or_negotiate
+3	0.030612244897959183	0.0020646937370956643	0.033707865168539325	Provide_economic_aid <-- Accuse
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Provide_economic_aid <-- Destroy_property

@@ -1,0 +1,50 @@
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Express_intent_to_ease_administrative_sanctions, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Express_intent_to_cooperate, Reject_judicial_cooperation
+2	0.10526315789473684	0.08695652173913043	0.2222222222222222	Demand_meeting,_negotiation <-- Obstruct_passage,_block
+2	0.10526315789473684	0.0026455026455026454	0.03225806451612903	Demand_meeting,_negotiation <-- Express_intent_to_cooperate
+2	0.10526315789473684	0.0625	0.4	Demand_meeting,_negotiation <-- Appeal_to_others_to_meet_or_negotiate
+2	0.10526315789473684	0.0024875621890547263	0.2857142857142857	Demand_meeting,_negotiation <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Yield, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Demand_change_in_leadership
+4	0.21052631578947367	0.0009191176470588235	0.039603960396039604	Demand_meeting,_negotiation <-- Consult, Reject
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Express_intent_to_cooperate, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Demonstrate_or_rally, Use_tactics_of_violent_repression
+4	0.21052631578947367	0.0004930966469428008	0.03669724770642202	Demand_meeting,_negotiation <-- Make_statement
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Sign_formal_agreement, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Impose_embargo,_boycott,_or_sanctions
+2	0.10526315789473684	0.007067137809187279	0.15384615384615385	Demand_meeting,_negotiation <-- Abduct,_hijack,_or_take_hostage
+1	0.05263157894736842	0.0004692632566870014	0.016129032258064516	Demand_meeting,_negotiation <-- Host_a_visit
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Threaten_to_halt_negotiations, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Halt_negotiations, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Give_ultimatum, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Provide_aid, Demand_meeting,_negotiation
+2	0.10526315789473684	0.0017241379310344827	0.08695652173913043	Demand_meeting,_negotiation <-- Engage_in_negotiation
+1	0.05263157894736842	0.007142857142857143	0.06666666666666667	Demand_meeting,_negotiation <-- Physically_assault
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Demand_release_of_persons_or_property, Demand_meeting,_negotiation
+1	0.05263157894736842	0.0004692632566870014	0.037037037037037035	Demand_meeting,_negotiation <-- Make_a_visit
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Appeal_for_change_in_leadership, Reject_request_for_change_in_leadership
+6	0.3157894736842105	0.0022338049143708115	0.07228915662650602	Demand_meeting,_negotiation <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Appeal_for_rights
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Obstruct_passage,_block, Physically_assault
+1	0.05263157894736842	0.09090909090909091	0.5	Demand_meeting,_negotiation <-- Express_intent_to_ease_administrative_sanctions
+19	1.0	1.0555555555555556	1.0555555555555556	Demand_meeting,_negotiation <-- Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Mediate
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Express_intent_to_cooperate, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Threaten, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Give_ultimatum
+2	0.10526315789473684	0.017241379310344827	0.07692307692307693	Demand_meeting,_negotiation <-- Protest_violently,_riot
+1	0.05263157894736842	0.00015860428231562253	0.009259259259259259	Demand_meeting,_negotiation <-- Consult
+4	0.21052631578947367	0.013468013468013467	0.07407407407407407	Demand_meeting,_negotiation <-- Demonstrate_or_rally
+2	0.10526315789473684	0.0019267822736030828	0.05714285714285714	Demand_meeting,_negotiation <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+4	0.21052631578947367	0.009456264775413711	0.0975609756097561	Demand_meeting,_negotiation <-- Threaten
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Demand_change_in_leadership, Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Demand_meeting,_negotiation <-- Express_intent_to_cooperate, Reject_economic_cooperation
+4	0.21052631578947367	0.00196174595389897	0.12121212121212122	Demand_meeting,_negotiation <-- Make_statement, Reject_proposal_to_meet,_discuss,_or_negotiate

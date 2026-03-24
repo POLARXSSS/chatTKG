@@ -1,0 +1,30 @@
+Appeal_for_economic_aid(X0,X1,T2) <- Express_intent_to_cooperate_economically(X0,X1,T0), Make_an_appeal_or_request(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T3) <- Make_an_appeal_or_request(X0,X1,T0), Use_unconventional_violence(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T3) <- Accuse(X0,X1,T0), Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1), Accuse(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T3) <- Accuse(X0,X1,T0), Make_an_appeal_or_request(X1,X2,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Discuss_by_telephone(X0,X1,T0), Make_an_appeal_or_request(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T3) <- Defy_norms,_law(X0,X1,T0), Make_an_appeal_or_request(X1,X2,T1), Make_an_appeal_or_request(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Cooperate_economically(X1,X0,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Engage_in_symbolic_act(X0,X1,T0), Praise_or_endorse(X1,X0,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Threaten_non-force(X0,X1,T0), Make_an_appeal_or_request(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Halt_mediation(X1,X0,T0), Meet_at_a_'third'_location(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T3) <- Make_an_appeal_or_request(X0,X1,T0), Engage_in_symbolic_act(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T2) <- Engage_in_mass_killings(X1,X0,T0), Make_an_appeal_or_request(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T3) <- Make_an_appeal_or_request(X0,X1,T0), Demand(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T3) <- Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Use_conventional_military_force(X1,X2,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Threaten_with_sanctions,_boycott,_embargo(X1,X0,T0), Defy_norms,_law(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Expel_or_deport_individuals(X1,X0,T0), Make_an_appeal_or_request(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo(X0,X1,T0), Ease_economic_sanctions,_boycott,_embargo(X1,X0,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Coerce(X1,X0,T0), Make_an_appeal_or_request(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T3) <- Make_an_appeal_or_request(X0,X1,T0), Use_conventional_military_force(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T3) <- Threaten_non-force(X0,X1,T0), Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1), Accuse(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T2) <- Arrest,_detain,_or_charge_with_legal_action(X1,X0,T0), Complain_officially(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T3) <- Defy_norms,_law(X0,X1,T0), Praise_or_endorse(X1,X2,T1), Make_an_appeal_or_request(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T1) <- Appeal_for_economic_aid(X0,X1,T0).
+Appeal_for_economic_aid(X0,X1,T3) <- Make_an_appeal_or_request(X0,X1,T0), Accuse(X1,X2,T1), Abduct,_hijack,_or_take_hostage(X2,X1,T2).
+Appeal_for_economic_aid(X0,X1,T2) <- Demand_economic_aid(X0,X1,T0), Reject(X1,X0,T1).
+Appeal_for_economic_aid(X0,X1,T1) <- Make_an_appeal_or_request(X0,X1,T0).
+Appeal_for_economic_aid(X0,X1,T2) <- Use_conventional_military_force(X1,X0,T0), Engage_in_negotiation(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Reduce_or_stop_economic_assistance(X1,X0,T0), Make_an_appeal_or_request(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Accuse(X0,X1,T0), Make_an_appeal_or_request(X0,X1,T1).
+Appeal_for_economic_aid(X0,X1,T2) <- Impose_embargo,_boycott,_or_sanctions(X1,X0,T0), Express_intent_to_cooperate_economically(X0,X1,T1).

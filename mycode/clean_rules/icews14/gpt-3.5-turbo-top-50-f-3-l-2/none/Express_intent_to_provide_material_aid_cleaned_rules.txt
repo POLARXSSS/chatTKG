@@ -1,0 +1,30 @@
+Express_intent_to_provide_material_aid <-- Express_intent_to_meet_or_negotiate
+Express_intent_to_provide_material_aid <-- Cooperate_economically
+Express_intent_to_provide_material_aid <-- Express_intent_to_provide_material_aid
+Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate_economically
+Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate, Make_a_visit
+Express_intent_to_provide_material_aid <-- Provide_military_aid
+Express_intent_to_provide_material_aid <-- Criticize_or_denounce, Make_statement
+Express_intent_to_provide_material_aid <-- Engage_in_diplomatic_cooperation
+Express_intent_to_provide_material_aid <-- Mobilize_or_increase_armed_forces, Host_a_visit
+Express_intent_to_provide_material_aid <-- Express_intent_to_engage_in_material_cooperation, Make_a_visit
+Express_intent_to_provide_material_aid <-- Make_an_appeal_or_request, Make_statement
+Express_intent_to_provide_material_aid <-- Threaten, Physically_assault
+Express_intent_to_provide_material_aid <-- Make_optimistic_comment
+Express_intent_to_provide_material_aid <-- Host_a_visit
+Express_intent_to_provide_material_aid <-- Express_intent_to_provide_military_aid
+Express_intent_to_provide_material_aid <-- Appeal_for_material_cooperation
+Express_intent_to_provide_material_aid <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+Express_intent_to_provide_material_aid <-- Host_a_visit, Make_statement
+Express_intent_to_provide_material_aid <-- Provide_economic_aid
+Express_intent_to_provide_material_aid <-- Make_empathetic_comment
+Express_intent_to_provide_material_aid <-- Cooperate_militarily
+Express_intent_to_provide_material_aid <-- Praise_or_endorse
+Express_intent_to_provide_material_aid <-- Demand_intelligence_cooperation, Make_statement
+Express_intent_to_provide_material_aid <-- Demand_material_aid
+Express_intent_to_provide_material_aid <-- Express_intent_to_cooperate
+Express_intent_to_provide_material_aid <-- Share_intelligence_or_information, Consult
+Express_intent_to_provide_material_aid <-- Make_a_visit
+Express_intent_to_provide_material_aid <-- Consult
+Express_intent_to_provide_material_aid <-- Provide_military_protection_or_peacekeeping
+Express_intent_to_provide_material_aid <-- Consider_policy_option

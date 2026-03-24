@@ -1,0 +1,20 @@
+Use_unconventional_violence <-- Threaten_with_military_force
+Use_unconventional_violence <-- Use_conventional_military_force
+Use_unconventional_violence <-- fight_with_small_arms_and_light_weapons
+Use_unconventional_violence <-- Provide_aid
+Use_unconventional_violence <-- Carry_out_suicide_bombing
+Use_unconventional_violence <-- Demand_meeting,_negotiation
+Use_unconventional_violence <-- Investigate
+Use_unconventional_violence <-- Protest_violently,_riot
+Use_unconventional_violence <-- Demand
+Use_unconventional_violence <-- Use_unconventional_violence, Demand_meeting,_negotiation
+Use_unconventional_violence <-- fight_with_small_arms_and_light_weapons, Make_statement
+Use_unconventional_violence <-- Kill_by_physical_assault
+Use_unconventional_violence <-- Carry_out_roadside_bombing
+Use_unconventional_violence <-- Use_unconventional_violence
+Use_unconventional_violence <-- Abduct,_hijack,_or_take_hostage
+Use_unconventional_violence <-- Occupy_territory
+Use_unconventional_violence <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Use_unconventional_violence <-- Employ_aerial_weapons
+Use_unconventional_violence <-- Physically_assault
+Use_unconventional_violence <-- Arrest,_detain,_or_charge_with_legal_action, Provide_economic_aid

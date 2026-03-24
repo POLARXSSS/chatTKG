@@ -1,0 +1,66 @@
+Sign_formal_agreement <-- Demand_change_in_leadership, Demand_change_in_leadership
+Sign_formal_agreement <-- Cooperate_economically, Cooperate_economically
+Sign_formal_agreement <-- Express_intent_to_cooperate_economically
+Sign_formal_agreement <-- Declare_truce,_ceasefire
+Sign_formal_agreement <-- Host_a_visit
+Sign_formal_agreement <-- Demand_judicial_cooperation, Demand_judicial_cooperation
+Sign_formal_agreement <-- Engage_in_diplomatic_cooperation, Provide_economic_aid
+Sign_formal_agreement <-- Demand_military_aid, Demand_military_aid
+Sign_formal_agreement <-- Provide_humanitarian_aid
+Sign_formal_agreement <-- Apologize
+Sign_formal_agreement <-- Discuss_by_telephone
+Sign_formal_agreement <-- Demand_material_aid, Demand_material_aid
+Sign_formal_agreement <-- Express_intent_to_provide_humanitarian_aid, Express_intent_to_provide_humanitarian_aid
+Sign_formal_agreement <-- Share_intelligence_or_information
+Sign_formal_agreement <-- Demand_that_target_yields, Demand_that_target_yields
+Sign_formal_agreement <-- Make_optimistic_comment
+Sign_formal_agreement <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+Sign_formal_agreement <-- Express_intent_to_engage_in_material_cooperation
+Sign_formal_agreement <-- Make_optimistic_comment, Make_optimistic_comment
+Sign_formal_agreement <-- Demand_change_in_institutions,_regime, Demand_change_in_institutions,_regime
+Sign_formal_agreement <-- Return,_release_person(s)
+Sign_formal_agreement <-- Cooperate_militarily, Cooperate_militarily
+Sign_formal_agreement <-- Praise_or_endorse
+Sign_formal_agreement <-- Declare_truce,_ceasefire, Declare_truce,_ceasefire
+Sign_formal_agreement <-- Apologize, Apologize
+Sign_formal_agreement <-- Express_intent_to_cooperate
+Sign_formal_agreement <-- Host_a_visit, Make_a_visit
+Sign_formal_agreement <-- Express_intent_to_settle_dispute, Express_intent_to_settle_dispute
+Sign_formal_agreement <-- Express_intent_to_release_persons_or_property, Express_intent_to_release_persons_or_property
+Sign_formal_agreement <-- Yield
+Sign_formal_agreement <-- Mediate
+Sign_formal_agreement <-- Express_intent_to_cooperate_militarily, Express_intent_to_cooperate_militarily
+Sign_formal_agreement <-- Yield, Yield
+Sign_formal_agreement <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+Sign_formal_agreement <-- Demand_material_cooperation, Demand_material_cooperation
+Sign_formal_agreement <-- Demand_meeting,_negotiation, Demand_meeting,_negotiation
+Sign_formal_agreement <-- Make_a_visit
+Sign_formal_agreement <-- Demand_rights, Demand_rights
+Sign_formal_agreement <-- Ease_economic_sanctions,_boycott,_embargo, Ease_economic_sanctions,_boycott,_embargo
+Sign_formal_agreement <-- Appeal_for_material_cooperation, Appeal_for_material_cooperation
+Sign_formal_agreement <-- Grant_diplomatic_recognition
+Sign_formal_agreement <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_de-escalate_military_engagement
+Sign_formal_agreement <-- Share_intelligence_or_information, Share_intelligence_or_information
+Sign_formal_agreement <-- Express_intent_to_provide_economic_aid, Express_intent_to_provide_economic_aid
+Sign_formal_agreement <-- Ease_economic_sanctions,_boycott,_embargo
+Sign_formal_agreement <-- Consult
+Sign_formal_agreement <-- Make_statement, Praise_or_endorse
+Sign_formal_agreement <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+Sign_formal_agreement <-- Engage_in_negotiation
+Sign_formal_agreement <-- Cooperate_economically
+Sign_formal_agreement <-- Provide_economic_aid
+Sign_formal_agreement <-- Express_intent_to_cooperate, Consult
+Sign_formal_agreement <-- Meet_at_a_'third'_location
+Sign_formal_agreement <-- Consult, Discuss_by_telephone
+Sign_formal_agreement <-- Express_intent_to_meet_or_negotiate
+Sign_formal_agreement <-- Engage_in_diplomatic_cooperation
+Sign_formal_agreement <-- Demand_political_reform, Demand_political_reform
+Sign_formal_agreement <-- Demand_mediation, Demand_mediation
+Sign_formal_agreement <-- Demand_settling_of_dispute, Demand_settling_of_dispute
+Sign_formal_agreement <-- Demand_intelligence_cooperation, Demand_intelligence_cooperation
+Sign_formal_agreement <-- Provide_economic_aid, Provide_humanitarian_aid
+Sign_formal_agreement <-- Express_intent_to_cooperate_economically, Express_intent_to_cooperate_economically
+Sign_formal_agreement <-- Demand_economic_aid, Demand_economic_aid
+Sign_formal_agreement <-- Express_intent_to_settle_dispute
+Sign_formal_agreement <-- Mediate, Mediate
+Sign_formal_agreement <-- Demand_release_of_persons_or_property, Demand_release_of_persons_or_property

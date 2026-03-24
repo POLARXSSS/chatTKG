@@ -1,0 +1,29 @@
+Destroy_property <-- Reduce_or_break_diplomatic_relations, Accuse
+Destroy_property <-- fight_with_artillery_and_tanks
+Destroy_property <-- Carry_out_car_bombing
+Destroy_property <-- Threaten_with_repression, Use_tactics_of_violent_repression
+Destroy_property <-- Increase_police_alert_status, Mobilize_or_increase_police_power
+Destroy_property <-- Use_conventional_military_force
+Destroy_property <-- Criticize_or_denounce, Threaten_with_sanctions,_boycott,_embargo
+Destroy_property <-- Appeal_for_military_aid, Provide_military_aid
+Destroy_property <-- Threaten_with_military_force, Use_conventional_military_force
+Destroy_property <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+Destroy_property <-- Demonstrate_for_leadership_change, Use_tactics_of_violent_repression
+Destroy_property <-- Coerce, Threaten_non-force
+Destroy_property <-- Impose_blockade,_restrict_movement, Reduce_relations
+Destroy_property <-- Occupy_territory
+Destroy_property <-- Confiscate_property
+Destroy_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Destroy_property <-- Demand, Refuse_to_yield
+Destroy_property <-- fight_with_small_arms_and_light_weapons
+Destroy_property <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+Destroy_property <-- Violate_ceasefire, Use_conventional_military_force
+Destroy_property <-- Seize_or_damage_property
+Destroy_property <-- Express_intent_to_change_leadership, Demonstrate_for_leadership_change
+Destroy_property <-- Engage_in_violent_protest_for_rights
+Destroy_property <-- Engage_in_material_cooperation, Reject_material_cooperation
+Destroy_property <-- Protest_violently,_riot
+Destroy_property <-- Reject_plan,_agreement_to_settle_dispute, Use_conventional_military_force
+Destroy_property <-- Threaten_to_reduce_or_break_relations, Reduce_or_break_diplomatic_relations
+Destroy_property <-- Increase_military_alert_status, Mobilize_or_increase_armed_forces
+Destroy_property <-- Investigate_crime,_corruption, Arrest,_detain,_or_charge_with_legal_action

@@ -1,0 +1,27 @@
+Return,_release_property <-- Demand_change_in_leadership, Accede_to_demands_for_change_in_leadership
+Return,_release_property <-- Threaten_non-force, Yield
+Return,_release_property <-- Demand_change_in_leadership, Accede_to_demands_for_change_in_policy
+Return,_release_property <-- Make_an_appeal_or_request
+Return,_release_property <-- Provide_humanitarian_aid, Cooperate_economically
+Return,_release_property <-- Engage_in_symbolic_act, Express_intent_to_yield
+Return,_release_property <-- Mediate, Sign_formal_agreement
+Return,_release_property <-- Conduct_strike_or_boycott, Accede_to_demands_for_rights
+Return,_release_property <-- Express_intent_to_release_persons_or_property
+Return,_release_property <-- Appeal_for_material_cooperation, Engage_in_material_cooperation
+Return,_release_property <-- Engage_in_negotiation, Sign_formal_agreement
+Return,_release_property <-- Use_tactics_of_violent_repression, Ease_state_of_emergency_or_martial_law
+Return,_release_property <-- Accuse_of_human_rights_abuses, Apologize
+Return,_release_property <-- Meet_at_a_'third'_location, Discuss_by_telephone
+Return,_release_property <-- Demand_de-escalation_of_military_engagement, Yield
+Return,_release_property <-- Threaten, Yield
+Return,_release_property <-- Appeal_for_release_of_persons_or_property
+Return,_release_property <-- Appeal_to_others_to_settle_dispute, Demand_settling_of_dispute
+Return,_release_property <-- Impose_administrative_sanctions, Yield
+Return,_release_property <-- Appeal_for_judicial_cooperation, Engage_in_judicial_cooperation
+Return,_release_property <-- Appeal_to_engage_in_or_accept_mediation, Express_intent_to_mediate
+Return,_release_property <-- Demand_that_target_yields, Yield
+Return,_release_property <-- Expel_or_deport_individuals, Coerce
+Return,_release_property <-- Demand_release_of_persons_or_property
+Return,_release_property <-- Declare_truce,_ceasefire, Cooperate_militarily
+Return,_release_property <-- Appeal_for_intelligence, Share_intelligence_or_information
+Return,_release_property <-- Consult, Make_statement

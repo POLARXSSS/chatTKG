@@ -1,0 +1,36 @@
+Threaten_non-force <-- Threaten_to_reduce_or_break_relations
+Threaten_non-force <-- Engage_in_violent_protest_for_rights
+Threaten_non-force <-- Demand_release_of_persons_or_property
+Threaten_non-force <-- Threaten_to_halt_mediation
+Threaten_non-force <-- Coerce
+Threaten_non-force <-- Increase_military_alert_status
+Threaten_non-force <-- Reduce_or_stop_economic_assistance
+Threaten_non-force <-- Threaten_to_reduce_or_stop_aid
+Threaten_non-force <-- Protest_violently,_riot
+Threaten_non-force <-- Impose_state_of_emergency_or_martial_law
+Threaten_non-force <-- Threaten_with_military_force
+Threaten_non-force <-- Threaten_non-force
+Threaten_non-force <-- Make_statement, Demand_policy_change
+Threaten_non-force <-- Threaten_with_political_dissent,_protest
+Threaten_non-force <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Threaten_non-force <-- Impose_embargo,_boycott,_or_sanctions
+Threaten_non-force <-- Threaten_with_repression
+Threaten_non-force <-- Threaten_to_halt_negotiations
+Threaten_non-force <-- Impose_administrative_sanctions
+Threaten_non-force <-- Ban_political_parties_or_politicians
+Threaten_non-force <-- Demand_that_target_yields
+Threaten_non-force <-- Express_intent_to_cooperate
+Threaten_non-force <-- Refuse_to_yield
+Threaten_non-force <-- Impose_restrictions_on_political_freedoms
+Threaten_non-force <-- Conduct_strike_or_boycott
+Threaten_non-force <-- Mobilize_or_increase_police_power
+Threaten_non-force <-- Threaten_with_administrative_sanctions
+Threaten_non-force <-- Give_ultimatum
+Threaten_non-force <-- Bring_lawsuit_against
+Threaten_non-force <-- Accuse, Mobilize_or_increase_armed_forces
+Threaten_non-force <-- Reduce_relations
+Threaten_non-force <-- Demonstrate_military_or_police_power
+Threaten_non-force <-- Threaten
+Threaten_non-force <-- Complain_officially, Demand_rights
+Threaten_non-force <-- Halt_mediation
+Threaten_non-force <-- Threaten_with_sanctions,_boycott,_embargo

@@ -1,0 +1,20 @@
+Investigate_war_crimes <-- Torture, Make_statement
+Investigate_war_crimes <-- Arrest,_detain,_or_charge_with_legal_action
+Investigate_war_crimes <-- Investigate_human_rights_abuses
+Investigate_war_crimes <-- Accuse_of_human_rights_abuses, Appeal_for_judicial_cooperation
+Investigate_war_crimes <-- Engage_in_mass_killings, Make_statement
+Investigate_war_crimes <-- Violate_ceasefire, Complain_officially
+Investigate_war_crimes <-- Accuse_of_war_crimes
+Investigate_war_crimes <-- Use_tactics_of_violent_repression, Make_statement
+Investigate_war_crimes <-- Receive_inspectors, Make_statement
+Investigate_war_crimes <-- Bring_lawsuit_against
+Investigate_war_crimes <-- Engage_in_mass_killings, Complain_officially
+Investigate_war_crimes <-- Appeal_for_target_to_allow_international_involvement_(non-mediation)
+Investigate_war_crimes <-- Demand_judicial_cooperation, Express_intent_to_cooperate_on_judicial_matters
+Investigate_war_crimes <-- Accuse_of_war_crimes, Make_statement
+Investigate_war_crimes <-- Sexually_assault, Make_statement
+Investigate_war_crimes <-- Use_chemical,_biological,_or_radiological_weapons, Criticize_or_denounce
+Investigate_war_crimes <-- Use_chemical,_biological,_or_radiological_weapons, Complain_officially
+Investigate_war_crimes <-- Sexually_assault, Complain_officially
+Investigate_war_crimes <-- Torture, Criticize_or_denounce
+Investigate_war_crimes <-- Kill_by_physical_assault, Complain_officially

@@ -1,0 +1,160 @@
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_economic_aid
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Veto, Complain_officially
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Use_chemical,_biological,_or_radiological_weapons, Detonate_nuclear_weapons
+26	0.40625	0.0030005770340450085	0.04436860068259386	Retreat_or_surrender_militarily <-- Host_a_visit, Make_a_visit
+5	0.078125	0.10204081632653061	1.25	Retreat_or_surrender_militarily <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Halt_mediation, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Use_chemical,_biological,_or_radiological_weapons
+1	0.015625	0.06666666666666667	0.5	Retreat_or_surrender_militarily <-- Increase_police_alert_status
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Use_tactics_of_violent_repression, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Give_ultimatum, Coerce
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Engage_in_violent_protest_for_rights
+1	0.015625	0.022222222222222223	0.3333333333333333	Retreat_or_surrender_militarily <-- Assassinate
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Employ_aerial_weapons, fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Engage_in_mass_expulsion, Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_political_reform, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Destroy_property, Expel_or_deport_individuals
+10	0.15625	0.17857142857142858	0.625	Retreat_or_surrender_militarily <-- Employ_aerial_weapons
+6	0.09375	0.014354066985645933	0.15	Retreat_or_surrender_militarily <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_easing_of_administrative_sanctions
+23	0.359375	0.002740378887167878	0.049783549783549784	Retreat_or_surrender_militarily <-- Accuse, Make_statement
+7	0.109375	0.07446808510638298	0.7	Retreat_or_surrender_militarily <-- Confiscate_property
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Discuss_by_telephone, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_curfew
+3	0.046875	0.04054054054054054	0.42857142857142855	Retreat_or_surrender_militarily <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_economic_aid, Demand_humanitarian_aid
+1	0.015625	0.041666666666666664	0.5	Retreat_or_surrender_militarily <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_material_cooperation
+27	0.421875	0.00037699493151258746	0.01487603305785124	Retreat_or_surrender_militarily <-- Make_statement, Consult
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Carry_out_suicide_bombing, Conduct_suicide,_car,_or_other_non-military_bombing
+9	0.140625	0.375	4.5	Retreat_or_surrender_militarily <-- Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Increase_police_alert_status, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_intelligence_cooperation, Demand_judicial_cooperation
+11	0.171875	0.03021978021978022	0.12087912087912088	Retreat_or_surrender_militarily <-- Provide_military_aid, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Physically_assault, Torture
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Appeal_to_yield
+5	0.078125	0.2631578947368421	1.25	Retreat_or_surrender_militarily <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_material_aid
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Violate_ceasefire, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_judicial_cooperation
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Veto
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_state_of_emergency_or_martial_law
+14	0.21875	0.017412935323383085	0.125	Retreat_or_surrender_militarily <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Use_as_human_shield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_rights, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_change_in_leadership, Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_military_blockade
+3	0.046875	0.08108108108108109	3.0	Retreat_or_surrender_militarily <-- Carry_out_suicide_bombing
+34	0.53125	0.004191321499013806	0.13438735177865613	Retreat_or_surrender_militarily <-- Make_statement
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demonstrate_military_or_police_power, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_with_political_dissent,_protest
+2	0.03125	0.0045662100456621	0.09090909090909091	Retreat_or_surrender_militarily <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Engage_in_violent_protest_for_rights, Rally_opposition_against
+23	0.359375	0.054373522458628844	0.8518518518518519	Retreat_or_surrender_militarily <-- Threaten
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten, Threaten_non-force
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Reduce_or_stop_military_assistance, Occupy_territory
+9	0.140625	2.25	9.0	Retreat_or_surrender_militarily <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_to_reduce_or_break_relations
+17	0.265625	0.1440677966101695	0.85	Retreat_or_surrender_militarily <-- Occupy_territory
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand, Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_rights
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Physically_assault
+19	0.296875	1.2666666666666666	3.1666666666666665	Retreat_or_surrender_militarily <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_material_aid, Demand_material_cooperation
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Rally_opposition_against
+2	0.03125	0.024096385542168676	0.2222222222222222	Retreat_or_surrender_militarily <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+64	1.0	1.8285714285714285	1.8285714285714285	Retreat_or_surrender_militarily <-- Retreat_or_surrender_militarily
+9	0.140625	1.0	4.5	Retreat_or_surrender_militarily <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_political_dissent
+21	0.328125	0.009854528390427029	0.2916666666666667	Retreat_or_surrender_militarily <-- Make_a_visit
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_curfew, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Express_intent_to_yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_mediation, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Abduct,_hijack,_or_take_hostage, Use_as_human_shield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Assassinate, Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Declare_truce,_ceasefire, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Consult, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Expel_or_deport_individuals
+7	0.109375	0.01443298969072165	0.7777777777777778	Retreat_or_surrender_militarily <-- Criticize_or_denounce, Defy_norms,_law
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Complain_officially
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_with_repression, Threaten_with_sanctions,_boycott,_embargo
+6	0.09375	0.0028155795401220087	0.03296703296703297	Retreat_or_surrender_militarily <-- Host_a_visit
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Expel_or_withdraw
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten, Yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_with_administrative_sanctions, Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Occupy_territory, Demobilize_armed_forces
+25	0.390625	0.2976190476190476	1.5625	Retreat_or_surrender_militarily <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Reduce_or_break_diplomatic_relations, Expel_or_withdraw
+7	0.109375	0.007608695652173913	0.21875	Retreat_or_surrender_militarily <-- Demand
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_state_of_emergency_or_martial_law, Yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_that_target_yields, Appeal_to_yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_to_halt_mediation, Threaten_to_halt_negotiations
+1	0.015625	0.2	1.0	Retreat_or_surrender_militarily <-- Destroy_property
+7	0.109375	0.009174311926605505	0.28	Retreat_or_surrender_militarily <-- Make_statement, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_humanitarian_aid
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_release_of_persons_or_property
+8	0.125	0.008016032064128256	0.10126582278481013	Retreat_or_surrender_militarily <-- Use_unconventional_violence
+17	0.265625	1.8888888888888888	4.25	Retreat_or_surrender_militarily <-- Express_intent_to_provide_military_aid, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Coerce
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_to_reduce_or_break_relations, Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Confiscate_property, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_military_blockade, Ease_political_dissent
+12	0.1875	0.0019032513877874702	0.05263157894736842	Retreat_or_surrender_militarily <-- Consult
+15	0.234375	0.0010525577152480528	0.029354207436399216	Retreat_or_surrender_militarily <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+6	0.09375	0.08823529411764706	1.2	Retreat_or_surrender_militarily <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_change_in_institutions,_regime
+2	0.03125	0.2857142857142857	2.0	Retreat_or_surrender_militarily <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_mediation
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_intelligence_cooperation
+1	0.015625	0.037037037037037035	0.3333333333333333	Retreat_or_surrender_militarily <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_meeting,_negotiation
+1	0.015625	0.047619047619047616	1.0	Retreat_or_surrender_militarily <-- Use_unconventional_violence, Reduce_or_stop_military_assistance
+2	0.03125	0.0015313935681470138	0.017391304347826087	Retreat_or_surrender_militarily <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_political_reform
+6	0.09375	0.022222222222222223	0.25	Retreat_or_surrender_militarily <-- Engage_in_negotiation, Yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Ban_political_parties_or_politicians, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Sign_formal_agreement, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Halt_mediation
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Torture
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_material_cooperation, Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_military_aid, Demand_policy_change
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- fight_with_small_arms_and_light_weapons, Kill_by_physical_assault
+24	0.375	0.03260869565217391	0.47058823529411764	Retreat_or_surrender_militarily <-- Sign_formal_agreement
+22	0.34375	0.011578947368421053	0.34375	Retreat_or_surrender_militarily <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demand_policy_change
+6	0.09375	0.1016949152542373	1.5	Retreat_or_surrender_militarily <-- Sign_formal_agreement, Retreat_or_surrender_militarily
+17	0.265625	0.1440677966101695	0.85	Retreat_or_surrender_militarily <-- Occupy_territory
+8	0.125	0.008016032064128256	0.10126582278481013	Retreat_or_surrender_militarily <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Express_intent_to_yield
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Demobilize_armed_forces, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Retreat_or_surrender_militarily <-- Yield

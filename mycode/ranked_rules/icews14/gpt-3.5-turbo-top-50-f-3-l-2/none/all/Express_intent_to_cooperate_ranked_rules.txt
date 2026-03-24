@@ -1,0 +1,37 @@
+681	0.42063001852995674	0.05188966778421213	0.06669278229360494	Express_intent_to_cooperate <-- Host_a_visit, Host_a_visit
+31	0.019147621988882025	1.0	2.2142857142857144	Express_intent_to_cooperate <-- Apologize
+131	0.08091414453366276	2.0153846153846153	2.7872340425531914	Express_intent_to_cooperate <-- Grant_diplomatic_recognition
+40	0.02470660901791229	0.46511627906976744	1.4285714285714286	Express_intent_to_cooperate <-- Cooperate_militarily
+531	0.32798023471278565	0.24917878930079776	0.5946248600223965	Express_intent_to_cooperate <-- Make_a_visit
+443	0.2736256948733786	0.8158379373848987	1.6167883211678833	Express_intent_to_cooperate <-- Make_optimistic_comment
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate <-- Appeal_for_material_cooperation, Demand_material_cooperation
+655	0.4045707226683138	0.274748322147651	0.274748322147651	Express_intent_to_cooperate <-- Express_intent_to_cooperate, Sign_formal_agreement
+204	0.1260037059913527	0.5326370757180157	0.5326370757180157	Express_intent_to_cooperate <-- Express_intent_to_cooperate, Provide_humanitarian_aid
+609	0.3761581222977146	0.16499593606068816	0.27897388914338067	Express_intent_to_cooperate <-- Engage_in_negotiation, Sign_formal_agreement
+684	0.4224830142063002	0.5896551724137931	1.0410958904109588	Express_intent_to_cooperate <-- Engage_in_negotiation
+517	0.3193329215565164	0.24260910370717972	0.31219806763285024	Express_intent_to_cooperate <-- Host_a_visit
+51	0.03150092649783817	0.5666666666666667	1.0851063829787233	Express_intent_to_cooperate <-- Yield
+474	0.29277331686226066	1.5290322580645161	2.1545454545454548	Express_intent_to_cooperate <-- Meet_at_a_'third'_location
+882	0.544780728844966	0.27382800372555105	0.27382800372555105	Express_intent_to_cooperate <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+884	0.5460160592958616	0.014725725042061601	0.05253773921312255	Express_intent_to_cooperate <-- Make_statement, Make_statement
+165	0.1019147621988882	1.6666666666666667	2.7049180327868854	Express_intent_to_cooperate <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate <-- Forgive
+952	0.5880172946263126	0.15099127676447263	0.3511619328661011	Express_intent_to_cooperate <-- Consult
+247	0.1525633106856084	0.5639269406392694	1.1382488479262673	Express_intent_to_cooperate <-- Discuss_by_telephone
+191	0.1179740580605312	0.4658536585365854	0.4658536585365854	Express_intent_to_cooperate <-- Express_intent_to_cooperate, Provide_economic_aid
+72	0.044471896232242125	2.6666666666666665	4.235294117647059	Express_intent_to_cooperate <-- Declare_truce,_ceasefire
+634	0.3915997529339098	0.07967827070503959	0.1518562874251497	Express_intent_to_cooperate <-- Engage_in_negotiation, Engage_in_negotiation
+623	0.38480543545398394	0.9410876132930514	1.351409978308026	Express_intent_to_cooperate <-- Engage_in_diplomatic_cooperation
+144	0.08894379246448425	0.6371681415929203	1.1338582677165354	Express_intent_to_cooperate <-- Make_empathetic_comment
+118	0.07288449660284126	0.6344086021505376	1.6164383561643836	Express_intent_to_cooperate <-- Provide_humanitarian_aid
+556	0.34342186534898084	0.11705263157894737	0.2559852670349908	Express_intent_to_cooperate <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+714	0.4410129709697344	0.970108695652174	1.708133971291866	Express_intent_to_cooperate <-- Sign_formal_agreement
+1090	0.6732550957381099	0.014538373302744951	0.038419512882873354	Express_intent_to_cooperate <-- Consult, Consult
+1619	1.0	2.1415343915343916	2.1415343915343916	Express_intent_to_cooperate <-- Express_intent_to_cooperate
+786	0.48548486720197653	0.07728613569321534	0.17320405464962538	Express_intent_to_cooperate <-- Consult, Sign_formal_agreement
+128	0.07906114885731934	0.3565459610027855	0.3565459610027855	Express_intent_to_cooperate <-- Express_intent_to_cooperate, Provide_military_aid
+692	0.42742433600988267	0.052727826882048155	0.14817987152034262	Express_intent_to_cooperate <-- Make_a_visit, Make_a_visit
+900	0.5558987029030266	0.04088678902416863	0.09465713083718974	Express_intent_to_cooperate <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+219	0.1352686843730698	0.09045848822800495	0.20582706766917294	Express_intent_to_cooperate <-- Discuss_by_telephone, Discuss_by_telephone
+16	0.009882643607164917	1.6	4.0	Express_intent_to_cooperate <-- Ease_economic_sanctions,_boycott,_embargo
+668	0.4126003705991353	0.25408900722708255	0.5413290113452188	Express_intent_to_cooperate <-- Praise_or_endorse

@@ -1,0 +1,30 @@
+Refuse_to_yield <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+Refuse_to_yield <-- Threaten_with_sanctions,_boycott,_embargo
+Refuse_to_yield <-- Increase_military_alert_status
+Refuse_to_yield <-- Coerce
+Refuse_to_yield <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Refuse_to_yield <-- Engage_in_negotiation, Halt_negotiations
+Refuse_to_yield <-- Investigate_crime,_corruption, Deny_responsibility
+Refuse_to_yield <-- Use_tactics_of_violent_repression
+Refuse_to_yield <-- Make_an_appeal_or_request, Decline_comment
+Refuse_to_yield <-- Reduce_or_break_diplomatic_relations
+Refuse_to_yield <-- Give_ultimatum
+Refuse_to_yield <-- Accuse, Arrest,_detain,_or_charge_with_legal_action
+Refuse_to_yield <-- Abduct,_hijack,_or_take_hostage, Refuse_to_release_persons_or_property
+Refuse_to_yield <-- Demand_that_target_yields
+Refuse_to_yield <-- Bring_lawsuit_against, Defend_verbally
+Refuse_to_yield <-- Appeal_for_change_in_leadership, Mobilize_or_increase_police_power
+Refuse_to_yield <-- Impose_blockade,_restrict_movement, Refuse_to_de-escalate_military_engagement
+Refuse_to_yield <-- Use_conventional_military_force
+Refuse_to_yield <-- Threaten_to_reduce_or_stop_aid
+Refuse_to_yield <-- Demand_material_cooperation, Reject_material_cooperation
+Refuse_to_yield <-- Threaten_with_military_force
+Refuse_to_yield <-- Appeal_for_policy_change, Reject_request_for_change_in_leadership
+Refuse_to_yield <-- Impose_embargo,_boycott,_or_sanctions
+Refuse_to_yield <-- Refuse_to_yield
+Refuse_to_yield <-- Demonstrate_or_rally, Rally_opposition_against
+Refuse_to_yield <-- Violate_ceasefire
+Refuse_to_yield <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+Refuse_to_yield <-- Express_intent_to_provide_economic_aid, Reject_economic_cooperation
+Refuse_to_yield <-- Receive_deployment_of_peacekeepers, Expel_or_withdraw_peacekeepers
+Refuse_to_yield <-- Provide_military_aid, Mobilize_or_increase_armed_forces

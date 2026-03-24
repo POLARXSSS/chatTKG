@@ -1,0 +1,50 @@
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Cooperate_militarily(X0,X1,T0), Cooperate_militarily(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Host_a_visit(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Make_statement(X0,X1,T0), Make_statement(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_ease_administrative_sanctions(X0,X1,T0), Express_intent_to_ease_administrative_sanctions(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Discuss_by_telephone(X0,X1,T0), Discuss_by_telephone(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Apologize(X0,X1,T0), Apologize(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Forgive(X0,X1,T0), Forgive(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Provide_economic_aid(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Provide_economic_aid(X0,X1,T0), Provide_economic_aid(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Demand_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Demand_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Sign_formal_agreement(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Mediate(X0,X1,T0), Mediate(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Host_a_visit(X0,X1,T0), Host_a_visit(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Share_intelligence_or_information(X0,X1,T0), Share_intelligence_or_information(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_release_persons_or_property(X0,X1,T0), Express_intent_to_release_persons_or_property(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_provide_humanitarian_aid(X0,X1,T0), Express_intent_to_provide_humanitarian_aid(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Praise_or_endorse(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Consult(X0,X1,T0), Consult(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_provide_economic_aid(X0,X1,T0), Express_intent_to_provide_economic_aid(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_cooperate_economically(X0,X1,T0), Express_intent_to_cooperate_economically(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Sign_formal_agreement(X0,X1,T0), Sign_formal_agreement(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Provide_military_aid(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), Express_intent_to_meet_or_negotiate(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_cooperate_on_judicial_matters(X0,X1,T0), Express_intent_to_cooperate_on_judicial_matters(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_provide_military_aid(X0,X1,T0), Express_intent_to_provide_military_aid(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Engage_in_judicial_cooperation(X0,X1,T0), Engage_in_judicial_cooperation(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Make_a_visit(X0,X1,T0), Host_a_visit(X1,X0,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Grant_diplomatic_recognition(X0,X1,T0), Grant_diplomatic_recognition(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Make_a_visit(X0,X1,T0), Make_a_visit(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Yield(X0,X1,T0), Yield(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Provide_military_aid(X0,X1,T0), Provide_military_aid(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Consult(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Make_statement(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Cooperate_economically(X0,X1,T0), Cooperate_economically(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Express_intent_to_meet_or_negotiate(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_yield(X0,X1,T0), Express_intent_to_yield(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_settle_dispute(X0,X1,T0), Express_intent_to_settle_dispute(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_de-escalate_military_engagement(X0,X1,T0), Express_intent_to_de-escalate_military_engagement(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_cooperate_on_intelligence(X0,X1,T0), Express_intent_to_cooperate_on_intelligence(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_provide_military_protection_or_peacekeeping(X0,X1,T0), Express_intent_to_provide_military_protection_or_peacekeeping(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_cooperate(X0,X1,T0), Express_intent_to_cooperate(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X1,T1) <- Express_intent_to_cooperate(X0,X1,T0).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Praise_or_endorse(X0,X1,T0), Praise_or_endorse(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_cooperate_militarily(X0,X1,T0), Express_intent_to_cooperate_militarily(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Engage_in_material_cooperation(X0,X1,T0), Engage_in_material_cooperation(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X0,X1,T0), Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X1,X2,T1).
+Engage_in_diplomatic_cooperation(X0,X2,T2) <- Express_intent_to_provide_material_aid(X0,X1,T0), Express_intent_to_provide_material_aid(X1,X2,T1).

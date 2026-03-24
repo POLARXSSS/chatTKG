@@ -1,0 +1,3 @@
+Express_intent_to_cooperate_militarily <-- Cooperate_militarily, Sign_formal_agreement
+Express_intent_to_cooperate_militarily <-- Sign_formal_agreement
+Express_intent_to_cooperate_militarily <-- Express_intent_to_cooperate_militarily

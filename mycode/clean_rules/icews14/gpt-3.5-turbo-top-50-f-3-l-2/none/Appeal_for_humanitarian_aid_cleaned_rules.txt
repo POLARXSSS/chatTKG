@@ -1,0 +1,14 @@
+Appeal_for_humanitarian_aid <-- fight_with_small_arms_and_light_weapons, Torture
+Appeal_for_humanitarian_aid <-- Torture, Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_humanitarian_aid <-- Express_intent_to_cooperate
+Appeal_for_humanitarian_aid <-- Torture
+Appeal_for_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action, Accuse
+Appeal_for_humanitarian_aid <-- Accuse, Arrest,_detain,_or_charge_with_legal_action
+Appeal_for_humanitarian_aid <-- fight_with_small_arms_and_light_weapons, Demand
+Appeal_for_humanitarian_aid <-- Arrest,_detain,_or_charge_with_legal_action, Demand
+Appeal_for_humanitarian_aid <-- Torture, Demand
+Appeal_for_humanitarian_aid <-- Criticize_or_denounce, Demand
+Appeal_for_humanitarian_aid <-- Accuse, Demand
+Appeal_for_humanitarian_aid <-- Torture, Criticize_or_denounce
+Appeal_for_humanitarian_aid <-- Make_an_appeal_or_request, Demand
+Appeal_for_humanitarian_aid <-- fight_with_small_arms_and_light_weapons

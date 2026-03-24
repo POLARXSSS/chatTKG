@@ -1,0 +1,16 @@
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Ease_administrative_sanctions, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Express_intent_to_meet_or_negotiate, Reject
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- fight_with_small_arms_and_light_weapons, Use_unconventional_violence
+1	0.1111111111111111	0.00023299161230195712	0.023809523809523808	Accuse_of_war_crimes <-- Criticize_or_denounce, Reject
+2	0.2222222222222222	0.00040016006402561027	0.07407407407407407	Accuse_of_war_crimes <-- Criticize_or_denounce, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Accuse, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Reject, Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Provide_humanitarian_aid, Reject
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Engage_in_diplomatic_cooperation, Reject
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Express_intent_to_meet_or_negotiate, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Provide_humanitarian_aid, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Ease_administrative_sanctions, Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Employ_aerial_weapons
+2	0.2222222222222222	0.002004008016032064	0.4	Accuse_of_war_crimes <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Accuse_of_war_crimes <-- Engage_in_diplomatic_cooperation, Use_unconventional_violence

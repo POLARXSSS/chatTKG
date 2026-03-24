@@ -1,0 +1,90 @@
+135	0.24150268336314848	0.03262445625906235	0.10748407643312102	Make_pessimistic_comment <-- Consult, Threaten
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Carry_out_car_bombing
+23	0.04114490161001789	0.0015524805939925751	0.00644438217988232	Make_pessimistic_comment <-- Make_a_visit, Arrest,_detain,_or_charge_with_legal_action
+10	0.017889087656529516	0.14705882352941177	0.2857142857142857	Make_pessimistic_comment <-- Reduce_or_break_diplomatic_relations
+42	0.07513416815742398	0.32061068702290074	0.711864406779661	Make_pessimistic_comment <-- Bring_lawsuit_against
+222	0.39713774597495527	0.1168421052631579	0.2991913746630728	Make_pessimistic_comment <-- Criticize_or_denounce
+31	0.055456171735241505	0.0442225392296719	0.15422885572139303	Make_pessimistic_comment <-- Make_an_appeal_or_request, Refuse_to_yield
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Appeal_for_material_cooperation, Refuse_to_ease_administrative_sanctions
+113	0.20214669051878353	0.26713947990543735	0.6384180790960452	Make_pessimistic_comment <-- Threaten
+1	0.0017889087656529517	0.008620689655172414	0.03225806451612903	Make_pessimistic_comment <-- Protest_violently,_riot
+144	0.25760286225402507	0.09910529938059189	0.2807017543859649	Make_pessimistic_comment <-- Accuse
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Yield, Refuse_to_de-escalate_military_engagement
+16	0.028622540250447227	0.32	0.8	Make_pessimistic_comment <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Provide_aid, Reduce_or_stop_material_aid
+22	0.03935599284436494	0.3283582089552239	0.46808510638297873	Make_pessimistic_comment <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Sign_formal_agreement, Violate_ceasefire
+5	0.008944543828264758	0.21739130434782608	0.5	Make_pessimistic_comment <-- Obstruct_passage,_block
+65	0.11627906976744186	0.01089507207509219	0.028175119202427396	Make_pessimistic_comment <-- Discuss_by_telephone, Make_statement
+121	0.21645796064400716	0.18847352024922118	0.5170940170940171	Make_pessimistic_comment <-- Reject
+25	0.044722719141323794	0.6756756756756757	1.3157894736842106	Make_pessimistic_comment <-- Refuse_to_yield
+67	0.11985688729874776	0.08333333333333333	0.3621621621621622	Make_pessimistic_comment <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Host_a_visit, Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Receive_deployment_of_peacekeepers, Expel_or_withdraw_peacekeepers
+10	0.017889087656529516	5.0	5.0	Make_pessimistic_comment <-- Halt_mediation
+214	0.3828264758497317	0.020431544777544396	0.060486150367439234	Make_pessimistic_comment <-- Praise_or_endorse, Criticize_or_denounce
+2	0.0035778175313059034	0.031746031746031744	0.16666666666666666	Make_pessimistic_comment <-- Kill_by_physical_assault
+33	0.059033989266547404	0.21153846153846154	0.3707865168539326	Make_pessimistic_comment <-- Meet_at_a_'third'_location, Reject_proposal_to_meet,_discuss,_or_negotiate
+1	0.0017889087656529517	0.125	0.25	Make_pessimistic_comment <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Mediate, Halt_mediation
+55	0.09838998211091235	0.10679611650485436	0.3741496598639456	Make_pessimistic_comment <-- Investigate
+3	0.005366726296958855	0.25	1.5	Make_pessimistic_comment <-- Engage_in_mass_killings
+106	0.18962432915921287	0.03221884498480243	0.10631895687061184	Make_pessimistic_comment <-- Accuse, Reject
+46	0.08228980322003578	0.03522205206738132	0.12299465240641712	Make_pessimistic_comment <-- Arrest,_detain,_or_charge_with_legal_action
+36	0.06440071556350627	0.04353083434099154	0.10714285714285714	Make_pessimistic_comment <-- Threaten, Use_conventional_military_force
+88	0.15742397137745975	0.038852097130242826	0.09472551130247578	Make_pessimistic_comment <-- Express_intent_to_cooperate, Reject
+7	0.012522361359570662	0.08974358974358974	0.18421052631578946	Make_pessimistic_comment <-- Engage_in_diplomatic_cooperation, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Express_intent_to_meet_or_negotiate, Reject_request_for_military_aid
+33	0.059033989266547404	0.11	0.28448275862068967	Make_pessimistic_comment <-- Engage_in_negotiation, Halt_negotiations
+35	0.0626118067978533	0.11784511784511785	0.35353535353535354	Make_pessimistic_comment <-- Demonstrate_or_rally
+1	0.0017889087656529517	0.05263157894736842	0.1111111111111111	Make_pessimistic_comment <-- Mediate
+137	0.24508050089445438	0.2523020257826888	0.5708333333333333	Make_pessimistic_comment <-- Make_optimistic_comment
+33	0.059033989266547404	0.39759036144578314	0.825	Make_pessimistic_comment <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+127	0.22719141323792486	0.02014274385408406	0.07001102535832414	Make_pessimistic_comment <-- Consult
+55	0.09838998211091235	0.10679611650485436	0.3741496598639456	Make_pessimistic_comment <-- Investigate
+142	0.25402504472271914	0.18783068783068782	0.42771084337349397	Make_pessimistic_comment <-- Express_intent_to_cooperate
+54	0.09660107334525939	0.1291866028708134	0.6585365853658537	Make_pessimistic_comment <-- fight_with_small_arms_and_light_weapons
+6	0.01073345259391771	0.23076923076923078	1.2	Make_pessimistic_comment <-- Torture
+93	0.16636851520572452	0.1404833836858006	0.29430379746835444	Make_pessimistic_comment <-- Engage_in_diplomatic_cooperation
+23	0.04114490161001789	0.023883696780893044	0.12365591397849462	Make_pessimistic_comment <-- Use_conventional_military_force, fight_with_small_arms_and_light_weapons
+24	0.04293381037567084	0.3076923076923077	0.5454545454545454	Make_pessimistic_comment <-- Provide_economic_aid
+5	0.008944543828264758	0.1111111111111111	0.5555555555555556	Make_pessimistic_comment <-- Assassinate
+68	0.12164579606440072	0.09239130434782608	0.24548736462093862	Make_pessimistic_comment <-- Sign_formal_agreement
+113	0.20214669051878353	0.26713947990543735	0.6384180790960452	Make_pessimistic_comment <-- Threaten
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Use_chemical,_biological,_or_radiological_weapons
+25	0.044722719141323794	0.17857142857142858	0.6410256410256411	Make_pessimistic_comment <-- Physically_assault
+46	0.08228980322003578	0.03522205206738132	0.12299465240641712	Make_pessimistic_comment <-- Arrest,_detain,_or_charge_with_legal_action
+1	0.0017889087656529517	0.008620689655172414	0.03225806451612903	Make_pessimistic_comment <-- Protest_violently,_riot
+44	0.07871198568872988	0.16793893129770993	0.5	Make_pessimistic_comment <-- Return,_release_person(s)
+22	0.03935599284436494	0.3283582089552239	0.46808510638297873	Make_pessimistic_comment <-- Impose_embargo,_boycott,_or_sanctions
+19	0.03398926654740608	0.25	0.5277777777777778	Make_pessimistic_comment <-- Rally_opposition_against
+46	0.08228980322003578	0.24731182795698925	0.6764705882352942	Make_pessimistic_comment <-- Provide_humanitarian_aid
+231	0.41323792486583183	0.0718954248366013	0.21231617647058823	Make_pessimistic_comment <-- Make_an_appeal_or_request
+59	0.10554561717352415	0.33146067415730335	0.8939393939393939	Make_pessimistic_comment <-- Reduce_relations
+31	0.055456171735241505	0.34444444444444444	0.8611111111111112	Make_pessimistic_comment <-- Yield
+156	0.27906976744186046	0.05933815138836059	0.16792249730893433	Make_pessimistic_comment <-- Praise_or_endorse
+2	0.0035778175313059034	0.031746031746031744	0.16666666666666666	Make_pessimistic_comment <-- Kill_by_physical_assault
+19	0.03398926654740608	0.7916666666666666	1.2666666666666666	Make_pessimistic_comment <-- Demonstrate_military_or_police_power
+222	0.39713774597495527	0.1168421052631579	0.2991913746630728	Make_pessimistic_comment <-- Criticize_or_denounce
+91	0.16279069767441862	0.042702956358517126	0.15191986644407346	Make_pessimistic_comment <-- Make_a_visit
+12	0.02146690518783542	0.0273972602739726	0.06818181818181818	Make_pessimistic_comment <-- Discuss_by_telephone
+42	0.07513416815742398	0.32061068702290074	0.711864406779661	Make_pessimistic_comment <-- Bring_lawsuit_against
+3	0.005366726296958855	0.23076923076923078	0.375	Make_pessimistic_comment <-- Express_intent_to_cooperate_militarily
+67	0.11985688729874776	0.08333333333333333	0.3621621621621622	Make_pessimistic_comment <-- Use_conventional_military_force
+121	0.21645796064400716	0.18847352024922118	0.5170940170940171	Make_pessimistic_comment <-- Reject
+165	0.295169946332737	0.1793478260869565	0.49698795180722893	Make_pessimistic_comment <-- Demand
+32	0.057245080500894455	0.2711864406779661	1.1851851851851851	Make_pessimistic_comment <-- Occupy_territory
+36	0.06440071556350627	0.48	0.9473684210526315	Make_pessimistic_comment <-- Express_intent_to_cooperate_economically
+14	0.025044722719141325	0.04946996466431095	0.2916666666666667	Make_pessimistic_comment <-- Abduct,_hijack,_or_take_hostage
+144	0.25760286225402507	0.09910529938059189	0.2807017543859649	Make_pessimistic_comment <-- Accuse
+7	0.012522361359570662	0.2692307692307692	1.4	Make_pessimistic_comment <-- Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Make_pessimistic_comment <-- Attempt_to_assassinate
+7	0.012522361359570662	0.125	0.23333333333333334	Make_pessimistic_comment <-- Employ_aerial_weapons
+189	0.33810375670840787	0.07036485480268057	0.20106382978723406	Make_pessimistic_comment <-- Express_intent_to_meet_or_negotiate
+148	0.26475849731663686	0.017633742404384607	0.05106970324361629	Make_pessimistic_comment <-- Accuse, Make_statement
+82	0.14669051878354203	0.0706896551724138	0.18510158013544017	Make_pessimistic_comment <-- Engage_in_negotiation
+199	0.3559928443649374	0.02453155818540434	0.1128757799205899	Make_pessimistic_comment <-- Make_statement
+38	0.06797853309481217	0.03807615230460922	0.2261904761904762	Make_pessimistic_comment <-- Use_unconventional_violence
+16	0.028622540250447227	0.2857142857142857	0.8421052631578947	Make_pessimistic_comment <-- Appeal_for_change_in_leadership
+59	0.10554561717352415	0.027686532144533083	0.05824284304047384	Make_pessimistic_comment <-- Host_a_visit

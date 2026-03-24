@@ -1,0 +1,18 @@
+Threaten_with_political_dissent,_protest <-- Engage_in_political_dissent
+Threaten_with_political_dissent,_protest <-- Impose_embargo,_boycott,_or_sanctions, Conduct_strike_or_boycott
+Threaten_with_political_dissent,_protest <-- Torture, Engage_in_political_dissent
+Threaten_with_political_dissent,_protest <-- Use_conventional_military_force, Engage_in_political_dissent
+Threaten_with_political_dissent,_protest <-- Reject_plan,_agreement_to_settle_dispute, Engage_in_political_dissent
+Threaten_with_political_dissent,_protest <-- Bring_lawsuit_against, Complain_officially
+Threaten_with_political_dissent,_protest <-- Impose_restrictions_on_political_freedoms, Engage_in_political_dissent
+Threaten_with_political_dissent,_protest <-- Reduce_or_break_diplomatic_relations, Complain_officially
+Threaten_with_political_dissent,_protest <-- Demonstrate_or_rally
+Threaten_with_political_dissent,_protest <-- Reduce_or_stop_economic_assistance, Conduct_strike_or_boycott
+Threaten_with_political_dissent,_protest <-- Kill_by_physical_assault, Rally_opposition_against
+Threaten_with_political_dissent,_protest <-- Halt_mediation, Appeal_to_others_to_meet_or_negotiate
+Threaten_with_political_dissent,_protest <-- Arrest,_detain,_or_charge_with_legal_action, Engage_in_political_dissent
+Threaten_with_political_dissent,_protest <-- Reject_request_for_change_in_leadership, Demand_change_in_leadership
+Threaten_with_political_dissent,_protest <-- Protest_violently,_riot
+Threaten_with_political_dissent,_protest <-- Refuse_to_yield, Demand_that_target_yields
+Threaten_with_political_dissent,_protest <-- Accuse_of_human_rights_abuses, Engage_in_political_dissent
+Threaten_with_political_dissent,_protest <-- Attempt_to_assassinate, Rally_support_on_behalf_of

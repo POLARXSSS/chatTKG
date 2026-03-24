@@ -1,0 +1,50 @@
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Mediate
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Physically_assault
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Appeal_for_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Threaten_with_military_force
+3	0.23076923076923078	0.002586206896551724	0.0410958904109589	Demand_de-escalation_of_military_engagement <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Receive_deployment_of_peacekeepers
+1	0.07692307692307693	0.0012437810945273632	0.1111111111111111	Demand_de-escalation_of_military_engagement <-- Use_conventional_military_force
+7	0.5384615384615384	0.0026061057334326137	0.05263157894736842	Demand_de-escalation_of_military_engagement <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Yield
+2	0.15384615384615385	0.017241379310344827	0.25	Demand_de-escalation_of_military_engagement <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Demobilize_armed_forces
+2	0.15384615384615385	0.07407407407407407	0.6666666666666666	Demand_de-escalation_of_military_engagement <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Appeal_to_engage_in_or_accept_mediation
+13	1.0	1.1818181818181819	1.1818181818181819	Demand_de-escalation_of_military_engagement <-- Demand_de-escalation_of_military_engagement
+2	0.15384615384615385	0.02702702702702703	0.6666666666666666	Demand_de-escalation_of_military_engagement <-- Express_accord
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Appeal_for_military_protection_or_peacekeeping
+3	0.23076923076923078	0.002586206896551724	0.0410958904109589	Demand_de-escalation_of_military_engagement <-- Engage_in_negotiation
+6	0.46153846153846156	0.0018674136321195146	0.06382978723404255	Demand_de-escalation_of_military_engagement <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Kill_by_physical_assault
+1	0.07692307692307693	0.001358695652173913	0.0625	Demand_de-escalation_of_military_engagement <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Impose_embargo,_boycott,_or_sanctions
+2	0.15384615384615385	0.006734006734006734	0.25	Demand_de-escalation_of_military_engagement <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Appeal_for_humanitarian_aid, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Threaten_with_military_force
+1	0.07692307692307693	0.001002004008016032	0.5	Demand_de-escalation_of_military_engagement <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Increase_military_alert_status, Mobilize_or_increase_armed_forces
+2	0.15384615384615385	0.07407407407407407	0.6666666666666666	Demand_de-escalation_of_military_engagement <-- Declare_truce,_ceasefire
+2	0.15384615384615385	0.02702702702702703	0.6666666666666666	Demand_de-escalation_of_military_engagement <-- Express_accord
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Abduct,_hijack,_or_take_hostage
+3	0.23076923076923078	0.0015789473684210526	0.06	Demand_de-escalation_of_military_engagement <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Express_intent_to_cooperate, fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Accuse_of_war_crimes
+2	0.15384615384615385	0.0392156862745098	2.0	Demand_de-escalation_of_military_engagement <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Appeal_to_engage_in_or_accept_mediation
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Mediate
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Appeal_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Express_intent_to_de-escalate_military_engagement
+1	0.07692307692307693	0.0012437810945273632	0.1111111111111111	Demand_de-escalation_of_military_engagement <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Yield
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Reduce_relations
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Complain_officially
+0.0	0.0	0.0	0.0	Demand_de-escalation_of_military_engagement <-- Carry_out_car_bombing

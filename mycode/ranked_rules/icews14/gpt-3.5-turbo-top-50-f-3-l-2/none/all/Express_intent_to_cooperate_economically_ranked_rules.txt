@@ -1,0 +1,27 @@
+85	0.7657657657657657	0.0011337263584709366	0.010528923572401833	Express_intent_to_cooperate_economically <-- Consult, Consult
+62	0.5585585585585585	0.009833465503568596	0.07654320987654321	Express_intent_to_cooperate_economically <-- Consult
+46	0.4144144144144144	0.021586109807602064	0.16606498194945848	Express_intent_to_cooperate_economically <-- Make_a_visit
+53	0.4774774774774775	0.07201086956521739	0.25118483412322273	Express_intent_to_cooperate_economically <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_economically <-- Express_intent_to_engage_in_material_cooperation
+59	0.5315315315315315	0.003187982925379586	0.02213053263315829	Express_intent_to_cooperate_economically <-- Praise_or_endorse, Praise_or_endorse
+49	0.44144144144144143	0.04224137931034483	0.1801470588235294	Express_intent_to_cooperate_economically <-- Engage_in_negotiation
+12	0.10810810810810811	0.02003338898163606	0.07547169811320754	Express_intent_to_cooperate_economically <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Criticize_or_denounce
+68	0.6126126126126126	0.0008495539841583169	0.009303598303461487	Express_intent_to_cooperate_economically <-- Make_a_visit, Host_a_visit
+51	0.4594594594594595	0.0770392749244713	0.20816326530612245	Express_intent_to_cooperate_economically <-- Engage_in_diplomatic_cooperation
+52	0.46846846846846846	0.06878306878306878	0.2810810810810811	Express_intent_to_cooperate_economically <-- Express_intent_to_cooperate
+1	0.009009009009009009	0.014285714285714285	0.03225806451612903	Express_intent_to_cooperate_economically <-- Express_intent_to_provide_economic_aid
+111	1.0	1.48	1.48	Express_intent_to_cooperate_economically <-- Express_intent_to_cooperate_economically
+73	0.6576576576576577	0.027177959791511542	0.14285714285714285	Express_intent_to_cooperate_economically <-- Express_intent_to_meet_or_negotiate
+23	0.2072072072072072	0.07419354838709677	0.26436781609195403	Express_intent_to_cooperate_economically <-- Meet_at_a_'third'_location
+13	0.11711711711711711	0.16666666666666666	0.41935483870967744	Express_intent_to_cooperate_economically <-- Provide_economic_aid
+77	0.6936936936936937	0.0034980919498455386	0.024624240486088904	Express_intent_to_cooperate_economically <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+48	0.43243243243243246	0.018257892734880182	0.11009174311926606	Express_intent_to_cooperate_economically <-- Praise_or_endorse
+28	0.25225225225225223	0.2828282828282828	0.6666666666666666	Express_intent_to_cooperate_economically <-- Cooperate_economically
+58	0.5225225225225225	0.0071499013806706115	0.10320284697508897	Express_intent_to_cooperate_economically <-- Make_statement
+70	0.6306306306306306	0.0015671173994806125	0.019875070982396367	Express_intent_to_cooperate_economically <-- Make_statement, Praise_or_endorse
+41	0.36936936936936937	0.07550644567219153	0.3445378151260504	Express_intent_to_cooperate_economically <-- Make_optimistic_comment
+37	0.3333333333333333	0.017362740497419052	0.04277456647398844	Express_intent_to_cooperate_economically <-- Host_a_visit
+5	0.04504504504504504	0.625	0.625	Express_intent_to_cooperate_economically <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo, Demand
+9	0.08108108108108109	0.02054794520547945	0.13636363636363635	Express_intent_to_cooperate_economically <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Express_intent_to_cooperate_economically <-- Appeal_for_economic_cooperation
+72	0.6486486486486487	0.0011993803201679133	0.016589861751152075	Express_intent_to_cooperate_economically <-- Make_statement, Make_statement

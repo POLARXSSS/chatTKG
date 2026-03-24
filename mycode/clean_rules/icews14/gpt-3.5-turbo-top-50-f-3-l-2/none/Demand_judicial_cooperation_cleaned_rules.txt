@@ -1,0 +1,15 @@
+Demand_judicial_cooperation <-- Bring_lawsuit_against
+Demand_judicial_cooperation <-- Demand
+Demand_judicial_cooperation <-- Investigate_war_crimes
+Demand_judicial_cooperation <-- Investigate_crime,_corruption
+Demand_judicial_cooperation <-- Accuse_of_human_rights_abuses
+Demand_judicial_cooperation <-- Coerce
+Demand_judicial_cooperation <-- Express_intent_to_cooperate_on_judicial_matters
+Demand_judicial_cooperation <-- Accuse_of_war_crimes
+Demand_judicial_cooperation <-- Investigate_human_rights_abuses
+Demand_judicial_cooperation <-- Arrest,_detain,_or_charge_with_legal_action
+Demand_judicial_cooperation <-- Use_unconventional_violence
+Demand_judicial_cooperation <-- Accuse_of_crime,_corruption
+Demand_judicial_cooperation <-- Give_ultimatum
+Demand_judicial_cooperation <-- Use_conventional_military_force
+Demand_judicial_cooperation <-- Make_an_appeal_or_request

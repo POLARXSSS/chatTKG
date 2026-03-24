@@ -1,0 +1,41 @@
+53	0.4649122807017544	0.006533530571992111	0.13486005089058525	Express_intent_to_provide_military_aid <-- Make_statement
+0.0	0.0	0.0	0.0	Express_intent_to_provide_military_aid <-- Mobilize_or_increase_armed_forces, Make_a_visit
+31	0.2719298245614035	0.03855721393034826	0.3924050632911392	Express_intent_to_provide_military_aid <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Express_intent_to_provide_military_aid <-- Demand_military_aid
+21	0.18421052631578946	0.02539298669891173	0.18421052631578946	Express_intent_to_provide_military_aid <-- Threaten, Use_conventional_military_force
+42	0.3684210526315789	0.09929078014184398	0.6666666666666666	Express_intent_to_provide_military_aid <-- Threaten
+0.0	0.0	0.0	0.0	Express_intent_to_provide_military_aid <-- Engage_in_diplomatic_cooperation, Use_unconventional_violence
+14	0.12280701754385964	0.2028985507246377	1.1666666666666667	Express_intent_to_provide_military_aid <-- Use_conventional_military_force, Mobilize_or_increase_armed_forces
+114	1.0	2.1923076923076925	2.1923076923076925	Express_intent_to_provide_military_aid <-- Express_intent_to_provide_military_aid
+34	0.2982456140350877	0.005392545598731166	0.07024793388429752	Express_intent_to_provide_military_aid <-- Consult
+14	0.12280701754385964	0.038461538461538464	0.09090909090909091	Express_intent_to_provide_military_aid <-- Provide_military_aid, Use_conventional_military_force
+34	0.2982456140350877	0.0513595166163142	0.18085106382978725	Express_intent_to_provide_military_aid <-- Engage_in_diplomatic_cooperation
+19	0.16666666666666666	0.084070796460177	0.084070796460177	Express_intent_to_provide_military_aid <-- Express_intent_to_provide_military_aid, Engage_in_diplomatic_cooperation
+30	0.2631578947368421	0.35714285714285715	1.5789473684210527	Express_intent_to_provide_military_aid <-- Mobilize_or_increase_armed_forces
+43	0.37719298245614036	0.008565737051792829	0.14625850340136054	Express_intent_to_provide_military_aid <-- Make_statement, Threaten
+1	0.008771929824561403	0.002967359050445104	0.018518518518518517	Express_intent_to_provide_military_aid <-- Appeal_for_military_aid, Make_statement
+57	0.5	0.8382352941176471	1.7272727272727273	Express_intent_to_provide_military_aid <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Express_intent_to_provide_military_aid <-- Demand_military_aid, Threaten
+0.0	0.0	0.0	0.0	Express_intent_to_provide_military_aid <-- Appeal_for_military_aid
+60	0.5263157894736842	0.004181476061049551	0.05813953488372093	Express_intent_to_provide_military_aid <-- Consult, Criticize_or_denounce
+6	0.05263157894736842	1.5	6.0	Express_intent_to_provide_military_aid <-- Demobilize_armed_forces
+4	0.03508771929824561	0.08163265306122448	1.0	Express_intent_to_provide_military_aid <-- Conduct_suicide,_car,_or_other_non-military_bombing
+24	0.21052631578947367	1.0	3.4285714285714284	Express_intent_to_provide_military_aid <-- Demonstrate_military_or_police_power
+29	0.2543859649122807	0.03940217391304348	0.20863309352517986	Express_intent_to_provide_military_aid <-- Sign_formal_agreement
+114	1.0	2.1923076923076925	2.1923076923076925	Express_intent_to_provide_military_aid <-- Express_intent_to_provide_military_aid
+24	0.21052631578947367	0.6857142857142857	3.4285714285714284	Express_intent_to_provide_military_aid <-- Retreat_or_surrender_militarily
+57	0.5	0.8382352941176471	1.7272727272727273	Express_intent_to_provide_military_aid <-- Provide_military_aid
+50	0.43859649122807015	0.01901863826550019	0.14705882352941177	Express_intent_to_provide_military_aid <-- Praise_or_endorse
+34	0.2982456140350877	0.0513595166163142	0.18085106382978725	Express_intent_to_provide_military_aid <-- Engage_in_diplomatic_cooperation
+14	0.12280701754385964	0.7777777777777778	7.0	Express_intent_to_provide_military_aid <-- Appeal_for_change_in_institutions,_regime
+28	0.24561403508771928	1.4736842105263157	4.0	Express_intent_to_provide_military_aid <-- Provide_military_protection_or_peacekeeping
+14	0.12280701754385964	0.7777777777777778	4.666666666666667	Express_intent_to_provide_military_aid <-- Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Express_intent_to_provide_military_aid <-- Receive_deployment_of_peacekeepers
+18	0.15789473684210525	0.15254237288135594	1.3846153846153846	Express_intent_to_provide_military_aid <-- Occupy_territory
+1	0.008771929824561403	0.007633587786259542	0.043478260869565216	Express_intent_to_provide_military_aid <-- Bring_lawsuit_against
+30	0.2631578947368421	0.35714285714285715	1.5789473684210527	Express_intent_to_provide_military_aid <-- Mobilize_or_increase_armed_forces
+8	0.07017543859649122	0.16666666666666666	0.7272727272727273	Express_intent_to_provide_military_aid <-- Impose_restrictions_on_political_freedoms
+20	0.17543859649122806	0.21505376344086022	1.0526315789473684	Express_intent_to_provide_military_aid <-- Consider_policy_option
+31	0.2719298245614035	0.03855721393034826	0.3924050632911392	Express_intent_to_provide_military_aid <-- Use_conventional_military_force
+42	0.3684210526315789	0.09929078014184398	0.6666666666666666	Express_intent_to_provide_military_aid <-- Threaten
+48	0.42105263157894735	0.676056338028169	1.6	Express_intent_to_provide_military_aid <-- Express_intent_to_provide_material_aid

@@ -1,0 +1,30 @@
+Ease_administrative_sanctions <-- Return,_release_person(s)
+Ease_administrative_sanctions <-- Ease_curfew
+Ease_administrative_sanctions <-- Cooperate_militarily
+Ease_administrative_sanctions <-- Grant_diplomatic_recognition
+Ease_administrative_sanctions <-- Express_intent_to_ease_administrative_sanctions
+Ease_administrative_sanctions <-- Use_conventional_military_force, Declare_truce,_ceasefire
+Ease_administrative_sanctions <-- Apologize
+Ease_administrative_sanctions <-- Sign_formal_agreement
+Ease_administrative_sanctions <-- Provide_humanitarian_aid
+Ease_administrative_sanctions <-- Ease_military_blockade
+Ease_administrative_sanctions <-- Cooperate_economically
+Ease_administrative_sanctions <-- Reduce_relations, Express_intent_to_engage_in_material_cooperation
+Ease_administrative_sanctions <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Ease_administrative_sanctions <-- Express_accord
+Ease_administrative_sanctions <-- Yield
+Ease_administrative_sanctions <-- Receive_inspectors
+Ease_administrative_sanctions <-- Criticize_or_denounce, Apologize
+Ease_administrative_sanctions <-- Demand_release_of_persons_or_property, Return,_release_person(s)
+Ease_administrative_sanctions <-- Provide_military_aid
+Ease_administrative_sanctions <-- Ease_political_dissent
+Ease_administrative_sanctions <-- Engage_in_negotiation
+Ease_administrative_sanctions <-- Reject, Express_intent_to_accept_mediation
+Ease_administrative_sanctions <-- Make_an_appeal_or_request, Acknowledge_or_claim_responsibility
+Ease_administrative_sanctions <-- Share_intelligence_or_information
+Ease_administrative_sanctions <-- Impose_restrictions_on_political_freedoms, Ease_state_of_emergency_or_martial_law
+Ease_administrative_sanctions <-- Declare_truce,_ceasefire
+Ease_administrative_sanctions <-- Make_an_appeal_or_request, Provide_humanitarian_aid
+Ease_administrative_sanctions <-- Threaten, Express_intent_to_meet_or_negotiate
+Ease_administrative_sanctions <-- Ease_economic_sanctions,_boycott,_embargo
+Ease_administrative_sanctions <-- Provide_aid

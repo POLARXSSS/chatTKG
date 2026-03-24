@@ -1,0 +1,35 @@
+149	0.0743142144638404	1.5851063829787233	2.403225806451613	Use_conventional_military_force <-- Confiscate_property
+5	0.0024937655860349127	0.625	1.0	Use_conventional_military_force <-- Seize_or_damage_property
+37	0.018453865336658354	0.19170984455958548	0.4157303370786517	Use_conventional_military_force <-- Threaten_with_military_force, Use_conventional_military_force
+321	0.1600997506234414	1.1342756183745584	4.791044776119403	Use_conventional_military_force <-- Abduct,_hijack,_or_take_hostage
+790	0.3940149625935162	1.8899521531100478	4.647058823529412	Use_conventional_military_force <-- fight_with_small_arms_and_light_weapons
+131	0.06533665835411472	0.3156626506024096	0.5646551724137931	Use_conventional_military_force <-- Arrest,_detain,_or_charge_with_legal_action, Arrest,_detain,_or_charge_with_legal_action
+225	0.11221945137157108	0.22545090180360722	8.653846153846153	Use_conventional_military_force <-- Use_unconventional_violence
+99	0.04937655860349127	5.2105263157894735	8.25	Use_conventional_military_force <-- fight_with_artillery_and_tanks
+567	0.2827930174563591	0.026593499366821444	0.20738844184345281	Use_conventional_military_force <-- Make_statement, Criticize_or_denounce
+168	0.08379052369077307	2.3013698630136985	3.5	Use_conventional_military_force <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Use_conventional_military_force <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+3	0.0014962593516209476	0.02586206896551724	0.42857142857142855	Use_conventional_military_force <-- Protest_violently,_riot
+178	0.08877805486284289	3.63265306122449	44.5	Use_conventional_military_force <-- Conduct_suicide,_car,_or_other_non-military_bombing
+61	0.030423940149625937	2.5416666666666665	4.066666666666666	Use_conventional_military_force <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Use_conventional_military_force <-- Sign_formal_agreement, Violate_ceasefire
+88	0.04389027431421447	0.4943820224719101	2.0952380952380953	Use_conventional_military_force <-- Reduce_relations
+0.0	0.0	0.0	0.0	Use_conventional_military_force <-- Appeal_for_intelligence, Share_intelligence_or_information
+174	0.08678304239401496	0.21039903264812576	0.9666666666666667	Use_conventional_military_force <-- Threaten, Use_conventional_military_force
+142	0.07082294264339152	0.061498484192291036	0.3279445727482679	Use_conventional_military_force <-- Demand, Reject
+27	0.013466334164588529	0.42857142857142855	3.375	Use_conventional_military_force <-- Kill_by_physical_assault
+13	0.006483790523690773	0.0896551724137931	0.16666666666666666	Use_conventional_military_force <-- Arrest,_detain,_or_charge_with_legal_action, Sign_formal_agreement
+4	0.00199501246882793	0.2857142857142857	0.3076923076923077	Use_conventional_military_force <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+177	0.0882793017456359	0.5514018691588785	22.125	Use_conventional_military_force <-- Use_unconventional_violence, Provide_humanitarian_aid
+238	0.11870324189526185	0.017729439809296782	0.10110450297366186	Use_conventional_military_force <-- Express_intent_to_meet_or_negotiate, Criticize_or_denounce
+2	0.000997506234413965	0.006734006734006734	0.15384615384615385	Use_conventional_military_force <-- Demonstrate_or_rally
+165	0.08229426433915212	1.1870503597122302	3.0555555555555554	Use_conventional_military_force <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Use_conventional_military_force <-- Provide_humanitarian_aid, Reduce_or_stop_humanitarian_assistance
+194	0.09675810473815462	1.3857142857142857	5.878787878787879	Use_conventional_military_force <-- Physically_assault
+186	0.09276807980049875	2.5135135135135136	7.153846153846154	Use_conventional_military_force <-- Threaten_with_military_force
+213	0.10623441396508729	0.13287585776668745	0.3723776223776224	Use_conventional_military_force <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+40	0.0199501246882793	0.01266624445851805	0.03929273084479371	Use_conventional_military_force <-- Express_intent_to_cooperate, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Use_conventional_military_force <-- Carry_out_suicide_bombing
+181	0.09027431421446384	4.022222222222222	18.1	Use_conventional_military_force <-- Assassinate
+308	0.15361596009975062	2.610169491525424	6.553191489361702	Use_conventional_military_force <-- Occupy_territory
+734	0.36608478802992517	0.5620214395099541	1.065312046444122	Use_conventional_military_force <-- Arrest,_detain,_or_charge_with_legal_action

@@ -1,0 +1,30 @@
+Make_statement <-- Express_intent_to_cooperate_economically, Provide_economic_aid
+Make_statement <-- Threaten, Use_conventional_military_force
+Make_statement <-- Express_intent_to_cooperate, Cooperate_economically
+Make_statement <-- Make_a_visit
+Make_statement <-- Make_optimistic_comment
+Make_statement <-- Engage_in_negotiation, Mediate
+Make_statement <-- Demand
+Make_statement <-- Confiscate_property, Return,_release_property
+Make_statement <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+Make_statement <-- Protest_violently,_riot, Obstruct_passage,_block
+Make_statement <-- Discuss_by_telephone
+Make_statement <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+Make_statement <-- Protest_violently,_riot
+Make_statement <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+Make_statement <-- Grant_diplomatic_recognition, Reduce_relations
+Make_statement <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+Make_statement <-- Demand, Reject
+Make_statement <-- Host_a_visit, Make_a_visit
+Make_statement <-- Make_empathetic_comment, Apologize
+Make_statement <-- Praise_or_endorse, Make_statement
+Make_statement <-- Make_statement, Make_statement
+Make_statement <-- Demonstrate_or_rally, Conduct_strike_or_boycott
+Make_statement <-- Accuse, Demand
+Make_statement <-- Discuss_by_telephone, Consult
+Make_statement <-- Host_a_visit
+Make_statement <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+Make_statement <-- Threaten
+Make_statement <-- Express_intent_to_meet_or_negotiate
+Make_statement <-- Praise_or_endorse
+Make_statement <-- Accuse

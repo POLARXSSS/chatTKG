@@ -1,0 +1,50 @@
+Accuse(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+Accuse(X0,X1,T1) <- Sexually_assault(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Sexually_assault(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Physically_assault(X0,X1,T0).
+Accuse(X0,X1,T1) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Abduct,_hijack,_or_take_hostage(X0,X1,T0).
+Accuse(X0,X1,T1) <- Complain_officially(X0,X1,T0).
+Accuse(X0,X1,T1) <- Criticize_or_denounce(X0,X1,T0).
+Accuse(X0,X1,T1) <- Make_statement(X0,X1,T0).
+Accuse(X0,X1,T1) <- Demand(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Use_conventional_military_force(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Demand(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Reject(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Make_an_appeal_or_request(X0,X1,T0).
+Accuse(X0,X1,T1) <- Demonstrate_or_rally(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Demonstrate_or_rally(X0,X1,T0).
+Accuse(X0,X1,T1) <- Ease_administrative_sanctions(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Ease_administrative_sanctions(X0,X1,T0).
+Accuse(X0,X1,T1) <- Return,_release_person(s)(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Return,_release_person(s)(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Express_intent_to_cooperate(X0,X1,T0).
+Accuse(X0,X1,T1) <- Express_intent_to_accept_mediation(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Bring_lawsuit_against(X0,X1,T0).
+Accuse(X0,X1,T1) <- Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0).
+Accuse(X0,X1,T1) <- Accuse(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Express_intent_to_meet_or_negotiate(X0,X1,T0).
+Accuse(X0,X1,T1) <- Investigate(X0,X1,T0).
+Accuse(X0,X1,T1) <- Use_tactics_of_violent_repression(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Make_statement(X0,X1,T0).
+Accuse(X0,X1,T1) <- _Investigate(X0,X1,T0).
+Accuse(X0,X1,T2) <- Make_statement(X0,X1,T0), _Criticize_or_denounce(X1,X0,T1).
+Accuse(X0,X1,T2) <- Make_an_appeal_or_request(X0,X1,T0), Demand(X1,X0,T1).
+Accuse(X0,X1,T3) <- Accuse(X0,X1,T0), Use_conventional_military_force(X1,X2,T1), _Deny_responsibility(X2,X1,T2).
+Accuse(X0,X1,T3) <- _Threaten(X0,X1,T0), _Complain_officially(X1,X2,T1), Sexually_assault(X2,X1,T2).
+Accuse(X0,X1,T3) <- _Accuse(X0,X1,T0), _Arrest,_detain,_or_charge_with_legal_action(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Accuse(X0,X1,T3) <- _Deny_responsibility(X0,X1,T0), _Deny_responsibility(X1,X2,T1), Make_an_appeal_or_request(X2,X1,T2).
+Accuse(X0,X1,T3) <- _Make_pessimistic_comment(X0,X1,T0), _Criticize_or_denounce(X1,X2,T1), _Praise_or_endorse(X2,X1,T2).
+Accuse(X0,X1,T3) <- _Express_intent_to_meet_or_negotiate(X0,X1,T0), _fight_with_small_arms_and_light_weapons(X1,X2,T1), Use_conventional_military_force(X2,X1,T2).
+Accuse(X0,X1,T3) <- _Accuse(X0,X1,T0), Criticize_or_denounce(X1,X0,T1), _Demonstrate_or_rally(X0,X1,T2).
+Accuse(X0,X1,T3) <- _Express_accord(X0,X1,T0), _Employ_aerial_weapons(X1,X0,T1), Accuse(X0,X1,T2).
+Accuse(X0,X2,T3) <- Make_statement(X0,X1,T0), _Investigate(X1,X0,T1), Accuse(X0,X2,T2).
+Accuse(X0,X2,T3) <- _Accuse(X0,X1,T0), Accuse(X1,X0,T1), Praise_or_endorse(X0,X2,T2).
+Accuse(X0,X2,T3) <- _Praise_or_endorse(X0,X1,T0), Make_an_appeal_or_request(X1,X0,T1), _Threaten(X0,X2,T2).
+Accuse(X0,X2,T3) <- _Appeal_for_release_of_persons_or_property(X0,X1,T0), Criticize_or_denounce(X1,X0,T1), Demand(X0,X2,T2).
+Accuse(X0,X2,T3) <- Criticize_or_denounce(X0,X1,T0), Make_statement(X1,X0,T1), Accuse(X0,X2,T2).
+Accuse(X0,X2,T3) <- _Make_statement(X0,X1,T0), Make_empathetic_comment(X1,X2,T1).
+Accuse(X0,X2,T3) <- _Make_statement(X0,X1,T0), Demand(X1,X2,T1).
+Accuse(X0,X2,T3) <- Make_an_appeal_or_request(X0,X1,T0), Use_conventional_military_force(X1,X2,T1).
+Accuse(X0,X2,T3) <- Make_statement(X0,X1,T0), Use_conventional_military_force(X1,X2,T1).
+Accuse(X0,X2,T3) <- _Make_an_appeal_or_request(X0,X1,T0), Make_an_appeal_or_request(X1,X2,T1).

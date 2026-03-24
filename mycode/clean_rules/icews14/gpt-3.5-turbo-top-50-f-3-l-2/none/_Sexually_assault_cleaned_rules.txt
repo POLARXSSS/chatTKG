@@ -1,0 +1,15 @@
+Sexually_assault <-- Demand_material_cooperation
+Sexually_assault <-- Use_unconventional_violence
+Sexually_assault <-- Sexually_assault
+Sexually_assault <-- Ease_administrative_sanctions
+Sexually_assault <-- Physically_assault
+Sexually_assault <-- Provide_humanitarian_aid
+Sexually_assault <-- Accuse, Make_statement
+Sexually_assault <-- Consult, Criticize_or_denounce
+Sexually_assault <-- Return,_release_person(s), Refuse_to_yield
+Sexually_assault <-- Complain_officially
+Sexually_assault <-- Investigate
+Sexually_assault <-- Make_an_appeal_or_request, Make_statement
+Sexually_assault <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+Sexually_assault <-- Arrest,_detain,_or_charge_with_legal_action, Reject
+Sexually_assault <-- Return,_release_person(s)

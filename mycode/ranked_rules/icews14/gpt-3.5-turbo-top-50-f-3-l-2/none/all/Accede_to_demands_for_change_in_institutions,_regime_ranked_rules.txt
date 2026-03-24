@@ -1,0 +1,16 @@
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Provide_military_aid
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Threaten
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Appeal_for_material_cooperation
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Occupy_territory
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime, Engage_in_negotiation
+1	0.25	0.03125	0.5	Accede_to_demands_for_change_in_institutions,_regime <-- Appeal_to_others_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Host_a_visit
+3	0.75	0.0014077897700610043	0.03409090909090909	Accede_to_demands_for_change_in_institutions,_regime <-- Make_a_visit
+2	0.5	0.2857142857142857	1.0	Accede_to_demands_for_change_in_institutions,_regime <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Express_intent_to_change_institutions,_regime
+2	0.5	0.029411764705882353	1.0	Accede_to_demands_for_change_in_institutions,_regime <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Yield
+4	1.0	0.0001168907071887785	0.0078125	Accede_to_demands_for_change_in_institutions,_regime <-- Make_statement, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Mobilize_or_increase_police_power, Make_statement
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_institutions,_regime <-- Mobilize_or_increase_police_power

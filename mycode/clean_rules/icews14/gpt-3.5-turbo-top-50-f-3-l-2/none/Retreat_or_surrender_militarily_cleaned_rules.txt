@@ -1,0 +1,154 @@
+Retreat_or_surrender_militarily <-- Demand_economic_aid
+Retreat_or_surrender_militarily <-- Veto, Complain_officially
+Retreat_or_surrender_militarily <-- Use_chemical,_biological,_or_radiological_weapons, Detonate_nuclear_weapons
+Retreat_or_surrender_militarily <-- Host_a_visit, Make_a_visit
+Retreat_or_surrender_militarily <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Retreat_or_surrender_militarily <-- Halt_mediation, Reject_proposal_to_meet,_discuss,_or_negotiate
+Retreat_or_surrender_militarily <-- Use_chemical,_biological,_or_radiological_weapons
+Retreat_or_surrender_militarily <-- Increase_police_alert_status
+Retreat_or_surrender_militarily <-- Use_tactics_of_violent_repression, Increase_military_alert_status
+Retreat_or_surrender_militarily <-- Give_ultimatum, Coerce
+Retreat_or_surrender_militarily <-- Engage_in_violent_protest_for_rights
+Retreat_or_surrender_militarily <-- Assassinate
+Retreat_or_surrender_militarily <-- Employ_aerial_weapons, fight_with_artillery_and_tanks
+Retreat_or_surrender_militarily <-- Engage_in_mass_expulsion, Engage_in_mass_killings
+Retreat_or_surrender_militarily <-- Threaten_to_halt_mediation
+Retreat_or_surrender_militarily <-- Engage_in_mass_expulsion
+Retreat_or_surrender_militarily <-- Demand_political_reform, Demand_release_of_persons_or_property
+Retreat_or_surrender_militarily <-- Destroy_property, Expel_or_deport_individuals
+Retreat_or_surrender_militarily <-- Employ_aerial_weapons
+Retreat_or_surrender_militarily <-- fight_with_small_arms_and_light_weapons
+Retreat_or_surrender_militarily <-- Use_tactics_of_violent_repression
+Retreat_or_surrender_militarily <-- Demand_easing_of_administrative_sanctions
+Retreat_or_surrender_militarily <-- Accuse, Make_statement
+Retreat_or_surrender_militarily <-- Confiscate_property
+Retreat_or_surrender_militarily <-- Discuss_by_telephone, Ease_administrative_sanctions
+Retreat_or_surrender_militarily <-- Ease_curfew
+Retreat_or_surrender_militarily <-- Threaten_with_military_force
+Retreat_or_surrender_militarily <-- Demand_economic_aid, Demand_humanitarian_aid
+Retreat_or_surrender_militarily <-- Increase_military_alert_status
+Retreat_or_surrender_militarily <-- Demand_material_cooperation
+Retreat_or_surrender_militarily <-- Make_statement, Consult
+Retreat_or_surrender_militarily <-- Carry_out_suicide_bombing, Conduct_suicide,_car,_or_other_non-military_bombing
+Retreat_or_surrender_militarily <-- Demonstrate_military_or_police_power
+Retreat_or_surrender_militarily <-- Increase_police_alert_status, Mobilize_or_increase_armed_forces
+Retreat_or_surrender_militarily <-- Demand_intelligence_cooperation, Demand_judicial_cooperation
+Retreat_or_surrender_militarily <-- Provide_military_aid, Use_conventional_military_force
+Retreat_or_surrender_militarily <-- Physically_assault, Torture
+Retreat_or_surrender_militarily <-- Defy_norms,_law
+Retreat_or_surrender_militarily <-- Appeal_to_yield
+Retreat_or_surrender_militarily <-- fight_with_artillery_and_tanks
+Retreat_or_surrender_militarily <-- Ban_political_parties_or_politicians
+Retreat_or_surrender_militarily <-- Demand_material_aid
+Retreat_or_surrender_militarily <-- Violate_ceasefire, Refuse_to_de-escalate_military_engagement
+Retreat_or_surrender_militarily <-- Demand_judicial_cooperation
+Retreat_or_surrender_militarily <-- Protest_violently,_riot
+Retreat_or_surrender_militarily <-- Veto
+Retreat_or_surrender_militarily <-- Ease_state_of_emergency_or_martial_law
+Retreat_or_surrender_militarily <-- Use_conventional_military_force
+Retreat_or_surrender_militarily <-- Use_as_human_shield
+Retreat_or_surrender_militarily <-- Demand_rights, Demand_settling_of_dispute
+Retreat_or_surrender_militarily <-- Demand_change_in_leadership, Demand_de-escalation_of_military_engagement
+Retreat_or_surrender_militarily <-- Ease_military_blockade
+Retreat_or_surrender_militarily <-- Carry_out_suicide_bombing
+Retreat_or_surrender_militarily <-- Make_statement
+Retreat_or_surrender_militarily <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Retreat_or_surrender_militarily <-- Demonstrate_military_or_police_power, Protest_violently,_riot
+Retreat_or_surrender_militarily <-- Threaten_with_political_dissent,_protest
+Retreat_or_surrender_militarily <-- Discuss_by_telephone
+Retreat_or_surrender_militarily <-- Engage_in_violent_protest_for_rights, Rally_opposition_against
+Retreat_or_surrender_militarily <-- Threaten
+Retreat_or_surrender_militarily <-- Threaten_with_sanctions,_boycott,_embargo
+Retreat_or_surrender_militarily <-- Threaten, Threaten_non-force
+Retreat_or_surrender_militarily <-- Demand_military_aid
+Retreat_or_surrender_militarily <-- Reduce_or_stop_military_assistance, Occupy_territory
+Retreat_or_surrender_militarily <-- Demobilize_armed_forces
+Retreat_or_surrender_militarily <-- Threaten_non-force
+Retreat_or_surrender_militarily <-- Threaten_to_reduce_or_break_relations
+Retreat_or_surrender_militarily <-- Occupy_territory
+Retreat_or_surrender_militarily <-- Demand, Demand_change_in_institutions,_regime
+Retreat_or_surrender_militarily <-- Demand_rights
+Retreat_or_surrender_militarily <-- Attempt_to_assassinate
+Retreat_or_surrender_militarily <-- Physically_assault
+Retreat_or_surrender_militarily <-- Express_intent_to_de-escalate_military_engagement
+Retreat_or_surrender_militarily <-- Demand_material_aid, Demand_material_cooperation
+Retreat_or_surrender_militarily <-- Rally_opposition_against
+Retreat_or_surrender_militarily <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+Retreat_or_surrender_militarily <-- Retreat_or_surrender_militarily
+Retreat_or_surrender_militarily <-- Reduce_or_stop_military_assistance
+Retreat_or_surrender_militarily <-- Impose_embargo,_boycott,_or_sanctions
+Retreat_or_surrender_militarily <-- Threaten_with_repression
+Retreat_or_surrender_militarily <-- Seize_or_damage_property
+Retreat_or_surrender_militarily <-- Engage_in_mass_killings
+Retreat_or_surrender_militarily <-- Ease_political_dissent
+Retreat_or_surrender_militarily <-- Make_a_visit
+Retreat_or_surrender_militarily <-- Abduct,_hijack,_or_take_hostage
+Retreat_or_surrender_militarily <-- Ease_curfew, Ease_economic_sanctions,_boycott,_embargo
+Retreat_or_surrender_militarily <-- Express_intent_to_yield
+Retreat_or_surrender_militarily <-- Demand_mediation, Demand_meeting,_negotiation
+Retreat_or_surrender_militarily <-- Abduct,_hijack,_or_take_hostage, Use_as_human_shield
+Retreat_or_surrender_militarily <-- Assassinate, Attempt_to_assassinate
+Retreat_or_surrender_militarily <-- Declare_truce,_ceasefire, Sign_formal_agreement
+Retreat_or_surrender_militarily <-- Detonate_nuclear_weapons
+Retreat_or_surrender_militarily <-- Violate_ceasefire
+Retreat_or_surrender_militarily <-- Give_ultimatum
+Retreat_or_surrender_militarily <-- Consult, Express_intent_to_yield
+Retreat_or_surrender_militarily <-- Expel_or_deport_individuals
+Retreat_or_surrender_militarily <-- Criticize_or_denounce, Defy_norms,_law
+Retreat_or_surrender_militarily <-- Threaten_with_administrative_sanctions
+Retreat_or_surrender_militarily <-- Complain_officially
+Retreat_or_surrender_militarily <-- Threaten_with_repression, Threaten_with_sanctions,_boycott,_embargo
+Retreat_or_surrender_militarily <-- Host_a_visit
+Retreat_or_surrender_militarily <-- Expel_or_withdraw
+Retreat_or_surrender_militarily <-- Demand_that_target_yields
+Retreat_or_surrender_militarily <-- Demand_settling_of_dispute
+Retreat_or_surrender_militarily <-- Demand_de-escalation_of_military_engagement
+Retreat_or_surrender_militarily <-- Threaten, Yield
+Retreat_or_surrender_militarily <-- Threaten_with_administrative_sanctions, Threaten_with_political_dissent,_protest
+Retreat_or_surrender_militarily <-- Occupy_territory, Demobilize_armed_forces
+Retreat_or_surrender_militarily <-- Mobilize_or_increase_armed_forces
+Retreat_or_surrender_militarily <-- Reduce_or_break_diplomatic_relations, Expel_or_withdraw
+Retreat_or_surrender_militarily <-- Demand
+Retreat_or_surrender_militarily <-- Ease_state_of_emergency_or_martial_law, Yield
+Retreat_or_surrender_militarily <-- Kill_by_physical_assault
+Retreat_or_surrender_militarily <-- Demand_that_target_yields, Appeal_to_yield
+Retreat_or_surrender_militarily <-- Ease_administrative_sanctions
+Retreat_or_surrender_militarily <-- Yield
+Retreat_or_surrender_militarily <-- Threaten_to_halt_mediation, Threaten_to_halt_negotiations
+Retreat_or_surrender_militarily <-- Destroy_property
+Retreat_or_surrender_militarily <-- Make_statement, Threaten_with_military_force
+Retreat_or_surrender_militarily <-- Demand_humanitarian_aid
+Retreat_or_surrender_militarily <-- Demand_release_of_persons_or_property
+Retreat_or_surrender_militarily <-- Use_unconventional_violence
+Retreat_or_surrender_militarily <-- Express_intent_to_provide_military_aid, Mobilize_or_increase_armed_forces
+Retreat_or_surrender_militarily <-- Coerce
+Retreat_or_surrender_militarily <-- Demand_change_in_leadership
+Retreat_or_surrender_militarily <-- Threaten_to_reduce_or_break_relations, Threaten_to_reduce_or_stop_aid
+Retreat_or_surrender_militarily <-- Confiscate_property, Seize_or_damage_property
+Retreat_or_surrender_militarily <-- Threaten_to_halt_negotiations
+Retreat_or_surrender_militarily <-- Ease_military_blockade, Ease_political_dissent
+Retreat_or_surrender_militarily <-- Consult
+Retreat_or_surrender_militarily <-- Express_intent_to_meet_or_negotiate, Engage_in_negotiation
+Retreat_or_surrender_militarily <-- Reduce_or_break_diplomatic_relations
+Retreat_or_surrender_militarily <-- Demand_change_in_institutions,_regime
+Retreat_or_surrender_militarily <-- Refuse_to_de-escalate_military_engagement
+Retreat_or_surrender_militarily <-- Ease_economic_sanctions,_boycott,_embargo
+Retreat_or_surrender_militarily <-- Demand_mediation
+Retreat_or_surrender_militarily <-- Demand_intelligence_cooperation
+Retreat_or_surrender_militarily <-- Declare_truce,_ceasefire
+Retreat_or_surrender_militarily <-- Threaten_to_reduce_or_stop_aid
+Retreat_or_surrender_militarily <-- Demand_meeting,_negotiation
+Retreat_or_surrender_militarily <-- Use_unconventional_violence, Reduce_or_stop_military_assistance
+Retreat_or_surrender_militarily <-- Arrest,_detain,_or_charge_with_legal_action
+Retreat_or_surrender_militarily <-- Demand_political_reform
+Retreat_or_surrender_militarily <-- Engage_in_negotiation, Yield
+Retreat_or_surrender_militarily <-- Ban_political_parties_or_politicians, Arrest,_detain,_or_charge_with_legal_action
+Retreat_or_surrender_militarily <-- Sign_formal_agreement, Express_intent_to_yield
+Retreat_or_surrender_militarily <-- Halt_mediation
+Retreat_or_surrender_militarily <-- Torture
+Retreat_or_surrender_militarily <-- Demand_material_cooperation, Demand_easing_of_administrative_sanctions
+Retreat_or_surrender_militarily <-- Demand_military_aid, Demand_policy_change
+Retreat_or_surrender_militarily <-- fight_with_small_arms_and_light_weapons, Kill_by_physical_assault
+Retreat_or_surrender_militarily <-- Sign_formal_agreement
+Retreat_or_surrender_militarily <-- Criticize_or_denounce
+Retreat_or_surrender_militarily <-- Demand_policy_change

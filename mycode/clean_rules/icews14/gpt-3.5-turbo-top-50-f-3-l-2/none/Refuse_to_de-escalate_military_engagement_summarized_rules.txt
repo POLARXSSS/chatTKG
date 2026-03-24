@@ -1,0 +1,20 @@
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), Halt_mediation(X1,X2,T1), Reject_plan,_agreement_to_settle_dispute(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Impose_restrictions_on_political_freedoms(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Declare_truce,_ceasefire(X0,X1,T0), Violate_ceasefire(X1,X2,T1), Threaten_with_military_force(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Use_tactics_of_violent_repression(X0,X1,T0), Impose_restrictions_on_political_freedoms(X1,X2,T1), Investigate(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Engage_in_symbolic_act(X0,X1,T0), Defy_norms,_law(X1,X2,T1), Rally_support_on_behalf_of(X2,X3,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Increase_military_alert_status(X1,X2,T1), Use_conventional_military_force(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Demand_meeting,_negotiation(X0,X1,T0), Criticize_or_denounce(X1,X2,T1), Rally_support_on_behalf_of(X2,X3,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Demand_economic_aid(X0,X1,T0), Reduce_or_stop_economic_assistance(X1,X2,T1), Impose_embargo,_boycott,_or_sanctions(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Threaten_with_military_force(X0,X1,T0), Deny_responsibility(X1,X2,T1), Demonstrate_or_rally(X2,X3,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0), Demand_release_of_persons_or_property(X1,X2,T1), Refuse_to_release_persons_or_property(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Threaten_with_military_force(X0,X1,T0), Rally_support_on_behalf_of(X1,X2,T1), Demonstrate_or_rally(X2,X3,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Engage_in_mass_killings(X0,X1,T0), Accuse_of_war_crimes(X1,X2,T1), Investigate_war_crimes(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Demand_meeting,_negotiation(X0,X1,T0), Make_an_appeal_or_request(X1,X2,T1), Rally_support_on_behalf_of(X2,X3,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Express_intent_to_de-escalate_military_engagement(X0,X1,T0), Refuse_to_yield(X1,X2,T1), Reject_proposal_to_meet,_discuss,_or_negotiate(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Appeal_for_diplomatic_cooperation_(such_as_policy_support)(X0,X1,T0), Reduce_relations(X1,X2,T1), Veto(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Torture(X0,X1,T0), Impose_administrative_sanctions(X1,X2,T1), Use_conventional_military_force(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Express_intent_to_de-escalate_military_engagement(X0,X1,T0), Obstruct_passage,_block(X1,X2,T1), Engage_in_negotiation(X2,X1,T2).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Make_a_visit(X0,X1,T0), Provide_humanitarian_aid(X1,X2,T1).
+Refuse_to_de-escalate_military_engagement(X0,X1,T1) <- Express_intent_to_de-escalate_military_engagement(X0,X1,T0).
+Refuse_to_de-escalate_military_engagement(X0,X1,T3) <- Express_intent_to_de-escalate_military_engagement(X0,X1,T0), Make_statement(X1,X2,T1), Make_statement(X2,X1,T2).

@@ -1,0 +1,4 @@
+Expel_or_withdraw_peacekeepers <-- Appeal_for_material_cooperation, Appeal_for_intelligence
+Expel_or_withdraw_peacekeepers <-- Reduce_or_break_diplomatic_relations
+Expel_or_withdraw_peacekeepers <-- Provide_humanitarian_aid, Appeal_for_intelligence
+Expel_or_withdraw_peacekeepers <-- Provide_economic_aid, Appeal_for_intelligence

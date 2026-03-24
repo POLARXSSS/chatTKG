@@ -1,0 +1,64 @@
+7	0.7	0.0002273022470450708	0.03867403314917127	Accede_to_demands_for_rights <-- Make_statement, Make_an_appeal_or_request
+7	0.7	0.0062056737588652485	0.3684210526315789	Accede_to_demands_for_rights <-- Make_an_appeal_or_request, Provide_humanitarian_aid
+8	0.8	0.00037521692228319496	0.06666666666666667	Accede_to_demands_for_rights <-- Make_statement, Criticize_or_denounce
+6	0.6	0.003157894736842105	0.17647058823529413	Accede_to_demands_for_rights <-- Criticize_or_denounce
+8	0.8	0.0024898848428260194	0.16666666666666666	Accede_to_demands_for_rights <-- Make_an_appeal_or_request
+3	0.3	0.003260869565217391	1.0	Accede_to_demands_for_rights <-- Demand
+5	0.5	0.0035971223021582736	5.0	Accede_to_demands_for_rights <-- Praise_or_endorse, Provide_humanitarian_aid
+8	0.8	0.0047562425683709865	0.07547169811320754	Accede_to_demands_for_rights <-- Provide_aid, Make_an_appeal_or_request
+6	0.6	0.041379310344827586	0.46153846153846156	Accede_to_demands_for_rights <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Use_conventional_military_force
+5	0.5	0.05555555555555555	1.25	Accede_to_demands_for_rights <-- Yield
+6	0.6	0.015706806282722512	0.09375	Accede_to_demands_for_rights <-- Refuse_to_yield, Accuse
+5	0.5	0.027472527472527472	2.5	Accede_to_demands_for_rights <-- Yield, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Demonstrate_or_rally, Use_conventional_military_force
+7	0.7	0.0005159958720330237	0.06140350877192982	Accede_to_demands_for_rights <-- Make_statement, Accuse
+8	0.8	0.0055058499655884375	0.27586206896551724	Accede_to_demands_for_rights <-- Accuse
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Appeal_for_economic_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Appeal_for_military_aid, Make_an_appeal_or_request
+6	0.6	0.008391608391608392	0.058823529411764705	Accede_to_demands_for_rights <-- Express_intent_to_provide_humanitarian_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Demand, Threaten
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Conduct_strike_or_boycott, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Provide_military_protection_or_peacekeeping, Make_an_appeal_or_request
+6	0.6	0.010869565217391304	0.07792207792207792	Accede_to_demands_for_rights <-- Yield, Make_an_appeal_or_request
+1	0.1	0.006172839506172839	0.013513513513513514	Accede_to_demands_for_rights <-- Return,_release_property, Make_an_appeal_or_request
+5	0.5	0.006657789613848202	2.5	Accede_to_demands_for_rights <-- Cooperate_economically, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Ease_state_of_emergency_or_martial_law, Make_an_appeal_or_request
+6	0.6	0.002982107355864811	0.08	Accede_to_demands_for_rights <-- Return,_release_person(s), Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Provide_military_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Demand_rights, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Appeal_for_release_of_persons_or_property, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Demonstrate_or_rally, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Use_conventional_military_force, Appeal_for_rights
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Express_intent_to_provide_military_protection_or_peacekeeping, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Forgive, Make_an_appeal_or_request
+5	0.5	0.00580046403712297	2.5	Accede_to_demands_for_rights <-- Express_intent_to_cooperate_economically, Make_an_appeal_or_request
+6	0.6	0.005607476635514018	0.058823529411764705	Accede_to_demands_for_rights <-- Bring_lawsuit_against, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Protest_violently,_riot, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Appeal_for_military_protection_or_peacekeeping, Make_an_appeal_or_request
+6	0.6	0.012605042016806723	0.0759493670886076	Accede_to_demands_for_rights <-- Provide_economic_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Complain_officially, Make_an_appeal_or_request
+8	0.8	0.00122737035900583	0.07692307692307693	Accede_to_demands_for_rights <-- Arrest,_detain,_or_charge_with_legal_action, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Grant_asylum, Make_an_appeal_or_request
+1	0.1	0.001141552511415525	0.013513513513513514	Accede_to_demands_for_rights <-- Express_intent_to_release_persons_or_property, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Ease_political_dissent, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Ease_curfew, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Appeal_for_rights, Make_an_appeal_or_request
+1	0.1	0.002688172043010753	0.013513513513513514	Accede_to_demands_for_rights <-- Express_intent_to_provide_military_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Threaten_with_military_force, Appeal_for_rights
+1	0.1	0.001148105625717566	0.013513513513513514	Accede_to_demands_for_rights <-- Ease_administrative_sanctions, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Criticize_or_denounce, Demand_rights
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Ease_military_blockade, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Appeal_for_humanitarian_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Cooperate_militarily, Make_an_appeal_or_request
+5	0.5	0.0012735608762098828	0.45454545454545453	Accede_to_demands_for_rights <-- Sign_formal_agreement, Make_an_appeal_or_request
+6	0.6	0.008784773060029283	0.07894736842105263	Accede_to_demands_for_rights <-- Express_intent_to_provide_economic_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Express_intent_to_cooperate_militarily, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Mediate, Make_an_appeal_or_request
+8	0.8	0.0017342293518317797	0.09195402298850575	Accede_to_demands_for_rights <-- Engage_in_diplomatic_cooperation, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Ease_economic_sanctions,_boycott,_embargo, Make_an_appeal_or_request
+8	0.8	0.0008991794987074295	0.07692307692307693	Accede_to_demands_for_rights <-- Express_intent_to_cooperate, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Apologize, Make_an_appeal_or_request
+7	0.7	0.0002273022470450708	0.03867403314917127	Accede_to_demands_for_rights <-- Make_statement, Make_an_appeal_or_request
+8	0.8	0.0006714789323484975	0.05263157894736842	Accede_to_demands_for_rights <-- Accuse, Make_an_appeal_or_request
+6	0.6	0.0021598272138228943	0.08	Accede_to_demands_for_rights <-- Provide_humanitarian_aid, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Accede_to_demands_for_rights <-- Express_intent_to_yield, Make_an_appeal_or_request

@@ -1,0 +1,50 @@
+Reject_military_cooperation <-- Express_intent_to_cooperate, Reject
+Reject_military_cooperation <-- Reject
+Reject_military_cooperation <-- Sign_formal_agreement, Violate_ceasefire
+Reject_military_cooperation <-- Halt_negotiations
+Reject_military_cooperation <-- Accuse_of_war_crimes
+Reject_military_cooperation <-- Reject_request_for_military_aid
+Reject_military_cooperation <-- Reject_military_cooperation
+Reject_military_cooperation <-- Ban_political_parties_or_politicians
+Reject_military_cooperation <-- Mobilize_or_increase_armed_forces
+Reject_military_cooperation <-- Consult, Demand_military_aid
+Reject_military_cooperation <-- Expel_or_deport_individuals
+Reject_military_cooperation <-- Express_intent_to_provide_military_aid, Refuse_to_yield
+Reject_military_cooperation <-- Engage_in_diplomatic_cooperation, Reduce_relations
+Reject_military_cooperation <-- Criticize_or_denounce
+Reject_military_cooperation <-- Mediate, Halt_mediation
+Reject_military_cooperation <-- Express_intent_to_cooperate_militarily, Refuse_to_yield
+Reject_military_cooperation <-- Express_intent_to_de-escalate_military_engagement, Refuse_to_de-escalate_military_engagement
+Reject_military_cooperation <-- Impose_restrictions_on_political_freedoms
+Reject_military_cooperation <-- Coerce
+Reject_military_cooperation <-- Use_tactics_of_violent_repression
+Reject_military_cooperation <-- Host_a_visit, Demand_change_in_leadership
+Reject_military_cooperation <-- Reduce_or_break_diplomatic_relations
+Reject_military_cooperation <-- Make_an_appeal_or_request, Refuse_to_yield
+Reject_military_cooperation <-- Carry_out_car_bombing
+Reject_military_cooperation <-- Give_ultimatum
+Reject_military_cooperation <-- Make_optimistic_comment, Make_pessimistic_comment
+Reject_military_cooperation <-- Express_intent_to_cooperate_militarily, Use_conventional_military_force
+Reject_military_cooperation <-- Increase_military_alert_status
+Reject_military_cooperation <-- Accuse_of_human_rights_abuses
+Reject_military_cooperation <-- Threaten_with_military_force
+Reject_military_cooperation <-- Reduce_or_stop_military_assistance
+Reject_military_cooperation <-- Make_a_visit, Reject_military_cooperation
+Reject_military_cooperation <-- Cooperate_militarily, Reject_military_cooperation
+Reject_military_cooperation <-- Appeal_for_military_aid, Reject_request_for_military_aid
+Reject_military_cooperation <-- Yield, Demand_military_aid
+Reject_military_cooperation <-- Seize_or_damage_property
+Reject_military_cooperation <-- Demand_material_cooperation, Reject
+Reject_military_cooperation <-- Provide_military_aid, Reduce_or_stop_military_assistance
+Reject_military_cooperation <-- Make_a_visit, Demand_military_aid
+Reject_military_cooperation <-- Impose_embargo,_boycott,_or_sanctions
+Reject_military_cooperation <-- Kill_by_physical_assault
+Reject_military_cooperation <-- Violate_ceasefire
+Reject_military_cooperation <-- Host_a_visit, Threaten_with_military_force
+Reject_military_cooperation <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+Reject_military_cooperation <-- Make_statement, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+Reject_military_cooperation <-- Demand_military_aid, Refuse_to_release_persons_or_property
+Reject_military_cooperation <-- Make_pessimistic_comment
+Reject_military_cooperation <-- Use_conventional_military_force
+Reject_military_cooperation <-- Discuss_by_telephone, Threaten_with_military_force
+Reject_military_cooperation <-- Arrest,_detain,_or_charge_with_legal_action

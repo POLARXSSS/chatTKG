@@ -1,0 +1,30 @@
+fight_with_small_arms_and_light_weapons <-- Kill_by_physical_assault
+fight_with_small_arms_and_light_weapons <-- Accuse
+fight_with_small_arms_and_light_weapons <-- Demonstrate_or_rally
+fight_with_small_arms_and_light_weapons <-- Demand
+fight_with_small_arms_and_light_weapons <-- Physically_assault
+fight_with_small_arms_and_light_weapons <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+fight_with_small_arms_and_light_weapons <-- Threaten_with_military_force
+fight_with_small_arms_and_light_weapons <-- Use_unconventional_violence, Use_conventional_military_force
+fight_with_small_arms_and_light_weapons <-- Increase_military_alert_status
+fight_with_small_arms_and_light_weapons <-- Conduct_suicide,_car,_or_other_non-military_bombing
+fight_with_small_arms_and_light_weapons <-- Use_tactics_of_violent_repression
+fight_with_small_arms_and_light_weapons <-- Use_conventional_military_force
+fight_with_small_arms_and_light_weapons <-- Criticize_or_denounce, Accuse
+fight_with_small_arms_and_light_weapons <-- Threaten_with_military_force, Mobilize_or_increase_armed_forces
+fight_with_small_arms_and_light_weapons <-- Impose_administrative_sanctions, Reduce_relations
+fight_with_small_arms_and_light_weapons <-- Assassinate
+fight_with_small_arms_and_light_weapons <-- Make_an_appeal_or_request
+fight_with_small_arms_and_light_weapons <-- Criticize_or_denounce
+fight_with_small_arms_and_light_weapons <-- Arrest,_detain,_or_charge_with_legal_action
+fight_with_small_arms_and_light_weapons <-- Use_unconventional_violence
+fight_with_small_arms_and_light_weapons <-- Increase_military_alert_status, Threaten_with_military_force
+fight_with_small_arms_and_light_weapons <-- Arrest,_detain,_or_charge_with_legal_action, Physically_assault
+fight_with_small_arms_and_light_weapons <-- Protest_violently,_riot
+fight_with_small_arms_and_light_weapons <-- Investigate
+fight_with_small_arms_and_light_weapons <-- Defy_norms,_law
+fight_with_small_arms_and_light_weapons <-- Make_an_appeal_or_request, Reject
+fight_with_small_arms_and_light_weapons <-- Expel_or_deport_individuals, Threaten_with_sanctions,_boycott,_embargo
+fight_with_small_arms_and_light_weapons <-- Reduce_relations
+fight_with_small_arms_and_light_weapons <-- Express_intent_to_cooperate, Refuse_to_yield
+fight_with_small_arms_and_light_weapons <-- Sexually_assault

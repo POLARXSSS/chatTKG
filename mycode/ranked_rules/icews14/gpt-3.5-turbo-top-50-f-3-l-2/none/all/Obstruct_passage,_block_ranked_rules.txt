@@ -1,0 +1,61 @@
+27	0.42857142857142855	9.0	27.0	Obstruct_passage,_block <-- Threaten_to_reduce_or_stop_aid
+4	0.06349206349206349	0.08163265306122448	0.5714285714285714	Obstruct_passage,_block <-- Use_unconventional_violence, Impose_restrictions_on_political_freedoms
+30	0.47619047619047616	0.5172413793103449	15.0	Obstruct_passage,_block <-- Reject, Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Appeal_for_material_cooperation, Arrest,_detain,_or_charge_with_legal_action
+27	0.42857142857142855	9.0	13.5	Obstruct_passage,_block <-- Reduce_or_stop_humanitarian_assistance
+4	0.06349206349206349	0.25	2.0	Obstruct_passage,_block <-- Impose_blockade,_restrict_movement
+27	0.42857142857142855	0.5625	13.5	Obstruct_passage,_block <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Appeal_for_material_cooperation, Engage_in_symbolic_act
+31	0.49206349206349204	0.4189189189189189	6.2	Obstruct_passage,_block <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Arrest,_detain,_or_charge_with_legal_action, Demonstrate_or_rally
+63	1.0	2.739130434782609	2.739130434782609	Obstruct_passage,_block <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Express_intent_to_cooperate_economically, Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Express_intent_to_cooperate, Reject
+35	0.5555555555555556	0.0046641791044776115	0.4605263157894737	Obstruct_passage,_block <-- Make_an_appeal_or_request, Reject
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Seize_or_damage_property
+3	0.047619047619047616	0.000597609561752988	0.21428571428571427	Obstruct_passage,_block <-- Make_statement, Threaten
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Obstruct_passage,_block, Threaten_with_military_force
+1	0.015873015873015872	0.012345679012345678	0.1111111111111111	Obstruct_passage,_block <-- Sexually_assault
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Demand_change_in_leadership, Refuse_to_yield
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Express_intent_to_mediate, Halt_mediation
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Demand_rights, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Abduct,_hijack,_or_take_hostage
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Host_a_visit, Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Express_intent_to_meet_or_negotiate, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Mobilize_or_increase_armed_forces, Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Obstruct_passage,_block, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Accuse, Arrest,_detain,_or_charge_with_legal_action
+6	0.09523809523809523	0.05084745762711865	1.5	Obstruct_passage,_block <-- Occupy_territory
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Express_intent_to_ease_administrative_sanctions, Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Demand_material_cooperation, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Physically_assault
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Engage_in_negotiation, Reject_plan,_agreement_to_settle_dispute
+6	0.09523809523809523	0.11764705882352941	0.6	Obstruct_passage,_block <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Torture
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Use_conventional_military_force
+31	0.49206349206349204	0.4189189189189189	6.2	Obstruct_passage,_block <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Increase_police_alert_status
+27	0.42857142857142855	13.5	13.5	Obstruct_passage,_block <-- Obstruct_passage,_block, Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Demand_judicial_cooperation, Reject_judicial_cooperation
+41	0.6507936507936508	0.35344827586206895	1.1714285714285715	Obstruct_passage,_block <-- Protest_violently,_riot
+4	0.06349206349206349	0.25	2.0	Obstruct_passage,_block <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Express_intent_to_cooperate_militarily, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Obstruct_passage,_block, Use_conventional_military_force
+27	0.42857142857142855	0.5625	13.5	Obstruct_passage,_block <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Confiscate_property
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+27	0.42857142857142855	9.0	13.5	Obstruct_passage,_block <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Increase_military_alert_status
+4	0.06349206349206349	0.0019559902200488996	0.23529411764705882	Obstruct_passage,_block <-- Criticize_or_denounce, Demonstrate_or_rally
+1	0.015873015873015872	0.2	1.0	Obstruct_passage,_block <-- Reduce_or_stop_material_aid
+1	0.015873015873015872	0.1	1.0	Obstruct_passage,_block <-- Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Threaten_to_reduce_or_stop_aid, Reduce_or_stop_humanitarian_assistance
+6	0.09523809523809523	0.006012024048096192	0.09090909090909091	Obstruct_passage,_block <-- Use_unconventional_violence
+6	0.09523809523809523	0.12244897959183673	1.2	Obstruct_passage,_block <-- Conduct_suicide,_car,_or_other_non-military_bombing
+1	0.015873015873015872	0.06666666666666667	0.06666666666666667	Obstruct_passage,_block <-- Obstruct_passage,_block, Reduce_relations
+0.0	0.0	0.0	0.0	Obstruct_passage,_block <-- Appeal_for_material_cooperation, Refuse_to_ease_administrative_sanctions

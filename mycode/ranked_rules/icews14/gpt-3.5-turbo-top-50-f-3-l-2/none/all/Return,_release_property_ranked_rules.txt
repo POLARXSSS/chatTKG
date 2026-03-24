@@ -1,0 +1,127 @@
+4	0.3076923076923077	0.006230529595015576	0.08163265306122448	Return,_release_property <-- Reject
+2	0.15384615384615385	0.0064516129032258064	0.25	Return,_release_property <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Return,_release_property <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Return,_release_property <-- Occupy_territory, Ease_administrative_sanctions
+1	0.07692307692307693	0.0019230769230769232	0.030303030303030304	Return,_release_property <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+2	0.15384615384615385	0.041666666666666664	2.0	Return,_release_property <-- Impose_restrictions_on_political_freedoms
+2	0.15384615384615385	0.002717391304347826	0.058823529411764705	Return,_release_property <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Return,_release_property <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_with_repression
+2	0.15384615384615385	0.018691588785046728	0.4	Return,_release_property <-- Rally_support_on_behalf_of
+2	0.15384615384615385	0.01694915254237288	0.6666666666666666	Return,_release_property <-- Expel_or_deport_individuals
+3	0.23076923076923078	0.011450381679389313	0.16666666666666666	Return,_release_property <-- Return,_release_person(s)
+2	0.15384615384615385	0.0392156862745098	0.5	Return,_release_property <-- Express_intent_to_release_persons_or_property
+6	0.46153846153846156	0.007936507936507936	0.08955223880597014	Return,_release_property <-- Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Return,_release_property <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reject_material_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reduce_or_stop_material_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Return,_release_property <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Return,_release_property <-- Engage_in_violent_protest_for_rights, Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Return,_release_property <-- Grant_asylum, Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Return,_release_property <-- Criticize_or_denounce, Defend_verbally
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reduce_or_stop_military_assistance, Provide_military_aid
+2	0.15384615384615385	0.0056179775280898875	0.18181818181818182	Return,_release_property <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Return,_release_property <-- Express_intent_to_engage_in_material_cooperation, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Destroy_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Ban_political_parties_or_politicians
+5	0.38461538461538464	0.028901734104046242	0.23809523809523808	Return,_release_property <-- Deny_responsibility
+3	0.23076923076923078	0.0025929127052722557	0.07317073170731707	Return,_release_property <-- Make_an_appeal_or_request, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Return,_release_property <-- Engage_in_political_dissent, Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Return,_release_property <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Return,_release_property <-- Veto
+3	0.23076923076923078	0.005988023952095809	0.02097902097902098	Return,_release_property <-- Complain_officially, Make_statement
+0.0	0.0	0.0	0.0	Return,_release_property <-- Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Appeal_for_economic_cooperation, Cooperate_economically
+0.0	0.0	0.0	0.0	Return,_release_property <-- Conduct_strike_or_boycott, Ease_economic_sanctions,_boycott,_embargo
+2	0.15384615384615385	0.0017241379310344827	0.06451612903225806	Return,_release_property <-- Engage_in_negotiation
+3	0.23076923076923078	0.00037355248412401944	0.025210084033613446	Return,_release_property <-- Consult, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Return,_release_property <-- Provide_aid, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Mediate
+0.0	0.0	0.0	0.0	Return,_release_property <-- Apologize
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reduce_or_stop_military_assistance, Provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_to_halt_mediation
+1	0.07692307692307693	1.0	1.0	Return,_release_property <-- Reject_judicial_cooperation
+4	0.3076923076923077	0.006042296072507553	0.12121212121212122	Return,_release_property <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Obstruct_passage_to_demand_leadership_change
+0.0	0.0	0.0	0.0	Return,_release_property <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_with_military_force, Yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Return,_release_property <-- Decline_comment
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reduce_or_stop_economic_assistance, Provide_economic_aid
+0.0	0.0	0.0	0.0	Return,_release_property <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+4	0.3076923076923077	0.004975124378109453	0.36363636363636365	Return,_release_property <-- Use_conventional_military_force
+2	0.15384615384615385	0.0002308136180034622	0.007220216606498195	Return,_release_property <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Return,_release_property <-- Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Acknowledge_or_claim_responsibility
+4	0.3076923076923077	0.009569377990430622	0.18181818181818182	Return,_release_property <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Return,_release_property <-- Declare_truce,_ceasefire
+3	0.23076923076923078	0.03225806451612903	0.3	Return,_release_property <-- Consider_policy_option
+0.0	0.0	0.0	0.0	Return,_release_property <-- Conduct_hunger_strike, Ease_state_of_emergency_or_martial_law
+7	0.5384615384615384	0.002178649237472767	0.03804347826086957	Return,_release_property <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Return,_release_property <-- Demobilize_armed_forces, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Return,_release_property <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+0.0	0.0	0.0	0.0	Return,_release_property <-- Engage_in_mass_expulsion
+0.0	0.0	0.0	0.0	Return,_release_property <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+3	0.23076923076923078	0.026785714285714284	0.25	Return,_release_property <-- Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Return,_release_property <-- Bring_lawsuit_against, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Return,_release_property <-- Rally_opposition_against
+3	0.23076923076923078	0.0070921985815602835	0.08333333333333333	Return,_release_property <-- Threaten
+0.0	0.0	0.0	0.0	Return,_release_property <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reject_request_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Return,_release_property <-- Express_intent_to_yield, Yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_to_reduce_or_break_relations
+4	0.3076923076923077	0.10810810810810811	0.8	Return,_release_property <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Demonstrate_or_rally, Ease_political_dissent
+0.0	0.0	0.0	0.0	Return,_release_property <-- Engage_in_mass_killings
+2	0.15384615384615385	0.2	2.0	Return,_release_property <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Return,_release_property <-- Praise_or_endorse, Forgive
+2	0.15384615384615385	0.04	1.0	Return,_release_property <-- Give_ultimatum
+2	0.15384615384615385	0.022222222222222223	0.18181818181818182	Return,_release_property <-- Yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Return,_release_property <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Return,_release_property <-- Ease_economic_sanctions,_boycott,_embargo
+3	0.23076923076923078	0.03614457831325301	0.375	Return,_release_property <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+1	0.07692307692307693	0.02	0.2	Return,_release_property <-- Reject_plan,_agreement_to_settle_dispute
+3	0.23076923076923078	0.031914893617021274	1.0	Return,_release_property <-- Confiscate_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Return,_release_property <-- Reduce_or_stop_humanitarian_assistance, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Return,_release_property <-- Receive_inspectors, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Express_intent_to_engage_in_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Demand_change_in_leadership, Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Return,_release_property <-- Threaten_non-force, Yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Demand_change_in_leadership, Accede_to_demands_for_change_in_policy
+7	0.5384615384615384	0.002178649237472767	0.03804347826086957	Return,_release_property <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Return,_release_property <-- Provide_humanitarian_aid, Cooperate_economically
+0.0	0.0	0.0	0.0	Return,_release_property <-- Engage_in_symbolic_act, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Mediate, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Return,_release_property <-- Conduct_strike_or_boycott, Accede_to_demands_for_rights
+2	0.15384615384615385	0.0392156862745098	0.5	Return,_release_property <-- Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Appeal_for_material_cooperation, Engage_in_material_cooperation
+2	0.15384615384615385	0.000541858574911948	0.012738853503184714	Return,_release_property <-- Engage_in_negotiation, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Return,_release_property <-- Use_tactics_of_violent_repression, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Return,_release_property <-- Accuse_of_human_rights_abuses, Apologize
+0.0	0.0	0.0	0.0	Return,_release_property <-- Meet_at_a_'third'_location, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Return,_release_property <-- Demand_de-escalation_of_military_engagement, Yield
+1	0.07692307692307693	0.003076923076923077	0.05	Return,_release_property <-- Threaten, Yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Appeal_to_others_to_settle_dispute, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Return,_release_property <-- Impose_administrative_sanctions, Yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Appeal_for_judicial_cooperation, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Return,_release_property <-- Appeal_to_engage_in_or_accept_mediation, Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Return,_release_property <-- Demand_that_target_yields, Yield
+0.0	0.0	0.0	0.0	Return,_release_property <-- Expel_or_deport_individuals, Coerce
+0.0	0.0	0.0	0.0	Return,_release_property <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Return,_release_property <-- Declare_truce,_ceasefire, Cooperate_militarily
+0.0	0.0	0.0	0.0	Return,_release_property <-- Appeal_for_intelligence, Share_intelligence_or_information
+3	0.23076923076923078	5.950491907331006e-05	0.0031847133757961785	Return,_release_property <-- Consult, Make_statement

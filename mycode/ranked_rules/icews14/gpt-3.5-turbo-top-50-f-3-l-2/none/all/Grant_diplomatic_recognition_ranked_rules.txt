@@ -1,0 +1,231 @@
+2	0.02666666666666667	0.029411764705882353	0.06666666666666667	Grant_diplomatic_recognition <-- Provide_military_aid
+31	0.41333333333333333	0.0003872966692486445	0.0049449672994097945	Grant_diplomatic_recognition <-- Make_a_visit, Host_a_visit
+12	0.16	0.027522935779816515	0.0670391061452514	Grant_diplomatic_recognition <-- Express_intent_to_cooperate, Cooperate_economically
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Ease_state_of_emergency_or_martial_law, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_change_policy, Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Return,_release_person(s)
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Yield
+1	0.013333333333333334	0.03225806451612903	0.06666666666666667	Grant_diplomatic_recognition <-- Express_intent_to_provide_humanitarian_aid, Provide_humanitarian_aid
+12	0.16	0.004876066639577408	0.03468208092485549	Grant_diplomatic_recognition <-- Make_optimistic_comment, Express_intent_to_cooperate
+15	0.2	0.020380434782608696	0.07692307692307693	Grant_diplomatic_recognition <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Forgive
+20	0.26666666666666666	0.0013428226131328052	0.020512820512820513	Grant_diplomatic_recognition <-- Make_an_appeal_or_request, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_mediate, Ease_curfew
+2	0.02666666666666667	0.023255813953488372	0.13333333333333333	Grant_diplomatic_recognition <-- Cooperate_militarily
+1	0.013333333333333334	0.03225806451612903	0.3333333333333333	Grant_diplomatic_recognition <-- Apologize
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_provide_economic_aid, Provide_humanitarian_aid
+3	0.04	0.016129032258064516	0.10344827586206896	Grant_diplomatic_recognition <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_engage_in_material_cooperation
+1	0.013333333333333334	0.07142857142857142	0.2	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+1	0.013333333333333334	0.25	0.5	Grant_diplomatic_recognition <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+5	0.06666666666666667	0.026595744680851064	0.06578947368421052	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_economically, Cooperate_economically
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_provide_military_aid, Provide_military_aid
+14	0.18666666666666668	0.0029473684210526317	0.028985507246376812	Grant_diplomatic_recognition <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Appeal_for_material_cooperation, Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_settle_dispute, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_yield, Yield
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_institute_political_reform, Ease_political_dissent
+1	0.013333333333333334	0.01098901098901099	0.030303030303030304	Grant_diplomatic_recognition <-- Provide_military_aid, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_provide_military_aid, Ease_military_blockade
+75	1.0	1.1538461538461537	1.1538461538461537	Grant_diplomatic_recognition <-- Grant_diplomatic_recognition
+26	0.3466666666666667	0.0005820721769499418	0.011187607573149742	Grant_diplomatic_recognition <-- Make_statement, Praise_or_endorse
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+13	0.17333333333333334	0.002061855670103093	0.026748971193415638	Grant_diplomatic_recognition <-- Consult
+1	0.013333333333333334	0.06666666666666667	0.2	Grant_diplomatic_recognition <-- Express_intent_to_provide_military_protection_or_peacekeeping, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Ease_economic_sanctions,_boycott,_embargo
+9	0.12	0.0037562604340567614	0.03879310344827586	Grant_diplomatic_recognition <-- Discuss_by_telephone, Make_a_visit
+18	0.24	0.008446738620366025	0.01956521739130435	Grant_diplomatic_recognition <-- Host_a_visit
+27	0.36	0.04078549848942598	0.10074626865671642	Grant_diplomatic_recognition <-- Engage_in_diplomatic_cooperation
+18	0.24	0.008446738620366025	0.09836065573770492	Grant_diplomatic_recognition <-- Make_a_visit
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_accept_mediation, Mediate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_provide_material_aid, Provide_military_aid
+5	0.06666666666666667	0.050505050505050504	0.14705882352941177	Grant_diplomatic_recognition <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Mediate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_economic_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Give_ultimatum
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_change_policy
+33	0.44	0.0005497159800769602	0.011554621848739496	Grant_diplomatic_recognition <-- Make_statement, Make_statement
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_intelligence_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Destroy_property
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reduce_relations
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_humanitarian_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_rights
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Confiscate_property
+1	0.013333333333333334	0.0024937655860349127	0.038461538461538464	Grant_diplomatic_recognition <-- Engage_in_symbolic_act
+19	0.25333333333333335	0.000517217912072955	0.004103671706263499	Grant_diplomatic_recognition <-- Praise_or_endorse, Host_a_visit
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_yield, Yield
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_non-force
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Receive_inspectors
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_engage_in_material_cooperation
+1	0.013333333333333334	0.016129032258064516	0.03225806451612903	Grant_diplomatic_recognition <-- Mediate, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_target_to_allow_international_involvement_(non-mediation)
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Accede_to_demands_for_rights
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Grant_asylum
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Mediate
+1	0.013333333333333334	0.004219409282700422	0.037037037037037035	Grant_diplomatic_recognition <-- Appeal_to_others_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_provide_humanitarian_aid
+3	0.04	0.00684931506849315	0.11538461538461539	Grant_diplomatic_recognition <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_political_reform
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Accede_to_demands_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Use_as_human_shield
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Appeal_for_material_cooperation, Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_material_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_mediate, Mediate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Forgive
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Halt_negotiations
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Share_intelligence_or_information
+1	0.013333333333333334	0.03225806451612903	0.3333333333333333	Grant_diplomatic_recognition <-- Apologize
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_to_engage_in_or_accept_mediation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Decline_comment
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_economic_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_military_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_with_repression
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Complain_officially
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Demand_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_change_in_leadership
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Investigate_war_crimes
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_military_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Appeal_for_material_cooperation, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten
+7	0.09333333333333334	0.02564102564102564	0.059322033898305086	Grant_diplomatic_recognition <-- Provide_economic_aid, Express_intent_to_cooperate
+2	0.02666666666666667	0.5	0.5	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_intelligence, Share_intelligence_or_information
+27	0.36	0.0027433448486080063	0.010505836575875487	Grant_diplomatic_recognition <-- Sign_formal_agreement, Consult
+2	0.02666666666666667	0.031746031746031744	0.4	Grant_diplomatic_recognition <-- Ease_economic_sanctions,_boycott,_embargo, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Return,_release_property
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_to_yield
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_to_others_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_judicial_cooperation
+27	0.36	0.04078549848942598	0.10074626865671642	Grant_diplomatic_recognition <-- Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reduce_or_stop_military_assistance
+6	0.08	0.1016949152542373	0.20689655172413793	Grant_diplomatic_recognition <-- Cooperate_militarily, Cooperate_economically
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_settle_dispute, Demand_settling_of_dispute
+39	0.52	0.004500865551067513	0.016738197424892704	Grant_diplomatic_recognition <-- Host_a_visit, Make_a_visit
+17	0.22666666666666666	0.006329113924050633	0.06910569105691057	Grant_diplomatic_recognition <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_intelligence
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_provide_material_aid, Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_economic_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_cooperate_on_intelligence
+5	0.06666666666666667	0.026595744680851064	0.06578947368421052	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_economically, Cooperate_economically
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_rights
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Veto
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_material_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_material_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Halt_mediation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_accord
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_judicial_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_political_reform
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Provide_military_aid, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Yield
+10	0.13333333333333333	0.024154589371980676	0.05813953488372093	Grant_diplomatic_recognition <-- Express_intent_to_settle_dispute, Engage_in_negotiation
+1	0.013333333333333334	0.07142857142857142	0.2	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_militarily, Cooperate_militarily
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_release_persons_or_property, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Return,_release_person(s)
+1	0.013333333333333334	0.25	0.5	Grant_diplomatic_recognition <-- Share_intelligence_or_information, Engage_in_judicial_cooperation
+2	0.02666666666666667	0.03389830508474576	0.07692307692307693	Grant_diplomatic_recognition <-- Provide_military_protection_or_peacekeeping, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Provide_humanitarian_aid, Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_ease_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_to_others_to_settle_dispute
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Receive_inspectors
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Investigate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Refuse_to_yield
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Defend_verbally
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_mediation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_policy_change
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Coerce
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Torture
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Return,_release_person(s)
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Demand_that_target_yields
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_request_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Violate_ceasefire
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Appeal_for_de-escalation_of_military_engagement
+14	0.18666666666666668	0.0029473684210526317	0.028985507246376812	Grant_diplomatic_recognition <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Grant_diplomatic_recognition <-- Express_intent_to_cooperate_on_judicial_matters, Refuse_to_de-escalate_military_engagement

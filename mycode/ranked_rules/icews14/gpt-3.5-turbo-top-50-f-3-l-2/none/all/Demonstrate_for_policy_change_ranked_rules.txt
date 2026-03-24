@@ -1,0 +1,46 @@
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Complain_officially
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Rally_opposition_against
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Rally_support_on_behalf_of
+4	1.0	1.3333333333333333	1.3333333333333333	Demonstrate_for_policy_change <-- Demonstrate_for_policy_change
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Engage_in_political_dissent
+2	0.5	0.006734006734006734	0.25	Demonstrate_for_policy_change <-- Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Demand_policy_change
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Appeal_for_policy_change
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Express_intent_to_change_policy
+2	0.5	0.017241379310344827	0.5	Demonstrate_for_policy_change <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Accuse_of_crime,_corruption, Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Reduce_or_stop_economic_assistance, Demand_economic_aid
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Accuse_of_espionage,_treason, Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Arrest,_detain,_or_charge_with_legal_action, Rally_opposition_against
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Attempt_to_assassinate, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Reject_plan,_agreement_to_settle_dispute, Violate_ceasefire
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Halt_negotiations, Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Conduct_hunger_strike, Refuse_to_release_persons_or_property
+1	0.25	7.655209369976269e-05	0.05	Demonstrate_for_policy_change <-- Criticize_or_denounce, Make_statement
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Demonstrate_for_leadership_change, Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Ban_political_parties_or_politicians, Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Destroy_property, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Impose_restrictions_on_political_freedoms, Conduct_strike_or_boycott
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Accuse_of_human_rights_abuses, Complain_officially
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Obstruct_passage,_block, Occupy_territory
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Impose_embargo,_boycott,_or_sanctions, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Rally_support_on_behalf_of, Demonstrate_for_policy_change
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Accuse_of_war_crimes, Investigate_war_crimes
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Express_intent_to_change_policy, Consider_policy_option
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Impose_state_of_emergency_or_martial_law, Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Appeal_for_policy_change, Reject
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Demand_policy_change, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Coerce, Defy_norms,_law
+2	0.5	0.002911208151382824	0.3333333333333333	Demonstrate_for_policy_change <-- Engage_in_symbolic_act, Demonstrate_or_rally
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Kill_by_physical_assault, Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Give_ultimatum, Refuse_to_yield
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Use_tactics_of_violent_repression, Engage_in_political_dissent
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Abduct,_hijack,_or_take_hostage, Demand_release_of_persons_or_property
+4	1.0	1.3333333333333333	1.3333333333333333	Demonstrate_for_policy_change <-- Demonstrate_for_policy_change
+0.0	0.0	0.0	0.0	Demonstrate_for_policy_change <-- Reduce_relations, Threaten_to_reduce_or_break_relations

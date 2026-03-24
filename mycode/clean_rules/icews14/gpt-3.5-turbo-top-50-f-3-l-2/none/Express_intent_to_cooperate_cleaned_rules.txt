@@ -1,0 +1,37 @@
+Express_intent_to_cooperate <-- Host_a_visit, Host_a_visit
+Express_intent_to_cooperate <-- Apologize
+Express_intent_to_cooperate <-- Grant_diplomatic_recognition
+Express_intent_to_cooperate <-- Cooperate_militarily
+Express_intent_to_cooperate <-- Make_a_visit
+Express_intent_to_cooperate <-- Make_optimistic_comment
+Express_intent_to_cooperate <-- Appeal_for_material_cooperation, Demand_material_cooperation
+Express_intent_to_cooperate <-- Express_intent_to_cooperate, Sign_formal_agreement
+Express_intent_to_cooperate <-- Express_intent_to_cooperate, Provide_humanitarian_aid
+Express_intent_to_cooperate <-- Engage_in_negotiation, Sign_formal_agreement
+Express_intent_to_cooperate <-- Engage_in_negotiation
+Express_intent_to_cooperate <-- Host_a_visit
+Express_intent_to_cooperate <-- Yield
+Express_intent_to_cooperate <-- Meet_at_a_'third'_location
+Express_intent_to_cooperate <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+Express_intent_to_cooperate <-- Make_statement, Make_statement
+Express_intent_to_cooperate <-- Cooperate_economically
+Express_intent_to_cooperate <-- Forgive
+Express_intent_to_cooperate <-- Consult
+Express_intent_to_cooperate <-- Discuss_by_telephone
+Express_intent_to_cooperate <-- Express_intent_to_cooperate, Provide_economic_aid
+Express_intent_to_cooperate <-- Declare_truce,_ceasefire
+Express_intent_to_cooperate <-- Engage_in_negotiation, Engage_in_negotiation
+Express_intent_to_cooperate <-- Engage_in_diplomatic_cooperation
+Express_intent_to_cooperate <-- Make_empathetic_comment
+Express_intent_to_cooperate <-- Provide_humanitarian_aid
+Express_intent_to_cooperate <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+Express_intent_to_cooperate <-- Sign_formal_agreement
+Express_intent_to_cooperate <-- Consult, Consult
+Express_intent_to_cooperate <-- Express_intent_to_cooperate
+Express_intent_to_cooperate <-- Consult, Sign_formal_agreement
+Express_intent_to_cooperate <-- Express_intent_to_cooperate, Provide_military_aid
+Express_intent_to_cooperate <-- Make_a_visit, Make_a_visit
+Express_intent_to_cooperate <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+Express_intent_to_cooperate <-- Discuss_by_telephone, Discuss_by_telephone
+Express_intent_to_cooperate <-- Ease_economic_sanctions,_boycott,_embargo
+Express_intent_to_cooperate <-- Praise_or_endorse

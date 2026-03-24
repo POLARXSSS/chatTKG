@@ -1,0 +1,4 @@
+0.0	0.0	0.0	0.0	Expel_or_withdraw_peacekeepers <-- Appeal_for_material_cooperation, Appeal_for_intelligence
+1	0.25	0.014705882352941176	0.25	Expel_or_withdraw_peacekeepers <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Expel_or_withdraw_peacekeepers <-- Provide_humanitarian_aid, Appeal_for_intelligence
+0.0	0.0	0.0	0.0	Expel_or_withdraw_peacekeepers <-- Provide_economic_aid, Appeal_for_intelligence

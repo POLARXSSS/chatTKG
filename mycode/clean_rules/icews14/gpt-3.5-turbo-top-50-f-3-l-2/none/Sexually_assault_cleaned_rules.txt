@@ -1,0 +1,15 @@
+Sexually_assault <-- Demand
+Sexually_assault <-- Coerce, Use_conventional_military_force
+Sexually_assault <-- Kill_by_physical_assault
+Sexually_assault <-- Coerce, Use_unconventional_violence
+Sexually_assault <-- Physically_assault
+Sexually_assault <-- Physically_assault, Threaten
+Sexually_assault <-- Coerce
+Sexually_assault <-- Torture
+Sexually_assault <-- fight_with_small_arms_and_light_weapons
+Sexually_assault <-- Use_conventional_military_force
+Sexually_assault <-- Threaten
+Sexually_assault <-- Arrest,_detain,_or_charge_with_legal_action, Use_conventional_military_force
+Sexually_assault <-- Abduct,_hijack,_or_take_hostage
+Sexually_assault <-- fight_with_small_arms_and_light_weapons, Physically_assault
+Sexually_assault <-- Abduct,_hijack,_or_take_hostage, Kill_by_physical_assault

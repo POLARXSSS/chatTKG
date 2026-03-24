@@ -1,0 +1,35 @@
+_Halt_mediation(X0,X1,T1) <- Accuse_of_human_rights_abuses(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Provide_aid(X0,X1,T0), Reduce_or_stop_material_aid(X1,X0,T1).
+_Halt_mediation(X0,X1,T2) <- Share_intelligence_or_information(X0,X1,T0), Accuse_of_espionage,_treason(X1,X0,T1).
+_Halt_mediation(X0,X1,T2) <- Appeal_for_military_aid(X0,X1,T0), Reject_request_for_military_aid(X1,X0,T1).
+_Halt_mediation(X0,X1,T2) <- Express_intent_to_release_persons_or_property(X0,X1,T0), Refuse_to_release_persons_or_property(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Protest_violently,_riot(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Mobilize_or_increase_armed_forces(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Make_an_appeal_or_request(X0,X1,T0), Reject(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Engage_in_violent_protest_for_rights(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Refuse_to_yield(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Demand_mediation(X0,X1,T0), Reject(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Express_intent_to_accept_mediation(X0,X1,T0), Reject(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Kill_by_physical_assault(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Sign_formal_agreement(X0,X1,T0), Violate_ceasefire(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Threaten_with_sanctions,_boycott,_embargo(X0,X1,T0), Impose_embargo,_boycott,_or_sanctions(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Threaten_to_halt_mediation(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Demand_change_in_institutions,_regime(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Accuse_of_war_crimes(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Torture(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Appeal_for_economic_aid(X0,X1,T0), Reduce_or_stop_economic_assistance(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Demand_change_in_leadership(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Express_intent_to_de-escalate_military_engagement(X0,X1,T0), Refuse_to_de-escalate_military_engagement(X1,X0,T1).
+_Halt_mediation(X0,X1,T2) <- Express_intent_to_cooperate(X0,X1,T0), Refuse_to_yield(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Detonate_nuclear_weapons(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo(X0,X1,T0), Refuse_to_ease_economic_sanctions,_boycott,_or_embargo(X1,X0,T1).
+_Halt_mediation(X0,X1,T1) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Threaten_with_military_force(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Use_chemical,_biological,_or_radiological_weapons(X0,X1,T0).
+_Halt_mediation(X0,X1,T1) <- Violate_ceasefire(X0,X1,T0).
+_Halt_mediation(X0,X1,T2) <- Engage_in_diplomatic_cooperation(X0,X1,T0), Reduce_or_break_diplomatic_relations(X1,X0,T1).
+_Halt_mediation(X0,X1,T2) <- Cooperate_militarily(X0,X1,T0), Reject_military_cooperation(X1,X0,T1).

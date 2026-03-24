@@ -1,0 +1,50 @@
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Use_tactics_of_violent_repression
+2	0.18181818181818182	0.0015313935681470138	0.044444444444444446	Seize_or_damage_property <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Destroy_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Threaten_with_sanctions,_boycott,_embargo, Violate_ceasefire
+6	0.5454545454545454	0.007462686567164179	0.17142857142857143	Seize_or_damage_property <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Violate_ceasefire
+11	1.0	1.375	1.375	Seize_or_damage_property <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Threaten, Use_conventional_military_force
+5	0.45454545454545453	0.05319148936170213	0.5555555555555556	Seize_or_damage_property <-- Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+2	0.18181818181818182	0.01694915254237288	2.0	Seize_or_damage_property <-- Occupy_territory
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Carry_out_suicide_bombing
+2	0.18181818181818182	0.01694915254237288	2.0	Seize_or_damage_property <-- Occupy_territory
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Physically_assault, Destroy_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Kill_by_physical_assault, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Reject, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Investigate, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Use_conventional_military_force, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Accuse_of_crime,_corruption, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Threaten_with_sanctions,_boycott,_embargo, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Demonstrate_military_or_police_power, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Reduce_or_break_diplomatic_relations, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Increase_military_alert_status, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Arrest,_detain,_or_charge_with_legal_action, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Coerce, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Impose_embargo,_boycott,_or_sanctions, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Engage_in_violent_protest_for_rights, Use_conventional_military_force
+11	1.0	1.375	1.375	Seize_or_damage_property <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Impose_restrictions_on_political_freedoms, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Protest_violently,_riot, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Torture, Confiscate_property
+5	0.45454545454545453	0.05319148936170213	0.5555555555555556	Seize_or_damage_property <-- Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Impose_state_of_emergency_or_martial_law, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Destroy_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Expel_or_deport_individuals, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Veto, Confiscate_property
+0.0	0.0	0.0	0.0	Seize_or_damage_property <-- Obstruct_passage,_block, Confiscate_property

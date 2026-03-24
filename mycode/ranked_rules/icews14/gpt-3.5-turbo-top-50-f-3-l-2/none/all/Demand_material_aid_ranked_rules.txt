@@ -1,0 +1,76 @@
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_yield
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_judicial_cooperation
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Coerce
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_change_in_leadership
+1	1.0	0.00015860428231562253	0.2	Demand_material_aid <-- Consult
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Reduce_relations
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Mediate, Demand_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_easing_of_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_policy_change
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_intelligence_cooperation
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Reduce_or_stop_material_aid, Demand_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_de-escalation_of_military_engagement
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_material_cooperation
+1	1.0	0.005376344086021506	1.0	Demand_material_aid <-- Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_cooperate, Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Appeal_for_economic_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Threaten_with_sanctions,_boycott,_embargo, Demand_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Reject
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_mediation
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Engage_in_negotiation, Demand_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_economic_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Consult, Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Complain_officially
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Host_a_visit
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Make_empathetic_comment, Appeal_for_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Discuss_by_telephone
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_provide_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Yield
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Reduce_or_stop_humanitarian_assistance
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_release_of_persons_or_property
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Accuse_of_war_crimes, Demand_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Provide_humanitarian_aid, Demand_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_humanitarian_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Make_statement
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Make_a_visit
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Appeal_for_material_cooperation, Demand_material_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Reduce_or_stop_economic_assistance
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Appeal_to_engage_in_or_accept_mediation
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_settling_of_dispute
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Demand_rights
+0.0	0.0	0.0	0.0	Demand_material_aid <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo

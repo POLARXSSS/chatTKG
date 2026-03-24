@@ -1,0 +1,50 @@
+31	0.03604651162790698	0.8378378378378378	1.1481481481481481	fight_with_small_arms_and_light_weapons <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	fight_with_small_arms_and_light_weapons <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	fight_with_small_arms_and_light_weapons <-- Threaten_with_political_dissent,_protest
+59	0.0686046511627907	0.9365079365079365	1.5526315789473684	fight_with_small_arms_and_light_weapons <-- Kill_by_physical_assault
+175	0.20348837209302326	1.25	2.1341463414634148	fight_with_small_arms_and_light_weapons <-- Physically_assault
+343	0.3988372093023256	0.343687374749499	0.6725490196078432	fight_with_small_arms_and_light_weapons <-- Use_unconventional_violence
+76	0.08837209302325581	1.0410958904109588	1.9	fight_with_small_arms_and_light_weapons <-- Use_tactics_of_violent_repression
+339	0.3941860465116279	0.4216417910447761	0.9338842975206612	fight_with_small_arms_and_light_weapons <-- Use_conventional_military_force
+18	0.020930232558139535	0.21428571428571427	0.8181818181818182	fight_with_small_arms_and_light_weapons <-- Mobilize_or_increase_armed_forces
+61	0.07093023255813953	1.2448979591836735	2.259259259259259	fight_with_small_arms_and_light_weapons <-- Conduct_suicide,_car,_or_other_non-military_bombing
+4	0.004651162790697674	0.16666666666666666	0.4444444444444444	fight_with_small_arms_and_light_weapons <-- Increase_military_alert_status
+1	0.0011627906976744186	0.2	0.3333333333333333	fight_with_small_arms_and_light_weapons <-- Destroy_property
+95	0.11046511627906977	1.2837837837837838	2.5	fight_with_small_arms_and_light_weapons <-- Threaten_with_military_force
+7	0.00813953488372093	0.7	3.5	fight_with_small_arms_and_light_weapons <-- Threaten_non-force
+66	0.07674418604651163	0.7021276595744681	1.4666666666666666	fight_with_small_arms_and_light_weapons <-- Confiscate_property
+78	0.09069767441860466	0.9629629629629629	1.625	fight_with_small_arms_and_light_weapons <-- Sexually_assault
+13	0.015116279069767442	0.8666666666666667	2.1666666666666665	fight_with_small_arms_and_light_weapons <-- Increase_police_alert_status
+184	0.21395348837209302	0.6501766784452296	1.0887573964497042	fight_with_small_arms_and_light_weapons <-- Abduct,_hijack,_or_take_hostage
+246	0.28604651162790695	0.1883614088820827	0.5720930232558139	fight_with_small_arms_and_light_weapons <-- Arrest,_detain,_or_charge_with_legal_action
+76	0.08837209302325581	1.6888888888888889	2.7142857142857144	fight_with_small_arms_and_light_weapons <-- Assassinate
+59	0.0686046511627907	0.9365079365079365	1.5526315789473684	fight_with_small_arms_and_light_weapons <-- Kill_by_physical_assault
+234	0.27209302325581397	0.1610461114934618	0.6822157434402333	fight_with_small_arms_and_light_weapons <-- Accuse
+23	0.026744186046511628	0.07744107744107744	0.30666666666666664	fight_with_small_arms_and_light_weapons <-- Demonstrate_or_rally
+153	0.17790697674418604	0.16630434782608697	1.0408163265306123	fight_with_small_arms_and_light_weapons <-- Demand
+175	0.20348837209302326	1.25	2.1341463414634148	fight_with_small_arms_and_light_weapons <-- Physically_assault
+2	0.002325581395348837	0.024096385542168676	0.09090909090909091	fight_with_small_arms_and_light_weapons <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+95	0.11046511627906977	1.2837837837837838	2.5	fight_with_small_arms_and_light_weapons <-- Threaten_with_military_force
+122	0.14186046511627906	0.05868205868205868	0.14071510957324107	fight_with_small_arms_and_light_weapons <-- Use_unconventional_violence, Use_conventional_military_force
+4	0.004651162790697674	0.16666666666666666	0.4444444444444444	fight_with_small_arms_and_light_weapons <-- Increase_military_alert_status
+61	0.07093023255813953	1.2448979591836735	2.259259259259259	fight_with_small_arms_and_light_weapons <-- Conduct_suicide,_car,_or_other_non-military_bombing
+76	0.08837209302325581	1.0410958904109588	1.9	fight_with_small_arms_and_light_weapons <-- Use_tactics_of_violent_repression
+339	0.3941860465116279	0.4216417910447761	0.9338842975206612	fight_with_small_arms_and_light_weapons <-- Use_conventional_military_force
+112	0.13023255813953488	0.011390216617512458	0.12698412698412698	fight_with_small_arms_and_light_weapons <-- Criticize_or_denounce, Accuse
+0.0	0.0	0.0	0.0	fight_with_small_arms_and_light_weapons <-- Threaten_with_military_force, Mobilize_or_increase_armed_forces
+8	0.009302325581395349	0.06451612903225806	0.27586206896551724	fight_with_small_arms_and_light_weapons <-- Impose_administrative_sanctions, Reduce_relations
+76	0.08837209302325581	1.6888888888888889	2.7142857142857144	fight_with_small_arms_and_light_weapons <-- Assassinate
+239	0.2779069767441861	0.07438530967942733	0.4742063492063492	fight_with_small_arms_and_light_weapons <-- Make_an_appeal_or_request
+203	0.23604651162790696	0.10684210526315789	0.5935672514619883	fight_with_small_arms_and_light_weapons <-- Criticize_or_denounce
+246	0.28604651162790695	0.1883614088820827	0.5720930232558139	fight_with_small_arms_and_light_weapons <-- Arrest,_detain,_or_charge_with_legal_action
+343	0.3988372093023256	0.343687374749499	0.6725490196078432	fight_with_small_arms_and_light_weapons <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	fight_with_small_arms_and_light_weapons <-- Increase_military_alert_status, Threaten_with_military_force
+57	0.06627906976744186	0.08494783904619971	0.2766990291262136	fight_with_small_arms_and_light_weapons <-- Arrest,_detain,_or_charge_with_legal_action, Physically_assault
+58	0.06744186046511629	0.5	1.5675675675675675	fight_with_small_arms_and_light_weapons <-- Protest_violently,_riot
+155	0.18023255813953487	0.30097087378640774	1.1742424242424243	fight_with_small_arms_and_light_weapons <-- Investigate
+18	0.020930232558139535	0.35294117647058826	1.125	fight_with_small_arms_and_light_weapons <-- Defy_norms,_law
+138	0.16046511627906976	0.018390191897654583	0.20175438596491227	fight_with_small_arms_and_light_weapons <-- Make_an_appeal_or_request, Reject
+0.0	0.0	0.0	0.0	fight_with_small_arms_and_light_weapons <-- Expel_or_deport_individuals, Threaten_with_sanctions,_boycott,_embargo
+74	0.08604651162790698	0.4157303370786517	1.5416666666666667	fight_with_small_arms_and_light_weapons <-- Reduce_relations
+38	0.044186046511627906	0.2122905027932961	1.0555555555555556	fight_with_small_arms_and_light_weapons <-- Express_intent_to_cooperate, Refuse_to_yield
+78	0.09069767441860466	0.9629629629629629	1.625	fight_with_small_arms_and_light_weapons <-- Sexually_assault

@@ -1,0 +1,8 @@
+Demonstrate_for_leadership_change <-- Demand_change_in_leadership
+Demonstrate_for_leadership_change <-- Obstruct_passage,_block
+Demonstrate_for_leadership_change <-- Demonstrate_or_rally
+Demonstrate_for_leadership_change <-- Demonstrate_for_leadership_change
+Demonstrate_for_leadership_change <-- Obstruct_passage_to_demand_leadership_change
+Demonstrate_for_leadership_change <-- Protest_violently,_riot
+Demonstrate_for_leadership_change <-- Engage_in_symbolic_act
+Demonstrate_for_leadership_change <-- Appeal_for_change_in_leadership

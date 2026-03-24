@@ -1,0 +1,87 @@
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Accuse_of_human_rights_abuses
+1	0.16666666666666666	0.14285714285714285	1.0	Reduce_or_stop_material_aid <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Impose_administrative_sanctions
+1	0.16666666666666666	0.0001232741617357002	0.013333333333333334	Reduce_or_stop_material_aid <-- Make_statement
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Investigate_human_rights_abuses
+1	0.16666666666666666	0.0003803727653100038	0.015625	Reduce_or_stop_material_aid <-- Praise_or_endorse
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Engage_in_negotiation
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Host_a_visit
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Reduce_or_break_diplomatic_relations
+6	1.0	1.2	1.2	Reduce_or_stop_material_aid <-- Reduce_or_stop_material_aid
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Refuse_to_yield
+1	0.16666666666666666	0.06666666666666667	0.25	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Demand
+1	0.16666666666666666	0.001358695652173913	0.0625	Reduce_or_stop_material_aid <-- Sign_formal_agreement
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Coerce
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Kill_by_physical_assault
+1	0.16666666666666666	0.0004692632566870014	0.02564102564102564	Reduce_or_stop_material_aid <-- Make_a_visit
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Threaten_with_military_force
+1	0.16666666666666666	0.005917159763313609	0.017543859649122806	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Consult
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Acknowledge_or_claim_responsibility
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_engage_in_material_cooperation
+1	0.16666666666666666	0.06666666666666667	0.25	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Apologize
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Ease_economic_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Accede_to_demands_for_change_in_policy
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Host_a_visit
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Accede_to_demands_for_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_yield
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Declare_truce,_ceasefire
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Make_empathetic_comment
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Yield
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Ease_political_dissent
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Demobilize_armed_forces
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Cooperate_militarily
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Appeal_to_yield
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Ease_military_blockade
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Make_optimistic_comment
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Return,_release_property
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Ease_curfew
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Mediate
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Praise_or_endorse
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Cooperate_economically
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Accede_to_demands_for_change_in_leadership
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Ease_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Grant_asylum
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Appeal_for_de-escalation_of_military_engagement
+1	0.16666666666666666	0.016129032258064516	0.043478260869565216	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Make_a_visit
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Accede_to_requests_or_demands_for_political_reform
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Forgive
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Express_accord
+0.0	0.0	0.0	0.0	Reduce_or_stop_material_aid <-- Express_intent_to_de-escalate_military_engagement, Accede_to_demands_for_rights

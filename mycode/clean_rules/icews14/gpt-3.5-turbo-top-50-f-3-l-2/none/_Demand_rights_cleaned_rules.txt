@@ -1,0 +1,29 @@
+Demand_rights <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+Demand_rights <-- Appeal_for_rights
+Demand_rights <-- Impose_restrictions_on_political_freedoms
+Demand_rights <-- Kill_by_physical_assault
+Demand_rights <-- Torture
+Demand_rights <-- Demonstrate_or_rally
+Demand_rights <-- Threaten_with_military_force, Use_tactics_of_violent_repression
+Demand_rights <-- Criticize_or_denounce, Use_tactics_of_violent_repression
+Demand_rights <-- Arrest,_detain,_or_charge_with_legal_action
+Demand_rights <-- Express_intent_to_change_institutions,_regime, Use_conventional_military_force
+Demand_rights <-- Physically_assault, Use_tactics_of_violent_repression
+Demand_rights <-- Appeal_for_material_cooperation, Reduce_relations
+Demand_rights <-- Conduct_strike_or_boycott, Impose_restrictions_on_political_freedoms
+Demand_rights <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+Demand_rights <-- fight_with_small_arms_and_light_weapons
+Demand_rights <-- Use_conventional_military_force
+Demand_rights <-- Bring_lawsuit_against
+Demand_rights <-- Demand_political_reform
+Demand_rights <-- Conduct_strike_or_boycott
+Demand_rights <-- Appeal_for_rights, Refuse_to_yield
+Demand_rights <-- Occupy_territory, Use_conventional_military_force
+Demand_rights <-- Protest_violently,_riot
+Demand_rights <-- Use_tactics_of_violent_repression
+Demand_rights <-- Accuse_of_human_rights_abuses
+Demand_rights <-- Demonstrate_or_rally, Arrest,_detain,_or_charge_with_legal_action
+Demand_rights <-- Seize_or_damage_property, Use_tactics_of_violent_repression
+Demand_rights <-- Engage_in_violent_protest_for_rights, Use_tactics_of_violent_repression
+Demand_rights <-- Engage_in_violent_protest_for_rights
+Demand_rights <-- Complain_officially, Refuse_to_ease_administrative_sanctions

@@ -1,0 +1,10 @@
+Accuse_of_crime,_corruption <-- Confiscate_property, Use_unconventional_violence
+Accuse_of_crime,_corruption <-- Accuse_of_crime,_corruption
+Accuse_of_crime,_corruption <-- Investigate
+Accuse_of_crime,_corruption <-- Ease_administrative_sanctions
+Accuse_of_crime,_corruption <-- Express_intent_to_release_persons_or_property
+Accuse_of_crime,_corruption <-- Reject, Accuse_of_crime,_corruption
+Accuse_of_crime,_corruption <-- Arrest,_detain,_or_charge_with_legal_action
+Accuse_of_crime,_corruption <-- Make_statement, Return,_release_person(s)
+Accuse_of_crime,_corruption <-- Demand_change_in_leadership
+Accuse_of_crime,_corruption <-- Demand

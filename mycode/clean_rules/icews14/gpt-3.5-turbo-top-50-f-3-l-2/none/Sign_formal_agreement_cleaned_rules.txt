@@ -1,0 +1,20 @@
+Sign_formal_agreement <-- Make_an_appeal_or_request, Host_a_visit
+Sign_formal_agreement <-- Sign_formal_agreement, Engage_in_diplomatic_cooperation
+Sign_formal_agreement <-- Consult
+Sign_formal_agreement <-- Host_a_visit, Make_a_visit
+Sign_formal_agreement <-- Express_intent_to_cooperate, Host_a_visit
+Sign_formal_agreement <-- Make_a_visit, Host_a_visit
+Sign_formal_agreement <-- Express_intent_to_cooperate_economically, Provide_economic_aid
+Sign_formal_agreement <-- Mediate
+Sign_formal_agreement <-- Express_intent_to_cooperate
+Sign_formal_agreement <-- Yield
+Sign_formal_agreement <-- Express_intent_to_meet_or_negotiate, Meet_at_a_'third'_location
+Sign_formal_agreement <-- Make_a_visit
+Sign_formal_agreement <-- Engage_in_negotiation
+Sign_formal_agreement <-- Make_statement, Make_optimistic_comment
+Sign_formal_agreement <-- Consult, Express_intent_to_cooperate
+Sign_formal_agreement <-- Host_a_visit
+Sign_formal_agreement <-- Provide_economic_aid
+Sign_formal_agreement <-- Consult, Engage_in_diplomatic_cooperation
+Sign_formal_agreement <-- Cooperate_economically
+Sign_formal_agreement <-- Grant_diplomatic_recognition

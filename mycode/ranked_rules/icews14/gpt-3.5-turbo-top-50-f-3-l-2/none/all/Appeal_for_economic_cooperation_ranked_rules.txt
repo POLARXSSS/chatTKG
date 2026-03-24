@@ -1,0 +1,53 @@
+6	0.3333333333333333	0.00030796078632654107	0.0071090047393364926	Appeal_for_economic_cooperation <-- Make_an_appeal_or_request, Make_statement
+2	0.1111111111111111	0.0392156862745098	0.2857142857142857	Appeal_for_economic_cooperation <-- Defy_norms,_law
+3	0.16666666666666666	0.0007446016381236039	0.016574585635359115	Appeal_for_economic_cooperation <-- Use_unconventional_violence, Make_statement
+1	0.05555555555555555	0.003816793893129771	0.07142857142857142	Appeal_for_economic_cooperation <-- Return,_release_person(s)
+5	0.2777777777777778	0.0005713632727688264	0.019011406844106463	Appeal_for_economic_cooperation <-- Accuse, Criticize_or_denounce
+1	0.05555555555555555	0.0002090738030524775	0.006493506493506494	Appeal_for_economic_cooperation <-- Meet_at_a_'third'_location, Make_statement
+2	0.1111111111111111	0.0002465483234714004	0.013157894736842105	Appeal_for_economic_cooperation <-- Make_statement
+3	0.16666666666666666	0.003006012024048096	0.047619047619047616	Appeal_for_economic_cooperation <-- Use_unconventional_violence
+1	0.05555555555555555	0.0028089887640449437	0.07142857142857142	Appeal_for_economic_cooperation <-- Arrest,_detain,_or_charge_with_legal_action, Return,_release_person(s)
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Appeal_for_intelligence, Appeal_for_military_aid
+5	0.2777777777777778	0.002631578947368421	0.032467532467532464	Appeal_for_economic_cooperation <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Defy_norms,_law, Make_optimistic_comment
+4	0.2222222222222222	0.007366482504604052	0.10256410256410256	Appeal_for_economic_cooperation <-- Make_optimistic_comment
+6	0.3333333333333333	0.0018674136321195146	0.02702702702702703	Appeal_for_economic_cooperation <-- Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Appeal_for_military_aid, Return,_release_person(s)
+4	0.2222222222222222	0.0027529249827942187	0.03125	Appeal_for_economic_cooperation <-- Accuse
+2	0.1111111111111111	0.03125	0.3333333333333333	Appeal_for_economic_cooperation <-- Appeal_for_intelligence
+2	0.1111111111111111	0.1	0.6666666666666666	Appeal_for_economic_cooperation <-- Appeal_for_military_aid
+3	0.16666666666666666	0.004672897196261682	0.05660377358490566	Appeal_for_economic_cooperation <-- Reject
+5	0.2777777777777778	0.0009203018590097553	0.019230769230769232	Appeal_for_economic_cooperation <-- Reject, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Appeal_to_others_to_settle_dispute
+2	0.1111111111111111	0.06896551724137931	1.0	Appeal_for_economic_cooperation <-- Accede_to_demands_for_change_in_leadership
+2	0.1111111111111111	0.0015313935681470138	0.05263157894736842	Appeal_for_economic_cooperation <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Meet_at_a_'third'_location
+1	0.05555555555555555	0.015873015873015872	0.2	Appeal_for_economic_cooperation <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Sign_formal_agreement, Cooperate_economically
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Declare_truce,_ceasefire, Violate_ceasefire
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Appeal_for_judicial_cooperation, Engage_in_judicial_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Demand_policy_change, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Use_unconventional_violence, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Reduce_or_break_diplomatic_relations, Reduce_relations
+2	0.1111111111111111	0.00024903498941601296	0.011111111111111112	Appeal_for_economic_cooperation <-- Consult, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Provide_economic_aid, Cooperate_economically
+5	0.2777777777777778	0.0012550200803212851	0.015015015015015015	Appeal_for_economic_cooperation <-- Engage_in_symbolic_act, Make_an_appeal_or_request
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Confiscate_property, Return,_release_property
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Express_intent_to_engage_in_material_cooperation, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Mediate, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Share_intelligence_or_information, Appeal_for_intelligence
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Demand_material_cooperation, Engage_in_material_cooperation
+1	0.05555555555555555	1.249344094350466e-05	0.0006858710562414266	Appeal_for_economic_cooperation <-- Make_a_visit, Host_a_visit
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Appeal_for_material_cooperation, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Engage_in_negotiation, Appeal_to_others_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Investigate, Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Demand_intelligence_cooperation, Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Yield, Refuse_to_yield
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Expel_or_deport_individuals, Grant_asylum
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Express_intent_to_provide_economic_aid, Provide_economic_aid
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Appeal_for_humanitarian_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Ease_economic_sanctions,_boycott,_embargo, Demand_economic_aid
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Apologize, Forgive
+0.0	0.0	0.0	0.0	Appeal_for_economic_cooperation <-- Reject_plan,_agreement_to_settle_dispute, Make_an_appeal_or_request
+3	0.16666666666666666	0.006342494714587738	0.06	Appeal_for_economic_cooperation <-- Return,_release_person(s), Make_statement

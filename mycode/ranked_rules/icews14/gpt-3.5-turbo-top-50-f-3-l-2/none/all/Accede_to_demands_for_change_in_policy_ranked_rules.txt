@@ -1,0 +1,19 @@
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Reduce_or_break_diplomatic_relations, Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Retreat_or_surrender_militarily, Reduce_or_break_diplomatic_relations
+1	0.5	0.002	0.5	Accede_to_demands_for_change_in_policy <-- Make_statement, Retreat_or_surrender_militarily
+1	0.5	0.014705882352941176	0.25	Accede_to_demands_for_change_in_policy <-- Reduce_or_break_diplomatic_relations
+1	0.5	0.0009950248756218905	0.015384615384615385	Accede_to_demands_for_change_in_policy <-- Reduce_or_break_diplomatic_relations, Make_statement
+1	0.5	4.690211528539937e-05	0.005988023952095809	Accede_to_demands_for_change_in_policy <-- Make_statement, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Reduce_or_break_diplomatic_relations, Criticize_or_denounce
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Impose_administrative_sanctions, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Retreat_or_surrender_militarily, Accuse
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Criticize_or_denounce, Impose_administrative_sanctions
+2	1.0	0.013245033112582781	0.4	Accede_to_demands_for_change_in_policy <-- Criticize_or_denounce, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Make_statement, Reduce_or_break_diplomatic_relations
+2	1.0	0.00020339672531272246	0.020618556701030927	Accede_to_demands_for_change_in_policy <-- Criticize_or_denounce, Accuse
+1	0.5	0.0016666666666666668	0.024390243902439025	Accede_to_demands_for_change_in_policy <-- Impose_administrative_sanctions, Make_statement
+2	1.0	0.05714285714285714	0.6666666666666666	Accede_to_demands_for_change_in_policy <-- Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Retreat_or_surrender_militarily, Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Accuse, Retreat_or_surrender_militarily
+0.0	0.0	0.0	0.0	Accede_to_demands_for_change_in_policy <-- Accuse, Reduce_or_break_diplomatic_relations

@@ -1,0 +1,13 @@
+Abduct,_hijack,_or_take_hostage <-- Use_unconventional_violence
+Abduct,_hijack,_or_take_hostage <-- Make_statement, Use_conventional_military_force
+Abduct,_hijack,_or_take_hostage <-- Carry_out_suicide_bombing
+Abduct,_hijack,_or_take_hostage <-- Arrest,_detain,_or_charge_with_legal_action, Criticize_or_denounce
+Abduct,_hijack,_or_take_hostage <-- Refuse_to_yield
+Abduct,_hijack,_or_take_hostage <-- Make_statement, Express_intent_to_cooperate
+Abduct,_hijack,_or_take_hostage <-- Threaten_with_military_force
+Abduct,_hijack,_or_take_hostage <-- Physically_assault
+Abduct,_hijack,_or_take_hostage <-- Confiscate_property
+Abduct,_hijack,_or_take_hostage <-- Kill_by_physical_assault
+Abduct,_hijack,_or_take_hostage <-- Coerce
+Abduct,_hijack,_or_take_hostage <-- Conduct_suicide,_car,_or_other_non-military_bombing
+Abduct,_hijack,_or_take_hostage <-- Use_conventional_military_force

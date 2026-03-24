@@ -1,0 +1,25 @@
+Appeal_to_others_to_meet_or_negotiate <-- Declare_truce,_ceasefire, Engage_in_negotiation
+Appeal_to_others_to_meet_or_negotiate <-- Host_a_visit, Make_a_visit
+Appeal_to_others_to_meet_or_negotiate <-- Ease_administrative_sanctions, Ease_economic_sanctions,_boycott,_embargo
+Appeal_to_others_to_meet_or_negotiate <-- Cooperate_militarily, Cooperate_economically
+Appeal_to_others_to_meet_or_negotiate <-- Apologize, Forgive
+Appeal_to_others_to_meet_or_negotiate <-- Share_intelligence_or_information, Express_intent_to_cooperate_on_intelligence
+Appeal_to_others_to_meet_or_negotiate <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+Appeal_to_others_to_meet_or_negotiate <-- Return,_release_person(s), Express_intent_to_release_persons_or_property
+Appeal_to_others_to_meet_or_negotiate <-- Demand_meeting,_negotiation, Consult
+Appeal_to_others_to_meet_or_negotiate <-- Make_an_appeal_or_request
+Appeal_to_others_to_meet_or_negotiate <-- Appeal_for_easing_of_administrative_sanctions, Ease_administrative_sanctions
+Appeal_to_others_to_meet_or_negotiate <-- Conduct_hunger_strike, Make_an_appeal_or_request
+Appeal_to_others_to_meet_or_negotiate <-- Express_intent_to_meet_or_negotiate
+Appeal_to_others_to_meet_or_negotiate <-- Threaten_with_military_force, Defend_verbally
+Appeal_to_others_to_meet_or_negotiate <-- Reduce_or_break_diplomatic_relations, Engage_in_diplomatic_cooperation
+Appeal_to_others_to_meet_or_negotiate <-- Demand_political_reform, Accede_to_demands_for_change_in_leadership
+Appeal_to_others_to_meet_or_negotiate <-- Provide_economic_aid, Express_intent_to_provide_material_aid
+Appeal_to_others_to_meet_or_negotiate <-- Meet_at_a_'third'_location, Discuss_by_telephone
+Appeal_to_others_to_meet_or_negotiate <-- Engage_in_diplomatic_cooperation, Express_intent_to_cooperate_militarily
+Appeal_to_others_to_meet_or_negotiate <-- Mediate, Express_intent_to_accept_mediation
+Appeal_to_others_to_meet_or_negotiate <-- Demand_rights, Accede_to_demands_for_rights
+Appeal_to_others_to_meet_or_negotiate <-- Make_optimistic_comment, Express_intent_to_cooperate
+Appeal_to_others_to_meet_or_negotiate <-- Complain_officially, Make_statement
+Appeal_to_others_to_meet_or_negotiate <-- Express_intent_to_cooperate_on_judicial_matters, Engage_in_judicial_cooperation
+Appeal_to_others_to_meet_or_negotiate <-- Express_intent_to_yield, Yield

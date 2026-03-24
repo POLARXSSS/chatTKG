@@ -1,0 +1,72 @@
+Demand_change_in_leadership <-- Threaten_with_repression, Refuse_to_yield
+Demand_change_in_leadership <-- Demand_change_in_leadership, Accede_to_demands_for_change_in_leadership
+Demand_change_in_leadership <-- Accuse, Criticize_or_denounce
+Demand_change_in_leadership <-- Threaten_to_halt_negotiations, Refuse_to_yield
+Demand_change_in_leadership <-- Coerce, Refuse_to_yield
+Demand_change_in_leadership <-- Physically_assault
+Demand_change_in_leadership <-- Engage_in_political_dissent
+Demand_change_in_leadership <-- Conduct_suicide,_car,_or_other_non-military_bombing, Refuse_to_yield
+Demand_change_in_leadership <-- Torture
+Demand_change_in_leadership <-- Impose_embargo,_boycott,_or_sanctions, Ease_economic_sanctions,_boycott,_embargo
+Demand_change_in_leadership <-- Seize_or_damage_property
+Demand_change_in_leadership <-- Protest_violently,_riot, Refuse_to_yield
+Demand_change_in_leadership <-- Threaten_with_administrative_sanctions, Refuse_to_yield
+Demand_change_in_leadership <-- Rally_opposition_against
+Demand_change_in_leadership <-- Attempt_to_assassinate
+Demand_change_in_leadership <-- Use_as_human_shield, Refuse_to_yield
+Demand_change_in_leadership <-- Destroy_property, Refuse_to_yield
+Demand_change_in_leadership <-- Carry_out_car_bombing, Refuse_to_yield
+Demand_change_in_leadership <-- Engage_in_mass_killings, Express_intent_to_cooperate
+Demand_change_in_leadership <-- fight_with_small_arms_and_light_weapons, Refuse_to_yield
+Demand_change_in_leadership <-- Mobilize_or_increase_armed_forces, Refuse_to_yield
+Demand_change_in_leadership <-- Threaten, Refuse_to_yield
+Demand_change_in_leadership <-- Demand_that_target_yields, Yield
+Demand_change_in_leadership <-- Use_unconventional_violence, Refuse_to_yield
+Demand_change_in_leadership <-- Threaten_to_halt_mediation, Refuse_to_yield
+Demand_change_in_leadership <-- Occupy_territory
+Demand_change_in_leadership <-- Increase_military_alert_status, Refuse_to_yield
+Demand_change_in_leadership <-- Obstruct_passage,_block, Refuse_to_yield
+Demand_change_in_leadership <-- Appeal_for_change_in_leadership
+Demand_change_in_leadership <-- Use_conventional_military_force, Refuse_to_yield
+Demand_change_in_leadership <-- fight_with_artillery_and_tanks, Refuse_to_yield
+Demand_change_in_leadership <-- Use_chemical,_biological,_or_radiological_weapons, Refuse_to_yield
+Demand_change_in_leadership <-- Threaten_to_reduce_or_stop_aid, Refuse_to_yield
+Demand_change_in_leadership <-- Kill_by_physical_assault, Refuse_to_yield
+Demand_change_in_leadership <-- Threaten_non-force, Refuse_to_yield
+Demand_change_in_leadership <-- Confiscate_property, Refuse_to_yield
+Demand_change_in_leadership <-- Conduct_strike_or_boycott
+Demand_change_in_leadership <-- Engage_in_negotiation, Reject_plan,_agreement_to_settle_dispute
+Demand_change_in_leadership <-- Give_ultimatum, Refuse_to_yield
+Demand_change_in_leadership <-- Express_intent_to_change_leadership
+Demand_change_in_leadership <-- Ban_political_parties_or_politicians, Refuse_to_yield
+Demand_change_in_leadership <-- Increase_police_alert_status, Refuse_to_yield
+Demand_change_in_leadership <-- Detonate_nuclear_weapons, Refuse_to_yield
+Demand_change_in_leadership <-- Carry_out_suicide_bombing, Express_intent_to_cooperate
+Demand_change_in_leadership <-- Sexually_assault, Refuse_to_yield
+Demand_change_in_leadership <-- Expel_or_deport_individuals, Refuse_to_yield
+Demand_change_in_leadership <-- Abduct,_hijack,_or_take_hostage
+Demand_change_in_leadership <-- Impose_restrictions_on_political_freedoms, Refuse_to_yield
+Demand_change_in_leadership <-- Complain_officially, Yield
+Demand_change_in_leadership <-- Reject_request_for_change_in_leadership, Demand_change_in_leadership
+Demand_change_in_leadership <-- Assassinate
+Demand_change_in_leadership <-- Investigate_human_rights_abuses, Criticize_or_denounce
+Demand_change_in_leadership <-- Demonstrate_for_leadership_change
+Demand_change_in_leadership <-- Provide_humanitarian_aid, Refuse_to_release_persons_or_property
+Demand_change_in_leadership <-- Make_an_appeal_or_request, Yield
+Demand_change_in_leadership <-- Threaten_with_military_force, Refuse_to_yield
+Demand_change_in_leadership <-- Violate_ceasefire, Declare_truce,_ceasefire
+Demand_change_in_leadership <-- Arrest,_detain,_or_charge_with_legal_action, Consult
+Demand_change_in_leadership <-- Mobilize_or_increase_police_power, Refuse_to_yield
+Demand_change_in_leadership <-- Threaten_with_political_dissent,_protest, Refuse_to_yield
+Demand_change_in_leadership <-- Express_intent_to_yield, Yield
+Demand_change_in_leadership <-- Appeal_to_yield, Yield
+Demand_change_in_leadership <-- Threaten_with_sanctions,_boycott,_embargo, Refuse_to_yield
+Demand_change_in_leadership <-- Obstruct_passage_to_demand_leadership_change, Refuse_to_yield
+Demand_change_in_leadership <-- Reduce_or_break_diplomatic_relations, Threaten_to_reduce_or_break_relations
+Demand_change_in_leadership <-- Appeal_to_engage_in_or_accept_mediation, Halt_mediation
+Demand_change_in_leadership <-- Engage_in_symbolic_act, Consult
+Demand_change_in_leadership <-- Carry_out_roadside_bombing, Refuse_to_yield
+Demand_change_in_leadership <-- Impose_state_of_emergency_or_martial_law, Defy_norms,_law
+Demand_change_in_leadership <-- Demand_change_in_leadership, Yield
+Demand_change_in_leadership <-- Make_statement, Yield
+Demand_change_in_leadership <-- Employ_aerial_weapons, Refuse_to_yield

@@ -1,0 +1,5 @@
+0.0	0.0	0.0	0.0	Assassinate <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Assassinate <-- Threaten_with_military_force, Use_conventional_military_force
+20	0.3389830508474576	0.02004008016032064	0.14814814814814814	Assassinate <-- Use_unconventional_violence
+4	0.06779661016949153	0.4444444444444444	4.0	Assassinate <-- Attempt_to_assassinate
+9	0.15254237288135594	0.011194029850746268	0.14754098360655737	Assassinate <-- Use_conventional_military_force

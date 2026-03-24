@@ -1,0 +1,10 @@
+Protest_violently,_riot <-- Obstruct_passage,_block
+Protest_violently,_riot <-- Obstruct_passage_to_demand_leadership_change, Threaten
+Protest_violently,_riot <-- Impose_restrictions_on_political_freedoms
+Protest_violently,_riot <-- Use_conventional_military_force, Arrest,_detain,_or_charge_with_legal_action
+Protest_violently,_riot <-- Reduce_or_stop_humanitarian_assistance
+Protest_violently,_riot <-- Use_tactics_of_violent_repression
+Protest_violently,_riot <-- Protest_violently,_riot
+Protest_violently,_riot <-- Engage_in_mass_expulsion
+Protest_violently,_riot <-- Use_conventional_military_force
+Protest_violently,_riot <-- Return,_release_person(s)

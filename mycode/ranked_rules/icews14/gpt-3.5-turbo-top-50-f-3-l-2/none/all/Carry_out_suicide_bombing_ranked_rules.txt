@@ -1,0 +1,10 @@
+32	0.34782608695652173	0.19753086419753085	0.5079365079365079	Carry_out_suicide_bombing <-- Conduct_suicide,_car,_or_other_non-military_bombing, Use_conventional_military_force
+92	1.0	2.4864864864864864	2.4864864864864864	Carry_out_suicide_bombing <-- Carry_out_suicide_bombing
+51	0.5543478260869565	0.1559633027522936	0.1559633027522936	Carry_out_suicide_bombing <-- Carry_out_suicide_bombing, Make_statement
+92	1.0	2.4864864864864864	2.4864864864864864	Carry_out_suicide_bombing <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Carry_out_suicide_bombing <-- Praise_or_endorse, Abduct,_hijack,_or_take_hostage
+44	0.4782608695652174	0.8979591836734694	3.6666666666666665	Carry_out_suicide_bombing <-- Conduct_suicide,_car,_or_other_non-military_bombing
+0.0	0.0	0.0	0.0	Carry_out_suicide_bombing <-- Refuse_to_yield, Praise_or_endorse
+35	0.3804347826086957	0.2966101694915254	8.75	Carry_out_suicide_bombing <-- Occupy_territory
+72	0.782608695652174	0.07214428857715431	0.5581395348837209	Carry_out_suicide_bombing <-- Use_unconventional_violence
+32	0.34782608695652173	0.43243243243243246	4.571428571428571	Carry_out_suicide_bombing <-- Threaten_with_military_force

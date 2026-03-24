@@ -1,0 +1,31 @@
+Occupy_territory(X0,X1,T3) <- Use_conventional_military_force(X0,X1,T0), Use_tactics_of_violent_repression(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Declare_truce,_ceasefire(X0,X1,T0), Refuse_to_ease_administrative_sanctions(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T3) <- Violate_ceasefire(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Threaten_with_military_force(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Make_an_appeal_or_request(X0,X1,T0), Reject(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T1) <- Increase_military_alert_status(X0,X1,T0).
+Occupy_territory(X0,X1,T1) <- Threaten_with_military_force(X0,X1,T0).
+Occupy_territory(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+Occupy_territory(X0,X1,T3) <- Give_ultimatum(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Occupy_territory(X0,X1,T0), Increase_military_alert_status(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Make_statement(X0,X1,T0), Make_statement(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T3) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0), Confiscate_property(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Engage_in_negotiation(X0,X1,T0), Halt_negotiations(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Provide_military_aid(X2,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T1) <- Impose_state_of_emergency_or_martial_law(X0,X1,T0).
+Occupy_territory(X0,X1,T3) <- Expel_or_deport_individuals(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Receive_deployment_of_peacekeepers(X0,X1,T0), Expel_or_withdraw_peacekeepers(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T3) <- Impose_embargo,_boycott,_or_sanctions(X0,X1,T0), Reduce_relations(X0,X1,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T1) <- Carry_out_suicide_bombing(X0,X1,T0).
+Occupy_territory(X0,X1,T1) <- Occupy_territory(X0,X1,T0).
+Occupy_territory(X0,X1,T1) <- Employ_aerial_weapons(X0,X1,T0).
+Occupy_territory(X0,X1,T3) <- Impose_state_of_emergency_or_martial_law(X0,X1,T0), Use_tactics_of_violent_repression(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0), Use_unconventional_violence(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0), Protest_violently,_riot(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T1) <- Mobilize_or_increase_armed_forces(X0,X1,T0).
+Occupy_territory(X0,X1,T3) <- Consult(X0,X1,T0), Reject(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T3) <- Host_a_visit(X0,X1,T0), Refuse_to_yield(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Occupy_territory(X0,X1,T1) <- Conduct_suicide,_car,_or_other_non-military_bombing(X0,X1,T0).
+Occupy_territory(X0,X1,T3) <- Express_intent_to_change_leadership(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Occupy_territory(X0,X1,T3) <- Coerce(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).

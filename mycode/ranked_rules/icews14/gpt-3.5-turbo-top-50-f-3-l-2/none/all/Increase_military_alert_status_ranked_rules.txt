@@ -1,0 +1,274 @@
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Provide_military_aid
+2	0.05555555555555555	0.0010526315789473684	0.2857142857142857	Increase_military_alert_status <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Cooperate_militarily
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Express_intent_to_provide_military_aid, Cooperate_militarily
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_change_institutions,_regime
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_policy_change, Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_release_of_persons_or_property, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Yield
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_material_cooperation, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_change_in_leadership, Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_military_force, Threaten_with_repression
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_to_reduce_or_stop_aid, Reduce_or_stop_military_assistance
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate_militarily
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_to_reduce_or_break_relations, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_settle_dispute
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_material_aid, Reject_material_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Provide_humanitarian_aid
+2	0.05555555555555555	0.041666666666666664	0.4	Increase_military_alert_status <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Use_conventional_military_force, fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Sign_formal_agreement
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo
+2	0.05555555555555555	0.25	1.0	Increase_military_alert_status <-- Impose_state_of_emergency_or_martial_law
+2	0.05555555555555555	0.02127659574468085	0.4	Increase_military_alert_status <-- Confiscate_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Increase_military_alert_status, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Refuse_to_yield
+7	0.19444444444444445	0.0945945945945946	3.5	Increase_military_alert_status <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_accept_mediation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_de-escalation_of_military_engagement, Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Share_intelligence_or_information
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Engage_in_judicial_cooperation
+2	0.05555555555555555	0.0015313935681470138	0.03636363636363636	Increase_military_alert_status <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_military_force, Give_ultimatum
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_political_dissent,_protest
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Grant_asylum
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_to_halt_mediation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_intelligence_cooperation, Reject_military_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Consult
+17	0.4722222222222222	0.021144278606965175	0.22666666666666666	Increase_military_alert_status <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Halt_mediation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Provide_military_protection_or_peacekeeping, Reject_request_for_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Give_ultimatum
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Appeal_for_military_protection_or_peacekeeping
+7	0.19444444444444445	0.3684210526315789	2.3333333333333335	Increase_military_alert_status <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Express_intent_to_change_leadership, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Increase_military_alert_status, Violate_ceasefire
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_sanctions,_boycott,_embargo, Reduce_or_break_diplomatic_relations
+3	0.08333333333333333	0.6	3.0	Increase_military_alert_status <-- Destroy_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_military_aid, Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_war_crimes, Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_to_halt_negotiations, Halt_negotiations
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_change_in_institutions,_regime
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_aggression
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_change_in_leadership, Coerce
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Engage_in_material_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_yield
+4	0.1111111111111111	0.046511627906976744	0.4	Increase_military_alert_status <-- Cooperate_militarily
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Investigate_crime,_corruption
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_aggression, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Occupy_territory, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Consider_policy_option
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Forgive
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_meeting,_negotiation, Reject_proposal_to_meet,_discuss,_or_negotiate
+19	0.5277777777777778	0.2261904761904762	1.3571428571428572	Increase_military_alert_status <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Return,_release_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Accuse_of_human_rights_abuses
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Engage_in_negotiation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Discuss_by_telephone
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_settling_of_dispute, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_non-force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_mediate
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Bring_lawsuit_against
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_that_target_yields, Refuse_to_yield
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_administrative_sanctions, Impose_administrative_sanctions
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Express_intent_to_change_leadership
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Impose_state_of_emergency_or_martial_law, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Complain_officially
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Engage_in_mass_expulsion
+3	0.08333333333333333	0.00012365524916532706	0.013953488372093023	Increase_military_alert_status <-- Make_statement, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate_on_intelligence
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate_economically
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_to_halt_negotiations
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reject_request_for_military_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_easing_of_administrative_sanctions, Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_institute_political_reform
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_to_reduce_or_break_relations
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Express_intent_to_change_institutions,_regime
+12	0.3333333333333333	0.028708133971291867	0.6666666666666666	Increase_military_alert_status <-- fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_policy_change
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Provide_economic_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_provide_economic_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Investigate_human_rights_abuses
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Halt_negotiations
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Coerce
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Return,_release_person(s)
+1	0.027777777777777776	0.017857142857142856	0.5	Increase_military_alert_status <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Investigate_war_crimes
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_repression
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_economic_aid, Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_military_force, Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_provide_material_aid
+6	0.16666666666666666	0.007863695937090432	0.5	Increase_military_alert_status <-- Make_statement, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_military_aid, Reject_request_for_military_aid
+15	0.4166666666666667	0.1271186440677966	2.5	Increase_military_alert_status <-- Occupy_territory
+2	0.05555555555555555	0.125	2.0	Increase_military_alert_status <-- Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Host_a_visit, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo, Refuse_to_ease_economic_sanctions,_boycott,_or_embargo
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_cooperate_on_judicial_matters
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Express_intent_to_provide_military_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_to_halt_mediation, Halt_mediation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_judicial_cooperation, Reject_judicial_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Apologize
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Veto
+3	0.08333333333333333	1.0	3.0	Increase_military_alert_status <-- Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_change_in_leadership, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_provide_military_protection_or_peacekeeping
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Cooperate_economically
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_administrative_sanctions
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Express_intent_to_change_policy
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_political_reform
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Meet_at_a_'third'_location
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Increase_military_alert_status, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Mediate
+5	0.1388888888888889	0.03597122302158273	0.8333333333333334	Increase_military_alert_status <-- Impose_administrative_sanctions
+36	1.0	1.5	1.5	Increase_military_alert_status <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_military_force, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Make_a_visit, Refuse_to_yield
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Assassinate
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Violate_ceasefire, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_rights, Express_intent_to_provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Obstruct_passage_to_demand_leadership_change
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Increase_military_alert_status, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_change_in_institutions,_regime, Ban_political_parties_or_politicians
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Torture
+1	0.027777777777777776	0.001002004008016032	0.16666666666666666	Increase_military_alert_status <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_war_crimes, Increase_military_alert_status
+5	0.1388888888888889	0.0005770340450086555	0.07246376811594203	Increase_military_alert_status <-- Host_a_visit, Make_a_visit
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations, Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Impose_state_of_emergency_or_martial_law, Increase_military_alert_status
+4	0.1111111111111111	4.997376377401864e-05	0.013888888888888888	Increase_military_alert_status <-- Make_a_visit, Host_a_visit
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Refuse_to_de-escalate_military_engagement, Threaten_with_military_force
+2	0.05555555555555555	0.14285714285714285	2.0	Increase_military_alert_status <-- Arrest,_detain,_or_charge_with_legal_action, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Use_chemical,_biological,_or_radiological_weapons
+36	1.0	1.5	1.5	Increase_military_alert_status <-- Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Provide_military_aid, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_military_aid, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Engage_in_mass_killings, Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Use_tactics_of_violent_repression, Increase_military_alert_status
+2	0.05555555555555555	0.0010526315789473684	0.2857142857142857	Increase_military_alert_status <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Seize_or_damage_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Abduct,_hijack,_or_take_hostage, Coerce
+2	0.05555555555555555	0.0015313935681470138	0.03636363636363636	Increase_military_alert_status <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Engage_in_mass_killings
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Assassinate
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demonstrate_military_or_police_power
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Use_chemical,_biological,_or_radiological_weapons, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Kill_by_physical_assault, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Carry_out_car_bombing
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Engage_in_violent_protest_for_rights, Demonstrate_military_or_police_power
+12	0.3333333333333333	0.028708133971291867	0.6666666666666666	Increase_military_alert_status <-- fight_with_small_arms_and_light_weapons
+2	0.05555555555555555	0.125	2.0	Increase_military_alert_status <-- Impose_blockade,_restrict_movement
+19	0.5277777777777778	0.2261904761904762	1.3571428571428572	Increase_military_alert_status <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demonstrate_military_or_police_power, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Detonate_nuclear_weapons, Use_chemical,_biological,_or_radiological_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demonstrate_military_or_police_power, Increase_military_alert_status
+1	0.027777777777777776	0.002680965147453083	0.01639344262295082	Increase_military_alert_status <-- Mobilize_or_increase_armed_forces, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Torture, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reject_military_cooperation, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Refuse_to_de-escalate_military_engagement
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Attempt_to_assassinate, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Confiscate_property, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Detonate_nuclear_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Destroy_property, Occupy_territory
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_aggression, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Carry_out_suicide_bombing, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Criticize_or_denounce, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Coerce
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Violate_ceasefire, Increase_military_alert_status
+2	0.05555555555555555	0.25	1.0	Increase_military_alert_status <-- Impose_state_of_emergency_or_martial_law
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Violate_ceasefire, Use_conventional_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Destroy_property, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Carry_out_car_bombing, Use_unconventional_violence
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reduce_or_break_diplomatic_relations, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Detonate_nuclear_weapons, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_military_force, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Kill_by_physical_assault, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Arrest,_detain,_or_charge_with_legal_action, Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Coerce, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Provide_military_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Assassinate, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_aggression
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Use_conventional_military_force, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Carry_out_car_bombing, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Confiscate_property, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Host_a_visit, Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Threaten_with_military_force, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Attempt_to_assassinate
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Torture, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_human_rights_abuses, Impose_embargo,_boycott,_or_sanctions
+2	0.05555555555555555	0.02127659574468085	0.4	Increase_military_alert_status <-- Confiscate_property
+7	0.19444444444444445	0.3684210526315789	2.3333333333333335	Increase_military_alert_status <-- fight_with_artillery_and_tanks
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Seize_or_damage_property, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Torture
+1	0.027777777777777776	0.017857142857142856	0.5	Increase_military_alert_status <-- Employ_aerial_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Engage_in_violent_protest_for_rights
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_military_aid, Provide_military_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Engage_in_mass_killings, Increase_military_alert_status
+17	0.4722222222222222	0.021144278606965175	0.22666666666666666	Increase_military_alert_status <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Protest_violently,_riot, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Accuse_of_war_crimes
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Reject_military_cooperation
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Carry_out_suicide_bombing
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Refuse_to_de-escalate_military_engagement, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Expel_or_deport_individuals, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Demand_military_aid
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Abduct,_hijack,_or_take_hostage, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Expel_or_deport_individuals
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- fight_with_small_arms_and_light_weapons, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Impose_embargo,_boycott,_or_sanctions
+7	0.19444444444444445	0.0945945945945946	3.5	Increase_military_alert_status <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Protest_violently,_riot
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Assassinate, Threaten_with_military_force
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Employ_aerial_weapons, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Impose_blockade,_restrict_movement, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Mobilize_or_increase_armed_forces, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- fight_with_artillery_and_tanks, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Occupy_territory, Impose_blockade,_restrict_movement
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Impose_embargo,_boycott,_or_sanctions, Increase_military_alert_status
+3	0.08333333333333333	0.6	3.0	Increase_military_alert_status <-- Destroy_property
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Abduct,_hijack,_or_take_hostage
+15	0.4166666666666667	0.1271186440677966	2.5	Increase_military_alert_status <-- Occupy_territory
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- fight_with_artillery_and_tanks, fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Occupy_territory, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Increase_military_alert_status <-- Engage_in_violent_protest_for_rights, Increase_military_alert_status

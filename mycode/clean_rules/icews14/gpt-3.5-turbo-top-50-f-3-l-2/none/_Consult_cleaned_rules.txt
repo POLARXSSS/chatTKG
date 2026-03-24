@@ -1,0 +1,39 @@
+Consult <-- Make_a_visit
+Consult <-- Reject_proposal_to_meet,_discuss,_or_negotiate, Express_intent_to_meet_or_negotiate
+Consult <-- Grant_asylum, Return,_release_person(s)
+Consult <-- Host_a_visit
+Consult <-- Veto, Consider_policy_option
+Consult <-- Demand_meeting,_negotiation
+Consult <-- Mobilize_or_increase_armed_forces, Demobilize_armed_forces
+Consult <-- Grant_diplomatic_recognition
+Consult <-- Use_conventional_military_force, Retreat_or_surrender_militarily
+Consult <-- Make_statement, Make_an_appeal_or_request
+Consult <-- Appeal_for_humanitarian_aid
+Consult <-- Appeal_for_judicial_cooperation
+Consult <-- Provide_humanitarian_aid
+Consult <-- Protest_violently,_riot, Demand_rights
+Consult <-- Protest_violently,_riot, Appeal_for_change_in_leadership
+Consult <-- Declare_truce,_ceasefire, Halt_mediation
+Consult <-- Engage_in_diplomatic_cooperation
+Consult <-- Impose_administrative_sanctions, Ease_administrative_sanctions
+Consult <-- Share_intelligence_or_information
+Consult <-- Express_intent_to_meet_or_negotiate
+Consult <-- Discuss_by_telephone
+Consult <-- Complain_officially
+Consult <-- Mediate, Express_intent_to_accept_mediation
+Consult <-- Threaten, Yield
+Consult <-- Ban_political_parties_or_politicians, Ease_state_of_emergency_or_martial_law
+Consult <-- Engage_in_judicial_cooperation
+Consult <-- Threaten_with_military_force, Demand_de-escalation_of_military_engagement
+Consult <-- Appeal_for_material_cooperation
+Consult <-- Engage_in_negotiation
+Consult <-- Expel_or_deport_individuals, Receive_deployment_of_peacekeepers
+Consult <-- Meet_at_a_'third'_location
+Consult <-- Express_intent_to_cooperate_economically, Cooperate_economically
+Consult <-- Praise_or_endorse, Express_accord
+Consult <-- Sign_formal_agreement
+Consult <-- Accuse, Defend_verbally
+Consult <-- Impose_blockade,_restrict_movement, Ease_curfew
+Consult <-- Investigate_crime,_corruption
+Consult <-- Provide_military_aid, Receive_inspectors
+Consult <-- Engage_in_material_cooperation

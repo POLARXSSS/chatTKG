@@ -1,0 +1,137 @@
+1	0.022727272727272728	0.0009633911368015414	0.016129032258064516	Refuse_to_yield <-- Express_intent_to_meet_or_negotiate, Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten_with_sanctions,_boycott,_embargo
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Increase_military_alert_status
+4	0.09090909090909091	0.04878048780487805	0.19047619047619047	Refuse_to_yield <-- Coerce
+1	0.022727272727272728	0.012048192771084338	0.07692307692307693	Refuse_to_yield <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+1	0.022727272727272728	0.0033333333333333335	0.029411764705882353	Refuse_to_yield <-- Engage_in_negotiation, Halt_negotiations
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Investigate_crime,_corruption, Deny_responsibility
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Use_tactics_of_violent_repression
+6	0.13636363636363635	0.010416666666666666	0.2222222222222222	Refuse_to_yield <-- Make_an_appeal_or_request, Decline_comment
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Reduce_or_break_diplomatic_relations
+1	0.022727272727272728	0.02	0.2	Refuse_to_yield <-- Give_ultimatum
+8	0.18181818181818182	0.00303951367781155	0.038461538461538464	Refuse_to_yield <-- Accuse, Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Abduct,_hijack,_or_take_hostage, Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Demand_that_target_yields
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Bring_lawsuit_against, Defend_verbally
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Appeal_for_change_in_leadership, Mobilize_or_increase_police_power
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Impose_blockade,_restrict_movement, Refuse_to_de-escalate_military_engagement
+10	0.22727272727272727	0.012437810945273632	0.2564102564102564	Refuse_to_yield <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten_to_reduce_or_stop_aid
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Demand_material_cooperation, Reject_material_cooperation
+1	0.022727272727272728	0.013513513513513514	0.1111111111111111	Refuse_to_yield <-- Threaten_with_military_force
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Appeal_for_policy_change, Reject_request_for_change_in_leadership
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Impose_embargo,_boycott,_or_sanctions
+44	1.0	1.1891891891891893	1.1891891891891893	Refuse_to_yield <-- Refuse_to_yield
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Demonstrate_or_rally, Rally_opposition_against
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Violate_ceasefire
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Protest_violently,_riot, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Express_intent_to_provide_economic_aid, Reject_economic_cooperation
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Receive_deployment_of_peacekeepers, Expel_or_withdraw_peacekeepers
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Provide_military_aid, Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Defy_norms,_law
+44	1.0	1.1891891891891893	1.1891891891891893	Refuse_to_yield <-- Refuse_to_yield
+1	0.022727272727272728	0.001976284584980237	0.022222222222222223	Refuse_to_yield <-- Threaten, Deny_responsibility
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Appeal_to_engage_in_or_accept_mediation, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Seize_or_damage_property, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Confiscate_property, Threaten
+4	0.09090909090909091	0.012987012987012988	0.10256410256410256	Refuse_to_yield <-- Deny_responsibility, Threaten
+3	0.06818181818181818	0.0033444816053511705	0.045454545454545456	Refuse_to_yield <-- Demand, fight_with_small_arms_and_light_weapons
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Reject_proposal_to_meet,_discuss,_or_negotiate
+9	0.20454545454545456	0.0017928286852589642	0.05202312138728324	Refuse_to_yield <-- Make_statement, Threaten
+2	0.045454545454545456	0.02127659574468085	0.25	Refuse_to_yield <-- Confiscate_property
+13	0.29545454545454547	0.006842105263157895	0.06103286384976526	Refuse_to_yield <-- Criticize_or_denounce
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Make_pessimistic_comment
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Destroy_property, Threaten
+1	0.022727272727272728	0.0011668611435239206	0.018867924528301886	Refuse_to_yield <-- Use_unconventional_violence, Threaten
+4	0.09090909090909091	0.04878048780487805	0.19047619047619047	Refuse_to_yield <-- Coerce
+2	0.045454545454545456	0.014285714285714285	0.1111111111111111	Refuse_to_yield <-- Physically_assault
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Decline_comment, Threaten
+8	0.18181818181818182	0.046242774566473986	0.26666666666666666	Refuse_to_yield <-- Deny_responsibility
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Obstruct_passage,_block, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Use_tactics_of_violent_repression
+3	0.06818181818181818	0.0037831021437578815	0.022900763358778626	Refuse_to_yield <-- Make_optimistic_comment, Threaten
+1	0.022727272727272728	0.02	0.1	Refuse_to_yield <-- Reject_plan,_agreement_to_settle_dispute
+1	0.022727272727272728	0.06666666666666667	0.125	Refuse_to_yield <-- Yield, Refuse_to_yield
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Demand_change_in_leadership
+10	0.22727272727272727	0.0021258503401360546	0.047619047619047616	Refuse_to_yield <-- Make_an_appeal_or_request, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Seize_or_damage_property
+1	0.022727272727272728	0.006369426751592357	0.1111111111111111	Refuse_to_yield <-- Kill_by_physical_assault, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Halt_mediation
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Use_tactics_of_violent_repression, Threaten
+2	0.045454545454545456	0.021739130434782608	0.08695652173913043	Refuse_to_yield <-- Complain_officially
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Complain_officially
+1	0.022727272727272728	0.004672897196261682	0.058823529411764705	Refuse_to_yield <-- Complain_officially, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Veto
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Mobilize_or_increase_armed_forces
+6	0.13636363636363635	0.05084745762711865	0.42857142857142855	Refuse_to_yield <-- Expel_or_deport_individuals
+1	0.022727272727272728	0.0012091898428053204	0.020833333333333332	Refuse_to_yield <-- Threaten, Use_conventional_military_force
+1	0.022727272727272728	0.012048192771084338	0.07692307692307693	Refuse_to_yield <-- Reject_proposal_to_meet,_discuss,_or_negotiate
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Veto, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Reduce_or_break_diplomatic_relations
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Refuse_to_release_persons_or_property
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Use_unconventional_violence
+12	0.2727272727272727	0.029197080291970802	0.21428571428571427	Refuse_to_yield <-- Make_pessimistic_comment
+1	0.022727272727272728	0.03333333333333333	0.125	Refuse_to_yield <-- Declare_truce,_ceasefire, Threaten
+1	0.022727272727272728	0.0196078431372549	0.09090909090909091	Refuse_to_yield <-- Defy_norms,_law
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Halt_negotiations
+1	0.022727272727272728	0.02	0.2	Refuse_to_yield <-- Give_ultimatum
+3	0.06818181818181818	0.0007292173067574137	0.008849557522123894	Refuse_to_yield <-- Threaten, Criticize_or_denounce
+1	0.022727272727272728	0.0019801980198019802	0.02702702702702703	Refuse_to_yield <-- Provide_humanitarian_aid, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Destroy_property
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Decline_comment
+7	0.1590909090909091	0.14583333333333334	0.7	Refuse_to_yield <-- Impose_restrictions_on_political_freedoms
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Seize_or_damage_property
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Reduce_relations, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Arrest,_detain,_or_charge_with_legal_action
+18	0.4090909090909091	0.012388162422573986	0.09	Refuse_to_yield <-- Accuse
+3	0.06818181818181818	0.004608294930875576	0.04054054054054054	Refuse_to_yield <-- Sign_formal_agreement, Threaten
+1	0.022727272727272728	0.015625	0.09090909090909091	Refuse_to_yield <-- Demand_change_in_leadership
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Expel_or_deport_individuals, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Threaten
+15	0.3409090909090909	0.02336448598130841	0.15625	Refuse_to_yield <-- Reject
+10	0.22727272727272727	0.012437810945273632	0.2564102564102564	Refuse_to_yield <-- Use_conventional_military_force
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Give_ultimatum
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Increase_military_alert_status
+1	0.022727272727272728	0.002890173410404624	0.023255813953488372	Refuse_to_yield <-- Return,_release_person(s), Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Mobilize_or_increase_armed_forces, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Impose_embargo,_boycott,_or_sanctions
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Reduce_or_break_diplomatic_relations
+2	0.045454545454545456	0.017241379310344827	0.09090909090909091	Refuse_to_yield <-- Protest_violently,_riot
+13	0.29545454545454547	0.004537521815008726	0.06951871657754011	Refuse_to_yield <-- Criticize_or_denounce, Threaten
+3	0.06818181818181818	0.003006012024048096	0.03529411764705882	Refuse_to_yield <-- Use_unconventional_violence
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Increase_military_alert_status
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Abduct,_hijack,_or_take_hostage, Threaten
+10	0.22727272727272727	0.02364066193853428	0.2127659574468085	Refuse_to_yield <-- Threaten
+1	0.022727272727272728	0.043478260869565216	0.125	Refuse_to_yield <-- Obstruct_passage,_block
+1	0.022727272727272728	0.007518796992481203	0.02702702702702703	Refuse_to_yield <-- Ease_administrative_sanctions, Threaten
+5	0.11363636363636363	0.0039904229848363925	0.11904761904761904	Refuse_to_yield <-- Make_statement, Use_tactics_of_violent_repression
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Increase_military_alert_status, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Physically_assault, Threaten
+5	0.11363636363636363	0.0033692722371967657	0.04201680672268908	Refuse_to_yield <-- Express_intent_to_cooperate, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Decline_comment
+3	0.06818181818181818	0.0024469820554649264	0.023076923076923078	Refuse_to_yield <-- Arrest,_detain,_or_charge_with_legal_action, Threaten
+12	0.2727272727272727	0.009188361408882083	0.12631578947368421	Refuse_to_yield <-- Arrest,_detain,_or_charge_with_legal_action
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Physically_assault
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Defy_norms,_law, Threaten
+1	0.022727272727272728	0.5	0.5	Refuse_to_yield <-- Halt_mediation
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Coerce
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Kill_by_physical_assault
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Halt_negotiations
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Reduce_relations
+2	0.045454545454545456	0.0005190760446405398	0.006711409395973154	Refuse_to_yield <-- Threaten, Accuse
+2	0.045454545454545456	0.023809523809523808	0.16666666666666666	Refuse_to_yield <-- Reduce_or_break_diplomatic_relations, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Reject_plan,_agreement_to_settle_dispute
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Protest_violently,_riot
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Confiscate_property
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Destroy_property
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Mobilize_or_increase_armed_forces
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Obstruct_passage,_block
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Veto
+2	0.045454545454545456	0.0013297872340425532	0.020618556701030927	Refuse_to_yield <-- Demand, Threaten
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Refuse_to_ease_administrative_sanctions
+0.0	0.0	0.0	0.0	Refuse_to_yield <-- Threaten, Expel_or_deport_individuals
+10	0.22727272727272727	0.056179775280898875	0.3448275862068966	Refuse_to_yield <-- Reduce_relations

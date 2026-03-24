@@ -1,0 +1,65 @@
+158	0.2826475849731664	0.07414359455654622	0.1297208538587849	Meet_at_a_'third'_location <-- Host_a_visit
+157	0.2808586762075134	0.07367433129985922	0.21045576407506703	Meet_at_a_'third'_location <-- Make_a_visit
+3	0.005366726296958855	0.045454545454545456	0.1	Meet_at_a_'third'_location <-- Cooperate_economically, Cooperate_militarily
+183	0.32737030411449014	0.24864130434782608	0.6120401337792643	Meet_at_a_'third'_location <-- Sign_formal_agreement
+417	0.7459749552772809	0.010835953537925838	0.03147644927536232	Meet_at_a_'third'_location <-- Express_intent_to_meet_or_negotiate, Consult
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Investigate_crime,_corruption, Share_intelligence_or_information
+2	0.0035778175313059034	0.10526315789473684	0.18181818181818182	Meet_at_a_'third'_location <-- Mediate
+302	0.5402504472271914	0.2603448275862069	0.583011583011583	Meet_at_a_'third'_location <-- Engage_in_negotiation
+16	0.028622540250447227	0.030360531309297913	0.050793650793650794	Meet_at_a_'third'_location <-- Discuss_by_telephone, Engage_in_diplomatic_cooperation
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Demand_meeting,_negotiation, Express_intent_to_de-escalate_military_engagement
+330	0.590339892665474	0.12285927029039465	0.32038834951456313	Meet_at_a_'third'_location <-- Express_intent_to_meet_or_negotiate
+155	0.2772808586762075	0.3538812785388128	0.7175925925925926	Meet_at_a_'third'_location <-- Discuss_by_telephone
+298	0.5330948121645797	0.012982486712555545	0.03960659223817119	Meet_at_a_'third'_location <-- Praise_or_endorse, Make_statement
+1	0.0017889087656529517	0.02857142857142857	0.25	Meet_at_a_'third'_location <-- Appeal_to_engage_in_or_accept_mediation
+14	0.025044722719141325	0.1590909090909091	0.30434782608695654	Meet_at_a_'third'_location <-- Grant_diplomatic_recognition, Reduce_relations
+246	0.4400715563506261	0.3253968253968254	0.8945454545454545	Meet_at_a_'third'_location <-- Express_intent_to_cooperate
+14	0.025044722719141325	0.15384615384615385	0.23333333333333334	Meet_at_a_'third'_location <-- Provide_military_aid, Receive_deployment_of_peacekeepers
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Threaten_with_political_dissent,_protest, Ease_state_of_emergency_or_martial_law
+409	0.7316636851520573	0.06486915146708962	0.19768003866602224	Meet_at_a_'third'_location <-- Consult
+43	0.07692307692307693	0.03762029746281715	0.12874251497005987	Meet_at_a_'third'_location <-- Make_optimistic_comment, Make_pessimistic_comment
+15	0.026833631484794274	0.10948905109489052	0.2112676056338028	Meet_at_a_'third'_location <-- Grant_diplomatic_recognition, Grant_diplomatic_recognition
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Appeal_to_others_to_meet_or_negotiate, Appeal_to_others_to_meet_or_negotiate
+4	0.007155635062611807	0.12903225806451613	0.3333333333333333	Meet_at_a_'third'_location <-- Apologize
+367	0.6565295169946332	0.006113508020855891	0.03255277629945006	Meet_at_a_'third'_location <-- Make_statement, Make_statement
+7	0.012522361359570662	0.056451612903225805	0.21875	Meet_at_a_'third'_location <-- Provide_humanitarian_aid, Provide_humanitarian_aid
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Forgive
+157	0.2808586762075134	0.07367433129985922	0.21045576407506703	Meet_at_a_'third'_location <-- Make_a_visit
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Provide_humanitarian_aid
+9	0.016100178890876567	0.1323529411764706	0.20930232558139536	Meet_at_a_'third'_location <-- Provide_military_aid
+246	0.4400715563506261	0.3253968253968254	0.8945454545454545	Meet_at_a_'third'_location <-- Express_intent_to_cooperate
+409	0.7316636851520573	0.06486915146708962	0.19768003866602224	Meet_at_a_'third'_location <-- Consult
+1	0.0017889087656529517	0.03125	0.08333333333333333	Meet_at_a_'third'_location <-- Appeal_to_others_to_meet_or_negotiate
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Defend_verbally
+459	0.8211091234347049	0.006122122335743057	0.020216701902748414	Meet_at_a_'third'_location <-- Consult, Consult
+153	0.2737030411449016	0.04527966854098846	0.09689677010766308	Meet_at_a_'third'_location <-- Sign_formal_agreement, Sign_formal_agreement
+26	0.046511627906976744	0.16774193548387098	0.5531914893617021	Meet_at_a_'third'_location <-- Provide_aid
+136	0.24329159212880144	0.05617513424204874	0.16605616605616605	Meet_at_a_'third'_location <-- Discuss_by_telephone, Discuss_by_telephone
+8	0.014311270125223614	0.041884816753926704	0.08791208791208792	Meet_at_a_'third'_location <-- Cooperate_economically, Cooperate_economically
+1	0.0017889087656529517	0.011235955056179775	0.017857142857142856	Meet_at_a_'third'_location <-- Provide_military_aid, Provide_military_aid
+183	0.32737030411449014	0.24864130434782608	0.6120401337792643	Meet_at_a_'third'_location <-- Sign_formal_agreement
+302	0.5402504472271914	0.2603448275862069	0.583011583011583	Meet_at_a_'third'_location <-- Engage_in_negotiation
+70	0.1252236135957066	0.03341288782816229	0.11824324324324324	Meet_at_a_'third'_location <-- Make_optimistic_comment, Make_optimistic_comment
+230	0.41144901610017887	0.012427730048089912	0.036694320357370774	Meet_at_a_'third'_location <-- Praise_or_endorse, Praise_or_endorse
+158	0.2826475849731664	0.07414359455654622	0.1297208538587849	Meet_at_a_'third'_location <-- Host_a_visit
+6	0.01073345259391771	0.06666666666666667	0.3333333333333333	Meet_at_a_'third'_location <-- Yield
+288	0.5152057245080501	0.03550295857988166	0.21068032187271396	Meet_at_a_'third'_location <-- Make_statement
+98	0.17531305903398928	0.18047882136279927	0.5632183908045977	Meet_at_a_'third'_location <-- Make_optimistic_comment
+243	0.4347048300536673	0.07544240918969264	0.20334728033472804	Meet_at_a_'third'_location <-- Express_intent_to_cooperate, Express_intent_to_cooperate
+106	0.18962432915921287	0.02241014799154334	0.0481599273057701	Meet_at_a_'third'_location <-- Engage_in_diplomatic_cooperation, Engage_in_diplomatic_cooperation
+2	0.0035778175313059034	0.023255813953488372	0.1	Meet_at_a_'third'_location <-- Cooperate_militarily
+178	0.3184257602862254	0.06770635222518068	0.21317365269461078	Meet_at_a_'third'_location <-- Praise_or_endorse
+330	0.590339892665474	0.12285927029039465	0.32038834951456313	Meet_at_a_'third'_location <-- Express_intent_to_meet_or_negotiate
+23	0.04114490161001789	0.23232323232323232	0.5897435897435898	Meet_at_a_'third'_location <-- Cooperate_economically
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Cooperate_militarily, Cooperate_militarily
+21	0.03756708407871199	0.3230769230769231	0.6774193548387096	Meet_at_a_'third'_location <-- Grant_diplomatic_recognition
+2	0.0035778175313059034	0.024390243902439025	0.0625	Meet_at_a_'third'_location <-- Provide_aid, Provide_aid
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Demand_meeting,_negotiation, Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Demand_meeting,_negotiation
+0.0	0.0	0.0	0.0	Meet_at_a_'third'_location <-- Mediate, Mediate
+2	0.0035778175313059034	0.10526315789473684	0.18181818181818182	Meet_at_a_'third'_location <-- Mediate
+311	0.556350626118068	0.039085082317456325	0.09014492753623188	Meet_at_a_'third'_location <-- Engage_in_negotiation, Engage_in_negotiation
+248	0.44364937388193204	0.028620888632429314	0.062031015507753876	Meet_at_a_'third'_location <-- Host_a_visit, Make_a_visit
+118	0.2110912343470483	0.1782477341389728	0.33618233618233617	Meet_at_a_'third'_location <-- Engage_in_diplomatic_cooperation
+369	0.6601073345259392	0.01676358349990914	0.05008823130175105	Meet_at_a_'third'_location <-- Express_intent_to_meet_or_negotiate, Express_intent_to_meet_or_negotiate
+155	0.2772808586762075	0.3538812785388128	0.7175925925925926	Meet_at_a_'third'_location <-- Discuss_by_telephone

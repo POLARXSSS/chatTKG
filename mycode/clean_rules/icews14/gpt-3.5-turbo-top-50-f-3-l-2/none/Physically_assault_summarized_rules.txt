@@ -1,0 +1,50 @@
+Physically_assault(X0,X1,T3) <- Occupy_territory(X0,X1,T0), Expel_or_withdraw_peacekeepers(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Express_intent_to_change_leadership(X0,X1,T0), Demonstrate_for_leadership_change(X1,X0,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- _Make_optimistic_comment(X0,X1,T0), _Make_pessimistic_comment(X1,X0,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- _Acknowledge_or_claim_responsibility(X0,X1,T0), _Deny_responsibility(X1,X0,T1), Kill_by_physical_assault(X0,X1,T2).
+Physically_assault(X0,X2,T3) <- Cooperate_militarily(X0,X1,T0), Cooperate_militarily(X1,X2,T1), Use_conventional_military_force(X0,X2,T2).
+Physically_assault(X0,X1,T3) <- _Praise_or_endorse(X0,X1,T0), _Reject_proposal_to_meet,_discuss,_or_negotiate(X1,X0,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- _Yield(X0,X1,T0), _Refuse_to_yield(X1,X0,T1), Threaten(X0,X1,T2).
+Physically_assault(X0,X2,T3) <- Mediate(X0,X1,T0), Halt_mediation(X1,X2,T1), Use_unconventional_violence(X0,X2,T2).
+Physically_assault(X0,X1,T1) <- fight_with_small_arms_and_light_weapons(X0,X1,T0).
+Physically_assault(X0,X2,T3) <- Share_intelligence_or_information(X0,X1,T0), Reject_judicial_cooperation(X1,X2,T1), Arrest,_detain,_or_charge_with_legal_action(X0,X2,T2).
+Physically_assault(X0,X2,T3) <- Physically_assault(X0,X1,T0), Physically_assault(X1,X2,T1).
+Physically_assault(X0,X1,T3) <- Consult(X0,X1,T0), _Consult(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Demand_release_of_persons_or_property(X0,X1,T0), Refuse_to_release_persons_or_property(X1,X0,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Use_chemical,_biological,_or_radiological_weapons(X0,X1,T0), Use_as_human_shield(X0,X1,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Destroy_property(X0,X1,T0), Seize_or_damage_property(X0,X1,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Investigate_crime,_corruption(X0,X1,T0), Deny_responsibility(X1,X0,T1), Kill_by_physical_assault(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Mobilize_or_increase_armed_forces(X0,X1,T0), Demobilize_armed_forces(X1,X0,T1), fight_with_small_arms_and_light_weapons(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Express_intent_to_provide_military_aid(X0,X1,T0), Provide_military_aid(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Arrest,_detain,_or_charge_with_legal_action(X0,X1,T0), Use_unconventional_violence(X0,X1,T1).
+Physically_assault(X0,X1,T1) <- fight_with_artillery_and_tanks(X0,X1,T0).
+Physically_assault(X0,X1,T1) <- Torture(X0,X1,T0).
+Physically_assault(X0,X1,T3) <- Threaten(X0,X1,T0), Use_unconventional_violence(X0,X1,T1).
+Physically_assault(X0,X2,T3) <- Grant_diplomatic_recognition(X0,X1,T0), Ban_political_parties_or_politicians(X1,X2,T1), Use_conventional_military_force(X0,X2,T2).
+Physically_assault(X0,X1,T1) <- Abduct,_hijack,_or_take_hostage(X0,X1,T0).
+Physically_assault(X0,X1,T1) <- Use_tactics_of_violent_repression(X0,X1,T0).
+Physically_assault(X0,X1,T1) <- Kill_by_physical_assault(X0,X1,T0).
+Physically_assault(X0,X1,T3) <- Express_intent_to_meet_or_negotiate(X0,X1,T0), _Express_intent_to_cooperate(X1,X0,T1), Threaten(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- _Appeal_for_de-escalation_of_military_engagement(X0,X1,T0), _Refuse_to_de-escalate_military_engagement(X1,X0,T1), Use_conventional_military_force(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Detonate_nuclear_weapons(X0,X1,T0), Employ_aerial_weapons(X0,X1,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X2,T3) <- Sign_formal_agreement(X0,X1,T0), Violate_ceasefire(X1,X2,T1), Physically_assault(X0,X2,T2).
+Physically_assault(X0,X1,T3) <- Protest_violently,_riot(X0,X1,T0), Use_conventional_military_force(X0,X1,T1).
+Physically_assault(X0,X1,T3) <- Make_statement(X0,X1,T0), Criticize_or_denounce(X1,X0,T1), Use_tactics_of_violent_repression(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- _Engage_in_negotiation(X0,X1,T0), _Halt_negotiations(X1,X0,T1), Use_tactics_of_violent_repression(X0,X1,T2).
+Physically_assault(X0,X1,T1) <- Use_conventional_military_force(X0,X1,T0).
+Physically_assault(X0,X1,T3) <- _Grant_asylum(X0,X1,T0), _Expel_or_deport_individuals(X1,X0,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- _Provide_aid(X0,X1,T0), _Reduce_or_stop_material_aid(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+Physically_assault(X0,X2,T3) <- Provide_humanitarian_aid(X0,X1,T0), Reduce_or_stop_humanitarian_assistance(X1,X2,T1), Use_unconventional_violence(X0,X2,T2).
+Physically_assault(X0,X1,T3) <- Impose_administrative_sanctions(X0,X1,T0), Ease_administrative_sanctions(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+Physically_assault(X0,X2,T3) <- Appeal_for_military_aid(X0,X1,T0), Provide_military_aid(X1,X2,T1), Use_tactics_of_violent_repression(X0,X2,T2).
+Physically_assault(X0,X1,T1) <- Physically_assault(X0,X1,T0).
+Physically_assault(X0,X1,T3) <- _Ease_state_of_emergency_or_martial_law(X0,X1,T0), _Ease_economic_sanctions,_boycott,_embargo(X1,X0,T1), Use_unconventional_violence(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Attempt_to_assassinate(X0,X1,T0), Assassinate(X0,X1,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X2,T3) <- Engage_in_diplomatic_cooperation(X0,X1,T0), Reduce_relations(X1,X2,T1), Threaten(X0,X2,T2).
+Physically_assault(X0,X1,T3) <- Conduct_hunger_strike(X0,X1,T0), Conduct_strike_or_boycott(X1,X0,T1), Use_tactics_of_violent_repression(X0,X1,T2).
+Physically_assault(X0,X2,T3) <- Threaten(X0,X1,T0), Threaten(X1,X2,T1), Physically_assault(X0,X2,T2).
+Physically_assault(X0,X1,T3) <- _Defend_verbally(X0,X1,T0), _Criticize_or_denounce(X1,X0,T1), Threaten(X0,X1,T2).
+Physically_assault(X0,X1,T3) <- Confiscate_property(X0,X1,T0), Return,_release_property(X1,X0,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T1) <- Sexually_assault(X0,X1,T0).
+Physically_assault(X0,X1,T3) <- Carry_out_car_bombing(X0,X1,T0), Carry_out_suicide_bombing(X0,X1,T1), Physically_assault(X0,X1,T2).
+Physically_assault(X0,X1,T1) <- Threaten(X0,X1,T0).
