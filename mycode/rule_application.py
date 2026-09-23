@@ -1,369 +1,301 @@
 import json
+import os
+
 import numpy as np
 import pandas as pd
-from collections import Counter
 
 from temporal_walk import store_edges
 
 
+def admission_confidence(rule):
+    """Return the raw TLogic confidence used for rule admission.
+
+    Fused rule files keep ``conf`` for the selected inference score, so it
+    must not also control the statistical pruning threshold.  Older files do
+    not have ``tlogic_conf`` and are reconstructed from their supports.
+    """
+    tlogic_conf = rule.get("tlogic_conf")
+    if tlogic_conf is not None:
+        return float(tlogic_conf)
+
+    rule_support = rule.get("rule_supp")
+    body_support = rule.get("body_supp")
+    if rule_support is not None and body_support:
+        return float(rule_support) / float(body_support)
+
+    return float(rule.get("conf", 0.0))
+
+
 def filter_rules(rules_dict, min_conf, min_body_supp, rule_lengths):
-    """
-    Filter for rules with a minimum confidence, minimum body support, and
-    specified rule lengths.
-
-    Parameters.
-        rules_dict (dict): rules
-        min_conf (float): minimum confidence value
-        min_body_supp (int): minimum body support value
-        rule_lengths (list): rule lengths
-
-    Returns:
-        new_rules_dict (dict): filtered rules
-    """
-
-    new_rules_dict = dict()
-    for k in rules_dict:
-        new_rules_dict[k] = []
-        for rule in rules_dict[k]:
-            cond = (
-                (rule["conf"] >= min_conf)
-                and (rule["body_supp"] >= min_body_supp)
-                and (len(rule["body_rels"]) in rule_lengths)
-            )
-            if cond:
-                new_rules_dict[k].append(rule)
-
-    return new_rules_dict
+    """Keep rules that pass raw TLogic, support and length filters."""
+    filtered = {}
+    for relation_id, rules in rules_dict.items():
+        filtered[relation_id] = [
+            rule
+            for rule in rules
+            if admission_confidence(rule) >= min_conf
+            and rule["body_supp"] >= min_body_supp
+            and len(rule["body_rels"]) in rule_lengths
+        ]
+    return filtered
 
 
-def get_window_edges(all_data, test_query_ts, learn_edges, window=-1):
-    """
-    Get the edges in the data (for rule application) that occur in the specified time window.
-    If window is 0, all edges before the test query timestamp are included.
-    If window is -1, the edges on which the rules are learned are used.
-    If window is an integer n > 0, all edges within n timestamps before the test query
-    timestamp are included.
-
-    Parameters:
-        all_data (np.ndarray): complete dataset (train/valid/test)
-        test_query_ts (np.ndarray): test query timestamp
-        learn_edges (dict): edges on which the rules are learned
-        window (int): time window used for rule application
-
-    Returns:
-        window_edges (dict): edges in the window for rule application
-    """
-
+def get_window_edges(all_data, query_timestamp, learn_edges, window=-1):
+    """Return edges used for applying rules at a query timestamp."""
     if window > 0:
-        mask = (all_data[:, 3] < test_query_ts) * (
-            all_data[:, 3] >= test_query_ts - window
+        mask = (all_data[:, 3] < query_timestamp) & (
+            all_data[:, 3] >= query_timestamp - window
         )
-        window_edges = store_edges(all_data[mask])
-    elif window == 0:
-        mask = all_data[:, 3] < test_query_ts
-        window_edges = store_edges(all_data[mask])
-    elif window == -1:
-        window_edges = learn_edges
-
-    return window_edges
+        return store_edges(all_data[mask])
+    if window == 0:
+        return store_edges(all_data[all_data[:, 3] < query_timestamp])
+    return learn_edges
 
 
-def match_body_relations(rule, edges, test_query_sub):
-    """
-    Find edges that could constitute walks (starting from the test query subject)
-    that match the rule.
-    First, find edges whose subject match the query subject and the relation matches
-    the first relation in the rule body. Then, find edges whose subjects match the
-    current targets and the relation the next relation in the rule body.
-    Memory-efficient implementation.
-
-    Parameters:
-        rule (dict): rule from rules_dict
-        edges (dict): edges for rule application
-        test_query_sub (int): test query subject
-
-    Returns:
-        walk_edges (list of np.ndarrays): edges that could constitute rule walks
-    """
-
-    rels = rule["body_rels"]
-    # Match query subject and first body relation
+def match_body_relations(rule, edges, query_subject):
+    """Collect candidate edges for each body relation from the query subject."""
+    body_relations = rule["body_rels"]
     try:
-        rel_edges = edges[rels[0]]
-        mask = rel_edges[:, 0] == test_query_sub
-        new_edges = rel_edges[mask]
-        walk_edges = [
-            np.hstack((new_edges[:, 0:1], new_edges[:, 2:4]))
-        ]  # [sub, obj, ts]
-        cur_targets = np.array(list(set(walk_edges[0][:, 1])))
+        relation_edges = edges[body_relations[0]]
+        first_edges = relation_edges[relation_edges[:, 0] == query_subject]
+        walk_edges = [np.hstack((first_edges[:, 0:1], first_edges[:, 2:4]))]
+        current_targets = np.array(list(set(walk_edges[0][:, 1])))
 
-        for i in range(1, len(rels)):
-            # Match current targets and next body relation
+        for relation_id in body_relations[1:]:
             try:
-                rel_edges = edges[rels[i]]
-                mask = np.any(rel_edges[:, 0] == cur_targets[:, None], axis=0)
-                new_edges = rel_edges[mask]
+                relation_edges = edges[relation_id]
+                mask = np.any(relation_edges[:, 0] == current_targets[:, None], axis=0)
+                matched_edges = relation_edges[mask]
                 walk_edges.append(
-                    np.hstack((new_edges[:, 0:1], new_edges[:, 2:4]))
-                )  # [sub, obj, ts]
-                cur_targets = np.array(list(set(walk_edges[i][:, 1])))
+                    np.hstack((matched_edges[:, 0:1], matched_edges[:, 2:4]))
+                )
+                current_targets = np.array(list(set(walk_edges[-1][:, 1])))
             except KeyError:
                 walk_edges.append([])
                 break
     except KeyError:
-        walk_edges = [[]]
-
-    return walk_edges
-
-
-def match_body_relations_complete(rule, edges, test_query_sub):
-    """
-    Find edges that could constitute walks (starting from the test query subject)
-    that match the rule.
-    First, find edges whose subject match the query subject and the relation matches
-    the first relation in the rule body. Then, find edges whose subjects match the
-    current targets and the relation the next relation in the rule body.
-
-    Parameters:
-        rule (dict): rule from rules_dict
-        edges (dict): edges for rule application
-        test_query_sub (int): test query subject
-
-    Returns:
-        walk_edges (list of np.ndarrays): edges that could constitute rule walks
-    """
-
-    rels = rule["body_rels"]
-    # Match query subject and first body relation
-    try:
-        rel_edges = edges[rels[0]]
-        mask = rel_edges[:, 0] == test_query_sub
-        new_edges = rel_edges[mask]
-        walk_edges = [new_edges]
-        cur_targets = np.array(list(set(walk_edges[0][:, 2])))
-
-        for i in range(1, len(rels)):
-            # Match current targets and next body relation
-            try:
-                rel_edges = edges[rels[i]]
-                mask = np.any(rel_edges[:, 0] == cur_targets[:, None], axis=0)
-                new_edges = rel_edges[mask]
-                walk_edges.append(new_edges)
-                cur_targets = np.array(list(set(walk_edges[i][:, 2])))
-            except KeyError:
-                walk_edges.append([])
-                break
-    except KeyError:
-        walk_edges = [[]]
+        return [[]]
 
     return walk_edges
 
 
 def get_walks(rule, walk_edges):
-    """
-    Get walks for a given rule. Take the time constraints into account.
-    Memory-efficient implementation.
-
-    Parameters:
-        rule (dict): rule from rules_dict
-        walk_edges (list of np.ndarrays): edges from match_body_relations
-
-    Returns:
-        rule_walks (pd.DataFrame): all walks matching the rule
-    """
-
-    df_edges = []
-    df = pd.DataFrame(
+    """Build a DataFrame of time-ordered walks matching the rule body."""
+    edge_frames = []
+    first_frame = pd.DataFrame(
         walk_edges[0],
-        columns=["entity_" + str(0), "entity_" + str(1), "timestamp_" + str(0)],
+        columns=["entity_0", "entity_1", "timestamp_0"],
         dtype=np.uint16,
-    )  # Change type if necessary for better memory efficiency
+    )
     if not rule["var_constraints"]:
-        del df["entity_" + str(0)]
-    df_edges.append(df)
-    df = df[0:0]  # Memory efficiency
+        del first_frame["entity_0"]
+    edge_frames.append(first_frame)
 
-    for i in range(1, len(walk_edges)):
-        df = pd.DataFrame(
-            walk_edges[i],
-            columns=["entity_" + str(i), "entity_" + str(i + 1), "timestamp_" + str(i)],
-            dtype=np.uint16,
-        )  # Change type if necessary
-        df_edges.append(df)
-        df = df[0:0]
-
-    rule_walks = df_edges[0]
-    df_edges[0] = df_edges[0][0:0]
-    for i in range(1, len(df_edges)):
-        rule_walks = pd.merge(rule_walks, df_edges[i], on=["entity_" + str(i)])
-        rule_walks = rule_walks[
-            rule_walks["timestamp_" + str(i - 1)] <= rule_walks["timestamp_" + str(i)]
-        ]
-        if not rule["var_constraints"]:
-            del rule_walks["entity_" + str(i)]
-        df_edges[i] = df_edges[i][0:0]
-
-    for i in range(1, len(rule["body_rels"])):
-        del rule_walks["timestamp_" + str(i)]
-
-    return rule_walks
-
-
-def get_walks_complete(rule, walk_edges):
-    """
-    Get complete walks for a given rule. Take the time constraints into account.
-
-    Parameters:
-        rule (dict): rule from rules_dict
-        walk_edges (list of np.ndarrays): edges from match_body_relations
-
-    Returns:
-        rule_walks (pd.DataFrame): all walks matching the rule
-    """
-
-    df_edges = []
-    df = pd.DataFrame(
-        walk_edges[0],
-        columns=[
-            "entity_" + str(0),
-            "relation_" + str(0),
-            "entity_" + str(1),
-            "timestamp_" + str(0),
-        ],
-        dtype=np.uint16,
-    )  # Change type if necessary for better memory efficiency
-    df_edges.append(df)
-
-    for i in range(1, len(walk_edges)):
-        df = pd.DataFrame(
-            walk_edges[i],
+    for step, edges in enumerate(walk_edges[1:], start=1):
+        frame = pd.DataFrame(
+            edges,
             columns=[
-                "entity_" + str(i),
-                "relation_" + str(i),
-                "entity_" + str(i + 1),
-                "timestamp_" + str(i),
+                f"entity_{step}",
+                f"entity_{step + 1}",
+                f"timestamp_{step}",
             ],
             dtype=np.uint16,
-        )  # Change type if necessary
-        df_edges.append(df)
+        )
+        edge_frames.append(frame)
 
-    rule_walks = df_edges[0]
-    for i in range(1, len(df_edges)):
-        rule_walks = pd.merge(rule_walks, df_edges[i], on=["entity_" + str(i)])
+    rule_walks = edge_frames[0]
+    edge_frames[0] = edge_frames[0][0:0]
+    for step in range(1, len(edge_frames)):
+        rule_walks = pd.merge(
+            rule_walks, edge_frames[step], on=f"entity_{step}"
+        )
         rule_walks = rule_walks[
-            rule_walks["timestamp_" + str(i - 1)] <= rule_walks["timestamp_" + str(i)]
+            rule_walks[f"timestamp_{step - 1}"]
+            <= rule_walks[f"timestamp_{step}"]
         ]
+        if not rule["var_constraints"]:
+            del rule_walks[f"entity_{step}"]
+        edge_frames[step] = edge_frames[step][0:0]
+
+    for step in range(1, len(rule["body_rels"])):
+        del rule_walks[f"timestamp_{step}"]
 
     return rule_walks
 
 
 def check_var_constraints(var_constraints, rule_walks):
-    """
-    Check variable constraints of the rule.
-
-    Parameters:
-        var_constraints (list): variable constraints from the rule
-        rule_walks (pd.DataFrame): all walks matching the rule
-
-    Returns:
-        rule_walks (pd.DataFrame): all walks matching the rule including the variable constraints
-    """
-
-    for const in var_constraints:
-        for i in range(len(const) - 1):
+    """Keep walks whose repeated variables refer to the same entity."""
+    for constraint in var_constraints:
+        for index in range(len(constraint) - 1):
             rule_walks = rule_walks[
-                rule_walks["entity_" + str(const[i])]
-                == rule_walks["entity_" + str(const[i + 1])]
+                rule_walks[f"entity_{constraint[index]}"]
+                == rule_walks[f"entity_{constraint[index + 1]}"]
             ]
-
     return rule_walks
 
 
-def get_candidates(
-    rule, rule_walks, test_query_ts, cands_dict, score_func, args, dicts_idx
+def _join_walk_edges(entities, timestamps, next_edges):
+    """Join current walks with the next body relation using NumPy."""
+    if len(entities) == 0 or len(next_edges) == 0:
+        return entities[:0], timestamps[:0]
+
+    left_keys = entities[:, -1]
+    right_subjects = next_edges[:, 0]
+    order = np.argsort(right_subjects, kind="mergesort")
+    sorted_subjects = right_subjects[order]
+    starts = np.searchsorted(sorted_subjects, left_keys, side="left")
+    ends = np.searchsorted(sorted_subjects, left_keys, side="right")
+    counts = ends - starts
+    total = int(counts.sum())
+    if total == 0:
+        return entities[:0], timestamps[:0]
+
+    left_indices = np.repeat(np.arange(len(entities)), counts)
+    starts_repeated = np.repeat(starts, counts)
+    group_starts = np.repeat(np.cumsum(counts) - counts, counts)
+    within_group = np.arange(total) - group_starts
+    right_indices = order[starts_repeated + within_group]
+
+    time_mask = (
+        timestamps[left_indices, -1] <= next_edges[right_indices, 2]
+    )
+    left_indices = left_indices[time_mask]
+    right_indices = right_indices[time_mask]
+    if len(left_indices) == 0:
+        return entities[:0], timestamps[:0]
+
+    joined_entities = np.concatenate(
+        (entities[left_indices], next_edges[right_indices, 1:2]), axis=1
+    )
+    joined_timestamps = np.concatenate(
+        (timestamps[left_indices], next_edges[right_indices, 2:3]), axis=1
+    )
+    return joined_entities, joined_timestamps
+
+
+def get_walks_arrays(rule, walk_edges):
+    """Fast NumPy version of get_walks for rule application."""
+    num_entities = len(rule["body_rels"]) + 1
+    num_timestamps = len(rule["body_rels"])
+    if not walk_edges or len(walk_edges[0]) == 0:
+        return (
+            np.empty((0, num_entities), dtype=np.uint16),
+            np.empty((0, num_timestamps), dtype=np.uint16),
+        )
+
+    first_edges = walk_edges[0]
+    entities = first_edges[:, :2]
+    timestamps = first_edges[:, 2:3]
+
+    for next_edges in walk_edges[1:]:
+        entities, timestamps = _join_walk_edges(
+            entities, timestamps, next_edges
+        )
+        if len(entities) == 0:
+            break
+
+    if rule["var_constraints"] and len(entities):
+        keep = np.ones(len(entities), dtype=bool)
+        for constraint in rule["var_constraints"]:
+            for left, right in zip(constraint, constraint[1:]):
+                keep &= entities[:, left] == entities[:, right]
+        entities = entities[keep]
+        timestamps = timestamps[keep]
+
+    return entities, timestamps
+
+
+def get_candidate_scores_arrays(
+    rule,
+    entities,
+    timestamps,
+    query_timestamp,
+    candidates,
+    score_configs,
+    active_indices,
 ):
-    """
-    Get from the walks that follow the rule the answer candidates.
-    Add the confidence of the rule that leads to these candidates.
+    """Fast NumPy version of get_candidates for rule application."""
+    if len(entities) == 0:
+        return candidates
 
-    Parameters:
-        rule (dict): rule from rules_dict
-        rule_walks (pd.DataFrame): rule walks (satisfying all constraints from the rule)
-        test_query_ts (int): test query timestamp
-        cands_dict (dict): candidates along with the confidences of the rules that generated these candidates
-        score_func (function): function for calculating the candidate score
-        args (list): arguments for the scoring function
-        dicts_idx (list): indices for candidate dictionaries
+    candidate_ids = entities[:, -1]
+    first_timestamps = timestamps[:, 0].astype(np.int64)
+    unique_candidates, inverse = np.unique(
+        candidate_ids, return_inverse=True
+    )
+    max_timestamps = np.full(len(unique_candidates), -1, dtype=np.int64)
+    np.maximum.at(max_timestamps, inverse, first_timestamps)
 
-    Returns:
-        cands_dict (dict): updated candidates
-    """
+    score_conf = rule.get("score_conf")
+    if score_conf is not None:
+        rule_score = float(score_conf)
+    elif "rule_supp" in rule and "body_supp" in rule:
+        rule_score = rule["rule_supp"] / (rule["body_supp"] + 0)
+    else:
+        rule_score = float(rule["conf"])
+    rule_score = float(np.clip(rule_score, 0.0, 1.0))
 
-    max_entity = "entity_" + str(len(rule["body_rels"]))
-    cands = set(rule_walks[max_entity])
-
-    for cand in cands:
-        cands_walks = rule_walks[rule_walks[max_entity] == cand]
-        for s in dicts_idx:
-            score = score_func(rule, cands_walks, test_query_ts, *args[s]).astype(
-                np.float32
+    for score_index in active_indices:
+        decay_rate, weight = score_configs[score_index]
+        time_scores = np.exp(
+            decay_rate * (max_timestamps - float(query_timestamp))
+        )
+        scores = weight * rule_score + (1 - weight) * time_scores
+        scores = np.clip(scores, 0.0, 1.0)
+        for candidate, score in zip(unique_candidates, scores):
+            candidates[score_index].setdefault(int(candidate), []).append(
+                # The original pandas path converts each rule score to
+                # float32 before noisy-or aggregation.
+                float(np.float32(score))
             )
-            try:
-                cands_dict[s][cand].append(score)
-            except KeyError:
-                cands_dict[s][cand] = [score]
 
-    return cands_dict
+    return candidates
+
+
+def get_candidates(
+    rule, rule_walks, query_timestamp, candidates, score_func, score_args, active_indices
+):
+    """Add candidate tail entities and their rule scores."""
+    tail_column = f"entity_{len(rule['body_rels'])}"
+    for candidate in set(rule_walks[tail_column]):
+        candidate_walks = rule_walks[rule_walks[tail_column] == candidate]
+        for score_index in active_indices:
+            score = score_func(
+                rule,
+                candidate_walks,
+                query_timestamp,
+                *score_args[score_index],
+            ).astype(np.float32)
+            candidates[score_index].setdefault(candidate, []).append(score)
+    return candidates
 
 
 def save_candidates(
-    rules_file, dir_path, all_candidates, rule_lengths, window, score_func_str
+    rules_file,
+    output_dir,
+    all_candidates,
+    rule_lengths,
+    window,
+    score_name,
+    prefix="",
 ):
-    """
-    Save the candidates.
+    """Write candidate predictions to a JSON file."""
+    candidates = {
+        int(query_index): {int(entity): value for entity, value in scores.items()}
+        for query_index, scores in all_candidates.items()
+    }
 
-    Parameters:
-        rules_file (str): name of rules file
-        dir_path (str): path to output directory
-        all_candidates (dict): candidates for all test queries
-        rule_lengths (list): rule lengths
-        window (int): time window used for rule application
-        score_func_str (str): scoring function
+    base_name = os.path.splitext(rules_file)[0]
+    if prefix:
+        base_name = f"{prefix}_{base_name}"
+    if base_name.endswith("_rules"):
+        base_name = base_name[:-6]
+    if "final_rules_for_inference" in base_name:
+        base_name = "llm_optimized"
 
-    Returns:
-        None
-    """
-
-    all_candidates = {int(k): v for k, v in all_candidates.items()}
-    for k in all_candidates:
-        all_candidates[k] = {int(cand): v for cand, v in all_candidates[k].items()}
-    filename = "{0}_cands_r{1}_w{2}_{3}.json".format(
-        rules_file[:-11], rule_lengths, window, score_func_str
-    )
-    filename = filename.replace(" ", "")
-    with open(dir_path + filename, "w", encoding="utf-8") as fout:
-        json.dump(all_candidates, fout)
-
-
-def verbalize_walk(walk, data):
-    """
-    Verbalize walk from rule application.
-
-    Parameters:
-        walk (pandas.core.series.Series): walk that matches the rule body from get_walks
-        data (grapher.Grapher): graph data
-
-    Returns:
-        walk_str (str): verbalized walk
-    """
-
-    l = len(walk) // 3
-    walk = walk.values.tolist()
-
-    walk_str = data.id2entity[walk[0]] + "\t"
-    for j in range(l):
-        walk_str += data.id2relation[walk[3 * j + 1]] + "\t"
-        walk_str += data.id2entity[walk[3 * j + 2]] + "\t"
-        walk_str += data.id2ts[walk[3 * j + 3]] + "\t"
-
-    return walk_str[:-1]
+    filename = (
+        f"{base_name}_cands_r{rule_lengths}_w{window}_{score_name}.json"
+    ).replace(" ", "")
+    with open(output_dir + filename, "w", encoding="utf-8") as file:
+        json.dump(candidates, file)
+    return filename
